@@ -420,4 +420,30 @@ text-align: center;
     width: auto;
     padding: 0px;
   }
+
+  .contact {
+    background-image:none;
+    background-repeat: repeat;
+    background-size: contain;
+    padding-left: 15%;
+    padding-top: 5%;
+  }
+
+.contacth-container {
+  margin-top: 25px;
+}
+  .contacth-container>i{
+    color:#F7B733;
+    margin-left: 35%;
+  }
+
+  .contacth-container>p{
+  background-color: #f7b733;
+  padding:30px 10px 30px 10px;
+  border-radius: 15px;
+  width:90%;
+  color:white;
+  text-align: center;
+  }
+
 }
