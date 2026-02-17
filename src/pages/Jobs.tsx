@@ -10,6 +10,8 @@ interface Job {
     date: string;
     link: string;
     logo: string;
+    lat?: number;
+    lng?: number;
 }
 
 export const Jobs = () => {
