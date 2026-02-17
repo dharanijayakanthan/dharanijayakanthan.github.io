@@ -59,7 +59,7 @@ export const Jobs = () => {
             <div className="flex flex-col gap-2">
                 <h1 className="text-3xl font-bold text-gray-900">Frontend Opportunities</h1>
                 <p className="text-gray-600">
-                    Curated list of Frontend Engineering roles in Bangalore. Updated daily.
+                    Curated list of Frontend Engineering roles in Bangalore. Updated daily
                 </p>
             </div>
 
