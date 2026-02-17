@@ -29,6 +29,12 @@ jobs:
       - name: Fetch Jobs
         run: node scripts/fetch-linkedin-jobs.js
       
+      - name: Commit Saved Jobs (Pre-Geocode)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+            commit_message: "chore: update job listings [skip ci]"
+            file_pattern: public/jobs.json
+      
       - name: Geocode Jobs
         run: node scripts/geocode-jobs.js
 
