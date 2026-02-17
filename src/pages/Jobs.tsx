@@ -20,7 +20,8 @@ export const Jobs = () => {
     const [error, setError] = useState<string | null>(null);
 
     useEffect(() => {
-        fetch('/jobs.json')
+        const timestamp = new Date().getTime();
+        fetch(`/jobs.json?v=${timestamp}`)
             .then((res) => {
                 if (!res.ok) {
                     throw new Error('Failed to fetch jobs');
