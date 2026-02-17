@@ -41,12 +41,13 @@ a {
 }
 
 @keyframes flex-item-one {
-   from{
-     transform: translateX(-250px);
-   }
-   to{
-     transform: translateX(0px);
-   }
+  from {
+    transform: translateX(-250px);
+  }
+
+  to {
+    transform: translateX(0px);
+  }
 }
 
 .flex-item:nth-child(2) {
@@ -55,12 +56,13 @@ a {
 }
 
 @keyframes flex-item-two {
-   from{
-     transform: translateY(-500px);
-   }
-   to{
-     transform: translateX(0px);
-   }
+  from {
+    transform: translateY(-500px);
+  }
+
+  to {
+    transform: translateX(0px);
+  }
 }
 
 .flex-item:nth-child(3) {
@@ -69,26 +71,28 @@ a {
 }
 
 @keyframes flex-item-three {
-   from{
-     transform: translateY(500px);
-   }
-   to{
-     transform: translateX(0px);
-   }
+  from {
+    transform: translateY(500px);
+  }
+
+  to {
+    transform: translateX(0px);
+  }
 }
 
 .flex-item:nth-child(4) {
-  animation-name: flex-item-two;
+  animation-name: flex-item-four;
   animation-duration: 2s;
 }
 
 @keyframes flex-item-four {
-   from{
-     transform: translateY(-500px);
-   }
-   to{
-     transform: translateX(0px);
-   }
+  from {
+    transform: translateY(-500px);
+  }
+
+  to {
+    transform: translateX(0px);
+  }
 }
 
 .flex-item:nth-child(5) {
@@ -97,13 +101,14 @@ a {
 }
 
 @keyframes flex-item-five {
-   from{
-     color:white;
-     transform: translateY(500px);
-   }
-   to{
-     transform: translateX(0px);
-   }
+  from {
+    color: white;
+    transform: translateY(500px);
+  }
+
+  to {
+    transform: translateX(0px);
+  }
 }
 
 
@@ -113,37 +118,43 @@ a {
 }
 
 @keyframes flex-item-six {
-   from{
-     transform: translateX(500px);
-   }
-   to{
-     transform: translateX(0px);
-   }
+  from {
+    transform: translateX(500px);
+  }
+
+  to {
+    transform: translateX(0px);
+  }
 }
 
 @keyframes nav-animate {
-  0%{
+  0% {
     color: #4ABDAC;
   }
-  20%{
-  transform: translateY(8px);
-  color:#F7B733;
+
+  20% {
+    transform: translateY(8px);
+    color: #F7B733;
   }
-  40%{
+
+  40% {
     transform: translateY(-8px);
     color: #4ABDAC;
   }
-  60%{
+
+  60% {
     transform: translateY(8px);
-    color:#F7B733;
+    color: #F7B733;
   }
-  80%{
+
+  80% {
     transform: translateY(-8px);
     color: #4ABDAC;
   }
-  100%{
+
+  100% {
     transform: translateY(8px);
-    color:#F7B733;
+    color: #F7B733;
   }
 }
 
@@ -151,6 +162,7 @@ a {
   margin-top: 0px;
   width: 100%;
   color: grey;
+  padding-bottom: 50px;
 }
 
 .main p {
@@ -168,36 +180,46 @@ h4 {
 .about-me h4 {
   padding: 20px 0px 20px 0px;
   font-size: 35px;
-  animation-name : about;
+  animation-name: about;
   animation-duration: 1s;
 }
 
 @keyframes about {
-  from{transform: translateX(-350px);}
-  to{transform: translateX(0px);}
+  from {
+    transform: translateX(-350px);
+  }
+
+  to {
+    transform: translateX(0px);
+  }
 }
 
 
 .about-me p {
   background-color: #F7B733;
   padding: 10px 20px 10px 20px;
-  color: white;
+  color: #333;
   border-radius: 30px;
   font-size: 25px;
   font-weight: normal;
-  animation-name : about-details;
+  animation-name: about-details;
   animation-duration: 3s;
 }
-@keyframes about-details{
-  from{transform: translateX(350px);}
-  to{transform: translateX(0px);}
+
+@keyframes about-details {
+  from {
+    transform: translateX(350px);
+  }
+
+  to {
+    transform: translateX(0px);
+  }
 }
 
 .btn {
-  margin-top: 40px;
+  margin-top: 60px;
   text-align: center;
-  animation-name : btn-animation;
-  animation-duration: 4s;
+  padding-bottom: 20px;
 }
 
 .btn a {
@@ -206,12 +228,6 @@ h4 {
   border-radius: 18px;
   font-weight: bold;
   color: white;
-
-}
-
-@keyframes btn-animation {
-  from{transform:translateY(-700px);}
-  to{transform:translateY(0px);}
 }
 
 .btn a:hover {
@@ -237,6 +253,7 @@ h4 {
   box-shadow: 10px 10px 2px lightgrey;
 
 }
+
 .image-container img:nth-child(2) {
   margin-left: 45%;
   width: 50%;
@@ -279,27 +296,27 @@ h4 {
   font-weight: normal;
   font-family: "montserrat";
   line-height: 35px;
-  color:white;
+  color: white;
   background-color: #4ABDAC;
   border-radius: 10px;
   padding: 10px;
 }
 
 .project-description p {
-  margin-top:-5px;
+  margin-top: -5px;
   line-height: 25px;
   padding: 10px;
   border-radius: 10px;
   font-size: 14px;
-  color:white;
+  color: white;
   background-color: #F7B733;
 }
 
 .seperator {
   background-color: grey;
-  height:2px;
-  width:4%;
-margin-left: 50%;
+  height: 2px;
+  width: 4%;
+  margin-left: 50%;
 }
 
 .press-down i {
@@ -310,28 +327,37 @@ margin-left: 50%;
 /* Standard syntax */
 
 @keyframes example {
-  0%, 20%, 50%, 80%, 100% {
+
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
     -moz-transform: translateY(0);
     transform: translateY(0);
     transform-origin: top;
     color: white;
   }
+
   10% {
     -moz-transform: translateY(-30px);
     transform: translateY(-25px);
     color: #F7B733;
     transform: rotate(180deg);
   }
+
   40% {
     -moz-transform: translateY(-30px);
     transform: translateY(-20px);
     color: #F7B733;
   }
+
   60% {
     -moz-transform: translateY(-15px);
     transform: translateY(-15px);
     color: #F7B733;
   }
+
   90% {
     -moz-transform: translateY(-15px);
     transform: translateY(-8px);
@@ -340,7 +366,7 @@ margin-left: 50%;
 }
 
 .contact {
-  background-image:url("/assets/images/contact.jpeg");
+  background-image: url("/assets/images/contact.jpeg");
   min-height: 500px;
   background-repeat: no-repeat;
   background-size: contain;
@@ -348,18 +374,20 @@ margin-left: 50%;
   padding-top: 5%;
 }
 
-.contacth-container>i{
-  color:#F7B733;
+.contacth-container>i {
+  color: #F7B733;
   margin-left: 15%;
 }
 
-.contacth-container>p{
-background-color: #f7b733;
-padding:10px;
-border-radius: 15px;
-width:35%;
-color:white;
-text-align: center;
+.contacth-container>p {
+  background-color: #f7b733;
+  padding: 10px;
+  border-radius: 15px;
+  width: auto;
+  max-width: 50%;
+  color: white;
+  text-align: center;
+  word-wrap: break-word;
 }
 
 @media screen and (max-width:500px) {
@@ -371,10 +399,12 @@ text-align: center;
     margin: 0px;
     justify-content: space-around;
   }
+
   .flex-item {
     font-size: 10px;
     padding: 25px 10px 20px 10px;
   }
+
   .main {
     position: absolute;
     margin-left: 40px;
@@ -383,71 +413,82 @@ text-align: center;
     top: 0%;
     left: 0%;
   }
+
   .about-me h4 {
     color: black;
     font-size: 20px;
   }
+
   .about-me h5 {
     padding: 10px 20px 10px 20px;
     font-size: 18px;
     color: grey;
   }
+
   .portfolio {
     margin: 0px;
   }
+
   .project-section {
     width: auto;
     display: block;
     margin-top: 0px;
   }
+
   .product-name {
     width: auto;
     margin-top: 10px;
     padding: 10px;
     margin-left: 40px;
   }
+
   .product-name span:nth-child(odd) {
     color: grey;
     font-size: 16px;
   }
+
   .product-name span:nth-child(even) {
     color: lightgrey;
     font-size: 16px;
   }
+
   .project-description {
     width: auto;
     padding: 0px;
   }
 
   .contact {
-    background-image:none;
+    background-image: none;
     background-repeat: repeat;
     background-size: contain;
     padding-left: 15%;
     padding-top: 5%;
   }
 
-.contacth-container {
-  margin-top: 25px;
-}
-  .contacth-container>i{
-    color:#F7B733;
+  .contacth-container {
+    margin-top: 25px;
+  }
+
+  .contacth-container>i {
+    color: #F7B733;
     margin-left: 35%;
   }
 
-  .contacth-container>p{
-  background-color: #f7b733;
-  padding:30px 10px 30px 10px;
-  border-radius: 15px;
-  width:90%;
-  color:white;
-  text-align: center;
+  .contacth-container>p {
+    background-color: #f7b733;
+    padding: 30px 10px 30px 10px;
+    border-radius: 15px;
+    width: 90%;
+    color: white;
+    text-align: center;
   }
 
 }
 
 /* New Sections */
-.skills-section, .experience-section, .education-section {
+.skills-section,
+.experience-section,
+.education-section {
   padding: 20px;
   margin: 20px 0;
 }
@@ -517,7 +558,10 @@ text-align: center;
 }
 
 @media screen and (max-width:500px) {
-  .skills-list, .job, .edu-details {
+
+  .skills-list,
+  .job,
+  .edu-details {
     margin-left: 40px;
     width: auto;
   }
