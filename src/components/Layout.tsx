@@ -38,11 +38,8 @@ export const Layout = ({ children }: LayoutProps) => {
 
   // Close mobile menu on route change
   useEffect(() => {
-    if (isMobileMenuOpen) {
-      // eslint-disable-next-line react-hooks/set-state-in-effect
-      setIsMobileMenuOpen(false);
-    }
-  }, [location, isMobileMenuOpen]);
+    setIsMobileMenuOpen(false);
+  }, [location]);
 
   const navItems = [
     { path: '/', label: 'Home' },
