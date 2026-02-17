@@ -1,0 +1,104 @@
+/* Leaflet Map Customizations */
+
+/* Popup Styling */
+.leaflet-popup-content-wrapper {
+  background-color: rgba(17, 24, 39, 0.9) !important; /* gray-900/90 - slightly more opaque */
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-radius: 16px !important;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.5), 0 4px 6px -2px rgba(0, 0, 0, 0.3) !important;
+  padding: 0 !important;
+  border: 1px solid rgba(75, 85, 99, 0.4) !important; /* gray-600/40 */
+  color: #f3f4f6 !important;
+}
+
+.leaflet-popup-content {
+  margin: 0 !important;
+  width: auto !important;
+  color: #f3f4f6 !important;
+  line-height: 1.5;
+}
+
+/* Arrow/Tip styling */
+.leaflet-popup-tip {
+  background-color: rgba(17, 24, 39, 0.9) !important;
+  box-shadow: none !important;
+  width: 12px;
+  height: 12px;
+  margin: -6px auto 0;
+}
+
+/* Close button styling */
+.leaflet-popup-close-button {
+  color: #9ca3af !important; /* gray-400 */
+  padding: 8px !important;
+  top: 6px !important;
+  right: 6px !important;
+  font-size: 16px !important;
+  transition: all 0.2s ease;
+  width: 24px !important;
+  height: 24px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.leaflet-popup-close-button:hover {
+  color: #f3f4f6 !important;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Map Container Background Fallback */
+.leaflet-container {
+  background-color: #111827 !important;
+  font-family: inherit !important;
+}
+
+/* Custom Marker Styling - Glowing Dot */
+.custom-marker-pin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pin-dot {
+  width: 12px;
+  height: 12px;
+  background-color: #3b82f6; /* blue-500 */
+  border-radius: 50%;
+  border: 2px solid #ffffff;
+  box-shadow: 0 0 10px rgba(59, 130, 246, 0.8);
+  position: relative;
+  z-index: 2;
+}
+
+.pin-effect {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  background-color: #3b82f6;
+  opacity: 0.6;
+  animation: pulse-ring 2.5s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
+  z-index: 1;
+}
+
+@keyframes pulse-ring {
+  0% {
+    width: 12px;
+    height: 12px;
+    opacity: 0.8;
+  }
+  50% {
+    opacity: 0.3;
+  }
+  100% {
+    width: 32px;
+    height: 32px;
+    opacity: 0;
+  }
+}
