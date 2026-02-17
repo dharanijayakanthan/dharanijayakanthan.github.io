@@ -902,5 +902,469 @@
   "AMD, Bengaluru, Karnataka, India": {
     "lat": 12.9753415,
     "lng": 77.7257905
+  },
+  "Xoxoday, Bengaluru East, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Coforge, Bengaluru, Karnataka, India": {
+    "lat": 13.0838334,
+    "lng": 77.6409514
+  },
+  "McKinsey & Company, Bengaluru, Karnataka, India": {
+    "lat": 13.012197,
+    "lng": 77.5564018
+  },
+  "Coinbase, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Apple, Bengaluru, Karnataka, India": {
+    "lat": 12.9718591,
+    "lng": 77.5956698
+  },
+  "Stripe, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "LTIMindtree, Bengaluru, Karnataka, India": {
+    "lat": 13.068802,
+    "lng": 77.592011
+  },
+  "ABB, Bengaluru East, Karnataka, India": {
+    "lat": 12.9875595,
+    "lng": 77.7082193
+  },
+  "Amadeus, Bengaluru, Karnataka, India": {
+    "lat": 12.9416244,
+    "lng": 77.6907988
+  },
+  "Ema, Bengaluru, Karnataka, India": {
+    "lat": 12.9792343,
+    "lng": 77.6228944
+  },
+  "geidea, Bangalore Urban, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Robosoft Technologies, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Digitap.ai, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Wabtec Corporation, Bengaluru, Karnataka, India": {
+    "lat": 12.975576,
+    "lng": 77.7177057
+  },
+  "Glomo, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "UNIQODE, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Naviam, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "ESKAPE, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Keystone, Bengaluru, Karnataka, India": {
+    "lat": 12.9258991,
+    "lng": 77.729285
+  },
+  "ZeOmega, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "2070 Health, Bengaluru, Karnataka, India": {
+    "lat": 12.9817269,
+    "lng": 77.5736233
+  },
+  "Xebia, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "WorldEmp India, Bengaluru East, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Whatfix, Bengaluru, Karnataka, India": {
+    "lat": 12.9118576,
+    "lng": 77.6402488
+  },
+  "RingCentral, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Docent (now Get Well), Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Sigmoid, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Amicon Hub Services, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Dayforce, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "apna, Bengaluru, Karnataka, India": {
+    "lat": 12.9600163,
+    "lng": 77.6435713
+  },
+  "Tresata, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Titan, Bengaluru, Karnataka, India": {
+    "lat": 13.0718794,
+    "lng": 77.5560732
+  },
+  "OmniReach, Bangalore North Rural, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Chubb, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Canonical, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Fam, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Keka HR, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "The Alter Office, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Lifesight, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "VAYUZ Technologies, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Euphoric Thought Technologies Pvt. Ltd., Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "NewZenAlpha Tech Pvt Ltd, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Loop AI, Bengaluru, Karnataka, India": {
+    "lat": 12.9947935,
+    "lng": 77.5897151
+  },
+  "Tarento Group, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Comeet Second Middleware Test Company, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "EIM Solutions India Private Limited, Bengaluru East, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "DATOMS, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Newron, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Lucidity, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Prismforce, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "100x.bot, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Power2SME, Bengaluru East, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Upstox, Bangalore Urban, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Techions, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Twixor, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "aion, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "GoodWorkLabs, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Appscrip, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "ShortLoop, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Niyo Solutions Inc., Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "NESCODE, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Lyzr AI, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Veza, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "WebEngage, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Leadrat Real Estate CRM - Dubai | India, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Wayfair, Bengaluru, Karnataka, India": {
+    "lat": 12.9873478,
+    "lng": 77.7035469
+  },
+  "HDFC securities, Bangalore Urban, Karnataka, India": {
+    "lat": 12.996966,
+    "lng": 77.5523974
+  },
+  "Arting Digital, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Cyble, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Plum, Bengaluru, Karnataka, India": {
+    "lat": 12.8942105,
+    "lng": 77.591967
+  },
+  "United Field Services, Inc., Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Bizdata Inc, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "FANPLAY IoT, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Altisource, Bengaluru, Karnataka, India": {
+    "lat": 12.9230175,
+    "lng": 77.6798965
+  },
+  "Figr, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "CBX1, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Dabba Network, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Verinite, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Rupeezy, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Flash AI, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Deqode, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Maimsd Technology, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Tradelab Technologies, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Boni, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Huron, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "AKIRA Insights, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "GeekyAnts, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "BLive, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Uni Cards, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Taurus AI, Bengaluru, Karnataka, India": {
+    "lat": 12.7811896,
+    "lng": 77.746978
+  },
+  "ALIQAN Technologies, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Softtek, Bengaluru, Karnataka, India": {
+    "lat": 12.9004957,
+    "lng": 77.6324404
+  },
+  "Talview, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Parspec, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Aquera, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Zzazz, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "CodeRabbit, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "HappyFox, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Innoviti Technologies, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "AIDA, Bengaluru, Karnataka, India": {
+    "lat": 12.9757846,
+    "lng": 77.6361056
+  },
+  "Codejudge Inc., Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "OneFin, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "SemperFI Solutions, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "FincluS, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Clientell, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Dotball Interactive Private Limited, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Health & Glow, Bengaluru, Karnataka, India": {
+    "lat": 13.0040253,
+    "lng": 77.5711108
+  },
+  "ZEE - Technology & Innovation, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Dicetek LLC, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "WeDoGood, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "LeapSurge Business Innovations, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Mobiotics, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Sopra Steria, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Merlin AI Software (YC S24), Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "BiCSoM, Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Vistas Ad Media Communications Pvt. Ltd., Bengaluru, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
   }
 }
