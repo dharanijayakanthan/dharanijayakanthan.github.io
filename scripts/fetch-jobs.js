@@ -182,25 +182,80 @@ async function fetchJobs() {
 
         // --- Geocoding Phase ---
         console.log('\n=== Starting Geocoding Phase ===');
-        let geocodedCount = 0;
 
-        // Process up to 200 jobs per run (approx 4-5 minutes)
-        const jobsToGeocode = allJobs.filter(j =>
+        // 1. Identify unique locations (Company + Location string)
+        const jobsNeedingCoords = allJobs.filter(j =>
             (!j.lat || j.lat === 0) && (!j.lng || j.lng === 0)
-        ).slice(0, 200);
+        );
 
-        console.log(`Attempting to geocode ${jobsToGeocode.length} jobs...`);
+        const locationMap = new Map();
+        jobsNeedingCoords.forEach(job => {
+            const key = `${job.company}, ${job.location}`;
+            if (!locationMap.has(key)) {
+                locationMap.set(key, []);
+            }
+            locationMap.get(key).push(job);
+        });
 
-        for (const job of jobsToGeocode) {
-            const coords = await geocodeLocation(job.company, job.location);
-            if (coords) {
-                job.lat = coords.lat;
-                job.lng = coords.lng;
-                geocodedCount++;
+        const uniqueKeys = Array.from(locationMap.keys());
+        console.log(`Found ${uniqueKeys.length} unique locations to geocode (for ${jobsNeedingCoords.length} new jobs).`);
+
+        // Limit to 200 unique location lookups per run to save time
+        const keysToProcess = uniqueKeys.slice(0, 200);
+        let successfulGeocodes = 0;
+
+        for (const key of keysToProcess) {
+            // Check cache first
+            if (locationCache[key]) {
+                const coords = locationCache[key];
+                // Apply to all jobs with this location
+                locationMap.get(key).forEach(job => {
+                    job.lat = coords.lat;
+                    job.lng = coords.lng;
+                });
+                continue;
+            }
+
+            // It's a cache miss, so we fetch
+            await new Promise(resolve => setTimeout(resolve, 1200));
+
+            try {
+                console.log(`    Geocoding: ${key}...`);
+                const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(key)}&format=json&limit=1`;
+
+                const response = await fetch(url, {
+                    headers: { "User-Agent": "JobScraper/1.0 (dharani@example.com)" }
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    let coords = { lat: 0, lng: 0 };
+
+                    if (data && data.length > 0) {
+                        coords = { lat: parseFloat(data[0].lat), lng: parseFloat(data[0].lon) };
+                        successfulGeocodes++;
+                    } else {
+                        console.log(`      -> Not found.`);
+                    }
+
+                    // Cache result (even if 0,0 - to avoid infinite retries)
+                    locationCache[key] = coords;
+
+                    // Apply to all jobs
+                    locationMap.get(key).forEach(job => {
+                        job.lat = coords.lat;
+                        job.lng = coords.lng;
+                    });
+                } else {
+                    console.warn(`      -> HTTP Error ${response.status}`);
+                }
+
+            } catch (err) {
+                console.error(`      -> Error: ${err.message}`);
             }
         }
 
-        console.log(`Geocoded ${geocodedCount} new jobs.`);
+        console.log(`Geocoding complete. Successfully resolved ${successfulGeocodes} new locations.`);
 
         // cleaning up: Sort by date
         allJobs.sort((a, b) => {
