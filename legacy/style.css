@@ -167,7 +167,6 @@ h4 {
 
 .about-me h4 {
   padding: 20px 0px 20px 0px;
-  color: #;
   font-size: 35px;
   animation-name : about;
   animation-duration: 1s;
@@ -197,7 +196,6 @@ h4 {
 .btn {
   margin-top: 40px;
   text-align: center;
-  background-color: #;
   animation-name : btn-animation;
   animation-duration: 4s;
 }
