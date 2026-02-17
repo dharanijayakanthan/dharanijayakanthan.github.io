@@ -1,6 +1,8 @@
 name: Fetch LinkedIn Jobs
 
 on:
+  push:
+    branches: ["main", "master", "feat/test-1"]
   schedule:
     - cron: '0 */6 * * *' # Run every 6 hours
   workflow_dispatch: # Allow manual trigger
