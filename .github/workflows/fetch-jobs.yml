@@ -27,7 +27,10 @@ jobs:
         run: npm ci
 
       - name: Fetch Jobs
-        run: node scripts/fetch-jobs.js
+        run: node scripts/fetch-linkedin-jobs.js
+      
+      - name: Geocode Jobs
+        run: node scripts/geocode-jobs.js
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
