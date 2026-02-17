@@ -78,7 +78,7 @@ a {
 }
 
 .flex-item:nth-child(4) {
-  animation-name: flex-item-two;
+  animation-name: flex-item-four;
   animation-duration: 2s;
 }
 
@@ -151,6 +151,7 @@ a {
   margin-top: 0px;
   width: 100%;
   color: grey;
+  padding-bottom: 50px;
 }
 
 .main p {
@@ -182,7 +183,7 @@ h4 {
 .about-me p {
   background-color: #F7B733;
   padding: 10px 20px 10px 20px;
-  color: white;
+  color: #333;
   border-radius: 30px;
   font-size: 25px;
   font-weight: normal;
@@ -195,11 +196,9 @@ h4 {
 }
 
 .btn {
-  margin-top: 40px;
+  margin-top: 60px;
   text-align: center;
-  background-color: #;
-  animation-name : btn-animation;
-  animation-duration: 4s;
+  padding-bottom: 20px;
 }
 
 .btn a {
@@ -208,12 +207,6 @@ h4 {
   border-radius: 18px;
   font-weight: bold;
   color: white;
-
-}
-
-@keyframes btn-animation {
-  from{transform:translateY(-700px);}
-  to{transform:translateY(0px);}
 }
 
 .btn a:hover {
@@ -359,9 +352,11 @@ margin-left: 50%;
 background-color: #f7b733;
 padding:10px;
 border-radius: 15px;
-width:35%;
+width:auto;
+max-width: 50%;
 color:white;
 text-align: center;
+word-wrap: break-word;
 }
 
 @media screen and (max-width:500px) {
