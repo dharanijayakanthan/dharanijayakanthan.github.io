@@ -1,7 +1,8 @@
 import { useEffect, useState } from 'react';
 import { BentoTile } from '../components/ui/BentoTile';
-import { MapPin, Calendar, ExternalLink, Building2 } from 'lucide-react';
+import { MapPin, Calendar, ExternalLink, Building2, Map as MapIcon, List, Search } from 'lucide-react';
 import { motion } from 'framer-motion';
+import { JobMap } from '../components/JobMap';
 
 interface Job {
     title: string;
@@ -10,15 +11,20 @@ interface Job {
     date: string;
     link: string;
     logo: string;
+    lat?: number;
+    lng?: number;
 }
 
 export const Jobs = () => {
     const [jobs, setJobs] = useState<Job[]>([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
+    const [viewMode, setViewMode] = useState<'list' | 'map'>('list');
+    const [searchQuery, setSearchQuery] = useState('');
 
     useEffect(() => {
-        fetch('/jobs.json')
+        const timestamp = new Date().getTime();
+        fetch(`/jobs.json?v=${timestamp}`)
             .then((res) => {
                 if (!res.ok) {
                     throw new Error('Failed to fetch jobs');
@@ -35,6 +41,15 @@ export const Jobs = () => {
                 setLoading(false);
             });
     }, []);
+
+    const filteredJobs = jobs.filter(job => {
+        const query = searchQuery.toLowerCase();
+        return (
+            job.title.toLowerCase().includes(query) ||
+            job.company.toLowerCase().includes(query) ||
+            job.location.toLowerCase().includes(query)
+        );
+    });
 
     if (loading) {
         return (
@@ -54,73 +69,133 @@ export const Jobs = () => {
 
     return (
         <div className="space-y-8">
-            <div className="flex flex-col gap-2">
-                <h1 className="text-3xl font-bold text-gray-900">Frontend Opportunities</h1>
-                <p className="text-gray-600">
-                    Curated list of Frontend Engineering roles in Bangalore. Updated daily.
-                </p>
+            <div className="flex flex-col md:flex-row md:items-end justify-between gap-4">
+                <div className="flex flex-col gap-2">
+                    <h1 className="text-3xl font-bold text-gray-900 dark:text-white">Frontend Opportunities</h1>
+                    <p className="text-gray-600 dark:text-gray-400">
+                        Curated list of Frontend Engineering roles in Bangalore. Updated daily
+                    </p>
+                </div>
+
+                <div className="flex items-center gap-3 bg-white dark:bg-gray-800 p-1.5 rounded-lg border border-gray-200 dark:border-gray-700 shadow-sm">
+                    <button
+                        onClick={() => setViewMode('list')}
+                        className={`p-2 rounded-md transition-all ${
+                            viewMode === 'list'
+                                ? 'bg-blue-100 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400 shadow-sm'
+                                : 'text-gray-500 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-700'
+                        }`}
+                        title="List View"
+                    >
+                        <List size={20} />
+                    </button>
+                    <button
+                        onClick={() => setViewMode('map')}
+                        className={`p-2 rounded-md transition-all ${
+                            viewMode === 'map'
+                                ? 'bg-blue-100 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400 shadow-sm'
+                                : 'text-gray-500 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-700'
+                        }`}
+                        title="Map View"
+                    >
+                        <MapIcon size={20} />
+                    </button>
+                </div>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {jobs.map((job, index) => (
-                    <motion.div
-                        key={`${job.company}-${job.title}-${index}`}
-                        initial={{ opacity: 0, y: 20 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        transition={{ duration: 0.3, delay: index * 0.05 }}
-                    >
-                        <BentoTile className="h-full flex flex-col hover:shadow-md transition-shadow duration-300">
-                            <div className="flex items-start justify-between mb-4">
-                                <div className="flex items-center gap-3">
-                                    {job.logo ? (
-                                        <img
-                                            src={job.logo}
-                                            alt={`${job.company} logo`}
-                                            className="w-12 h-12 object-contain rounded-md bg-white p-1 border border-gray-100"
-                                            onError={(e) => {
-                                                (e.target as HTMLImageElement).src = 'https://via.placeholder.com/48?text=' + job.company.charAt(0);
-                                            }}
-                                        />
-                                    ) : (
-                                        <div className="w-12 h-12 bg-gray-100 rounded-md flex items-center justify-center text-gray-500 font-bold text-xl">
-                                            {job.company.charAt(0)}
-                                        </div>
-                                    )}
-                                    <div>
-                                        <h3 className="font-semibold text-gray-900 line-clamp-1" title={job.title}>{job.title}</h3>
-                                        <div className="flex items-center gap-1 text-gray-500 text-sm">
-                                            <Building2 size={14} />
-                                            <span className="line-clamp-1">{job.company}</span>
+            {/* Search Bar */}
+            <div className="relative">
+                <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                    <Search className="h-5 w-5 text-gray-400" />
+                </div>
+                <input
+                    type="text"
+                    placeholder="Search by title, company, or location..."
+                    className="block w-full pl-10 pr-3 py-3 border border-gray-200 dark:border-gray-700 rounded-xl leading-5 bg-white dark:bg-gray-800 text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 sm:text-sm transition-colors shadow-sm"
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                />
+            </div>
+
+            {viewMode === 'map' ? (
+                <motion.div
+                    initial={{ opacity: 0, y: 10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.3 }}
+                >
+                    <JobMap jobs={filteredJobs} />
+                    <p className="text-sm text-gray-500 dark:text-gray-400 mt-2 text-center">
+                        Showing {filteredJobs.filter(j => j.lat && j.lng && j.lat !== 0).length} locations on map
+                    </p>
+                </motion.div>
+            ) : (
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    {filteredJobs.length > 0 ? (
+                        filteredJobs.map((job, index) => (
+                            <motion.div
+                                key={`${job.company}-${job.title}-${index}`}
+                                initial={{ opacity: 0, y: 20 }}
+                                animate={{ opacity: 1, y: 0 }}
+                                transition={{ duration: 0.3, delay: index * 0.05 }}
+                            >
+                                <BentoTile className="h-full flex flex-col hover:shadow-md transition-shadow duration-300 dark:bg-gray-800 dark:border-gray-700">
+                                    <div className="flex items-start justify-between mb-4">
+                                        <div className="flex items-center gap-3">
+                                            {job.logo ? (
+                                                <img
+                                                    src={job.logo}
+                                                    alt={`${job.company} logo`}
+                                                    className="w-12 h-12 object-contain rounded-md bg-white p-1 border border-gray-100 dark:border-gray-600"
+                                                    onError={(e) => {
+                                                        (e.target as HTMLImageElement).src = 'https://via.placeholder.com/48?text=' + job.company.charAt(0);
+                                                    }}
+                                                />
+                                            ) : (
+                                                <div className="w-12 h-12 bg-gray-100 dark:bg-gray-700 rounded-md flex items-center justify-center text-gray-500 dark:text-gray-400 font-bold text-xl">
+                                                    {job.company.charAt(0)}
+                                                </div>
+                                            )}
+                                            <div>
+                                                <h3 className="font-semibold text-gray-900 dark:text-white line-clamp-1" title={job.title}>{job.title}</h3>
+                                                <div className="flex items-center gap-1 text-gray-500 dark:text-gray-400 text-sm">
+                                                    <Building2 size={14} />
+                                                    <span className="line-clamp-1">{job.company}</span>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
 
-                            <div className="mt-auto space-y-3">
-                                <div className="flex items-center gap-2 text-sm text-gray-500">
-                                    <MapPin size={16} className="text-gray-400 flex-shrink-0" />
-                                    <span className="line-clamp-1">{job.location}</span>
-                                </div>
+                                    <div className="mt-auto space-y-3">
+                                        <div className="flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400">
+                                            <MapPin size={16} className="text-gray-400 dark:text-gray-500 flex-shrink-0" />
+                                            <span className="line-clamp-1">{job.location}</span>
+                                        </div>
 
-                                <div className="flex items-center gap-2 text-sm text-gray-500">
-                                    <Calendar size={16} className="text-gray-400 flex-shrink-0" />
-                                    <span>Posted: {job.date}</span>
-                                </div>
+                                        <div className="flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400">
+                                            <Calendar size={16} className="text-gray-400 dark:text-gray-500 flex-shrink-0" />
+                                            <span>Posted: {job.date}</span>
+                                        </div>
 
-                                <a
-                                    href={job.link}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="mt-4 block w-full py-2 px-4 bg-blue-50 text-blue-600 text-center rounded-lg font-medium hover:bg-blue-100 transition-colors flex items-center justify-center gap-2"
-                                >
-                                    Apply Now
-                                    <ExternalLink size={16} />
-                                </a>
-                            </div>
-                        </BentoTile>
-                    </motion.div>
-                ))}
-            </div>
+                                        <a
+                                            href={job.link}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="mt-4 block w-full py-2 px-4 bg-blue-50 dark:bg-blue-900/30 text-blue-600 dark:text-blue-400 text-center rounded-lg font-medium hover:bg-blue-100 dark:hover:bg-blue-900/50 transition-colors flex items-center justify-center gap-2"
+                                        >
+                                            Apply Now
+                                            <ExternalLink size={16} />
+                                        </a>
+                                    </div>
+                                </BentoTile>
+                            </motion.div>
+                        ))
+                    ) : (
+                        <div className="col-span-full text-center py-10">
+                            <p className="text-gray-500 dark:text-gray-400 text-lg">No jobs found matching your search.</p>
+                        </div>
+                    )}
+                </div>
+            )}
         </div>
     );
 };
