@@ -28,7 +28,7 @@ export const Layout = ({ children }: LayoutProps) => {
     { path: '/', label: 'Home' },
     { path: '/work', label: 'Work' },
     { path: '/lab', label: 'Lab' },
-    { path: '/products', label: 'Products' },
+    // { path: '/products', label: 'Products' },
     { path: '/jobs', label: 'Jobs' },
   ];
 
