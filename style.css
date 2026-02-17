@@ -447,3 +447,80 @@ text-align: center;
   }
 
 }
+
+/* New Sections */
+.skills-section, .experience-section, .education-section {
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.skills-list {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  border-left: 5px solid #4ABDAC;
+}
+
+.skills-list p {
+  font-size: 16px;
+  color: grey;
+  line-height: 1.6;
+}
+
+.skills-list strong {
+  color: #4ABDAC;
+}
+
+.job {
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border-left: 5px solid #F7B733;
+}
+
+.job h5 {
+  font-size: 20px;
+  color: #4ABDAC;
+  margin-bottom: 5px;
+}
+
+.job p {
+  font-size: 16px;
+  color: grey;
+  margin-top: 5px;
+}
+
+.job ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.job li {
+  color: grey;
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+.job li strong {
+  color: #F7B733;
+}
+
+.edu-details {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  border-left: 5px solid #4ABDAC;
+}
+
+.edu-details p {
+  font-size: 18px;
+  color: grey;
+}
+
+@media screen and (max-width:500px) {
+  .skills-list, .job, .edu-details {
+    margin-left: 40px;
+    width: auto;
+  }
+}
