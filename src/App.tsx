@@ -4,6 +4,7 @@ import { Home } from './pages/Home';
 import { Work } from './pages/Work';
 import { Lab } from './pages/Lab';
 import Products from './pages/Products';
+import { Jobs } from './pages/Jobs';
 import { AnimatePresence } from 'framer-motion';
 import { useEffect } from 'react';
 
@@ -25,10 +26,11 @@ function AppContent() {
       <ScrollToTop />
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>
-           <Route path="/" element={<Home />} />
-           <Route path="/work" element={<Work />} />
-           <Route path="/lab" element={<Lab />} />
-           <Route path="/products" element={<Products />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/work" element={<Work />} />
+          <Route path="/lab" element={<Lab />} />
+          <Route path="/products" element={<Products />} />
+          <Route path="/jobs" element={<Jobs />} />
         </Routes>
       </AnimatePresence>
     </Layout>
