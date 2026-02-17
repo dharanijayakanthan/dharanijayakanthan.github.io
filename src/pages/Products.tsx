@@ -5,10 +5,10 @@ import { motion } from 'framer-motion';
 import L from 'leaflet';
 
 // Fix for Leaflet default icon issues in React
-import icon from 'leaflet/dist/images/marker-icon.png';
-import iconShadow from 'leaflet/dist/images/marker-shadow.png';
+import icon from 'leaflet/dist/images/marker-icon.png?url';
+import iconShadow from 'leaflet/dist/images/marker-shadow.png?url';
 
-let DefaultIcon = L.icon({
+const DefaultIcon = L.icon({
     iconUrl: icon,
     shadowUrl: iconShadow,
     iconSize: [25, 41],
