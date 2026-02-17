@@ -3,6 +3,7 @@ import { Layout } from './components/Layout';
 import { Home } from './pages/Home';
 import { Work } from './pages/Work';
 import { Lab } from './pages/Lab';
+import Products from './pages/Products';
 import { AnimatePresence } from 'framer-motion';
 import { useEffect } from 'react';
 
@@ -27,6 +28,7 @@ function AppContent() {
            <Route path="/" element={<Home />} />
            <Route path="/work" element={<Work />} />
            <Route path="/lab" element={<Lab />} />
+           <Route path="/products" element={<Products />} />
         </Routes>
       </AnimatePresence>
     </Layout>
