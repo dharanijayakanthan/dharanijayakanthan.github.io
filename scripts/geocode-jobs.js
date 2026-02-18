@@ -151,8 +151,15 @@ async function geocodeJobs() {
             const normLoc = normalizeLocation(job.location);
             const companyLoc = `${job.company}, ${job.location}`;
 
-            // 1. Try Static
-            if (STATIC_LOCATIONS[rawLoc]) {
+            // 1. Try Cache First (High Precision: "Company, Location")
+            if (locationCache[companyLoc] && locationCache[companyLoc].lat !== 0) {
+                job.lat = locationCache[companyLoc].lat;
+                job.lng = locationCache[companyLoc].lng;
+                cacheHits++;
+                jobsWithCoords++;
+            }
+            // 2. Try Static (Generic Area)
+            else if (STATIC_LOCATIONS[rawLoc]) {
                 job.lat = STATIC_LOCATIONS[rawLoc].lat;
                 job.lng = STATIC_LOCATIONS[rawLoc].lng;
                 staticHits++;
@@ -162,13 +169,6 @@ async function geocodeJobs() {
                 job.lat = STATIC_LOCATIONS[normLoc].lat;
                 job.lng = STATIC_LOCATIONS[normLoc].lng;
                 staticHits++;
-                jobsWithCoords++;
-            }
-            // 2. Try Cache
-            else if (locationCache[companyLoc]) {
-                job.lat = locationCache[companyLoc].lat;
-                job.lng = locationCache[companyLoc].lng;
-                cacheHits++;
                 jobsWithCoords++;
             }
         });
