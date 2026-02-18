@@ -102,7 +102,7 @@ export const JobMap = ({ jobs }: JobMapProps) => {
                                         href={job.link}
                                         target="_blank"
                                         rel="noopener noreferrer"
-                                        className="block w-full py-2 px-3 bg-blue-600 hover:bg-blue-700 text-white text-xs font-semibold rounded text-center transition-colors"
+                                        className="block w-full py-2 px-3 text-white text-xs font-semibold rounded text-center transition-colors"
                                     >
                                         Apply Now
                                     </a>
