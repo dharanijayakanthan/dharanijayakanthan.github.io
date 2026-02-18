@@ -1,12 +1,12 @@
 import { type ReactNode, useState, useEffect } from 'react';
-import { NavLink } from 'react-router-dom';
-import { clsx, type ClassValue } from 'clsx';
-import { twMerge } from 'tailwind-merge';
+// import { NavLink } from 'react-router-dom';
+// import { clsx, type ClassValue } from 'clsx';
+// import { twMerge } from 'tailwind-merge';
 import { Moon, Sun, Menu, X } from 'lucide-react';
 
-function cn(...inputs: ClassValue[]) {
-  return twMerge(clsx(inputs));
-}
+// function cn(...inputs: ClassValue[]) {
+//   return twMerge(clsx(inputs));
+// }
 
 interface LayoutProps {
   children: ReactNode;
@@ -50,17 +50,17 @@ export const Layout = ({ children }: LayoutProps) => {
     setIsMobileMenuOpen(prev => !prev);
   };
 
-  const closeMenu = () => {
-    setIsMobileMenuOpen(false);
-  };
+  // const closeMenu = () => {
+  //   setIsMobileMenuOpen(false);
+  // };
 
-  const navItems = [
-    // { path: '/', label: 'Home' },
-    // { path: '/work', label: 'Work' },
-    // { path: '/lab', label: 'Lab' },
-    // { path: '/products', label: 'Products' },
-    // { path: '/jobs', label: 'Jobs' },
-  ];
+  // const navItems = [
+  //   // { path: '/', label: 'Home' },
+  //   // { path: '/work', label: 'Work' },
+  //   // { path: '/lab', label: 'Lab' },
+  //   // { path: '/products', label: 'Products' },
+  //   // { path: '/jobs', label: 'Jobs' },
+  // ];
 
   return (
     <div className="min-h-screen transition-colors duration-300">
