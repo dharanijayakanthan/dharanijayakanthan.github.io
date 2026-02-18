@@ -26,11 +26,11 @@ function AppContent() {
       <ScrollToTop />
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>
-          <Route path="/" element={<Home />} />
-          <Route path="/work" element={<Work />} />
+          {/* <Route path="/" element={<Home />} /> */}
+          {/* <Route path="/work" element={<Work />} />
           <Route path="/lab" element={<Lab />} />
-          <Route path="/products" element={<Products />} />
-          <Route path="/jobs" element={<Jobs />} />
+          <Route path="/products" element={<Products />} /> */}
+          <Route path="/" element={<Jobs />} />
         </Routes>
       </AnimatePresence>
     </Layout>

@@ -55,11 +55,11 @@ export const Layout = ({ children }: LayoutProps) => {
   };
 
   const navItems = [
-    { path: '/', label: 'Home' },
-    { path: '/work', label: 'Work' },
-    { path: '/lab', label: 'Lab' },
+    // { path: '/', label: 'Home' },
+    // { path: '/work', label: 'Work' },
+    // { path: '/lab', label: 'Lab' },
     // { path: '/products', label: 'Products' },
-    { path: '/jobs', label: 'Jobs' },
+    // { path: '/jobs', label: 'Jobs' },
   ];
 
   return (
@@ -69,7 +69,7 @@ export const Layout = ({ children }: LayoutProps) => {
           <div className="flex justify-between h-16 items-center">
 
             {/* Logo */}
-            <div className="flex-shrink-0 flex items-center">
+            {/* <div className="flex-shrink-0 flex items-center">
               <NavLink
                 to="/"
                 className="font-bold text-xl tracking-tight dark:text-white"
@@ -77,10 +77,10 @@ export const Layout = ({ children }: LayoutProps) => {
               >
                 Dharani Jayakanthan
               </NavLink>
-            </div>
+            </div> */}
 
             {/* Desktop Navigation */}
-            <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
+            {/* <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
               {navItems.map((item) => (
                 <NavLink
                   key={item.path}
@@ -97,11 +97,12 @@ export const Layout = ({ children }: LayoutProps) => {
                   {item.label}
                 </NavLink>
               ))}
-            </div>
+            </div> */}
 
             {/* Right Side: Dark Mode + Mobile Menu Button */}
-            <div className="flex items-center space-x-4">
+            <div className="flex items-center space-x-12">
               <button
+
                 onClick={() => setDarkMode(!darkMode)}
                 className="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 dark:focus:ring-offset-gray-900 dark:text-gray-200"
                 aria-label={darkMode ? "Switch to Light Mode" : "Switch to Dark Mode"}
@@ -123,7 +124,7 @@ export const Layout = ({ children }: LayoutProps) => {
         </div>
 
         {/* Mobile Menu Overlay */}
-        {isMobileMenuOpen && (
+        {/* {isMobileMenuOpen && (
           <div className="sm:hidden absolute top-16 left-0 w-full bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700 shadow-lg animate-fade-in-down">
             <div className="px-2 pt-2 pb-3 space-y-1">
               {navItems.map((item) => (
@@ -145,7 +146,7 @@ export const Layout = ({ children }: LayoutProps) => {
               ))}
             </div>
           </div>
-        )}
+        )} */}
       </nav>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 animate-fade-in">
