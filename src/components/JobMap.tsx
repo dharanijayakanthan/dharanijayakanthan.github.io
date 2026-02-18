@@ -1,5 +1,4 @@
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
-import MarkerClusterGroup from 'react-leaflet-cluster';
 import 'leaflet/dist/leaflet.css';
 import * as L from 'leaflet';
 import icon from 'leaflet/dist/images/marker-icon.png';
@@ -44,52 +43,50 @@ export const JobMap = ({ jobs }: JobMapProps) => {
                     url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                 />
 
-                <MarkerClusterGroup chunkedLoading>
-                    {validJobs.map((job, index) => (
-                        <Marker
-                            key={`${job.company}-${job.title}-${index}`}
-                            position={[job.lat!, job.lng!]}
-                        >
-                            <Popup>
-                                <div className="p-2 min-w-[200px]">
-                                    <div className="flex items-start gap-3 mb-3">
-                                        {job.logo ? (
-                                            <img
-                                                src={job.logo}
-                                                alt={job.company}
-                                                className="w-10 h-10 rounded object-contain bg-white border border-gray-200"
-                                                onError={(e) => {
-                                                    (e.target as HTMLImageElement).src = 'https://via.placeholder.com/40?text=' + job.company.charAt(0);
-                                                }}
-                                            />
-                                        ) : (
-                                            <div className="w-10 h-10 bg-gray-100 rounded flex items-center justify-center text-gray-500 font-bold text-sm">
-                                                {job.company.charAt(0)}
-                                            </div>
-                                        )}
-                                        <div className="flex-1 min-w-0">
-                                            <h3 className="font-bold text-sm text-gray-900 line-clamp-2 leading-tight mb-1">{job.title}</h3>
-                                            <p className="text-xs text-gray-500 font-medium truncate">{job.company}</p>
+                {validJobs.map((job, index) => (
+                    <Marker
+                        key={`${job.company}-${job.title}-${index}`}
+                        position={[job.lat!, job.lng!]}
+                    >
+                        <Popup>
+                            <div className="p-2 min-w-[200px]">
+                                <div className="flex items-start gap-3 mb-3">
+                                    {job.logo ? (
+                                        <img
+                                            src={job.logo}
+                                            alt={job.company}
+                                            className="w-10 h-10 rounded object-contain bg-white border border-gray-200"
+                                            onError={(e) => {
+                                                (e.target as HTMLImageElement).src = 'https://via.placeholder.com/40?text=' + job.company.charAt(0);
+                                            }}
+                                        />
+                                    ) : (
+                                        <div className="w-10 h-10 bg-gray-100 rounded flex items-center justify-center text-gray-500 font-bold text-sm">
+                                            {job.company.charAt(0)}
                                         </div>
+                                    )}
+                                    <div className="flex-1 min-w-0">
+                                        <h3 className="font-bold text-sm text-gray-900 line-clamp-2 leading-tight mb-1">{job.title}</h3>
+                                        <p className="text-xs text-gray-500 font-medium truncate">{job.company}</p>
                                     </div>
-
-                                    <div className="text-xs text-gray-600 mb-3 flex items-center gap-1.5 bg-gray-50 p-1.5 rounded">
-                                        <span className="truncate max-w-[180px]">{job.location}</span>
-                                    </div>
-
-                                    <a
-                                        href={job.link}
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                        className="block w-full py-2 px-3 bg-blue-600 hover:bg-blue-700 text-white text-xs font-semibold rounded text-center transition-colors"
-                                    >
-                                        Apply Now
-                                    </a>
                                 </div>
-                            </Popup>
-                        </Marker>
-                    ))}
-                </MarkerClusterGroup>
+
+                                <div className="text-xs text-gray-600 mb-3 flex items-center gap-1.5 bg-gray-50 p-1.5 rounded">
+                                    <span className="truncate max-w-[180px]">{job.location}</span>
+                                </div>
+
+                                <a
+                                    href={job.link}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="block w-full py-2 px-3 bg-blue-600 hover:bg-blue-700 text-white text-xs font-semibold rounded text-center transition-colors"
+                                >
+                                    Apply Now
+                                </a>
+                            </div>
+                        </Popup>
+                    </Marker>
+                ))}
             </MapContainer>
         </div>
     );
