@@ -1,8 +1,9 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useMemo } from 'react';
 import { BentoTile } from '../components/ui/BentoTile';
-import { MapPin, Calendar, ExternalLink, Building2, Map as MapIcon, List, Search } from 'lucide-react';
-import { motion } from 'framer-motion';
+import { MapPin, Calendar, ExternalLink, Building2, Map as MapIcon, List, Search, Filter } from 'lucide-react';
+import { motion, AnimatePresence } from 'framer-motion';
 import { JobMap } from '../components/JobMap';
+import { FilterDropdown } from '../components/ui/FilterDropdown';
 
 interface Job {
     title: string;
@@ -15,6 +16,27 @@ interface Job {
     lng?: number;
 }
 
+const getExperienceLevel = (title: string): string => {
+    const t = title.toLowerCase();
+    if (t.includes('intern') || t.includes('trainee') || t.includes('stagiary')) return 'Internship';
+    if (t.includes('senior') || t.includes('sr') || t.includes('lead') || t.includes('principal') || t.includes('architect') || t.includes('staff')) return 'Senior Level';
+    if (t.includes('manager') || t.includes('head') || t.includes('director') || t.includes('vp') || t.includes('chief') || t.includes('executive')) return 'Management';
+    if (t.includes('junior') || t.includes('jr') || t.includes('entry') || t.includes('graduate') || t.includes('fresh') || t.includes('associate')) return 'Entry Level';
+    return 'Mid Level';
+};
+
+const getTechStack = (title: string): string => {
+    const t = title.toLowerCase();
+    if (t.includes('frontend') || t.includes('front-end') || t.includes('react') || t.includes('angular') || t.includes('vue') || t.includes('ui')) return 'Frontend';
+    if (t.includes('backend') || t.includes('back-end') || t.includes('node') || t.includes('java') || t.includes('python') || t.includes('golang') || t.includes('ruby')) return 'Backend';
+    if (t.includes('full stack') || t.includes('full-stack') || t.includes('software engineer') || t.includes('developer')) return 'Full Stack';
+    if (t.includes('devops') || t.includes('cloud') || t.includes('aws') || t.includes('azure') || t.includes('sre') || t.includes('infrastructure')) return 'DevOps';
+    if (t.includes('data') || t.includes('scientist') || t.includes('analyst') || t.includes('machine learning') || t.includes('ai')) return 'Data/AI';
+    if (t.includes('test') || t.includes('qa') || t.includes('quality')) return 'QA/Testing';
+    if (t.includes('product') || t.includes('project')) return 'Product';
+    return 'Other';
+};
+
 export const Jobs = () => {
     const [jobs, setJobs] = useState<Job[]>([]);
     const [loading, setLoading] = useState(true);
@@ -22,6 +44,15 @@ export const Jobs = () => {
     const [viewMode, setViewMode] = useState<'list' | 'map'>('list');
     const [searchQuery, setSearchQuery] = useState('');
     const [selectedLocation, setSelectedLocation] = useState<string>('');
+
+    // New Filters State
+    const [dateFilter, setDateFilter] = useState<string[]>(['all']);
+    const [selectedCompanies, setSelectedCompanies] = useState<string[]>([]);
+    const [selectedExperience, setSelectedExperience] = useState<string[]>([]);
+    const [selectedTechStack, setSelectedTechStack] = useState<string>('All');
+    const [remoteFilter, setRemoteFilter] = useState<string>('Any');
+    const [showMobileFilters, setShowMobileFilters] = useState(false);
+    const [showTechStack, setShowTechStack] = useState(false);
 
     const MAJOR_LOCATIONS = [
         "Whitefield",
@@ -39,26 +70,6 @@ export const Jobs = () => {
         "Bagmane Tech Park",
         "Ecospace"
     ];
-
-    useEffect(() => {
-        const timestamp = new Date().getTime();
-        fetch(`/jobs.json?v=${timestamp}`)
-            .then((res) => {
-                if (!res.ok) {
-                    throw new Error('Failed to fetch jobs');
-                }
-                return res.json();
-            })
-            .then((data) => {
-                setJobs(data);
-                setLoading(false);
-            })
-            .catch((err) => {
-                console.error('Error loading jobs:', err);
-                setError('Failed to load job listings.');
-                setLoading(false);
-            });
-    }, []);
 
     // Simplified coordinates for major districts - used for radial filtering
     // This allows us to find jobs "near" a selected location even if the text doesn't match perfectly
@@ -122,43 +133,184 @@ export const Jobs = () => {
         return Math.sqrt(latDiff * latDiff + lngDiff * lngDiff) <= radiusKm;
     };
 
-    const filteredJobs = jobs.filter(job => {
-        const query = searchQuery.toLowerCase();
-        const matchesSearch = (
-            job.title.toLowerCase().includes(query) ||
-            job.company.toLowerCase().includes(query) ||
-            job.location.toLowerCase().includes(query)
-        );
+    useEffect(() => {
+        const timestamp = new Date().getTime();
+        fetch(`/jobs.json?v=${timestamp}`)
+            .then((res) => {
+                if (!res.ok) {
+                    throw new Error('Failed to fetch jobs');
+                }
+                return res.json();
+            })
+            .then((data) => {
+                setJobs(data);
+                setLoading(false);
+            })
+            .catch((err) => {
+                console.error('Error loading jobs:', err);
+                setError('Failed to load job listings.');
+                setLoading(false);
+            });
+    }, []);
 
-        let matchesLocation = true;
-        if (selectedLocation) {
-            const lowerLoc = selectedLocation.toLowerCase();
+    // Base Filter Logic (Reusable for counts)
+    const filterJob = (job: Job, filters: {
+        query: string,
+        loc: string,
+        date: string[],
+        companies: string[],
+        exp: string[],
+        tech: string,
+        remote: string
+    }) => {
+        // 1. Search Query
+        if (filters.query) {
+            const matchesSearch = (
+                job.title.toLowerCase().includes(filters.query) ||
+                job.company.toLowerCase().includes(filters.query) ||
+                job.location.toLowerCase().includes(filters.query)
+            );
+            if (!matchesSearch) return false;
+        }
 
-            // 1. Check String Match first (Text Filter)
+        // 2. Location matches
+        if (filters.loc) {
+            const lowerLoc = filters.loc.toLowerCase();
             const textMatch = job.location.toLowerCase().includes(lowerLoc);
-
-            // 2. Check Coordinate Match (Spatial Filter)
             let coordMatch = false;
-            // Only use coordinate filter if the job has valid coordinates and is NOT the generic Bangalore center
             const hasValidCoords = job.lat && job.lng && job.lat !== 0 && job.lng !== 0;
             const isGenericBangalore = hasValidCoords && Math.abs(job.lat! - 12.9716) < 0.005 && Math.abs(job.lng! - 77.5946) < 0.005;
 
-            if (hasValidCoords && !isGenericBangalore && DISTRICT_COORDINATES[selectedLocation]) {
-                const target = DISTRICT_COORDINATES[selectedLocation];
-                // Use 4km radius for "nearby" jobs
+            if (hasValidCoords && !isGenericBangalore && DISTRICT_COORDINATES[filters.loc]) {
+                const target = DISTRICT_COORDINATES[filters.loc];
                 coordMatch = isWithinRadius(job.lat!, job.lng!, target.lat, target.lng, 4);
             }
-
-            matchesLocation = textMatch || coordMatch;
-
-            // Special case for generic "Bengaluru" text matches if no specific location selected
+            let matchesLocation = textMatch || coordMatch;
             if (!matchesLocation && lowerLoc === 'bengaluru') {
                 matchesLocation = job.location.toLowerCase().includes('bengaluru') || job.location.toLowerCase().includes('bangalore');
             }
+            if (!matchesLocation) return false;
         }
 
-        return matchesSearch && matchesLocation;
-    });
+        // 3. Date Filter
+        const dFilter = filters.date[0];
+        if (dFilter && dFilter !== 'all') {
+            const jobDate = new Date(job.date);
+            const now = new Date();
+            const diffTime = Math.abs(now.getTime() - jobDate.getTime());
+            const diffDays = diffTime / (1000 * 60 * 60 * 24);
+
+            if (dFilter === '24h' && diffDays > 1) return false;
+            if (dFilter === '7d' && diffDays > 7) return false;
+            if (dFilter === '30d' && diffDays > 30) return false;
+        }
+
+        // 4. Company Filter
+        if (filters.companies.length > 0) {
+            if (!filters.companies.includes(job.company)) return false;
+        }
+
+        // 5. Experience Filter
+        if (filters.exp.length > 0) {
+            const level = getExperienceLevel(job.title);
+            if (!filters.exp.includes(level)) return false;
+        }
+
+        // 6. Tech Stack Filter
+        if (filters.tech !== 'All') {
+            const stack = getTechStack(job.title);
+            if (stack !== filters.tech) return false;
+        }
+
+        // 7. Remote Filter
+        if (filters.remote !== 'Any') {
+            const isRemote = job.location.toLowerCase().includes('remote') || job.title.toLowerCase().includes('remote');
+            const isHybrid = job.location.toLowerCase().includes('hybrid') || job.title.toLowerCase().includes('hybrid');
+
+            if (filters.remote === 'Remote' && !isRemote) return false;
+            if (filters.remote === 'Hybrid' && !isHybrid) return false;
+        }
+
+        return true;
+    };
+
+    // Derived Options for Filters - CASCADE LOGIC
+    // We calculate available options based on CURRENTLY filtered set (minus the filter itself to avoid disappearing options)
+    const companyOptions = useMemo(() => {
+        // Filter based on everything EXCEPT company
+        const relevantJobs = jobs.filter(job => filterJob(job, {
+            query: searchQuery.toLowerCase(),
+            loc: selectedLocation,
+            date: dateFilter,
+            companies: [], // Ignore self
+            exp: selectedExperience,
+            tech: selectedTechStack,
+            remote: remoteFilter
+        }));
+
+        const counts: Record<string, number> = {};
+        relevantJobs.forEach(job => {
+            counts[job.company] = (counts[job.company] || 0) + 1;
+        });
+        return Object.entries(counts)
+            .sort((a, b) => b[1] - a[1])
+            .slice(0, 100)
+            .map(([name, count]) => ({ value: name, label: name, count }));
+    }, [jobs, searchQuery, selectedLocation, dateFilter, selectedExperience, selectedTechStack, remoteFilter]);
+
+    const experienceOptions = useMemo(() => {
+        // Filter based on everything EXCEPT experience
+        const relevantJobs = jobs.filter(job => filterJob(job, {
+            query: searchQuery.toLowerCase(),
+            loc: selectedLocation,
+            date: dateFilter,
+            companies: selectedCompanies,
+            exp: [], // Ignore self
+            tech: selectedTechStack,
+            remote: remoteFilter
+        }));
+
+        const counts: Record<string, number> = {};
+        relevantJobs.forEach(job => {
+            const level = getExperienceLevel(job.title);
+            counts[level] = (counts[level] || 0) + 1;
+        });
+        const order = ['Internship', 'Entry Level', 'Mid Level', 'Senior Level', 'Management'];
+        return Object.entries(counts)
+            .map(([name, count]) => ({ value: name, label: name, count }))
+            .sort((a, b) => {
+                const idxA = order.indexOf(a.value);
+                const idxB = order.indexOf(b.value);
+                return (idxA === -1 ? 99 : idxA) - (idxB === -1 ? 99 : idxB);
+            });
+    }, [jobs, searchQuery, selectedLocation, dateFilter, selectedCompanies, selectedTechStack, remoteFilter]);
+
+    const TECH_STACKS = ['All', 'Frontend', 'Backend', 'Full Stack', 'DevOps', 'Data/AI', 'QA/Testing', 'Product', 'Other'];
+
+    const dateOptions = [
+        { value: 'all', label: 'Any time' },
+        { value: '24h', label: 'Past 24 hours' },
+        { value: '7d', label: 'Past week' },
+        { value: '30d', label: 'Past month' }
+    ];
+
+    // Reset filters when location changes? No, keep independent.
+
+
+
+
+
+    const filteredJobs = useMemo(() => {
+        return jobs.filter(job => filterJob(job, {
+            query: searchQuery.toLowerCase(),
+            loc: selectedLocation,
+            date: dateFilter,
+            companies: selectedCompanies,
+            exp: selectedExperience,
+            tech: selectedTechStack,
+            remote: remoteFilter
+        }));
+    }, [jobs, searchQuery, selectedLocation, dateFilter, selectedCompanies, selectedExperience, selectedTechStack, remoteFilter]);
 
     if (loading) {
         return (
@@ -177,72 +329,184 @@ export const Jobs = () => {
     }
 
     return (
-        <div className="space-y-8">
-            <div className="flex flex-col md:flex-row md:items-end justify-between gap-4">
-                <div className="flex flex-col gap-2">
-                    <h1 className="text-3xl font-bold text-gray-900 dark:text-white">Frontend Opportunities</h1>
-                    <p className="text-gray-600 dark:text-gray-400">
-                        Curated list of Frontend Engineering roles in Bangalore. Updated daily
-                    </p>
-                </div>
-
-                <div className="flex items-center gap-3">
-                    {/* Location Filter Dropdown */}
-                    <div className="relative">
-                        <select
-                            value={selectedLocation}
-                            onChange={(e) => setSelectedLocation(e.target.value)}
-                            className="appearance-none bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 py-2 pl-4 pr-8 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-sm font-medium transition-colors cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700"
-                        >
-                            <option value="">All Locations</option>
-                            {MAJOR_LOCATIONS.map(loc => (
-                                <option key={loc} value={loc}>{loc}</option>
-                            ))}
-                        </select>
-                        <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-500 dark:text-gray-400">
-                            <MapPin size={14} />
+        <div className="space-y-6">
+            {/* Search and Main Filters - Sticky Header */}
+            <div className="sticky top-0 z-40 bg-white/90 dark:bg-gray-900/90 backdrop-blur-md p-4 -mx-4 px-4 sm:mx-0 sm:px-4 sm:rounded-2xl border-b sm:border border-gray-200 dark:border-gray-700 shadow-sm space-y-4 transition-all duration-300">
+                {/* Mobile Top Row: Search + View Toggle + Filter Toggle */}
+                <div className="flex gap-2">
+                    <div className="relative flex-grow">
+                        <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                            <Search className="h-5 w-5 text-gray-400" />
+                        </div>
+                        <input
+                            type="text"
+                            placeholder="Search jobs..."
+                            className="block w-full pl-10 pr-20 py-3 border border-gray-200 dark:border-gray-700 rounded-xl leading-5 bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors shadow-sm"
+                            value={searchQuery}
+                            onChange={(e) => setSearchQuery(e.target.value)}
+                        />
+                        <div className="absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none">
+                            <span className="text-xs text-gray-400 font-medium">
+                                {filteredJobs.length} jobs
+                            </span>
                         </div>
                     </div>
 
-                    <div className="flex items-center gap-1 bg-white dark:bg-gray-800 p-1 rounded-lg border border-gray-200 dark:border-gray-700 shadow-sm">
+                    {/* View Toggle - Consolidated */}
+                    <div className="flex shrink-0 items-center gap-1 bg-gray-100 dark:bg-gray-900 p-1 rounded-lg border border-gray-200 dark:border-gray-700 h-[50px]">
                         <button
                             onClick={() => setViewMode('list')}
                             className={`p-2 rounded-md transition-all ${viewMode === 'list'
-                                ? 'bg-blue-50 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400 shadow-sm'
-                                : 'text-gray-500 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-700'
+                                ? 'bg-white dark:bg-gray-800 text-blue-600 dark:text-blue-400 shadow-sm'
+                                : 'text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300'
                                 }`}
                             title="List View"
                         >
-                            <List size={18} />
+                            <List size={20} />
                         </button>
                         <button
                             onClick={() => setViewMode('map')}
                             className={`p-2 rounded-md transition-all ${viewMode === 'map'
-                                ? 'bg-blue-50 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400 shadow-sm'
-                                : 'text-gray-500 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-700'
+                                ? 'bg-white dark:bg-gray-800 text-blue-600 dark:text-blue-400 shadow-sm'
+                                : 'text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300'
                                 }`}
                             title="Map View"
                         >
-                            <MapIcon size={18} />
+                            <MapIcon size={20} />
                         </button>
                     </div>
-                </div>
-            </div>
 
-            {/* Search Bar */}
-            <div className="relative">
-                <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                    <Search className="h-5 w-5 text-gray-400" />
+                    {/* Mobile Filter Toggle Button */}
+                    <button
+                        onClick={() => setShowMobileFilters(!showMobileFilters)}
+                        className={`lg:hidden p-3 rounded-xl border transition-colors h-[50px] aspect-square flex items-center justify-center ${showMobileFilters
+                            ? 'bg-blue-50 border-blue-200 text-blue-600 dark:bg-blue-900/30 dark:border-blue-800 dark:text-blue-400'
+                            : 'bg-white border-gray-200 text-gray-500 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400'
+                            }`}
+                        aria-label="Toggle Filters"
+                    >
+                        <Filter size={20} />
+                    </button>
                 </div>
-                <input
-                    type="text"
-                    placeholder="Search by title, company, or location..."
-                    className="block w-full pl-10 pr-3 py-3 border border-gray-200 dark:border-gray-700 rounded-xl leading-5 bg-white dark:bg-gray-800 text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 sm:text-sm transition-colors shadow-sm"
-                    value={searchQuery}
-                    onChange={(e) => setSearchQuery(e.target.value)}
-                />
-            </div>
 
+                {/* Filters Row - Collapsable on Mobile */}
+                <div className={`${showMobileFilters ? 'flex' : 'hidden'} lg:flex flex-col gap-4 animate-in fade-in slide-in-from-top-2 duration-200`}>
+                    {/* Row 1: Primary Filters */}
+                    <div className="flex flex-col lg:flex-row gap-3 items-start lg:items-center justify-between">
+                        <div className="flex flex-wrap items-center gap-2 w-full lg:w-auto">
+                            <div className="flex items-center gap-2 text-gray-500 dark:text-gray-400 mr-2">
+                                <Filter size={18} />
+                                <span className="text-sm font-medium">Filters:</span>
+                            </div>
+
+                            {/* Date Filter */}
+                            <FilterDropdown
+                                label="Date Posted"
+                                options={dateOptions}
+                                selectedValues={dateFilter}
+                                onChange={(vals) => setDateFilter(vals.length ? vals : ['all'])}
+                                multiple={false}
+                            />
+
+                            {/* Company Filter (Multi) */}
+                            <FilterDropdown
+                                label="Company"
+                                options={companyOptions}
+                                selectedValues={selectedCompanies}
+                                onChange={setSelectedCompanies}
+                                multiple={true}
+                                searchable={true}
+                            />
+
+                            {/* Experience Filter (Multi) */}
+                            <FilterDropdown
+                                label="Experience"
+                                options={experienceOptions}
+                                selectedValues={selectedExperience}
+                                onChange={setSelectedExperience}
+                                multiple={true}
+                            />
+
+                            {/* Location Filter */}
+                            <div className="relative min-w-[160px]">
+                                <select
+                                    value={selectedLocation}
+                                    onChange={(e) => setSelectedLocation(e.target.value)}
+                                    className="w-full appearance-none bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 py-2 pl-4 pr-8 rounded-xl text-sm font-medium focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors cursor-pointer hover:border-gray-300 dark:hover:border-gray-600 h-[38px]"
+                                >
+                                    <option value="">All Locations</option>
+                                    {MAJOR_LOCATIONS.map(loc => (
+                                        <option key={loc} value={loc}>{loc}</option>
+                                    ))}
+                                </select>
+                                <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-500 dark:text-gray-400">
+                                    <MapPin size={14} />
+                                </div>
+                            </div>
+
+                            {/* Remote Filter */}
+                            <div className="relative min-w-[140px]">
+                                <select
+                                    value={remoteFilter}
+                                    onChange={(e) => setRemoteFilter(e.target.value)}
+                                    className="w-full appearance-none bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 py-2 pl-4 pr-8 rounded-xl text-sm font-medium focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors cursor-pointer hover:border-gray-300 dark:hover:border-gray-600 h-[38px]"
+                                >
+                                    <option value="Any">Any Work Mode</option>
+                                    <option value="Remote">Remote</option>
+                                    <option value="Hybrid">Hybrid</option>
+                                </select>
+                                <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-500 dark:text-gray-400">
+                                    <Building2 size={14} />
+                                </div>
+                            </div>
+
+                            {/* Tech Stack Toggle Button */}
+                            <button
+                                onClick={() => setShowTechStack(!showTechStack)}
+                                className={`flex items-center gap-2 px-4 py-2 rounded-xl text-sm font-medium border transition-colors h-[38px] ${showTechStack || selectedTechStack !== 'All'
+                                    ? 'bg-blue-50 border-blue-200 text-blue-600 dark:bg-blue-900/30 dark:border-blue-800 dark:text-blue-400'
+                                    : 'bg-white border-gray-200 text-gray-700 hover:border-gray-300 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-300 dark:hover:border-gray-600'
+                                    }`}
+                            >
+                                <Filter size={14} />
+                                <span>Tech Stack</span>
+                            </button>
+                        </div>
+                    </div>
+
+
+                </div>
+
+                {/* Row 2: Tech Stack Chips - Dynamic Visibility */}
+
+                {/* Row 2: Tech Stack Chips - Collapsible */}
+                <AnimatePresence>
+                    {(showTechStack || selectedTechStack !== 'All') && (
+                        <motion.div
+                            initial={{ height: 0, opacity: 0 }}
+                            animate={{ height: 'auto', opacity: 1 }}
+                            exit={{ height: 0, opacity: 0 }}
+                            transition={{ duration: 0.3, ease: 'easeInOut' }}
+                            className="overflow-hidden"
+                        >
+                            <div className="flex flex-wrap gap-2 pt-2 border-t border-gray-100 dark:border-gray-700">
+                                {TECH_STACKS.map(tech => (
+                                    <button
+                                        key={tech}
+                                        onClick={() => setSelectedTechStack(tech)}
+                                        className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all ${selectedTechStack === tech
+                                            ? 'bg-gray-900 text-white dark:bg-white dark:text-black shadow-sm'
+                                            : 'bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700'
+                                            }`}
+                                    >
+                                        {tech}
+                                    </button>
+                                ))}
+                            </div>
+                        </motion.div>
+                    )}
+                </AnimatePresence>
+            </div>
             {viewMode === 'map' ? (
                 <motion.div
                     initial={{ opacity: 0, y: 10 }}
@@ -252,6 +516,7 @@ export const Jobs = () => {
                     <JobMap jobs={filteredJobs} />
                     <p className="text-sm text-gray-500 dark:text-gray-400 mt-2 text-center">
                         Showing {filteredJobs.filter(j => j.lat && j.lng && j.lat !== 0).length} locations on map
+                        {filteredJobs.length !== jobs.length && <span className="ml-1">(Filtered from {jobs.length} total)</span>}
                     </p>
                 </motion.div>
             ) : (
@@ -321,7 +586,8 @@ export const Jobs = () => {
                         </div>
                     )}
                 </div>
-            )}
-        </div>
+            )
+            }
+        </div >
     );
 };

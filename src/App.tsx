@@ -37,12 +37,13 @@ function AppContent() {
   );
 }
 
-function App() {
+import { Analytics } from "@vercel/analytics/react"
+
+export default function App() {
   return (
     <BrowserRouter>
       <AppContent />
+      <Analytics />
     </BrowserRouter>
-  );
+  )
 }
-
-export default App;
