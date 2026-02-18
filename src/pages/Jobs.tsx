@@ -21,6 +21,24 @@ export const Jobs = () => {
     const [error, setError] = useState<string | null>(null);
     const [viewMode, setViewMode] = useState<'list' | 'map'>('list');
     const [searchQuery, setSearchQuery] = useState('');
+    const [selectedLocation, setSelectedLocation] = useState<string>('');
+
+    const MAJOR_LOCATIONS = [
+        "Whitefield",
+        "Electronic City",
+        "HSR Layout",
+        "Koramangala",
+        "Indiranagar",
+        "Marathahalli",
+        "Bellandur",
+        "Hebbal",
+        "Jayanagar",
+        "JP Nagar",
+        "Sarjapur",
+        "Manyata Tech Park",
+        "Bagmane Tech Park",
+        "Ecospace"
+    ];
 
     useEffect(() => {
         const timestamp = new Date().getTime();
@@ -44,11 +62,17 @@ export const Jobs = () => {
 
     const filteredJobs = jobs.filter(job => {
         const query = searchQuery.toLowerCase();
-        return (
+        const matchesSearch = (
             job.title.toLowerCase().includes(query) ||
             job.company.toLowerCase().includes(query) ||
             job.location.toLowerCase().includes(query)
         );
+
+        const matchesLocation = selectedLocation
+            ? job.location.toLowerCase().includes(selectedLocation.toLowerCase())
+            : true;
+
+        return matchesSearch && matchesLocation;
     });
 
     if (loading) {
@@ -77,29 +101,46 @@ export const Jobs = () => {
                     </p>
                 </div>
 
-                <div className="flex items-center gap-3 bg-white dark:bg-gray-800 p-1.5 rounded-lg border border-gray-200 dark:border-gray-700 shadow-sm">
-                    <button
-                        onClick={() => setViewMode('list')}
-                        className={`p-2 rounded-md transition-all ${
-                            viewMode === 'list'
-                                ? 'bg-blue-100 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400 shadow-sm'
+                <div className="flex items-center gap-3">
+                    {/* Location Filter Dropdown */}
+                    <div className="relative">
+                        <select
+                            value={selectedLocation}
+                            onChange={(e) => setSelectedLocation(e.target.value)}
+                            className="appearance-none bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 py-2 pl-4 pr-8 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-sm font-medium transition-colors cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700"
+                        >
+                            <option value="">All Locations</option>
+                            {MAJOR_LOCATIONS.map(loc => (
+                                <option key={loc} value={loc}>{loc}</option>
+                            ))}
+                        </select>
+                        <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-500 dark:text-gray-400">
+                            <MapPin size={14} />
+                        </div>
+                    </div>
+
+                    <div className="flex items-center gap-1 bg-white dark:bg-gray-800 p-1 rounded-lg border border-gray-200 dark:border-gray-700 shadow-sm">
+                        <button
+                            onClick={() => setViewMode('list')}
+                            className={`p-2 rounded-md transition-all ${viewMode === 'list'
+                                ? 'bg-blue-50 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400 shadow-sm'
                                 : 'text-gray-500 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-700'
-                        }`}
-                        title="List View"
-                    >
-                        <List size={20} />
-                    </button>
-                    <button
-                        onClick={() => setViewMode('map')}
-                        className={`p-2 rounded-md transition-all ${
-                            viewMode === 'map'
-                                ? 'bg-blue-100 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400 shadow-sm'
+                                }`}
+                            title="List View"
+                        >
+                            <List size={18} />
+                        </button>
+                        <button
+                            onClick={() => setViewMode('map')}
+                            className={`p-2 rounded-md transition-all ${viewMode === 'map'
+                                ? 'bg-blue-50 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400 shadow-sm'
                                 : 'text-gray-500 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-700'
-                        }`}
-                        title="Map View"
-                    >
-                        <MapIcon size={20} />
-                    </button>
+                                }`}
+                            title="Map View"
+                        >
+                            <MapIcon size={18} />
+                        </button>
+                    </div>
                 </div>
             </div>
 
