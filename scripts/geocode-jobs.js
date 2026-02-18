@@ -256,7 +256,7 @@ async function geocodeJobs() {
                 try {
                     runCommand('git pull --rebase');
                     runCommand(`git add ${JOBS_FILE} ${CACHE_FILE}`);
-                    runCommand('git commit -m "chore: batch update geocoded jobs [skip ci]"');
+                    runCommand('git commit -m "chore: batch update geocoded jobs"');
                     runCommand('git push');
                     batchCount = 0;
                 } catch (e) {
