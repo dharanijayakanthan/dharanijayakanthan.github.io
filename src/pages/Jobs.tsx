@@ -68,9 +68,23 @@ export const Jobs = () => {
             job.location.toLowerCase().includes(query)
         );
 
-        const matchesLocation = selectedLocation
-            ? job.location.toLowerCase().includes(selectedLocation.toLowerCase())
-            : true;
+        let matchesLocation = true;
+        if (selectedLocation) {
+            const loc = selectedLocation.toLowerCase();
+            const jobLoc = job.location.toLowerCase();
+            matchesLocation = jobLoc.includes(loc);
+
+            // If strict string match fails, check if the job is in a known sub-area? 
+            // For now, simple string matching is likely failing because "Bengaluru" is in every string 
+            // but specific areas might not be explicit in the job.location string if it just says "Bengaluru, Karnataka".
+            // However, our geocoder *assigned* lat/lng based on company name for those generic ones.
+            // We can't filter those by area easily unless we reverse-geocode or store the 'area' in the job object.
+
+            // Allow if the selected location is "Bengaluru" (generic) and the job location contains it
+            if (!matchesLocation && loc === 'bengaluru') {
+                matchesLocation = jobLoc.includes('bengaluru') || jobLoc.includes('bangalore');
+            }
+        }
 
         return matchesSearch && matchesLocation;
     });
