@@ -330,6 +330,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4360825510",
+    "title": "Angular Developer",
+    "company": "AU SMALL FINANCE BANK",
+    "location": "Bengaluru North, Karnataka, India",
+    "date": "2026-02-16",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-at-au-small-finance-bank-4360825510?position=8&pageNum=7&refId=QIJuXOZ7TFPI%2BNnwmvk3CA%3D%3D&trackingId=FXQ5OZmBpcT3hx9UyJMiZw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFwCFXDzwFzMw/company-logo_100_100/company-logo_100_100/0/1682101745247/aubank_logo?e=2147483647&v=beta&t=1xeFx9umcd6iHmfTNx8l87o45EDTvGxtRWD4nbOgFiQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4372389915",
+    "title": "Software Engineer (Hybrid in Bangalore)",
+    "company": "Smartsheet",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-02-16",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-hybrid-in-bangalore-at-smartsheet-4372389915?position=2&pageNum=92&refId=aziKNHT7zxncts6sqw6fzg%3D%3D&trackingId=7ljLMUfo7a1Zc3lWEHtN2g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEkCNGen9QogA/company-logo_100_100/company-logo_100_100/0/1688057851137/smartsheet_com_logo?e=2147483647&v=beta&t=YiMN_zbEvcoqSohH9gaYJoLibtSXvNH4opmbZXvs72w",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4372323705",
     "title": "Angular Developer",
     "company": "Infosys",
@@ -2252,6 +2274,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4371285366",
+    "title": "Web Developer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-11",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-accenture-in-india-4371285366?position=6&pageNum=27&refId=KrXCaBaeAheAUyCq3iYIUQ%3D%3D&trackingId=tf%2FT%2BddC1VTKFqQvyx4TbA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4370667164",
     "title": "Software Engineer in Test",
     "company": "Headout",
@@ -3218,6 +3251,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHk9PvaZThrGg/company-logo_100_100/company-logo_100_100/0/1630620777670/trellance_logo?e=2147483647&v=beta&t=nj4xWLT4v79rQ8G2xXH0SEjdsLAl_OfS_CAP4wyqOF0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4367429433",
+    "title": "Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-09",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4367429433?position=3&pageNum=25&refId=PGzkakTy9gaQl82I89gAnw%3D%3D&trackingId=sCcmbg%2F5V34zy2pufWXKNg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4340248642",
@@ -5199,6 +5243,17 @@
     "lng": 0
   },
   {
+    "id": "urn:li:jobPosting:4340359925",
+    "title": "Embedded Software Engineer III",
+    "company": "Lytx, Inc.",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-02-03",
+    "link": "https://in.linkedin.com/jobs/view/embedded-software-engineer-iii-at-lytx-inc-4340359925?position=8&pageNum=62&refId=tCQxkKeN47vScgywu%2FLiTg%3D%3D&trackingId=CLnLioaII2ZBvHG3eNmZ5g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEZaBN0JHGmXA/company-logo_100_100/B4DZgJvZmdHAAQ-/0/1752510077843/lytxinc_logo?e=2147483647&v=beta&t=hanXRU5Y3_yh2_3f9aj_SF7li25vjs0cnM42Wn-3Nsc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4368182979",
     "title": "Front-End Developer",
     "company": "Indiacharts",
@@ -5470,6 +5525,17 @@
     "date": "2026-02-02",
     "link": "https://in.linkedin.com/jobs/view/software-quality-engineer-india-at-jumpcloud-4352612867?position=9&pageNum=97&refId=nHZ0Rus5AxAjuwXwaW%2FieA%3D%3D&trackingId=ZCeCrnuRzjNxKZYWuRRX3A%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGQEJvpnyM3Bw/company-logo_100_100/company-logo_100_100/0/1721926888915/jumpcloud_logo?e=2147483647&v=beta&t=qym_7dn1fGW-lo2UTHrDLHaxzEcVS4byZn9qck8K_V4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4357494335",
+    "title": "MTS 1, Software Engineer",
+    "company": "eBay",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-02",
+    "link": "https://in.linkedin.com/jobs/view/mts-1-software-engineer-at-ebay-4357494335?position=5&pageNum=97&refId=AREQ4JvhnqWEfgnKduCd%2BA%3D%3D&trackingId=0wRUuhgQmsJvWG65hjzb%2Bg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFfGj-Xuawo6A/company-logo_100_100/company-logo_100_100/0/1634568184469/ebay_logo?e=2147483647&v=beta&t=BEp-EQMNBexZVYGMcq6jeof_bX8QzuCCq4BEG6UCRdM",
     "lat": 0,
     "lng": 0
   },
@@ -6208,6 +6274,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEL5EztGwxfvg/company-logo_100_100/company-logo_100_100/0/1718234615232/blackhawk_network_india_logo?e=2147483647&v=beta&t=nGRPnLQGWsVRJJFe3rt-Jhx637krPDTqxI47d26zUmk",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4367641123",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-01-30",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4367641123?position=6&pageNum=95&refId=rCUsw0%2FbtkGkUuhDQjBpNA%3D%3D&trackingId=XC9oi08d8Pu3CPNst6Wg2A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4367158017",
@@ -7514,6 +7591,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQES_WcuHXgAyA/company-logo_100_100/company-logo_100_100/0/1730465982073/alteryx_logo?e=2147483647&v=beta&t=gkS0eHZQKge1KdrnBhXoeowT1VDBQiiaLNDHPlVIRrY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4374742971",
+    "title": "Software Engineer",
+    "company": "Chubb",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-01-24",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-chubb-4374742971?position=5&pageNum=97&refId=P95E1u1ZIB9cgNfx4bz8mw%3D%3D&trackingId=fop72N1j7kUMKceWAM9sQg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEAl4UqQUBngw/company-logo_100_100/B4EZp.iTGWHUAQ-/0/1763059512052/chubb_logo?e=2147483647&v=beta&t=lh21Rj4ekgDwfPVISgfQMEz2A_cUGIhUD47Z9-dI7fs",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4365407141",
@@ -9504,6 +9592,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQH11wgfGOi2RQ/company-logo_100_100/B56ZsoDXnyIYAQ-/0/1765903530955/coderabbitai_logo?e=2147483647&v=beta&t=YvYF3-RMiEv7ai8Xq8t9pXUDTCVASu4pgEtoOQtxAw8",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4318252422",
+    "title": "Angular Developer",
+    "company": "WizzyBox Private Limited",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-10-22",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-at-wizzybox-private-limited-4318252422?position=7&pageNum=87&refId=MJZiOYIFYiLhpEYGl1H3ig%3D%3D&trackingId=eb5OOtm4zEMQR5tsjiC5XA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEWD-sdPQH7GQ/company-logo_100_100/company-logo_100_100/0/1714042882109/wizzybox_logo?e=2147483647&v=beta&t=eubvf2A5xGXBaTR8kiBsdhbSdP-diHgWMBGNPYxWU7o",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4314287701",
@@ -11588,5 +11687,105 @@
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4374736212",
+    "title": "Software Engineer II",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-microsoft-4374736212?position=6&pageNum=42&refId=9kdCUPhuHtR9hyIaM8Ek%2Fw%3D%3D&trackingId=am1pahFwzOMcF6hHpZMR2g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374740849",
+    "title": "Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4374740849?position=4&pageNum=55&refId=NMr2AhadRoLE2QbvgR%2BVIQ%3D%3D&trackingId=hEE88v0Vx1JTADL9LUYS4w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4320500910",
+    "title": "Software Engineer - UI Developer",
+    "company": "Omnissa",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ui-developer-at-omnissa-4320500910?position=3&pageNum=70&refId=3TAODs24t033KH1OCWwaaQ%3D%3D&trackingId=jLgYNyeQM%2BE5vCsDgE6zHA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF96zYm6_LfxQ/company-logo_100_100/company-logo_100_100/0/1719854751707/endusercomputing_logo?e=2147483647&v=beta&t=PfnO8RbBmkf1drrRbC_l7JY7ivYNhyNY9n9NACkGs74",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374747634",
+    "title": "Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4374747634?position=6&pageNum=72&refId=%2FkEIX0uJHMThBHzmNRoCgA%3D%3D&trackingId=1NBPB00TU5Rh5ioC3m8%2BKQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4373337133",
+    "title": "Frontend Developer",
+    "company": "InOpTra Digital",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-inoptra-digital-4373337133?position=3&pageNum=15&refId=unTZqw55zhioB9ha65jQFA%3D%3D&trackingId=cfQ8k5li%2FMwO2Iq5GXbNsw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHcHUhHewZ0Sw/company-logo_100_100/company-logo_100_100/0/1630563787873?e=2147483647&v=beta&t=Gug7rX93W-SJRJD1rsrtblc4VNur4EapjVJuwZ0QK-E",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374749618",
+    "title": "Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4374749618?position=3&pageNum=47&refId=ODIXbPSd1K8A%2BqyOiHl2pw%3D%3D&trackingId=JK9rpStHXiwoWr3JPc8GXQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374747635",
+    "title": "Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4374747635?position=3&pageNum=50&refId=ZxEiyFkLb1I8gUunV%2FUk4g%3D%3D&trackingId=EjpWhvBaLMmhbkL6RU2twg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4372605800",
+    "title": "Associate Software Engineer",
+    "company": "Cargill",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-cargill-4372605800?position=3&pageNum=97&refId=PxwiPhU5AMglGe6SaOH3nw%3D%3D&trackingId=P46bu1VuylA4YdxO8Ebh5w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE-JavwZhEueQ/company-logo_100_100/B56ZVIHolwGoAQ-/0/1740671715990/cargill_logo?e=2147483647&v=beta&t=RPlPp82xXXkRoQDn4nzjP9Bwsl_J6fJiIf6-9ZmVxZo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374730676",
+    "title": "Software Engineer II",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-microsoft-4374730676?position=7&pageNum=42&refId=Hy9ejAWwY%2F4LrI4EORL1vw%3D%3D&trackingId=QwhnuL6ETUrWEO%2BoLxjvOg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4373092940",
+    "title": "Web Developer",
+    "company": "Accenture services Pvt Ltd",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-accenture-services-pvt-ltd-4373092940?position=10&pageNum=47&refId=vHPP72IMYYL4%2B0nepP9fsw%3D%3D&trackingId=Ow1%2BjEIMXC4AkM0A3iNpcA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHeHXRmBrVsMw/img-crop_100/img-crop_100/0/1727546037692?e=2147483647&v=beta&t=tlvjKb8MI71XxJUHkN2ECInoR7g5fcz4W4M0mrD2H5k",
+    "lat": 0,
+    "lng": 0
   }
 ]
