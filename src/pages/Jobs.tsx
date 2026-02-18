@@ -21,6 +21,24 @@ export const Jobs = () => {
     const [error, setError] = useState<string | null>(null);
     const [viewMode, setViewMode] = useState<'list' | 'map'>('list');
     const [searchQuery, setSearchQuery] = useState('');
+    const [selectedLocation, setSelectedLocation] = useState<string>('');
+
+    const MAJOR_LOCATIONS = [
+        "Whitefield",
+        "Electronic City",
+        "HSR Layout",
+        "Koramangala",
+        "Indiranagar",
+        "Marathahalli",
+        "Bellandur",
+        "Hebbal",
+        "Jayanagar",
+        "JP Nagar",
+        "Sarjapur",
+        "Manyata Tech Park",
+        "Bagmane Tech Park",
+        "Ecospace"
+    ];
 
     useEffect(() => {
         const timestamp = new Date().getTime();
@@ -42,13 +60,104 @@ export const Jobs = () => {
             });
     }, []);
 
+    // Simplified coordinates for major districts - used for radial filtering
+    // This allows us to find jobs "near" a selected location even if the text doesn't match perfectly
+    const DISTRICT_COORDINATES: Record<string, { lat: number; lng: number }> = {
+        "Whitefield": { lat: 12.9698, lng: 77.7500 },
+        "Electronic City": { lat: 12.8399, lng: 77.6770 },
+        "HSR Layout": { lat: 12.9121, lng: 77.6446 },
+        "Koramangala": { lat: 12.9352, lng: 77.6245 },
+        "Indiranagar": { lat: 12.9784, lng: 77.6408 },
+        "Marathahalli": { lat: 12.9592, lng: 77.6974 },
+        "Bellandur": { lat: 12.9304, lng: 77.6784 },
+        "Hebbal": { lat: 13.0354, lng: 77.5988 },
+        "Jayanagar": { lat: 12.9308, lng: 77.5838 },
+        "JP Nagar": { lat: 12.9063, lng: 77.5857 },
+        "Sarjapur": { lat: 12.9116, lng: 77.6745 },
+        "Manyata Tech Park": { lat: 13.0490, lng: 77.6190 },
+        "Bagmane Tech Park": { lat: 12.9806, lng: 77.6647 },
+        "Ecospace": { lat: 12.9272, lng: 77.6773 },
+        "Domlur": { lat: 12.9606, lng: 77.6416 },
+        "BTM Layout": { lat: 12.9166, lng: 77.6101 },
+        "Brookefield": { lat: 12.9654, lng: 77.7185 },
+        "Varthur": { lat: 12.9389, lng: 77.7412 },
+        "Mahadevapura": { lat: 12.9875, lng: 77.6800 },
+        "Bannerghatta Road": { lat: 12.8943, lng: 77.5985 },
+        "CV Raman Nagar": { lat: 12.9855, lng: 77.6639 },
+        "KR Puram": { lat: 13.0031, lng: 77.7024 },
+        "Yelahanka": { lat: 13.1005, lng: 77.5963 },
+        "Rajajinagar": { lat: 12.9904, lng: 77.5532 },
+        "Malleshwaram": { lat: 13.0031, lng: 77.5643 },
+        "Banashankari": { lat: 12.9255, lng: 77.5468 },
+        "Ulsoor": { lat: 12.9817, lng: 77.6288 },
+        "Frazer Town": { lat: 12.9968, lng: 77.6130 },
+        "Kalyan Nagar": { lat: 13.0232, lng: 77.6436 },
+        "RT Nagar": { lat: 13.0247, lng: 77.5948 },
+        "Yeshwanthpur": { lat: 13.0253, lng: 77.5492 },
+        "Peenya": { lat: 13.0285, lng: 77.5197 },
+        "Richmond Road": { lat: 12.9667, lng: 77.6094 },
+        "MG Road": { lat: 12.9756, lng: 77.6066 },
+        "Brigade Road": { lat: 12.9709, lng: 77.6074 },
+        "Kaggadasapura": { lat: 12.9847, lng: 77.6775 },
+        "Harlur": { lat: 12.9079, lng: 77.6569 },
+        "Kudlu Gate": { lat: 12.8931, lng: 77.6406 },
+        "Silk Board": { lat: 12.9177, lng: 77.6233 },
+        "Bommanahalli": { lat: 12.9080, lng: 77.6240 },
+        "Hoodi": { lat: 12.9922, lng: 77.7159 },
+        "ITPL": { lat: 12.9877, lng: 77.7378 },
+        "Kadubeesanahalli": { lat: 12.9351, lng: 77.6947 },
+        "Kundalahalli": { lat: 12.9698, lng: 77.7126 },
+        "AECS Layout": { lat: 12.9634, lng: 77.7126 },
+        "Hennur": { lat: 13.0375, lng: 77.6369 }
+    };
+
+    // Calculate distance properly using Haversine needed? 
+    // For small filters, simple Euclidean distance on lat/lng is sufficient and faster
+    const isWithinRadius = (jobLat: number, jobLng: number, targetLat: number, targetLng: number, radiusKm: number = 3) => {
+        // Approx 1 degree lat = 110.574 km
+        const latDiff = Math.abs(jobLat - targetLat) * 110.574;
+        // Approx 1 degree lng at 13 deg N = 111.320*cos(13) = ~108 km
+        const lngDiff = Math.abs(jobLng - targetLng) * 108.0;
+
+        return Math.sqrt(latDiff * latDiff + lngDiff * lngDiff) <= radiusKm;
+    };
+
     const filteredJobs = jobs.filter(job => {
         const query = searchQuery.toLowerCase();
-        return (
+        const matchesSearch = (
             job.title.toLowerCase().includes(query) ||
             job.company.toLowerCase().includes(query) ||
             job.location.toLowerCase().includes(query)
         );
+
+        let matchesLocation = true;
+        if (selectedLocation) {
+            const lowerLoc = selectedLocation.toLowerCase();
+
+            // 1. Check String Match first (Text Filter)
+            const textMatch = job.location.toLowerCase().includes(lowerLoc);
+
+            // 2. Check Coordinate Match (Spatial Filter)
+            let coordMatch = false;
+            // Only use coordinate filter if the job has valid coordinates and is NOT the generic Bangalore center
+            const hasValidCoords = job.lat && job.lng && job.lat !== 0 && job.lng !== 0;
+            const isGenericBangalore = hasValidCoords && Math.abs(job.lat! - 12.9716) < 0.005 && Math.abs(job.lng! - 77.5946) < 0.005;
+
+            if (hasValidCoords && !isGenericBangalore && DISTRICT_COORDINATES[selectedLocation]) {
+                const target = DISTRICT_COORDINATES[selectedLocation];
+                // Use 4km radius for "nearby" jobs
+                coordMatch = isWithinRadius(job.lat!, job.lng!, target.lat, target.lng, 4);
+            }
+
+            matchesLocation = textMatch || coordMatch;
+
+            // Special case for generic "Bengaluru" text matches if no specific location selected
+            if (!matchesLocation && lowerLoc === 'bengaluru') {
+                matchesLocation = job.location.toLowerCase().includes('bengaluru') || job.location.toLowerCase().includes('bangalore');
+            }
+        }
+
+        return matchesSearch && matchesLocation;
     });
 
     if (loading) {
@@ -77,29 +186,46 @@ export const Jobs = () => {
                     </p>
                 </div>
 
-                <div className="flex items-center gap-3 bg-white dark:bg-gray-800 p-1.5 rounded-lg border border-gray-200 dark:border-gray-700 shadow-sm">
-                    <button
-                        onClick={() => setViewMode('list')}
-                        className={`p-2 rounded-md transition-all ${
-                            viewMode === 'list'
-                                ? 'bg-blue-100 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400 shadow-sm'
+                <div className="flex items-center gap-3">
+                    {/* Location Filter Dropdown */}
+                    <div className="relative">
+                        <select
+                            value={selectedLocation}
+                            onChange={(e) => setSelectedLocation(e.target.value)}
+                            className="appearance-none bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 text-gray-700 dark:text-gray-300 py-2 pl-4 pr-8 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-sm font-medium transition-colors cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700"
+                        >
+                            <option value="">All Locations</option>
+                            {MAJOR_LOCATIONS.map(loc => (
+                                <option key={loc} value={loc}>{loc}</option>
+                            ))}
+                        </select>
+                        <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-500 dark:text-gray-400">
+                            <MapPin size={14} />
+                        </div>
+                    </div>
+
+                    <div className="flex items-center gap-1 bg-white dark:bg-gray-800 p-1 rounded-lg border border-gray-200 dark:border-gray-700 shadow-sm">
+                        <button
+                            onClick={() => setViewMode('list')}
+                            className={`p-2 rounded-md transition-all ${viewMode === 'list'
+                                ? 'bg-blue-50 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400 shadow-sm'
                                 : 'text-gray-500 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-700'
-                        }`}
-                        title="List View"
-                    >
-                        <List size={20} />
-                    </button>
-                    <button
-                        onClick={() => setViewMode('map')}
-                        className={`p-2 rounded-md transition-all ${
-                            viewMode === 'map'
-                                ? 'bg-blue-100 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400 shadow-sm'
+                                }`}
+                            title="List View"
+                        >
+                            <List size={18} />
+                        </button>
+                        <button
+                            onClick={() => setViewMode('map')}
+                            className={`p-2 rounded-md transition-all ${viewMode === 'map'
+                                ? 'bg-blue-50 text-blue-600 dark:bg-blue-900/30 dark:text-blue-400 shadow-sm'
                                 : 'text-gray-500 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-700'
-                        }`}
-                        title="Map View"
-                    >
-                        <MapIcon size={20} />
-                    </button>
+                                }`}
+                            title="Map View"
+                        >
+                            <MapIcon size={18} />
+                        </button>
+                    </div>
                 </div>
             </div>
 

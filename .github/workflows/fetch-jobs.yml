@@ -42,7 +42,7 @@ jobs:
           github.event_name == 'workflow_dispatch'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-            commit_message: "chore: update job listings [skip ci]"
+            commit_message: "chore: update job listings"
             file_pattern: public/jobs.json
       
       - name: Geocode Jobs
@@ -55,5 +55,5 @@ jobs:
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update jobs list [skip ci]"
+          commit_message: "chore: update jobs list"
           file_pattern: public/jobs.json public/location-cache.json

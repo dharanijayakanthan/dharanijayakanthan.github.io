@@ -1,5 +1,5 @@
 import { type ReactNode, useState, useEffect } from 'react';
-import { NavLink, useLocation } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import { clsx, type ClassValue } from 'clsx';
 import { twMerge } from 'tailwind-merge';
 import { Moon, Sun, Menu, X } from 'lucide-react';
@@ -15,34 +15,44 @@ interface LayoutProps {
 export const Layout = ({ children }: LayoutProps) => {
   const [darkMode, setDarkMode] = useState(() => {
     if (typeof window !== 'undefined') {
-      const savedTheme = localStorage.getItem('theme');
-      if (savedTheme) {
-        return savedTheme === 'dark';
+      try {
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme) {
+          return savedTheme === 'dark';
+        }
+        return window.matchMedia('(prefers-color-scheme: dark)').matches;
+      } catch (e) {
+        // Fallback if localStorage access fails
+        console.warn('LocalStorage access failed:', e);
+        return false;
       }
-      return window.matchMedia('(prefers-color-scheme: dark)').matches;
     }
     return false;
   });
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
-  const location = useLocation();
+  // Removed useLocation dependency for menu closing to avoid race conditions
 
   useEffect(() => {
     if (darkMode) {
       document.documentElement.classList.add('dark');
-      localStorage.setItem('theme', 'dark');
+      try {
+        localStorage.setItem('theme', 'dark');
+      } catch (e) { /* ignore */ }
     } else {
       document.documentElement.classList.remove('dark');
-      localStorage.setItem('theme', 'light');
+      try {
+        localStorage.setItem('theme', 'light');
+      } catch (e) { /* ignore */ }
     }
   }, [darkMode]);
 
-  // Close mobile menu on route change
-  useEffect(() => {
-    if (isMobileMenuOpen) {
-      // eslint-disable-next-line react-hooks/set-state-in-effect
-      setIsMobileMenuOpen(false);
-    }
-  }, [location, isMobileMenuOpen]);
+  const toggleMenu = () => {
+    setIsMobileMenuOpen(prev => !prev);
+  };
+
+  const closeMenu = () => {
+    setIsMobileMenuOpen(false);
+  };
 
   const navItems = [
     { path: '/', label: 'Home' },
@@ -60,7 +70,13 @@ export const Layout = ({ children }: LayoutProps) => {
 
             {/* Logo */}
             <div className="flex-shrink-0 flex items-center">
-              <NavLink to="/" className="font-bold text-xl tracking-tight dark:text-white">Dharani Jayakanthan</NavLink>
+              <NavLink
+                to="/"
+                className="font-bold text-xl tracking-tight dark:text-white"
+                onClick={closeMenu}
+              >
+                Dharani Jayakanthan
+              </NavLink>
             </div>
 
             {/* Desktop Navigation */}
@@ -96,8 +112,8 @@ export const Layout = ({ children }: LayoutProps) => {
 
               {/* Mobile Menu Button */}
               <button
-                onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-                className="sm:hidden p-2 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500 dark:text-gray-200"
+                onClick={toggleMenu}
+                className="sm:hidden p-2 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500 dark:text-gray-200 touch-manipulation"
                 aria-label="Toggle menu"
               >
                 {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
@@ -114,6 +130,7 @@ export const Layout = ({ children }: LayoutProps) => {
                 <NavLink
                   key={item.path}
                   to={item.path}
+                  onClick={closeMenu}
                   className={({ isActive }) =>
                     cn(
                       "block px-3 py-2 rounded-md text-base font-medium transition-colors",
