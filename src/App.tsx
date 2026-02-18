@@ -1,9 +1,9 @@
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
 import { Layout } from './components/Layout';
-import { Home } from './pages/Home';
-import { Work } from './pages/Work';
-import { Lab } from './pages/Lab';
-import Products from './pages/Products';
+// import { Home } from './pages/Home';
+// import { Work } from './pages/Work';
+// import { Lab } from './pages/Lab';
+// import Products from './pages/Products';
 import { Jobs } from './pages/Jobs';
 import { AnimatePresence } from 'framer-motion';
 import { useEffect } from 'react';
