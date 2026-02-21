@@ -3924,6 +3924,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4370407366",
+    "title": "Embedded Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-09",
+    "link": "https://in.linkedin.com/jobs/view/embedded-software-engineer-at-cisco-4370407366?position=6&pageNum=97&refId=oATICk07LQaAROd5mGF7jg%3D%3D&trackingId=wZj%2FvV9ISH94UhHft9wCBQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4340248642",
     "title": "Software Engineer 3 - Frontend",
     "company": "eBay",
@@ -5011,6 +5022,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNqJip6BEwGw/company-logo_100_100/company-logo_100_100/0/1688367507340/tesco_bengaluru_logo?e=2147483647&v=beta&t=RNhSg7-j-lU4JLvK8r-VtORAikcZ6GcI8M0sqJiRom4",
     "lat": 12.9736991,
     "lng": 77.7285752
+  },
+  {
+    "id": "urn:li:jobPosting:4287515091",
+    "title": "Frontend Developer",
+    "company": "Enterprise Minds, Inc",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-05",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-enterprise-minds-inc-4287515091?position=10&pageNum=5&refId=6iLHkCrEMbJ0sYG1IK542w%3D%3D&trackingId=gjgi%2FuPQo80%2BLvAp%2BuUcKA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEdSt1xh6nv-Q/company-logo_100_100/company-logo_100_100/0/1672503964472/enterpriseminds_logo?e=2147483647&v=beta&t=eV6srB3OcpNYRtuxj8o-1lPAFvTKdvNvIwaVl78jimA",
+    "lat": 0,
+    "lng": 0
   },
   {
     "title": "FRONT END DEVELOPER",
@@ -14302,5 +14324,85 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHYokqjriedMQ/company-logo_100_100/company-logo_100_100/0/1630672264520/practo_technologies_pvt_ltd_logo?e=2147483647&v=beta&t=xgMRqCSIlt9Kjog7c3Q1_5ZTkLzDVF_p2zJnWoZ4U8U",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4374932223",
+    "title": "React Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4374932223?position=9&pageNum=27&refId=PaZMiQMxd8%2FYYVet9FrZYQ%3D%3D&trackingId=vBvAHhUYJwEh3fojWObI5w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374924163",
+    "title": "Software Development Engineer II, Frontend",
+    "company": "Observe.AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-frontend-at-observe-ai-4374924163?position=3&pageNum=67&refId=GCB8kYsUAaRrg4NKwxoY9w%3D%3D&trackingId=ehPcdcl%2FRFRid7Rpig7dIQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEikpv0408BzQ/company-logo_100_100/company-logo_100_100/0/1730929317508/observeai_logo?e=2147483647&v=beta&t=iWp8nUWjUur3fisfr3BvjmggMqy12IkeHUlQqq9hdJ0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374921485",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4374921485?position=3&pageNum=70&refId=VgtW72sNTZygb2a22kQkYw%3D%3D&trackingId=A3ITWoFZ28hRdisivUn5aA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374924409",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4374924409?position=5&pageNum=75&refId=UgwoNb9UiEyJMIGlva5uVQ%3D%3D&trackingId=cX0RLy9WormLfudpWEQ%2FCA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374933355",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4374933355?position=8&pageNum=17&refId=A1m0QjyCQeCkO4%2F5S8TijA%3D%3D&trackingId=EhsbQfQTY5J9EDLi8Anb0g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374918630",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4374918630?position=1&pageNum=30&refId=sEz9cG2JQjIyzaZtbbakeA%3D%3D&trackingId=AByogXxSTZ1N7zrvkiQjNw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374925417",
+    "title": "React Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4374925417?position=2&pageNum=30&refId=sEz9cG2JQjIyzaZtbbakeA%3D%3D&trackingId=OiX%2BBTdSb9Lb3%2FNGd8UoaA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374689437",
+    "title": "Javascript Developer",
+    "company": "People Prime Worldwide",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/javascript-developer-at-people-prime-worldwide-4374689437?position=1&pageNum=60&refId=dr9n%2BohohHadEstnfxCzpw%3D%3D&trackingId=uEubTgwMJVIqz8NE11F1CA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFXMNnAtaU2qA/company-logo_100_100/company-logo_100_100/0/1738582300818/peopleprimeww_logo?e=2147483647&v=beta&t=46Euex735XHnnSL-4JCCUWosRqNQHcuDHCtDgn3B-XU",
+    "lat": 0,
+    "lng": 0
   }
 ]
