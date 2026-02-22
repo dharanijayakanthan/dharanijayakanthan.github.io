@@ -77,6 +77,50 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4375167079",
+    "title": "Remote JavaScript Engineer",
+    "company": "Turing",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-19",
+    "link": "https://in.linkedin.com/jobs/view/remote-javascript-engineer-at-turing-4375167079?position=10&pageNum=95&refId=WPZ7Yvb3BK3oXNFOS6PZMQ%3D%3D&trackingId=XPaCaqF29ekd1isx9OZ%2FLQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEMzTP7ySRl1w/company-logo_100_100/B4DZraOH1PGgAQ-/0/1764597727124?e=2147483647&v=beta&t=cantgcA-j0iG-Xjuff93LI7KVJx677N_2JBYHhtRa5Q",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4373677185",
+    "title": "Software development Engineer II",
+    "company": "Tesco Bengaluru",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-19",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-tesco-bengaluru-4373677185?position=4&pageNum=82&refId=8DkeD%2BmjlqX3bVqcp3p8MQ%3D%3D&trackingId=aQuxfhjezuKvTTypeWTnOQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNqJip6BEwGw/company-logo_100_100/company-logo_100_100/0/1688367507340/tesco_bengaluru_logo?e=2147483647&v=beta&t=RNhSg7-j-lU4JLvK8r-VtORAikcZ6GcI8M0sqJiRom4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4375110107",
+    "title": "Software Engineer",
+    "company": "A.P. Moller - Maersk",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-19",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-a-p-moller-maersk-4375110107?position=8&pageNum=85&refId=MF8r2rDXB7hNaCBazoLtBQ%3D%3D&trackingId=%2FbqK678BessejAkM7tjxkA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFxaOJ8VzplhA/company-logo_100_100/company-logo_100_100/0/1630463556967/maersk_group_logo?e=2147483647&v=beta&t=YrP30ynaVz8K1BQU2Ap7mlV4Hx_xpRFYBVrVAd03m5A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4375180821",
+    "title": "Software Engineer - Application Development",
+    "company": "Societe Generale Global Solution Centre",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-19",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-application-development-at-societe-generale-global-solution-centre-4375180821?position=7&pageNum=95&refId=9RDxlJt44h4OS1%2BntIJlpg%3D%3D&trackingId=A68m464oEGJ%2B3Wqs2IiNOQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQFwBvGQK2NyEA/company-logo_100_100/company-logo_100_100/0/1630620434106/societe_generale_global_solution_centre_logo?e=2147483647&v=beta&t=JLVeP7Wt4mveji2MHGGJKTK-7LZYVstKBki3yCG64XA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4374445558",
     "title": "Software Dev Engineer",
     "company": "Amazon",
@@ -14543,5 +14587,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGRhsociEn4gQ/company-logo_100_100/company-logo_100_100/0/1631367875582?e=2147483647&v=beta&t=bk_i8KnJwZyUrbBXvWK0NMb6W3nPq64rupEGTrKvxYU",
     "lat": 12.9376679,
     "lng": 77.6283031
+  },
+  {
+    "id": "urn:li:jobPosting:4376336662",
+    "title": "Software Engineer, Frontend/Fullstack",
+    "company": "WisdomAI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-frontend-fullstack-at-wisdomai-4376336662?position=6&pageNum=52&refId=8zs213AVxYuF954cgJmcTg%3D%3D&trackingId=HM5vNY93szuGXR6Ydq5zow%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEbpNIUrVJkVg/company-logo_100_100/company-logo_100_100/0/1724189821639/wisdomai_inc_logo?e=2147483647&v=beta&t=21OB-2hnbO24zmnkLFEQ_rctFfQ5baZwRhRQIVPSnUA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4325424939",
+    "title": "Software Engineer III - Fullstack Java React",
+    "company": "hackajob",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-fullstack-java-react-at-hackajob-4325424939?position=8&pageNum=65&refId=U2VDRRAppgxG48hmPsx1Xw%3D%3D&trackingId=4MHp8GZqMmfyOdMeYQGaRw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGuQDG4JgJVhQ/company-logo_100_100/B4DZxrAcO2G8AY-/0/1771321807998/hackajob_logo?e=2147483647&v=beta&t=1355cxQCALa8e7tv9UZFHOazQBJXxdxsrW4-12AAyMM",
+    "lat": 0,
+    "lng": 0
   }
 ]
