@@ -297,6 +297,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4374499646",
+    "title": "Software Development Engineer, Prime Video App Experience",
+    "company": "Prime Video & Amazon MGM Studios",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-18",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-prime-video-app-experience-at-prime-video-amazon-mgm-studios-4374499646?position=8&pageNum=92&refId=vj%2B41E3n331%2B6sJNIcZkfA%3D%3D&trackingId=eZ0uX49La%2FjuptFzZvAkcw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE3da6YmLiQYQ/company-logo_100_100/company-logo_100_100/0/1722273903446/primevideoamazonstudios_logo?e=2147483647&v=beta&t=pZW0Sc5dMRQbDL4tGtiLPwCKVsGZogSwTqyQbVGt0d4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4375009796",
+    "title": "ASIC Design Engineer || RTL Design/Front-end/Lint/CDC || 4 to 6 years",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-18",
+    "link": "https://in.linkedin.com/jobs/view/asic-design-engineer-rtl-design-front-end-lint-cdc-4-to-6-years-at-cisco-4375009796?position=2&pageNum=90&refId=RC4IaZJ9GuntExWXdAycHw%3D%3D&trackingId=DZ4zBQhjrgO34FIKXRWcOA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4372823802",
     "title": "Java Angular Developer",
     "company": "Infosys",
@@ -4065,6 +4087,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
     "lat": 12.9740345,
     "lng": 77.6174204
+  },
+  {
+    "id": "urn:li:jobPosting:4370225323",
+    "title": "Software Engineer",
+    "company": "Element Solutions Inc",
+    "location": "Devanahalli, Karnataka, India",
+    "date": "2026-02-09",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-element-solutions-inc-4370225323?position=8&pageNum=97&refId=oIc%2FFm31SkdGYopa7D9FqQ%3D%3D&trackingId=MXoI9MZ4v7zpZOaFj91dRQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQERPMh1Bexn7w/company-logo_100_100/company-logo_100_100/0/1630604315124/element_solutions_inc_logo?e=2147483647&v=beta&t=HP-c8Ib7wgf_-g72VQJGoba8daKuiWeAe_GLFASXFB8",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4340248642",
@@ -14730,5 +14763,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHeHXRmBrVsMw/img-crop_100/img-crop_100/0/1727546037692?e=2147483647&v=beta&t=tlvjKb8MI71XxJUHkN2ECInoR7g5fcz4W4M0mrD2H5k",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4374998311",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4374998311?position=3&pageNum=17&refId=SNL209atIQy6diPfMGGv5w%3D%3D&trackingId=6ZekQl%2FL%2BEcNGxhgNYsn0A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374973949",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4374973949?position=2&pageNum=70&refId=mTA8L7zlQhNDKPvPhobO0Q%3D%3D&trackingId=No4pWyWMJXa3%2BqD8oYRpfQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4345425442",
+    "title": "Software Development Engineer - II, Sales Technology",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-sales-technology-at-amazon-4345425442?position=8&pageNum=97&refId=jh2SEniopCPDQX0kekc%2Bmg%3D%3D&trackingId=7e5Gj%2BhYpIUQm7yHki7iKw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4344980193",
+    "title": "Software Engineer 3",
+    "company": "Nexthink",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-3-at-nexthink-4344980193?position=10&pageNum=97&refId=oIc%2FFm31SkdGYopa7D9FqQ%3D%3D&trackingId=Bt%2BXZY8416lx6MCbAHINDQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG89k5gaaPJNg/company-logo_100_100/company-logo_100_100/0/1630473071483/nexthink_logo?e=2147483647&v=beta&t=ET4pBuRCpjdNLozHTeeb8gLlCX0AWGUgDhRa_wDMxqQ",
+    "lat": 0,
+    "lng": 0
   }
 ]
