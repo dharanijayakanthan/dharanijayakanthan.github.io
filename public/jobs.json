@@ -121,6 +121,28 @@
     "lng": 77.6917293
   },
   {
+    "id": "urn:li:jobPosting:4375817138",
+    "title": "Software Dev Engineer II",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-20",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-at-amazon-4375817138?position=9&pageNum=97&refId=jXEzUKkZgEzFi3SxSRQMQQ%3D%3D&trackingId=QslbMypNR2T%2B2q2%2FMPupbg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374365946",
+    "title": "Software Engineer",
+    "company": "Simple, a Netsmart solution",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-20",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-simple-a-netsmart-solution-4374365946?position=7&pageNum=97&refId=HyICJ8NUSWTfDQltDo0DoA%3D%3D&trackingId=ZQp6Qfjoe1MYp0%2FymNHtQQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFZ7xeGiMTmtA/company-logo_100_100/company-logo_100_100/0/1656342037588/simpleltc_logo?e=2147483647&v=beta&t=brN3rSkso1M96VTFoiaAmFTf6VvEJ7PwFUninbz8jTI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4374064138",
     "title": "Javascript Developer",
     "company": "Superleap",
@@ -6484,6 +6506,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEebsyJEmdNnA/company-logo_100_100/company-logo_100_100/0/1719822082273/qinecsa_solutions_logo?e=2147483647&v=beta&t=FW2LTpU5hwWRI2Y_uZqBMgUAwKclGXHOi6s61bhe13A",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4368081587",
+    "title": "Software Development Engineer",
+    "company": "Flexera",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-03",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-at-flexera-4368081587?position=2&pageNum=90&refId=efLe72bIRddwvAjl6jJkrA%3D%3D&trackingId=kEpErErGwq9y0zlo580PkA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHuV9pp9rPloA/company-logo_100_100/company-logo_100_100/0/1721043087967/flexera_logo?e=2147483647&v=beta&t=XUEoo7aeqLCZoHxfXaXoDonI2ryws7J2mjUc5rPaZTU",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4368182979",
@@ -14968,5 +15001,125 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG89k5gaaPJNg/company-logo_100_100/company-logo_100_100/0/1630473071483/nexthink_logo?e=2147483647&v=beta&t=ET4pBuRCpjdNLozHTeeb8gLlCX0AWGUgDhRa_wDMxqQ",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4376569203",
+    "title": "Frontend developer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-capgemini-4376569203?position=4&pageNum=2&refId=NNUHdSTdEy7zenp35Z5drw%3D%3D&trackingId=fmAYfP0XRXPC7lY7jCDSLw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4375358255",
+    "title": "React Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4375358255?position=8&pageNum=20&refId=Zpsig%2Fq8Oa%2BOrmIsC3P73A%3D%3D&trackingId=QoqfW9iI8OJCNL8ESIR3GA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4375367104",
+    "title": "React Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4375367104?position=10&pageNum=30&refId=SicZYNGXwEZKaQdcHHYfJA%3D%3D&trackingId=%2BLfAJY%2BTfRhxZUXPNQobqg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4375340728",
+    "title": "Frontend Developer",
+    "company": "JuiceLabs AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-juicelabs-ai-4375340728?position=10&pageNum=40&refId=gN1giMf4LRwvcHRrPGTP5A%3D%3D&trackingId=Ir9Oa4IX9uYweTdJKyRdfg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH-6Sq5YwFYSw/company-logo_100_100/B4DZX1T5LvG8AQ-/0/1743577389903/juicelabs_ai_logo?e=2147483647&v=beta&t=lOoWhWccm_3OhZkuzzqb7zHOd6X70dsVA2RrWw5B8o0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4375357050",
+    "title": "React Developer",
+    "company": "Wissen Technology",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-wissen-technology-4375357050?position=4&pageNum=50&refId=EtZxcnHxjWbwcUfro0sMHw%3D%3D&trackingId=4xdzCLQKbKy24wccQQu1KA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEUGPCnR9sT7g/company-logo_100_100/company-logo_100_100/0/1736152842225/wissen_technology_logo?e=2147483647&v=beta&t=-Xik1h_R143EsfZeR39aL0CjAoS0Ib1p9pxQHG1iigo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4375361148",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4375361148?position=2&pageNum=70&refId=lBYkWzcK3mxAJxxdbsASNQ%3D%3D&trackingId=9W3YJzkp1sNciBcmbqwFcg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4375334899",
+    "title": "UI / Frontend Developer (ReactJS)",
+    "company": "Galaxy i technologies Inc",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ui-frontend-developer-reactjs-at-galaxy-i-technologies-inc-4375334899?position=6&pageNum=65&refId=OsR3UvgMEymCTAIiRc2IKg%3D%3D&trackingId=RppED%2BLNYTBoL3b2yf536Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEfXm--G7Y_4w/company-logo_100_100/company-logo_100_100/0/1656070886179/galaxy_i_technologies__logo?e=2147483647&v=beta&t=j7lktcR5I-LSl8rLOeU6PPfhMkm8ZkHWJOiqkvLejk0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4375387868",
+    "title": "Associate Software Engineer",
+    "company": "Flexera",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-flexera-4375387868?position=5&pageNum=80&refId=j2BnK%2FSI1knDH2ktkq8clg%3D%3D&trackingId=52GVnYk78Hcgu7%2BdvNjQGA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHuV9pp9rPloA/company-logo_100_100/company-logo_100_100/0/1721043087967/flexera_logo?e=2147483647&v=beta&t=XUEoo7aeqLCZoHxfXaXoDonI2ryws7J2mjUc5rPaZTU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4359924264",
+    "title": "Detail Engineer – Software (Robotics and Industrial Automation)",
+    "company": "Larsen & Toubro",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/detail-engineer-%E2%80%93-software-robotics-and-industrial-automation-at-larsen-toubro-4359924264?position=3&pageNum=97&refId=jXEzUKkZgEzFi3SxSRQMQQ%3D%3D&trackingId=7ixiNYz5j0smFsPp31yqsw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFnEYpR8MlYsA/company-logo_100_100/company-logo_100_100/0/1631300737624?e=2147483647&v=beta&t=XwrPkxNIwc_l-G-D6Dfak1uo1oK-wEZfcwpUN3QD9WQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4376582095",
+    "title": "Software Engineer",
+    "company": "Akamai Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-akamai-technologies-4376582095?position=9&pageNum=77&refId=iffshqfJPY1Ol1oQrr2vsA%3D%3D&trackingId=ovpqs5xMuS66bvow9r9mUg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHpsdQkVIn86g/company-logo_100_100/B4EZiajPQ8GUAY-/0/1754939585924/akamai_technologies_logo?e=2147483647&v=beta&t=WHeaHbxtgBmtwi9Yo1Pql0PFCURZ-m3YjA9c8t3rKtM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4376555355",
+    "title": "Software Engineer",
+    "company": "Chubb",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-chubb-4376555355?position=8&pageNum=45&refId=91SeSQoxRhO0ZAGAecnKng%3D%3D&trackingId=ZgNkFXI7EAYWkyLeKTimAQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEAl4UqQUBngw/company-logo_100_100/B4EZp.iTGWHUAQ-/0/1763059512052/chubb_logo?e=2147483647&v=beta&t=lh21Rj4ekgDwfPVISgfQMEz2A_cUGIhUD47Z9-dI7fs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4376548893",
+    "title": "Senior Software Engineer - Node.js",
+    "company": "Roku",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-node-js-at-roku-4376548893?position=1&pageNum=72&refId=3yeJ4jTcx83ByvKxvGQQmA%3D%3D&trackingId=NtrbKXdZiiV5Tmw53mkC1w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwtnEFj0grWQ/company-logo_100_100/B56ZaxohrVH0AU-/0/1746736913380/roku_logo?e=2147483647&v=beta&t=rlz3iSQYwGeir-xgrxNGxQJ9v_dNYWJiqDBsqHkr7L8",
+    "lat": 0,
+    "lng": 0
   }
 ]
