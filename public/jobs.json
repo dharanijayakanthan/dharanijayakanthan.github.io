@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4374969260",
+    "title": "Software Engineer",
+    "company": "Siemens",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-22",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-siemens-4374969260?position=7&pageNum=90&refId=JE2BwdQRDEwOeUmyvGbCeQ%3D%3D&trackingId=%2FFMkjhHhGXvfjN8G3q7QaA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_100_100/company-logo_100_100/0/1719931174735/siemens_logo?e=2147483647&v=beta&t=iNZVOYYuYOnkz09IBCFrK9Ik8uTqP6ZDnhCEJjPouV4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4375867274",
     "title": "Software Engineer",
     "company": "Infinite Computer Solutions",
@@ -64,6 +75,50 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQE-JavwZhEueQ/company-logo_100_100/B56ZVIHolwGoAQ-/0/1740671715990/cargill_logo?e=2147483647&v=beta&t=RPlPp82xXXkRoQDn4nzjP9Bwsl_J6fJiIf6-9ZmVxZo",
     "lat": 13.1068089,
     "lng": 77.577749
+  },
+  {
+    "id": "urn:li:jobPosting:4375680878",
+    "title": "Frontend Developer (SDE-1)",
+    "company": "LimeChat",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-20",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-sde-1-at-limechat-4375680878?position=10&pageNum=0&refId=DHNOuzCzLzF2l2A%2B6zwZZg%3D%3D&trackingId=QzFo2I%2Ba2etaFQaLeHP4EQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH3B_KN1fResw/company-logo_100_100/company-logo_100_100/0/1630628659891/limechat_logo?e=2147483647&v=beta&t=uu0GOpBps0Rr-64atyU8ZMkeduYojBboF8Gjpq6kbFM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4373116466",
+    "title": "Senior Frontend Engineer",
+    "company": "Empower India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-20",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-at-empower-india-4373116466?position=8&pageNum=80&refId=y%2BqWRHM9z6y3Y5HpvfLYqg%3D%3D&trackingId=7lRXvrJgf%2FDA%2BvmLNpMqKA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQETBZSIS5vqqw/company-logo_100_100/company-logo_100_100/0/1657569254292/empower_india_logo?e=2147483647&v=beta&t=9zSjkk6FyT7_5hKKz1NzqRuXBNZio4MR0dqLNcGDlHE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4375621329",
+    "title": "Software Dev Engineer II",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-20",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-at-amazon-4375621329?position=2&pageNum=85&refId=P%2Bb5oBfo3mK4qzfcm5r%2FAQ%3D%3D&trackingId=Di%2BGHxXgMiOmmihH5vTUeg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374382502",
+    "title": "Software Engineer Manager, YouTube",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-20",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-manager-youtube-at-google-4374382502?position=5&pageNum=97&refId=nB4i3LTmnoDxMaQaqIhEqA%3D%3D&trackingId=1qKjktYk0OLTFMNeIsed6g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4374064138",
@@ -174,6 +229,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
     "lat": 12.982827,
     "lng": 77.6917293
+  },
+  {
+    "id": "urn:li:jobPosting:4374061585",
+    "title": "Senior Software Engineer, Analytics, Google One",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-19",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-analytics-google-one-at-google-4374061585?position=9&pageNum=82&refId=TvTuAvBJRQYGCxtT%2Fht%2BBQ%3D%3D&trackingId=akUXXrI1KyU%2BP%2BfTw7%2Fxww%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4374059616",
+    "title": "Software Engineer III, Mobile, Google Photos",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-19",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-mobile-google-photos-at-google-4374059616?position=9&pageNum=97&refId=nB4i3LTmnoDxMaQaqIhEqA%3D%3D&trackingId=4CbI%2FMLzi4QQLuXaNKHa3Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4374445558",
@@ -5275,6 +5352,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQHzCj5jr24FAg/company-logo_100_100/company-logo_100_100/0/1630622441363/infogain_logo?e=2147483647&v=beta&t=jf09L5g5b5zSK_wC3RTEXlCxLDydzyX-ENIbGDiAz-U",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4335195629",
+    "title": "Staff Software Development Engineer",
+    "company": "Zscaler",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-02-05",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-development-engineer-at-zscaler-4335195629?position=8&pageNum=45&refId=QDedhi89d0E2Gu6t2tUgrA%3D%3D&trackingId=7%2Bb%2FjojgoG2komV%2FqybJWg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHswWh4VGNL3A/company-logo_100_100/B56Za2TSlsGoAU-/0/1746815232721/zscaler_logo?e=2147483647&v=beta&t=gv_C-RT17Wc3oLJxwyhI_zPbl25Fqaij10h8zQeiUzA",
+    "lat": 0,
+    "lng": 0
   },
   {
     "title": "FRONT END DEVELOPER",
@@ -11022,6 +11110,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQFPyJeBFIexyQ/company-logo_100_100/company-logo_100_100/0/1630659188202/altisource_logo?e=2147483647&v=beta&t=own0I1uOTopgUcM42tu_l6lvvMZ29hJxYIqbuV_LvXI",
     "lat": 12.9230175,
     "lng": 77.6798965
+  },
+  {
+    "id": "urn:li:jobPosting:4318327982",
+    "title": "Software Engineer/Sr. Software Engineer (Full Stack Developer)",
+    "company": "AaNeel",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-10-24",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-sr-software-engineer-full-stack-developer-at-aaneel-4318327982?position=9&pageNum=85&refId=4Ks0XTptXRbpxABN6EQPJQ%3D%3D&trackingId=B%2F%2FvMxhgPhLFSTuIxUL5Zw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHsNS-vI8y_eA/company-logo_100_100/company-logo_100_100/0/1637242068779/aaneel_technology_solutions_logo?e=2147483647&v=beta&t=nNCYJOiaz8hAqVdmmALlVnFf2ervpeOkps8yzbona_c",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4318504511",
