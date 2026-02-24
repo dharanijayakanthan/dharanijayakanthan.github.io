@@ -5,7 +5,8 @@ import { Moon, Sun } from 'lucide-react';
 
 
 export const HabitLayout = ({ children }: { children: React.ReactNode }) => {
-  const { theme, setTheme } = useHabitStore();
+  const { currentUser, users, setTheme } = useHabitStore();
+  const theme = (currentUser && users[currentUser]?.theme) || 'light';
 
   useEffect(() => {
     // Sync with store
@@ -25,7 +26,7 @@ export const HabitLayout = ({ children }: { children: React.ReactNode }) => {
       >
         {theme === 'dark' ? <Sun size={20} /> : <Moon size={20} />}
       </button>
-      <main className="w-full max-w-xl mx-auto min-h-screen px-4 py-6 md:py-12 relative flex flex-col">
+      <main className="w-full max-w-xl md:max-w-7xl mx-auto min-h-screen px-4 py-6 md:py-12 relative flex flex-col">
         {children}
       </main>
     </div>

@@ -1,5 +1,5 @@
 import { motion, AnimatePresence } from 'framer-motion';
-import { X, Plus, Trash2, History } from 'lucide-react';
+import { X, Plus, Trash2, History, Pencil, Check } from 'lucide-react';
 import { useState, useEffect } from 'react';
 import { useHabitStore } from '../../lib/habitStore';
 import { createPortal } from 'react-dom';
@@ -10,8 +10,11 @@ interface SettingsPanelProps {
 }
 
 export const SettingsPanel = ({ isOpen, onClose }: SettingsPanelProps) => {
-    const { habits, addHabit, removeHabit } = useHabitStore();
+    const { currentUser, users, addHabit, removeHabit, updateHabit } = useHabitStore();
+    const habits = (currentUser && users[currentUser]?.habits) || [];
     const [newHabit, setNewHabit] = useState('');
+    const [editingId, setEditingId] = useState<string | null>(null);
+    const [editName, setEditName] = useState('');
     const [isMobile, setIsMobile] = useState(false);
 
     useEffect(() => {
@@ -25,6 +28,18 @@ export const SettingsPanel = ({ isOpen, onClose }: SettingsPanelProps) => {
         if (newHabit.trim()) {
             addHabit(newHabit.trim());
             setNewHabit('');
+        }
+    };
+
+    const startEdit = (id: string, name: string) => {
+        setEditingId(id);
+        setEditName(name);
+    };
+
+    const saveEdit = () => {
+        if (editingId && editName.trim()) {
+            updateHabit(editingId, editName.trim());
+            setEditingId(null);
         }
     };
 
@@ -95,15 +110,50 @@ export const SettingsPanel = ({ isOpen, onClose }: SettingsPanelProps) => {
                                         key={habit.id}
                                         className="flex justify-between items-center p-4 bg-stone-50 dark:bg-slate-800/50 rounded-xl border border-stone-100 dark:border-slate-700/50"
                                     >
-                                        <span className="font-medium text-stone-700 dark:text-stone-200">{habit.name}</span>
-                                        <button
-                                            onClick={() => {
-                                                if (confirm('Delete this habit? This cannot be undone.')) removeHabit(habit.id);
-                                            }}
-                                            className="text-stone-400 hover:text-red-500 hover:bg-red-50 dark:hover:bg-red-900/20 p-2 rounded-lg transition-colors"
-                                        >
-                                            <Trash2 size={18} />
-                                        </button>
+                                        {editingId === habit.id ? (
+                                            <div className="flex flex-1 gap-2">
+                                                <input
+                                                    type="text"
+                                                    value={editName}
+                                                    onChange={(e) => setEditName(e.target.value)}
+                                                    onKeyDown={(e) => e.key === 'Enter' && saveEdit()}
+                                                    className="flex-1 px-3 py-1 rounded-lg bg-white dark:bg-slate-900 border border-stone-200 dark:border-slate-700 focus:ring-2 focus:ring-indigo-500 outline-none"
+                                                    autoFocus
+                                                />
+                                                <button
+                                                    onClick={saveEdit}
+                                                    className="p-2 text-emerald-500 hover:bg-emerald-50 dark:hover:bg-emerald-900/20 rounded-lg transition-colors"
+                                                >
+                                                    <Check size={18} />
+                                                </button>
+                                                <button
+                                                    onClick={() => setEditingId(null)}
+                                                    className="p-2 text-stone-400 hover:bg-stone-100 dark:hover:bg-slate-800 rounded-lg transition-colors"
+                                                >
+                                                    <X size={18} />
+                                                </button>
+                                            </div>
+                                        ) : (
+                                            <>
+                                                <span className="font-medium text-stone-700 dark:text-stone-200">{habit.name}</span>
+                                                <div className="flex gap-1">
+                                                    <button
+                                                        onClick={() => startEdit(habit.id, habit.name)}
+                                                        className="text-stone-400 hover:text-indigo-500 hover:bg-indigo-50 dark:hover:bg-indigo-900/20 p-2 rounded-lg transition-colors"
+                                                    >
+                                                        <Pencil size={18} />
+                                                    </button>
+                                                    <button
+                                                        onClick={() => {
+                                                            if (confirm('Delete this habit? This cannot be undone.')) removeHabit(habit.id);
+                                                        }}
+                                                        className="text-stone-400 hover:text-red-500 hover:bg-red-50 dark:hover:bg-red-900/20 p-2 rounded-lg transition-colors"
+                                                    >
+                                                        <Trash2 size={18} />
+                                                    </button>
+                                                </div>
+                                            </>
+                                        )}
                                     </motion.div>
                                 ))}
                             </div>
