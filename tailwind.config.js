@@ -10,6 +10,7 @@ export default {
       fontFamily: {
         sans: ['Inter', 'sans-serif'],
         mono: ['JetBrains Mono', 'monospace'],
+        handwriting: ['Caveat', 'cursive'],
       },
       animation: {
         'fade-in': 'fadeIn 0.3s ease-out',
