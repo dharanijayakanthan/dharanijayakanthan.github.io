@@ -3231,6 +3231,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4371407133",
+    "title": "Software Engineer",
+    "company": "Zynga",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-11",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-zynga-4371407133?position=9&pageNum=97&refId=S6SdYAIZvBCOPvuC1mJ63w%3D%3D&trackingId=oIcEEEKl51b92a1Uq%2ByffQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYQJRpdWIV3A/company-logo_100_100/company-logo_100_100/0/1696360009849/zynga_logo?e=2147483647&v=beta&t=9okvXGjIzoERubjtO6qzmqNIkcuxylBrmujG-uEvKGE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4370667164",
     "title": "Software Engineer in Test",
     "company": "Headout",
@@ -4349,6 +4360,17 @@
     "date": "2026-02-09",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-at-element-solutions-inc-4370225323?position=8&pageNum=97&refId=oIc%2FFm31SkdGYopa7D9FqQ%3D%3D&trackingId=MXoI9MZ4v7zpZOaFj91dRQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQERPMh1Bexn7w/company-logo_100_100/company-logo_100_100/0/1630604315124/element_solutions_inc_logo?e=2147483647&v=beta&t=HP-c8Ib7wgf_-g72VQJGoba8daKuiWeAe_GLFASXFB8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4370289900",
+    "title": "Software Development Engineer III",
+    "company": "Tesco Technology",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-09",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-iii-at-tesco-technology-4370289900?position=10&pageNum=92&refId=4XP44X%2Bv0ak6WYKWtdrQNg%3D%3D&trackingId=cluvK0qdFO8rv5JnpLbNTQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFJN5qXVxmIEw/company-logo_100_100/company-logo_100_100/0/1663681176949/tesco_technology_logo?e=2147483647&v=beta&t=xYJWJM2EZiX-0-NGZgWUx6gFsik8MXfFd0jmeopiSTc",
     "lat": 0,
     "lng": 0
   },
@@ -15501,5 +15523,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGuQDG4JgJVhQ/company-logo_100_100/B4DZxrAcO2G8AY-/0/1771321807998/hackajob_logo?e=2147483647&v=beta&t=1355cxQCALa8e7tv9UZFHOazQBJXxdxsrW4-12AAyMM",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4375726285",
+    "title": "Customer-Digital Foundry- Ember.js Front End Developer-Consultant",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/customer-digital-foundry-ember-js-front-end-developer-consultant-at-deloitte-4375726285?position=8&pageNum=97&refId=S6SdYAIZvBCOPvuC1mJ63w%3D%3D&trackingId=qwKhbvru7rztv9iFjAvQmA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4377144110",
+    "title": "Front-End Engineer II, Alexa Smart Home",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/front-end-engineer-ii-alexa-smart-home-at-amazon-4377144110?position=10&pageNum=60&refId=LDfP%2BHy9AgI%2BhE3CW4CD6A%3D%3D&trackingId=nUkp%2BqlasAZF9S6n4dM48Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4377005218",
+    "title": "Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4377005218?position=8&pageNum=22&refId=31Cl0AouyA05fi4pjQkduA%3D%3D&trackingId=xI30IjCImclWbkk5JOsICg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4376046281",
+    "title": "Frontend Developer (Angular)",
+    "company": "Be a Catalyst",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-angular-at-be-a-catalyst-4376046281?position=3&pageNum=87&refId=spUjVQxwrisKp3dv9FIOSA%3D%3D&trackingId=q5Vv3nTeoZMKP9m9Y7KLXw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF5zg7yCjpv8Q/company-logo_100_100/B56ZmUTI.0I4AU-/0/1759129670095/be_a_catalyst_logo?e=2147483647&v=beta&t=RAnacjjZCEPmTJTCaRCBDlUcga-7TBTLz37678FoYnw",
+    "lat": 0,
+    "lng": 0
   }
 ]
