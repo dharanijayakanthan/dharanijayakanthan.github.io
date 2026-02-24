@@ -1,4 +1,4 @@
-import { eachDayOfInterval, endOfWeek, format, startOfWeek, subWeeks, isSameDay, isToday } from 'date-fns';
+import { eachDayOfInterval, endOfWeek, format, startOfWeek, subWeeks, isToday } from 'date-fns';
 import { useHabitStore } from '../../lib/habitStore';
 import { motion } from 'framer-motion';
 

@@ -15,7 +15,7 @@ export const HabitTracker = () => {
     const [isSettingsOpen, setIsSettingsOpen] = useState(false);
     const [showConfetti, setShowConfetti] = useState(false);
 
-    const { habits, completions, toggleHabit, isDayComplete } = useHabitStore();
+    const { habits, completions, toggleHabit } = useHabitStore();
 
     const dateStr = format(selectedDate, 'yyyy-MM-dd');
     const dayHabits = habits; // All habits are daily for now
@@ -35,7 +35,7 @@ export const HabitTracker = () => {
         setTimeout(() => {
             const isNowComplete = useHabitStore.getState().isDayComplete(dateStr);
             if (isNowComplete && isToday(selectedDate)) {
-                 setShowConfetti(true);
+                setShowConfetti(true);
             }
         }, 100);
     };
@@ -73,10 +73,10 @@ export const HabitTracker = () => {
                         />
                     ))}
                     {dayHabits.length === 0 && (
-                         <div className="text-center p-8 bg-stone-50 dark:bg-slate-800/50 rounded-2xl border border-dashed border-stone-300 dark:border-slate-700 text-stone-400">
-                            No habits set for today. <br/>
+                        <div className="text-center p-8 bg-stone-50 dark:bg-slate-800/50 rounded-2xl border border-dashed border-stone-300 dark:border-slate-700 text-stone-400">
+                            No habits set for today. <br />
                             <button onClick={() => setIsSettingsOpen(true)} className="text-indigo-500 underline mt-2 font-bold">Add some goals</button>
-                         </div>
+                        </div>
                     )}
                 </div>
             </div>
