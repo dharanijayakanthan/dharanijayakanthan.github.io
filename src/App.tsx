@@ -5,6 +5,7 @@ import { Layout } from './components/Layout';
 // import { Lab } from './pages/Lab';
 // import Products from './pages/Products';
 import { Jobs } from './pages/Jobs';
+import { HabitTracker } from './pages/HabitTracker';
 import { AnimatePresence } from 'framer-motion';
 import { useEffect } from 'react';
 
@@ -21,6 +22,21 @@ function ScrollToTop() {
 
 function AppContent() {
   const location = useLocation();
+  const isHabitRoute = location.pathname.startsWith('/habits');
+
+  if (isHabitRoute) {
+    return (
+      <>
+        <ScrollToTop />
+        <AnimatePresence mode="wait">
+          <Routes location={location} key={location.pathname}>
+            <Route path="/habits" element={<HabitTracker />} />
+          </Routes>
+        </AnimatePresence>
+      </>
+    );
+  }
+
   return (
     <Layout>
       <ScrollToTop />
