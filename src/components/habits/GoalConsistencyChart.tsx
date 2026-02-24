@@ -5,7 +5,6 @@ import {
     startOfYear,
     endOfYear,
     getMonth,
-    isSameDay,
     startOfWeek,
     endOfWeek,
     isToday,
@@ -64,7 +63,7 @@ export const GoalConsistencyChart = ({ habitId, habitName }: GoalConsistencyChar
                                 </span>
                                 <div className="grid grid-cols-7 gap-1">
                                     {/* Day Headers (S M T W T F S) - optional but helpful */}
-                                    {['M','T','W','T','F','S','S'].map(d => (
+                                    {['M', 'T', 'W', 'T', 'F', 'S', 'S'].map(d => (
                                         <div key={d} className="text-[0.5rem] text-center text-stone-300">{d}</div>
                                     ))}
                                     {padding.map((_, i) => <div key={`pad-${i}`} />)}
