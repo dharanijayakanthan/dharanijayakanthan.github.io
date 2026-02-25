@@ -14,8 +14,16 @@ interface ExpenseState {
     isLoading: boolean;
     error: string | null;
 
+    // Filters
+    selectedYears: string[];
+    selectedMonths: string[];
+
+    // Actions
     setTheme: (theme: 'light' | 'dark') => void;
     fetchExpenses: () => Promise<void>;
+    setSelectedYears: (years: string[]) => void;
+    setSelectedMonths: (months: string[]) => void;
+    resetFilters: () => void;
 }
 
 export const useExpenseStore = create<ExpenseState>()(
@@ -25,15 +33,20 @@ export const useExpenseStore = create<ExpenseState>()(
             expenses: [],
             isLoading: false,
             error: null,
+            selectedYears: [],
+            selectedMonths: [],
 
             setTheme: (theme) => set({ theme }),
 
             fetchExpenses: async () => {
                 set({ isLoading: true, error: null });
                 try {
-                    // Use import.meta.env.BASE_URL to handle relative paths if configured in Vite
-                    const baseUrl = import.meta.env.BASE_URL;
+                    const baseUrl = import.meta.env.BASE_URL || '/';
+                    // Ensure the URL is constructed correctly with base
+                    // If BASE_URL is './', we might need to handle it.
+                    // Assuming similar logic to previous file, but cleaner.
                     const url = `${baseUrl}zom-order.json`.replace('//', '/');
+
                     const response = await fetch(url);
                     if (!response.ok) {
                         throw new Error('Failed to fetch expenses data');
@@ -47,6 +60,10 @@ export const useExpenseStore = create<ExpenseState>()(
                     });
                 }
             },
+
+            setSelectedYears: (years) => set({ selectedYears: years }),
+            setSelectedMonths: (months) => set({ selectedMonths: months }),
+            resetFilters: () => set({ selectedYears: [], selectedMonths: [] }),
         }),
         {
             name: 'expense-storage',
