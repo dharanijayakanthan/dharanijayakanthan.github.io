@@ -6,6 +6,7 @@ import { Layout } from './components/Layout';
 // import Products from './pages/Products';
 import { Jobs } from './pages/Jobs';
 import { HabitTracker } from './pages/HabitTracker';
+import { ExpenseTracker } from './pages/ExpenseTracker';
 import { AnimatePresence } from 'framer-motion';
 import { useEffect } from 'react';
 
@@ -23,6 +24,7 @@ function ScrollToTop() {
 function AppContent() {
   const location = useLocation();
   const isHabitRoute = location.pathname.startsWith('/habits');
+  const isExpenseRoute = location.pathname.startsWith('/expense-tracker');
 
   if (isHabitRoute) {
     return (
@@ -31,6 +33,19 @@ function AppContent() {
         <AnimatePresence mode="wait">
           <Routes location={location} key={location.pathname}>
             <Route path="/habits" element={<HabitTracker />} />
+          </Routes>
+        </AnimatePresence>
+      </>
+    );
+  }
+
+  if (isExpenseRoute) {
+    return (
+      <>
+        <ScrollToTop />
+        <AnimatePresence mode="wait">
+          <Routes location={location} key={location.pathname}>
+            <Route path="/expense-tracker" element={<ExpenseTracker />} />
           </Routes>
         </AnimatePresence>
       </>
