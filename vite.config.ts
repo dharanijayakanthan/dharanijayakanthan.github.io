@@ -1,8 +1,8 @@
 import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react';
-import { VitePWA } from 'vite-plugin-pwa';
+import react from '@vitejs/plugin-react'
+import { VitePWA } from 'vite-plugin-pwa'
 
-// https://vite.dev/config/
+// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [
     react(),
@@ -10,13 +10,10 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg'],
       manifest: {
-        name: 'Dharani Jayakanthan - Portfolio',
-        short_name: 'Dharani',
-        description: 'Portfolio of Dharani Jayakanthan',
+        name: 'My Journal',
+        short_name: 'Journal',
+        description: 'A personal habit tracker and journal',
         theme_color: '#ffffff',
-        start_url: '/',
-        display: 'standalone',
-        background_color: '#ffffff',
         icons: [
           {
             src: 'pwa-192x192.png',
@@ -27,18 +24,18 @@ export default defineConfig({
             src: 'pwa-512x512.png',
             sizes: '512x512',
             type: 'image/png'
-          },
-          {
-            src: 'maskable_icon.png',
-            sizes: '512x512',
-            type: 'image/png',
-            purpose: 'any maskable'
           }
         ]
       }
     })
   ],
-  build: {
-    outDir: 'dist',
-  },
+  base: './', // Ensure relative paths for assets (important for subfolder deployment)
+  server: {
+    proxy: {
+      '/api': {
+        target: 'http://localhost:3000',
+        changeOrigin: true,
+      }
+    }
+  }
 })

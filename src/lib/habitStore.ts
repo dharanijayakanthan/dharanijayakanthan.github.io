@@ -1,5 +1,4 @@
 import { create } from 'zustand';
-import { persist } from 'zustand/middleware';
 
 export interface Habit {
   id: string;
@@ -15,193 +14,254 @@ interface UserData {
 
 interface HabitState {
   currentUser: string | null;
-  users: Record<string, UserData>;
+  userId: number | null; // Database ID
+  users: Record<string, UserData>; // Local cache
 
   // Actions
-  login: (username: string) => void;
+  login: (username: string) => Promise<void>;
   logout: () => void;
 
-  addHabit: (name: string) => void;
-  removeHabit: (id: string) => void;
-  updateHabit: (id: string, name: string) => void;
-  toggleHabit: (date: string, habitId: string) => void;
+  addHabit: (name: string) => Promise<void>;
+  removeHabit: (id: string) => Promise<void>;
+  updateHabit: (id: string, name: string) => Promise<void>;
+  toggleHabit: (date: string, habitId: string) => Promise<void>;
   setTheme: (theme: 'light' | 'dark') => void;
 
-  // Getters (Selectors can be used, but helper functions are also fine)
+  // Getters
   getCompletionPercentage: (date: string) => number;
   isDayComplete: (date: string) => boolean;
 }
 
-const DEFAULT_USER_DATA: UserData = {
-  habits: [
-    { id: '1', name: 'Meditate', createdAt: Date.now() },
-    { id: '2', name: 'Walk', createdAt: Date.now() },
-    { id: '3', name: 'Prepare for interview', createdAt: Date.now() },
-  ],
-  completions: {},
-  theme: 'light',
-};
+export const useHabitStore = create<HabitState>((set, get) => ({
+  currentUser: null,
+  userId: null,
+  users: {},
 
-export const useHabitStore = create<HabitState>()(
-  persist(
-    (set, get) => ({
-      currentUser: null,
-      users: {},
+  login: async (username) => {
+    try {
+      const res = await fetch('/api/login', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ username }),
+      });
+      const userData = await res.json();
 
-      login: (username) => {
-        const state = get();
-        if (!state.users[username]) {
-          // New user
-          set((state) => ({
-            currentUser: username,
-            users: {
-              ...state.users,
-              [username]: { ...DEFAULT_USER_DATA },
-            },
-          }));
-        } else {
-          // Existing user
-          set({ currentUser: username });
+      const currentUsername = userData.username;
+      const currentUserId = userData.id;
+
+      // Fetch habits
+      const habitsRes = await fetch(`/api/habits?userId=${currentUserId}`);
+      const habitsData = await habitsRes.json();
+
+      // Transform API response
+      const habits: Habit[] = habitsData.map((h: any) => ({
+        id: h.id,
+        name: h.name,
+        createdAt: h.created_at || Date.now()
+      }));
+
+      const completions: Record<string, Record<string, boolean>> = {};
+      habitsData.forEach((h: any) => {
+        if (h.completedDates) {
+           h.completedDates.forEach((date: string) => {
+             if (!completions[date]) completions[date] = {};
+             completions[date][h.id] = true;
+           });
         }
-      },
+        // Also handle legacy `completions` object if API changed
+        if (h.completions) {
+             Object.keys(h.completions).forEach(date => {
+                if (!completions[date]) completions[date] = {};
+                completions[date][h.id] = true;
+             });
+        }
+      });
 
-      logout: () => set({ currentUser: null }),
+      set((state) => ({
+        currentUser: currentUsername,
+        userId: currentUserId,
+        users: {
+          ...state.users,
+          [currentUsername]: {
+            habits,
+            completions,
+            theme: 'light' // Default, TODO: fetch settings
+          }
+        }
+      }));
 
-      addHabit: (name) =>
-        set((state) => {
-          const user = state.currentUser;
-          if (!user) return state;
+    } catch (err) {
+      console.error('Login failed:', err);
+    }
+  },
 
-          const userData = state.users[user];
-          const newHabit: Habit = {
-            id: typeof crypto !== 'undefined' && crypto.randomUUID ? crypto.randomUUID() : Math.random().toString(36).substring(2, 15),
-            name,
-            createdAt: Date.now()
-          };
+  logout: () => set({ currentUser: null, userId: null }),
 
-          return {
-            users: {
-              ...state.users,
-              [user]: {
-                ...userData,
-                habits: [...userData.habits, newHabit],
-              },
+  addHabit: async (name) => {
+    const { userId, currentUser } = get();
+    if (!userId || !currentUser) return;
+
+    try {
+      const res = await fetch('/api/habits', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ userId, name }),
+      });
+      const newHabit = await res.json();
+
+      set((state) => {
+        const userData = state.users[currentUser];
+        return {
+          users: {
+            ...state.users,
+            [currentUser]: {
+              ...userData,
+              habits: [...userData.habits, { id: newHabit.id, name: newHabit.name, createdAt: newHabit.createdAt }],
             },
-          };
-        }),
+          },
+        };
+      });
+    } catch (err) {
+      console.error('Add habit failed:', err);
+    }
+  },
 
-      removeHabit: (id) =>
-        set((state) => {
-          const user = state.currentUser;
-          if (!user) return state;
+  removeHabit: async (id) => {
+    const { currentUser } = get();
+    if (!currentUser) return;
 
-          const userData = state.users[user];
-          return {
-            users: {
-              ...state.users,
-              [user]: {
-                ...userData,
-                habits: userData.habits.filter((h) => h.id !== id),
-              },
+    // Optimistic update
+    set((state) => {
+        const userData = state.users[currentUser];
+        return {
+          users: {
+            ...state.users,
+            [currentUser]: {
+              ...userData,
+              habits: userData.habits.filter((h) => h.id !== id),
             },
-          };
-        }),
+          },
+        };
+    });
 
-      updateHabit: (id, name) =>
-        set((state) => {
-          const user = state.currentUser;
-          if (!user) return state;
+    try {
+        await fetch(`/api/habits/${id}`, { method: 'DELETE' });
+    } catch (err) {
+        console.error('Remove habit failed:', err);
+    }
+  },
 
-          const userData = state.users[user];
-          return {
-            users: {
-              ...state.users,
-              [user]: {
-                ...userData,
-                habits: userData.habits.map((h) =>
-                  h.id === id ? { ...h, name } : h
-                ),
-              },
+  updateHabit: async (id, name) => {
+    const { currentUser } = get();
+    if (!currentUser) return;
+
+    set((state) => {
+        const userData = state.users[currentUser];
+        return {
+          users: {
+            ...state.users,
+            [currentUser]: {
+              ...userData,
+              habits: userData.habits.map((h) =>
+                h.id === id ? { ...h, name } : h
+              ),
             },
-          };
-        }),
+          },
+        };
+    });
 
-      toggleHabit: (date, habitId) =>
-        set((state) => {
-          const user = state.currentUser;
-          if (!user) return state;
+    try {
+        await fetch(`/api/habits/${id}`, {
+            method: 'PUT',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ name }),
+        });
+    } catch (err) {
+        console.error('Update habit failed:', err);
+    }
+  },
 
-          const userData = state.users[user];
-          const dateCompletions = userData.completions[date] || {};
-          const isCompleted = dateCompletions[habitId];
+  toggleHabit: async (date, habitId) => {
+    const { currentUser } = get();
+    if (!currentUser) return;
 
-          return {
-            users: {
-              ...state.users,
-              [user]: {
-                ...userData,
-                completions: {
-                  ...userData.completions,
-                  [date]: {
-                    ...dateCompletions,
-                    [habitId]: !isCompleted,
-                  },
+    set((state) => {
+        const userData = state.users[currentUser];
+        const dateCompletions = userData.completions[date] || {};
+        const isCompleted = dateCompletions[habitId];
+
+        return {
+          users: {
+            ...state.users,
+            [currentUser]: {
+              ...userData,
+              completions: {
+                ...userData.completions,
+                [date]: {
+                  ...dateCompletions,
+                  [habitId]: !isCompleted,
                 },
               },
             },
-          };
-        }),
+          },
+        };
+    });
 
-      setTheme: (theme) =>
-        set((state) => {
-          const user = state.currentUser;
-          if (!user) return state;
-
-          const userData = state.users[user];
-          return {
-            users: {
-              ...state.users,
-              [user]: {
-                ...userData,
-                theme,
-              },
-            },
-          };
-        }),
-
-      getCompletionPercentage: (date) => {
-        const state = get();
-        const user = state.currentUser;
-        if (!user) return 0;
-
-        const userData = state.users[user];
-        const activeHabits = userData.habits;
-        if (activeHabits.length === 0) return 0;
-
-        const dateCompletions = userData.completions[date] || {};
-        const completedCount = activeHabits.reduce((count, habit) => {
-          return count + (dateCompletions[habit.id] ? 1 : 0);
-        }, 0);
-
-        return Math.round((completedCount / activeHabits.length) * 100);
-      },
-
-      isDayComplete: (date) => {
-        const state = get();
-        const user = state.currentUser;
-        if (!user) return false;
-
-        const userData = state.users[user];
-        const activeHabits = userData.habits;
-        if (activeHabits.length === 0) return false;
-
-        const dateCompletions = userData.completions[date] || {};
-        return activeHabits.every((habit) => dateCompletions[habit.id]);
-      },
-    }),
-    {
-      name: 'habit-storage-v2', // Changed storage key to force migration/reset
-      version: 1,
+    try {
+        await fetch(`/api/habits/${habitId}/toggle`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ date }),
+        });
+    } catch (err) {
+        console.error('Toggle habit failed:', err);
     }
-  )
-);
+  },
+
+  setTheme: (theme) =>
+    set((state) => {
+      const user = state.currentUser;
+      if (!user) return state;
+
+      const userData = state.users[user];
+      return {
+        users: {
+          ...state.users,
+          [user]: {
+            ...userData,
+            theme,
+          },
+        },
+      };
+    }),
+
+  getCompletionPercentage: (date) => {
+    const state = get();
+    const user = state.currentUser;
+    if (!user) return 0;
+
+    const userData = state.users[user];
+    const activeHabits = userData.habits;
+    if (activeHabits.length === 0) return 0;
+
+    const dateCompletions = userData.completions[date] || {};
+    const completedCount = activeHabits.reduce((count, habit) => {
+      return count + (dateCompletions[habit.id] ? 1 : 0);
+    }, 0);
+
+    return Math.round((completedCount / activeHabits.length) * 100);
+  },
+
+  isDayComplete: (date) => {
+    const state = get();
+    const user = state.currentUser;
+    if (!user) return false;
+
+    const userData = state.users[user];
+    const activeHabits = userData.habits;
+    if (activeHabits.length === 0) return false;
+
+    const dateCompletions = userData.completions[date] || {};
+    return activeHabits.every((habit) => dateCompletions[habit.id]);
+  },
+}));
