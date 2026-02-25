@@ -182,17 +182,17 @@ app.get('/api/jobs', (req, res) => {
 // Trigger Job Fetch
 app.post('/api/fetch-jobs', (req, res) => {
     console.log('Starting job fetch worker...');
-    const pythonProcess = spawn('python3', [path.join(__dirname, '../python-worker/fetch_jobs.py')]);
+    const nodeProcess = spawn('node', [path.join(__dirname, 'fetch-jobs.js')]);
 
-    pythonProcess.stdout.on('data', (data) => {
+    nodeProcess.stdout.on('data', (data) => {
         console.log(`Worker: ${data}`);
     });
 
-    pythonProcess.stderr.on('data', (data) => {
+    nodeProcess.stderr.on('data', (data) => {
         console.error(`Worker Error: ${data}`);
     });
 
-    pythonProcess.on('close', (code) => {
+    nodeProcess.on('close', (code) => {
         console.log(`Worker process exited with code ${code}`);
     });
 
