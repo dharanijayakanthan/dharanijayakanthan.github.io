@@ -47,7 +47,7 @@ export const SummaryCards = ({ expenses }: SummaryCardsProps) => {
     return (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             {cards.map((card, index) => (
-                <div key={index} className="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-stone-100 dark:border-slate-800 shadow-sm flex items-center justify-between">
+                <div key={index} className="bg-white dark:bg-slate-900 p-4 sm:p-6 rounded-2xl border border-stone-100 dark:border-slate-800 shadow-sm flex items-center justify-between">
                     <div>
                         <p className="text-stone-400 dark:text-slate-500 text-sm font-bold uppercase mb-1">{card.title}</p>
                         <h3 className="text-2xl font-bold text-stone-800 dark:text-stone-100">{card.value}</h3>

@@ -115,7 +115,7 @@ export const ExpenseDashboard = () => {
                 <ExpensePieChart expenses={filteredExpenses} />
 
                 {/* Top Restaurants (Retained) */}
-                <div className="bg-white dark:bg-stone-900/50 p-6 rounded-3xl shadow-sm border border-stone-100 dark:border-stone-800 h-[400px]">
+                <div className="bg-white dark:bg-stone-900/50 p-4 sm:p-6 rounded-3xl shadow-sm border border-stone-100 dark:border-stone-800 h-[300px] sm:h-[400px]">
                      <h3 className="text-xl font-handwriting font-bold mb-6 text-stone-700 dark:text-stone-300">Top 5 Restaurants by Spend</h3>
                      <ResponsiveContainer width="100%" height="100%">
                         <BarChart

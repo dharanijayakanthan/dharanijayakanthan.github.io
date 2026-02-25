@@ -26,7 +26,7 @@ export const OrderList = ({ expenses }: OrderListProps) => {
 
     return (
         <div className="bg-white dark:bg-slate-900 rounded-2xl border border-stone-100 dark:border-slate-800 shadow-sm overflow-hidden">
-            <div className="p-6 border-b border-stone-100 dark:border-slate-800 flex flex-col sm:flex-row gap-4 justify-between items-center">
+            <div className="p-4 sm:p-6 border-b border-stone-100 dark:border-slate-800 flex flex-col sm:flex-row gap-4 justify-between items-center">
                 <h3 className="text-lg font-bold text-stone-800 dark:text-stone-100">Recent Orders</h3>
                 <div className="relative w-full sm:w-64">
                     <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-stone-400" size={18} />

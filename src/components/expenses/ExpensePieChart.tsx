@@ -47,14 +47,14 @@ export const ExpensePieChart = ({ expenses }: ExpensePieChartProps) => {
 
     if (expenses.length === 0) {
         return (
-            <div className="bg-white dark:bg-stone-900/50 p-6 rounded-3xl shadow-sm border border-stone-100 dark:border-stone-800 h-[400px] flex items-center justify-center text-stone-400">
+            <div className="bg-white dark:bg-stone-900/50 p-4 sm:p-6 rounded-3xl shadow-sm border border-stone-100 dark:border-stone-800 h-[300px] sm:h-[400px] flex items-center justify-center text-stone-400">
                 No data to display
             </div>
         );
     }
 
     return (
-        <div className="bg-white dark:bg-stone-900/50 p-6 rounded-3xl shadow-sm border border-stone-100 dark:border-stone-800 h-[400px]">
+        <div className="bg-white dark:bg-stone-900/50 p-4 sm:p-6 rounded-3xl shadow-sm border border-stone-100 dark:border-stone-800 h-[300px] sm:h-[400px]">
             <h3 className="text-xl font-handwriting font-bold mb-2 text-stone-700 dark:text-stone-300">
                 {type} Spending Distribution
             </h3>
@@ -66,16 +66,16 @@ export const ExpensePieChart = ({ expenses }: ExpensePieChartProps) => {
                         cy="50%"
                         labelLine={false}
                         label={({ name, percent }) => `${name} ${(percent * 100).toFixed(0)}%`}
-                        outerRadius={120}
+                        outerRadius={80} // Reduced for mobile, might need dynamic radius if possible, or leave it small
                         fill="#8884d8"
                         dataKey="value"
                     >
-                        {data.map((entry, index) => (
+                        {data.map((_, index) => (
                             <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
                         ))}
                     </Pie>
                     <Tooltip formatter={(value: number) => `₹${value.toLocaleString()}`} />
-                    <Legend />
+                    <Legend wrapperStyle={{ fontSize: '12px' }} />
                 </PieChart>
             </ResponsiveContainer>
         </div>
