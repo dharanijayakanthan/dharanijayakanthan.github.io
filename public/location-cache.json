@@ -1822,5 +1822,9 @@
   "Standard Chartered India, Bengaluru East, Karnataka, India": {
     "lat": 12.9853637,
     "lng": 77.7081623
+  },
+  "ServiceChannel, Bengaluru East, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
   }
 }
