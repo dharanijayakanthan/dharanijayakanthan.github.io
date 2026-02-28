@@ -209,6 +209,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4358032633",
+    "title": "Senior Software Engineer - Angular / React",
+    "company": "Ivanti",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-25",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-angular-react-at-ivanti-4358032633?position=2&pageNum=97&refId=3M5qhSZLheThqbPMRbqprQ%3D%3D&trackingId=h3yLnmJIaHEISrvlKNRTcA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG36nKun96_Zw/company-logo_100_100/B56ZgtNz4oH0AQ-/0/1753105252181/ivanti_logo?e=2147483647&v=beta&t=85d9EcHYMpUcNyFzIYGS-vgm0ngEffB1IbxX1M2TB-A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4377558749",
+    "title": "Senior Frontend Engineer",
+    "company": "Electrolux Group",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-02-25",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-at-electrolux-group-4377558749?position=1&pageNum=95&refId=o9wWZdU%2Fzw%2FVL9e50xX%2F%2BQ%3D%3D&trackingId=D3cQYeKKpVdEm6fHi6DJNg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEZiaaUvM-yOg/company-logo_100_100/company-logo_100_100/0/1631372210419?e=2147483647&v=beta&t=72drfQgDML4gVpn_fD7t_OHdVmFA00Lf-m1mK1l8S2k",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4376454426",
     "title": "Software Engineer (Flutter)",
     "company": "VectorStack",
@@ -19174,5 +19196,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ",
     "lat": 12.9185763,
     "lng": 77.6707864
+  },
+  {
+    "id": "urn:li:jobPosting:4376212904",
+    "title": "UI Frontend Developer - Angular",
+    "company": "Siemens Healthineers",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ui-frontend-developer-angular-at-siemens-healthineers-4376212904?position=1&pageNum=47&refId=T32F7ZVBAGSBHjRXznNQDw%3D%3D&trackingId=6wpOfU3ttvjI5T1KaA1TMg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE5hmEcQGYmLg/company-logo_100_100/company-logo_100_100/0/1635709402063/siemens_healthineers_logo?e=2147483647&v=beta&t=WzBCELa5qwxaNwIBJmDQ_TZZwSooZJPiv_BSin1QzGA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4377975369",
+    "title": "Senior Frontend Software Developer & Technical Lead",
+    "company": "Siemens",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-software-developer-technical-lead-at-siemens-4377975369?position=1&pageNum=82&refId=9p4rfBye0RMGOU0ITVHA0g%3D%3D&trackingId=XNq31fwCWggnvhYfF%2F7RAg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_100_100/company-logo_100_100/0/1719931174735/siemens_logo?e=2147483647&v=beta&t=iNZVOYYuYOnkz09IBCFrK9Ik8uTqP6ZDnhCEJjPouV4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4378207035",
+    "title": "React JS Developer",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-js-developer-at-infosys-4378207035?position=1&pageNum=5&refId=NkNNCppwC4QhZ1sYegZnfw%3D%3D&trackingId=ftQu5Bp3QTpNR7GV%2FcObSg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4375971066",
+    "title": "Sr Software Engineer",
+    "company": "PayPal",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-software-engineer-at-paypal-4375971066?position=10&pageNum=90&refId=UCekpMm13fIsAIERV35Kzg%3D%3D&trackingId=GF%2FEt3f%2FeIRMMw2dUs%2BxAQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGlX0cKdGRk-w/company-logo_100_100/company-logo_100_100/0/1725506319701?e=2147483647&v=beta&t=EfHoqyaVYveWMzdT_6PpJbGNGS1P4dUk3ZryqIQRhjc",
+    "lat": 0,
+    "lng": 0
   }
 ]
