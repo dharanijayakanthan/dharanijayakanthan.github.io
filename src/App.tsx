@@ -7,6 +7,7 @@ import { Layout } from './components/Layout';
 import { Jobs } from './pages/Jobs';
 import { HabitTracker } from './pages/HabitTracker';
 import { ExpenseTracker } from './pages/ExpenseTracker';
+import { Conflicts } from './pages/Conflicts';
 import { AnimatePresence } from 'framer-motion';
 import { useEffect } from 'react';
 
@@ -62,6 +63,7 @@ function AppContent() {
           <Route path="/lab" element={<Lab />} />
           <Route path="/products" element={<Products />} /> */}
           <Route path="/" element={<Jobs />} />
+          <Route path="/conflicts" element={<Conflicts />} />
         </Routes>
       </AnimatePresence>
     </Layout>
