@@ -13,6 +13,8 @@
     "@fontsource/caveat": "^5.2.8",
     "@types/leaflet": "^1.9.21",
     "@vercel/analytics": "^1.6.1",
+    "axios": "^1.13.6",
+    "cesium": "^1.138.0",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
     "framer-motion": "^12.34.1",
@@ -25,6 +27,7 @@
     "react-leaflet-cluster": "^4.0.0",
     "react-router-dom": "^7.13.0",
     "recharts": "^2.15.0",
+    "resium": "^1.19.4",
     "tailwind-merge": "^3.5.0",
     "zustand": "^5.0.11"
   },
@@ -45,6 +48,7 @@
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.48.0",
     "vite": "^7.3.1",
+    "vite-plugin-cesium": "^1.2.23",
     "vite-plugin-pwa": "^1.2.0"
   }
 }
