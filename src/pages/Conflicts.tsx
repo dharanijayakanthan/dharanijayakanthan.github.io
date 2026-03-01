@@ -16,7 +16,7 @@ export const Conflicts = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('/data/conflicts.json')
+    fetch(import.meta.env.BASE_URL + 'data/conflicts.json')
       .then((res) => res.json())
       .then((data) => {
         setConflicts(data);
