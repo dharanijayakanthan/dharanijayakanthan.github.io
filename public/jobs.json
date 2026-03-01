@@ -1,5 +1,27 @@
 [
   {
+    "id": "urn:li:jobPosting:4378792988",
+    "title": "Software Engineer",
+    "company": "Wells Fargo",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-28",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-wells-fargo-4378792988?position=3&pageNum=97&refId=9omY0Y7LC9D%2Fg%2BegVmW4Eg%3D%3D&trackingId=M3y9Tcj5cFPKrOk2p4OBkw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGLxWPpGqaVmw/company-logo_100_100/company-logo_100_100/0/1630471638964/wellsfargo_logo?e=2147483647&v=beta&t=D1e-PmlhlUZN0ekIYF0M9XadtGDukrr58ywiHYGlJ_Y",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4369923773",
+    "title": "Software Engineer",
+    "company": "Ecolab",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-02-28",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-ecolab-4369923773?position=5&pageNum=97&refId=9omY0Y7LC9D%2Fg%2BegVmW4Eg%3D%3D&trackingId=9Kb%2F3liVEcaWtyac80%2FwGQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQH3EsOD1h7Tgg/company-logo_100_100/company-logo_100_100/0/1675088982273/ecolab_logo?e=2147483647&v=beta&t=SpYjPrKS-P3Gc4Uai-f_GzDw4TmfzdgNsx3EvmZQVnE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4379004826",
     "title": "Software Engineer",
     "company": "A.P. Moller - Maersk",
@@ -1054,6 +1076,39 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEyBWPU29c96g/company-logo_100_100/B56Za2zTbsGUAQ-/0/1746823624863?e=2147483647&v=beta&t=gy5o8LNL-bS3QCbE3qLyfk6eSymTOQwf9_-XLhzxQdI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4377168702",
+    "title": "Senior Software Engineer - Fullstack",
+    "company": "NeuralGarage",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-24",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-neuralgarage-4377168702?position=9&pageNum=65&refId=SDbyvtynSAKNP9J8ESV%2FDg%3D%3D&trackingId=1uNPqzCtGn4sjYVpvUMjSg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEuuRzqlNVn3w/company-logo_100_100/company-logo_100_100/0/1659451731626?e=2147483647&v=beta&t=qn5FaKAe5FUMXf92PpegpUajGFRwxmfuTiI1BNuaSNI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4377175315",
+    "title": "Senior React Developer",
+    "company": "Impact Analytics",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-24",
+    "link": "https://in.linkedin.com/jobs/view/senior-react-developer-at-impact-analytics-4377175315?position=7&pageNum=85&refId=7utWOl2fROWg1OLwSHgWdw%3D%3D&trackingId=bbcpdOO35CeGpxpK0iiYLw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHotv0iUrH7UA/company-logo_100_100/B56ZoQcMjZI4AU-/0/1761212418788/impactanalytics_logo?e=2147483647&v=beta&t=A65Mc7Wz9BUcI8uLU29JTuKieQvLpZXQoqc2YsROEw0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4377174392",
+    "title": "Principal Front End Engineer",
+    "company": "Oleria",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-24",
+    "link": "https://in.linkedin.com/jobs/view/principal-front-end-engineer-at-oleria-4377174392?position=9&pageNum=95&refId=Xa0ZNsuIC1Ep4QNPLCe6WA%3D%3D&trackingId=TQ7G9mAbpBpxFz4AXTLqDQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFsCstlm2RMAg/company-logo_100_100/company-logo_100_100/0/1696368075584/oleriasecurity_logo?e=2147483647&v=beta&t=OdkId9zdhDxe4knURFI65wtoDpEX7Qk73ElQiX_rpoQ",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4376597801",
@@ -3209,6 +3264,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQFhfl32crIGIw/company-logo_100_100/company-logo_100_100/0/1630637496980/airbnb_logo?e=2147483647&v=beta&t=idNQqoBZi6dZq6iG78J5GTOsNV_ltJf7ITo7zYZ6VWg",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4372085272",
+    "title": "Software Engineer",
+    "company": "Repliant AI",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-14",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-repliant-ai-4372085272?position=6&pageNum=97&refId=5z2%2BF1vcxDerf8cp%2Fzcl8w%3D%3D&trackingId=IdVcdio78bKpxlwh4tzHXw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFRAMv6BRMVbA/company-logo_100_100/B56Zw9BP7cIYAQ-/0/1770550264898/repliant_ai_logo?e=2147483647&v=beta&t=TKOhk-RtDg3Mgarr0A4_ZXDUSk6mXv4kbDu2WoM9UMU",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4372711761",
@@ -19757,5 +19823,85 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4379564850",
+    "title": "Frontend Developer",
+    "company": "Intellicar",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-intellicar-4379564850?position=1&pageNum=17&refId=jut7fL%2BrAa3jAkHz7Pj7ag%3D%3D&trackingId=7tGUXlHo%2BDL0vFNC%2BgZDfg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGXCViil6qBMw/company-logo_100_100/company-logo_100_100/0/1700215736255/intellicar_logo?e=2147483647&v=beta&t=PDfFNNZwAqecqt0ieEzUJfUrod-cSjbvhsreJM_ysBs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4379584518",
+    "title": "Software Engineer - Frontend",
+    "company": "Procore Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-frontend-at-procore-technologies-4379584518?position=3&pageNum=47&refId=TkvDCwy%2Bu5NX%2FHi8h9r4jA%3D%3D&trackingId=UX6xNsSXle7qWNG3XbtPtA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGniocgaFzu6g/company-logo_100_100/company-logo_100_100/0/1737481196088/procore_technologies_logo?e=2147483647&v=beta&t=4OVlWJ3oXtVm56TIS0p8PvV7V1WXkExFpX3XNhYVVW4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4379563970",
+    "title": "Junior Web Developer",
+    "company": "Equiti Group",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/junior-web-developer-at-equiti-group-4379563970?position=4&pageNum=17&refId=O4Bb%2BeOhdeP9%2BOErq%2FtttA%3D%3D&trackingId=XtlAkRQDJrNQDbhWfhvyuA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQErpg_xAC68Zw/company-logo_100_100/company-logo_100_100/0/1648550386411/equiti_logo?e=2147483647&v=beta&t=v4KQkjG4WWuQ8kB490stbKSYpyOqlpMaR643WUpYC88",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4378433318",
+    "title": "React Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4378433318?position=1&pageNum=37&refId=6s%2FPI1EaHV9HFI5ck1Eirw%3D%3D&trackingId=mKYcsl54XOnOHkkfabA8rg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4378451230",
+    "title": "Angular Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-at-scoutit-4378451230?position=1&pageNum=67&refId=fxGsLItvv%2BxCCUsVC78%2FMA%3D%3D&trackingId=w%2BMquj3UsUkKZQAx4OdwQQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4379575660",
+    "title": "Software Developer Engineer",
+    "company": "CtrlB",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-developer-engineer-at-ctrlb-4379575660?position=4&pageNum=87&refId=DB%2FblTjOD0bjqngnpuJsrg%3D%3D&trackingId=GKo0ukDq6vM9Laty67cr3Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFeaaO7sCVIVw/company-logo_100_100/company-logo_100_100/0/1714389436686/ctrlb_hq_logo?e=2147483647&v=beta&t=RcBoqs55WffG6XtjECSNtQUG1g9QLHI2S0Gq4AxwAlU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4378440231",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4378440231?position=10&pageNum=7&refId=RvVE%2BsIGgJ6bvKj88DavQg%3D%3D&trackingId=SY6MELNBVZ2hwdLlK0ZqAA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4379580832",
+    "title": "Software Engineer 1",
+    "company": "Procore Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-1-at-procore-technologies-4379580832?position=9&pageNum=75&refId=zxsGjra%2BIo72Xvzd9b86IA%3D%3D&trackingId=wPnnVrdQr2L8HAitbkgRxA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGniocgaFzu6g/company-logo_100_100/company-logo_100_100/0/1737481196088/procore_technologies_logo?e=2147483647&v=beta&t=4OVlWJ3oXtVm56TIS0p8PvV7V1WXkExFpX3XNhYVVW4",
+    "lat": 0,
+    "lng": 0
   }
 ]
