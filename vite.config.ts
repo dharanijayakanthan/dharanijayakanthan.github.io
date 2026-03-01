@@ -11,6 +11,9 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg'],
+      workbox: {
+        maximumFileSizeToCacheInBytes: 10 * 1024 * 1024 // 10 MiB to accommodate Cesium.js
+      },
       manifest: {
         name: 'Dharani Jayakanthan - Portfolio',
         short_name: 'Dharani',
@@ -42,5 +45,6 @@ export default defineConfig({
   ],
   build: {
     outDir: 'dist',
+    chunkSizeWarningLimit: 10000, // Suppress warnings for large chunks like Cesium.js
   },
 })
