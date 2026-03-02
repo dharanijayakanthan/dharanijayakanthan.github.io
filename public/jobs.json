@@ -88,6 +88,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4377955167",
+    "title": "React Js Developer",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-02-27",
+    "link": "https://in.linkedin.com/jobs/view/react-js-developer-at-infosys-4377955167?position=9&pageNum=0&refId=E80EvUiMhXdLLcp8XvACdQ%3D%3D&trackingId=c5eVGxvEwi2sqI%2FEUk3sCQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4379073244",
+    "title": "Software Engineer - I",
+    "company": "Sibros",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-27",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-at-sibros-4379073244?position=5&pageNum=97&refId=SHBlql7s7ubJcw7424Tb2w%3D%3D&trackingId=Fsb4bA71KVYfol9YIQBGbw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHee3mRbFvJKw/company-logo_100_100/company-logo_100_100/0/1630641686085/sibros_tech_logo?e=2147483647&v=beta&t=79dOK6kUigPQmaBozpt4d5m8oFV-yqlGsgudprhwZiU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4378692151",
     "title": "Software Engineer",
     "company": "TALENTMATE",
@@ -471,6 +493,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG4fET5G1jx8w/company-logo_100_100/company-logo_100_100/0/1698053556150/amadeus_logo?e=2147483647&v=beta&t=9KQZUvxrvuBQU04wnuiW73aNaxlN6_8K2KMeIr3Tli4",
     "lat": 12.9416244,
     "lng": 77.6907988
+  },
+  {
+    "id": "urn:li:jobPosting:4377898171",
+    "title": "Remote Software Engineer (JavaScript)",
+    "company": "Turing",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-25",
+    "link": "https://in.linkedin.com/jobs/view/remote-software-engineer-javascript-at-turing-4377898171?position=6&pageNum=87&refId=Drlho4gOeb8UVmeLMGShtw%3D%3D&trackingId=hh5h3j7XaKpAyUkqaNqZew%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEMzTP7ySRl1w/company-logo_100_100/B4DZraOH1PGgAQ-/0/1764597727124?e=2147483647&v=beta&t=cantgcA-j0iG-Xjuff93LI7KVJx677N_2JBYHhtRa5Q",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4377831616",
+    "title": "Software Engineer - User Experience Platform: Reporting",
+    "company": "Rubrik",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-25",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-user-experience-platform-reporting-at-rubrik-4377831616?position=6&pageNum=95&refId=%2FUu5WMpfI9ffHcO3ZoEWfQ%3D%3D&trackingId=2FDinbIYIJMj7RWhwpR0zg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHY1iEGw-fRpw/company-logo_100_100/company-logo_100_100/0/1656688195686/rubrik_inc_logo?e=2147483647&v=beta&t=9SWZgiLhwnjF1snwJ6G2vinecidUH7mAGeqelSHbfOc",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4376454426",
@@ -1109,6 +1153,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFsCstlm2RMAg/company-logo_100_100/company-logo_100_100/0/1696368075584/oleriasecurity_logo?e=2147483647&v=beta&t=OdkId9zdhDxe4knURFI65wtoDpEX7Qk73ElQiX_rpoQ",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4376052489",
+    "title": "Software Development Engineer III",
+    "company": "Tesco Bengaluru",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-24",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-iii-at-tesco-bengaluru-4376052489?position=10&pageNum=95&refId=HpU0Nf3hkY7RyQklj1Z72w%3D%3D&trackingId=c519ZheJH7pRJQhJwj3KuQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNqJip6BEwGw/company-logo_100_100/company-logo_100_100/0/1688367507340/tesco_bengaluru_logo?e=2147483647&v=beta&t=RNhSg7-j-lU4JLvK8r-VtORAikcZ6GcI8M0sqJiRom4",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4376597801",
@@ -13378,6 +13433,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4332947191",
+    "title": "Software Development Engineer - 2",
+    "company": "healthi.in",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-10-30",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-2-at-healthi-in-4332947191?position=8&pageNum=92&refId=UXGKPDNx7zAmOSeh3d4aOA%3D%3D&trackingId=Q237HceANp%2F2aLyIW9PbWA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFuXwVs198LA/company-logo_100_100/company-logo_100_100/0/1674622103167/healthi_solutions_pte_ltd_logo?e=2147483647&v=beta&t=ua5LNDfpS-9__Acmjywvi3UbRVA1GdI5bKfdPB-Fzvk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4318035651",
     "title": "Front End Engineer",
     "company": "JazzX AI",
@@ -19903,5 +19969,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGniocgaFzu6g/company-logo_100_100/company-logo_100_100/0/1737481196088/procore_technologies_logo?e=2147483647&v=beta&t=4OVlWJ3oXtVm56TIS0p8PvV7V1WXkExFpX3XNhYVVW4",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4378432726",
+    "title": "React JS Developer",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-js-developer-at-infosys-4378432726?position=2&pageNum=2&refId=OsKsGO0Xuszyk0ZRWZkYEQ%3D%3D&trackingId=XuAIZjhr1IeKYgN5c2JNYQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4376677196",
+    "title": "React.js Developer",
+    "company": "Concentrix",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-js-developer-at-concentrix-4376677196?position=7&pageNum=20&refId=JwMID%2Frg5riOKpfNBMQWgA%3D%3D&trackingId=hYayfeJ9K%2FKMN4jOhqLivA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEI2aF8Itqj0g/company-logo_100_100/company-logo_100_100/0/1713811406614/concentrix_logo?e=2147483647&v=beta&t=lrR0PWcG00G43S6c4L_dEDrKYMFZrUV5y1PncLJrFRc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4379294488",
+    "title": "Software Engineer",
+    "company": "Wells Fargo",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-wells-fargo-4379294488?position=4&pageNum=87&refId=Drlho4gOeb8UVmeLMGShtw%3D%3D&trackingId=X5Z7A%2Fk45pQ1at8dPbLCzw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGLxWPpGqaVmw/company-logo_100_100/company-logo_100_100/0/1630471638964/wellsfargo_logo?e=2147483647&v=beta&t=D1e-PmlhlUZN0ekIYF0M9XadtGDukrr58ywiHYGlJ_Y",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4379726013",
+    "title": "Software Engineer",
+    "company": "HCLTech",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-hcltech-4379726013?position=4&pageNum=90&refId=Fal52JoJ71g%2FyhS21qBq1A%3D%3D&trackingId=8w1XnLmTSBh5Q9LheRZong%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF-RIoeeMTMKQ/company-logo_100_100/company-logo_100_100/0/1664197008220/hcltech_logo?e=2147483647&v=beta&t=xcyEJUPhrb87C_rsxS_BX3_2bZJF40KfbSVTJWSFdkU",
+    "lat": 0,
+    "lng": 0
   }
 ]
