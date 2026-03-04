@@ -1287,6 +1287,17 @@
     "lng": 77.577749
   },
   {
+    "id": "urn:li:jobPosting:4377163912",
+    "title": "Lead Software Engineer",
+    "company": "Keka HR",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-24",
+    "link": "https://in.linkedin.com/jobs/view/lead-software-engineer-at-keka-hr-4377163912?position=2&pageNum=95&refId=T7e6zBXd1w8pPuYfEdSvVg%3D%3D&trackingId=AOo58fdUG0%2BqkU0fWCl0EA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHHM2B5Xxooxg/company-logo_100_100/B56Zjw9uzIHIAU-/0/1756389371846/keka_hr_logo?e=2147483647&v=beta&t=6QbFX8ePujmKTSI8fmJZAUHu8FUbW8lYE-kcSRl9EBQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4376597801",
     "title": "Software Engineer In Test - React.js",
     "company": "Electrolux Group",
@@ -4133,6 +4144,39 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGLxWPpGqaVmw/company-logo_100_100/company-logo_100_100/0/1630471638964/wellsfargo_logo?e=2147483647&v=beta&t=D1e-PmlhlUZN0ekIYF0M9XadtGDukrr58ywiHYGlJ_Y",
     "lat": 12.9331456,
     "lng": 77.6903598
+  },
+  {
+    "id": "urn:li:jobPosting:4372236311",
+    "title": "Software Engineer",
+    "company": "Wells Fargo",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-13",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-wells-fargo-4372236311?position=7&pageNum=60&refId=XEG2%2F4ZBudSJFbM0dELbfQ%3D%3D&trackingId=JQvh1xyCIuq2H7qAeRW7dQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGLxWPpGqaVmw/company-logo_100_100/company-logo_100_100/0/1630471638964/wellsfargo_logo?e=2147483647&v=beta&t=D1e-PmlhlUZN0ekIYF0M9XadtGDukrr58ywiHYGlJ_Y",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4372230465",
+    "title": "Associate Software Engineer",
+    "company": "Automation Anywhere",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-13",
+    "link": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-automation-anywhere-4372230465?position=5&pageNum=97&refId=mtXFW%2FEkZmxi2W8hR1ENrw%3D%3D&trackingId=Z2rmM6zG8oO8vSMX9msFKQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFQ524hZ3eM9A/company-logo_100_100/B4EZoGaBIFIoAQ-/0/1761044075585/automation_anywhere_logo?e=2147483647&v=beta&t=rdlpvArp4cxaKINXtpyljwlHYlWBxBC68yzEO-uaMg4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4371790409",
+    "title": "Frontend Engineer (Founding Team)",
+    "company": "Breakout",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-13",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-founding-team-at-breakout-4371790409?position=10&pageNum=97&refId=GMXE9M7M%2FrDkck3nH1RUvA%3D%3D&trackingId=uXXanZHIAEZyfGuPo19lKQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGHReRWbhhh0w/company-logo_100_100/B56ZWLwCUfHsAU-/0/1741806380548/breakoutai_logo?e=2147483647&v=beta&t=3GZZTooXCPybPl8j-ZhgmjyDIYVhO1ixQESfzeaOCF0",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4363914253",
@@ -21282,5 +21326,75 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
     "lat": 12.8461795,
     "lng": 77.6776437
+  },
+  {
+    "id": "urn:li:jobPosting:4379622689",
+    "title": "Web Developer (SDE 3)",
+    "company": "Groww",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-sde-3-at-groww-4379622689?position=5&pageNum=22&refId=xGCttN0uoQGkzW1OuXUTtg%3D%3D&trackingId=0%2FtZBQSjUbk4jOzERIWNTg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE52I3UW6wFMg/company-logo_100_100/company-logo_100_100/0/1691578957554/growwin_logo?e=2147483647&v=beta&t=bWFVcE_R4SZfoO5FK6QRoNH_jSsapuaTpN6A7uch9F0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4380776489",
+    "title": "Frontend Developer",
+    "company": "Xebia",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-xebia-4380776489?position=9&pageNum=45&refId=Lups1jDtovyUv1m0GEVSNg%3D%3D&trackingId=KNX7biZ7EKwxTMgDXdVylg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEGhfHCBLW8KA/company-logo_100_100/company-logo_100_100/0/1719836676623/xebia_logo?e=2147483647&v=beta&t=mIF0aFj-qDhmP1kMxLA46s4BZBzcQV1h8waDvGOKbzs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4378913476",
+    "title": "Web Developer",
+    "company": "LTM",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-ltm-4378913476?position=8&pageNum=75&refId=au5p4bqDt7e7tDceYW6WWA%3D%3D&trackingId=yopaNRIo0SKt6JxwWkPo4A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEL39y6qr9q9g/company-logo_100_100/B4DZxMaZ2wG0AQ-/0/1770808516563/ltm_larsenandtoubrocompany_logo?e=2147483647&v=beta&t=E9b8vqHzqeUnBd69mhUNk0hxhkroJ4_Xn9SMi0LFGAg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4380709153",
+    "title": "Interesting Job Opportunity: Senior Frontend Developer - React.js Framework",
+    "company": "DataFlow Group",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/interesting-job-opportunity-senior-frontend-developer-react-js-framework-at-dataflow-group-4380709153?position=8&pageNum=95&refId=IFkrXyyf%2BX9VHq4nbUcFEw%3D%3D&trackingId=ls1JjCLHwplU%2B5xk562%2FPg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE0IMRAriNgPQ/company-logo_100_100/company-logo_100_100/0/1667996686571/dataflow_group_logo?e=2147483647&v=beta&t=bASuTPdMr1ZNNmeRGj9ql-UJ0aphh3DBoQ6EoiVGKOE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4380785685",
+    "title": "Software Engineer",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-hewlett-packard-enterprise-4380785685?position=6&pageNum=65&refId=ERlxXkGiE0NK1wVfoU0M5g%3D%3D&trackingId=iOe1O0JBRCY0wStvstjZkg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG3eeRIFGMG9g/company-logo_100_100/B4EZdkxlEZH0AU-/0/1749742408362/hewlett_packard_enterprise_logo?e=2147483647&v=beta&t=ijFn20TK1upEkeiP1oWhqe152s87m6307NkiugLc8_E",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4379619310",
+    "title": "Software Engineer, Commerce Platform",
+    "company": "Docusign",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-commerce-platform-at-docusign-4379619310?position=9&pageNum=92&refId=NG2rZGemm9UkYEBHilxizw%3D%3D&trackingId=yu67coivJ21qE%2Btif0%2BkIg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFJh4R0ibULEg/company-logo_100_100/company-logo_100_100/0/1712837162469/docusign_logo?e=2147483647&v=beta&t=Y-f3Qq3iOXvWBwbXRkBZlDyiYso6ADqLFZ_f5hsk1i8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4380757960",
+    "title": "Senior Engineer, Software Development Engineering (Apps)",
+    "company": "Sandisk",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-engineer-software-development-engineering-apps-at-sandisk-4380757960?position=8&pageNum=90&refId=CJUUrUsJnjmT3apatcGs9Q%3D%3D&trackingId=4dFRyBhSIssOKV6GtctJSA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFT3XpBw27MZQ/company-logo_100_100/B56Znem7iXIYAQ-/0/1760376371839/sandisk_logo?e=2147483647&v=beta&t=9jSi5C_S8tJzrynYB43fIOkJ3YOofaMfZ5PbugS2SEI",
+    "lat": 0,
+    "lng": 0
   }
 ]
