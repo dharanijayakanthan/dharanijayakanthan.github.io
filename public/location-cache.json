@@ -1842,5 +1842,13 @@
   "AXA XL, Bengaluru East, Karnataka, India": {
     "lat": 0,
     "lng": 0
+  },
+  "Sandisk, Bengaluru East, Karnataka, India": {
+    "lat": 12.9441857,
+    "lng": 77.6930568
+  },
+  "Heartstream, Bangalore Urban district, India": {
+    "lat": 0,
+    "lng": 0
   }
 }
