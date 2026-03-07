@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4380632445",
+    "title": "Software Engineer",
+    "company": "Digitap.ai",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-06",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-digitap-ai-4380632445?position=6&pageNum=95&refId=LgmtOl1XD4RgHDxb3wnNbQ%3D%3D&trackingId=uR%2FLWTBMRq%2B9kQATnWXehQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHQChxk51YtGA/company-logo_100_100/company-logo_100_100/0/1653644328175/digitap_ai_logo?e=2147483647&v=beta&t=fqMsevS1NM-4vchj0DRbWJfoHWJkuXgjXXlTu_lxsJs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4381450954",
     "title": "Staff UI Software Engineer",
     "company": "Okta for Developers",
@@ -40,6 +51,28 @@
     "date": "2026-03-05",
     "link": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-react-at-moniepoint-group-4380496788?position=10&pageNum=97&refId=UnDBgPTKc1qxUuzNL%2B6tOw%3D%3D&trackingId=GpOakXa%2FrEThm9zUe2x2xA%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHI0H8VFKLMBg/company-logo_100_100/company-logo_100_100/0/1736336272051?e=2147483647&v=beta&t=cmyg5uiqAl7MQ8JYlba253p03v_HtrvkZoM1BLDV4-Y",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381460530",
+    "title": "Software Engineer",
+    "company": "AXA XL",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-03-05",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-axa-xl-4381460530?position=7&pageNum=97&refId=5fgiIKu8KIcmsK%2FpFRptig%3D%3D&trackingId=Uw43%2BrnNelBSBmGOZ7pMJg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHHr7g8IUQgcA/company-logo_100_100/company-logo_100_100/0/1719256480069/axaxl_logo?e=2147483647&v=beta&t=hHCAkqKMi4BKa5TAasK750zPoUk72Op3MMgSzdwIb9Q",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381698891",
+    "title": "Senior Lead FrontEnd Developer Bengaluru",
+    "company": "Sberbank India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-05",
+    "link": "https://in.linkedin.com/jobs/view/senior-lead-frontend-developer-bengaluru-at-sberbank-india-4381698891?position=9&pageNum=90&refId=8O%2FXWFDgK3bjMq0LPDxYaw%3D%3D&trackingId=EYzGpCXKCDlyfgpbneJAwg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEqmL-vpo51iw/company-logo_100_100/company-logo_100_100/0/1723110064299?e=2147483647&v=beta&t=-wVXF2H12U5E3r_oEBWD1Cm6NZTfVCi0PrB7Ic8G-xA",
     "lat": 0,
     "lng": 0
   },
@@ -174,6 +207,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGNvQASzrdL_w/company-logo_100_100/company-logo_100_100/0/1687874736484/bairesdev_logo?e=2147483647&v=beta&t=O-1i-F9arEGwUjngSlvE7NWxL-mpYFwN_XZxHy0C03s",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4368209380",
+    "title": "Software Development Engineer II",
+    "company": "Tesco Technology",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-04",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-tesco-technology-4368209380?position=7&pageNum=95&refId=LgmtOl1XD4RgHDxb3wnNbQ%3D%3D&trackingId=wliIIoNofjVV59fQYgKX9w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFJN5qXVxmIEw/company-logo_100_100/company-logo_100_100/0/1663681176949/tesco_technology_logo?e=2147483647&v=beta&t=xYJWJM2EZiX-0-NGZgWUx6gFsik8MXfFd0jmeopiSTc",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4379168144",
@@ -801,6 +845,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDboRtzGkMrQ/company-logo_100_100/company-logo_100_100/0/1736245737287/geekyants_india_pvt_ltd_logo?e=2147483647&v=beta&t=WPSv41P--e8T83qGJEkQUDV0WIVw0Oo1oUc-bKNEdiY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4380307938",
+    "title": "Advanced Engineer Software [T500-23951]",
+    "company": "Albertsons Companies India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-03",
+    "link": "https://in.linkedin.com/jobs/view/advanced-engineer-software-t500-23951-at-albertsons-companies-india-4380307938?position=8&pageNum=77&refId=92bgZYModw2AdWvJbh7uHQ%3D%3D&trackingId=c9cVgF72zMtYZRmaiJu2ng%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEyBWPU29c96g/company-logo_100_100/B56Za2zTbsGUAQ-/0/1746823624863?e=2147483647&v=beta&t=gy5o8LNL-bS3QCbE3qLyfk6eSymTOQwf9_-XLhzxQdI",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4377788546",
@@ -7928,6 +7983,17 @@
     "lng": 77.7035469
   },
   {
+    "id": "urn:li:jobPosting:4381680950",
+    "title": "Software Engineer II",
+    "company": "Wayfair",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-09",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-wayfair-4381680950?position=4&pageNum=85&refId=l9Q4RHhtj99x%2B1huitcrQg%3D%3D&trackingId=wDpalbBweCgaXOuMBP23vA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE5VUS4aKzIjw/company-logo_100_100/company-logo_100_100/0/1707335788746/wayfair_logo?e=2147483647&v=beta&t=a4Yc_3etDpvzYYPZlz7RKAsnryw37x8G9vVJhQ7V024",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4340248642",
     "title": "Software Engineer 3 - Frontend",
     "company": "eBay",
@@ -13728,6 +13794,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_100_100/company-logo_100_100/0/1630637844948/apple_logo?e=2147483647&v=beta&t=p0JNmv2WB0EMMQgvzl9R8TaXgzEaDraGS4MWR0IawjQ",
     "lat": 12.9718591,
     "lng": 77.5956698
+  },
+  {
+    "id": "urn:li:jobPosting:4360005194",
+    "title": "Software Engineer- GNS Architecture",
+    "company": "Apple",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-01-16",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-gns-architecture-at-apple-4360005194?position=8&pageNum=87&refId=z4SLXcwRo7bJlTFXVSQeHg%3D%3D&trackingId=LuQepOvqVD98mxYKJSGWVw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_100_100/company-logo_100_100/0/1630637844948/apple_logo?e=2147483647&v=beta&t=p0JNmv2WB0EMMQgvzl9R8TaXgzEaDraGS4MWR0IawjQ",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4366456849",
@@ -23830,5 +23907,135 @@
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQHIvYoZjAVOIQ/company-logo_100_100/company-logo_100_100/0/1630616435276/binated_logo?e=2147483647&v=beta&t=uU6t8s42_mKweMHrRKqrayaskYq47kyrlNY05B8B0lY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4381352733",
+    "title": "React JS Developer",
+    "company": "Scoutit",
+    "location": "Bangalore Urban district, India",
+    "link": "https://in.linkedin.com/jobs/view/react-js-developer-at-scoutit-4381352733?position=9&pageNum=45&refId=jnz9Zz1LeWkOfLA1QvewNQ%3D%3D&trackingId=m1o9tBPy93ONa5xOan75OQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381327997",
+    "title": "Senior Software Engineer",
+    "company": "Flipkart",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-flipkart-4381327997?position=5&pageNum=47&refId=Bn%2FIs%2BZF1Hpi042vMAfpwg%3D%3D&trackingId=COfvfOweAO9TYbpR0VZsAQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHtneRyv-iofA/company-logo_100_100/B56Za6BjbWHgAU-/0/1746877692629/flipkart_logo?e=2147483647&v=beta&t=eKrg7kY2vRp74bYnuf0kfIOIC78YFzsoaAp-NpfRFOY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381074827",
+    "title": "Software Development Engineer - II",
+    "company": "GoKwik",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-gokwik-4381074827?position=10&pageNum=97&refId=5fgiIKu8KIcmsK%2FpFRptig%3D%3D&trackingId=JUtHUAUZXJU7UsMMFCuTSA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEWNMm3OtNf6g/company-logo_100_100/company-logo_100_100/0/1670230022779/gokwik_logo?e=2147483647&v=beta&t=FmdL3bTe8iBHhmlmKfVCK4LSYdamb6pa4bQyypXTMYo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381362129",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4381362129?position=5&pageNum=27&refId=KbkfRa6U%2FeLpnHW8IYcntA%3D%3D&trackingId=s8V6Ye%2F%2FLJmBArnSZkiY%2Bg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381358356",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4381358356?position=8&pageNum=32&refId=0wtss7fM5zR7ReXONfXbdw%3D%3D&trackingId=I5BfYDNVITrAonNTpBXEew%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381359518",
+    "title": "React JS Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-js-developer-at-scoutit-4381359518?position=4&pageNum=37&refId=xe9DhUxKu7wqEtu%2FbkxYig%3D%3D&trackingId=bthFkUmChZ4bBbCkfRvOFA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381363383",
+    "title": "React JS Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru North, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-js-developer-at-scoutit-4381363383?position=5&pageNum=37&refId=xe9DhUxKu7wqEtu%2FbkxYig%3D%3D&trackingId=JTpuHhPjpGsC3VlcWyP40w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381362391",
+    "title": "React JS Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-js-developer-at-scoutit-4381362391?position=10&pageNum=52&refId=4NedtLD1Ic8W9rVg7nQb1g%3D%3D&trackingId=r7b7KWlDl2e%2FbYi7Iawbtg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4382376369",
+    "title": "Software Engineer(Fullstack)-GEVT",
+    "company": "Weekday AI (YC W21)",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-fullstack-gevt-at-weekday-ai-yc-w21-4382376369?position=10&pageNum=92&refId=teaLDHZqu1tphw9dbytyNQ%3D%3D&trackingId=wqfyHV%2B5vOHZ5rJB2K7gjg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMGKC-EvAWpg/company-logo_100_100/company-logo_100_100/0/1737539347361/weekdayjobs_logo?e=2147483647&v=beta&t=ieIgvB8kFgzbxY41wBcAR7jpNOrDOqFB53OKC5vWkuQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381358343",
+    "title": "React Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4381358343?position=2&pageNum=45&refId=kiuigijohir3EtLBljHOWw%3D%3D&trackingId=JjQqVYft13xWfIDAIydbfw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381349596",
+    "title": "React Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4381349596?position=3&pageNum=45&refId=kiuigijohir3EtLBljHOWw%3D%3D&trackingId=Em9AXp2J06Ra9f9WlxMc5g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4382104747",
+    "title": "Senior Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-capgemini-4382104747?position=9&pageNum=97&refId=9MgFOuCRoa%2BPFiuuZ47TeQ%3D%3D&trackingId=eBPU3unZ1YYwAUPx1E2itw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381352288",
+    "title": "Enverus Careers 2026 | Software Engineer",
+    "company": "Enverus",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/enverus-careers-2026-software-engineer-at-enverus-4381352288?position=9&pageNum=72&refId=%2FU0LBnrb%2F7mgix3tjfAVZg%3D%3D&trackingId=ttsS%2FIGQPQD0AfhPVC7uVA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFxFp3CSggmyQ/company-logo_100_100/company-logo_100_100/0/1630585942634/carolyn_test_page_logo?e=2147483647&v=beta&t=gjuir_GZ50YAKsB39qbkAe2-MsublzEJSNtWd1ghb00",
+    "lat": 0,
+    "lng": 0
   }
 ]
