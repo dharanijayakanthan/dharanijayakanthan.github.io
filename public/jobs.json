@@ -22,6 +22,17 @@
     "lng": 77.6174204
   },
   {
+    "id": "urn:li:jobPosting:4380698246",
+    "title": "Software Development Engineer II",
+    "company": "Tesco Bengaluru",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-06",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-tesco-bengaluru-4380698246?position=7&pageNum=97&refId=irkSAN1RimVd911jJUwuCA%3D%3D&trackingId=VMh%2BS3uEPnb4IF5Y7NpIxA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNqJip6BEwGw/company-logo_100_100/company-logo_100_100/0/1688367507340/tesco_bengaluru_logo?e=2147483647&v=beta&t=RNhSg7-j-lU4JLvK8r-VtORAikcZ6GcI8M0sqJiRom4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4381450954",
     "title": "Staff UI Software Engineer",
     "company": "Okta for Developers",
@@ -119,6 +130,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE-BMGfbyTJnw/company-logo_100_100/company-logo_100_100/0/1719767483469/wabtec_corporation_logo?e=2147483647&v=beta&t=g0fQPttrsSs4dlkxaepmssaE1H-lpJCvtfpJ4qxoDsQ",
     "lat": 12.975576,
     "lng": 77.7177057
+  },
+  {
+    "id": "urn:li:jobPosting:4381621861",
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-05",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-netapp-4381621861?position=2&pageNum=85&refId=%2FwEd2wQ0hY6GdVLX4ZZUwg%3D%3D&trackingId=HTZxAbch6xPoQDJqrRepTA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF9CVZrvp6uLw/company-logo_100_100/B4DZnjqBAhKsAQ-/0/1760461066775/netapp_logo?e=2147483647&v=beta&t=Ub-IPHRFUCeiIZAxOcKaDb0yRyP98M2f6-vKG-hybM4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381413063",
+    "title": "Frontend Engineer L2",
+    "company": "OpenFX",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-05",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-l2-at-openfx-4381413063?position=4&pageNum=92&refId=5UOOgmE9rxapdalolpaK%2FA%3D%3D&trackingId=Ok28v%2FVkKc9Nu2%2BPWaBH3A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFzPLKc4CeCDQ/company-logo_100_100/B4EZm.ws7eHIAQ-/0/1759842062408/openfx_logo?e=2147483647&v=beta&t=b0K6yLxdxXSDVWoWqunV1HCokBg2eo6Gab43DMDyYCQ",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4380748500",
@@ -24194,5 +24227,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
     "lat": 12.9216236,
     "lng": 77.6688299
+  },
+  {
+    "id": "urn:li:jobPosting:4381511517",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4381511517?position=6&pageNum=12&refId=UjCZ1DXPiYuW6Mb7Dfb9Kw%3D%3D&trackingId=sK%2Fxpx9ji2C3mjGH9W8HGw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381505685",
+    "title": "Software Engineer III- React, UI",
+    "company": "hackajob",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-react-ui-at-hackajob-4381505685?position=10&pageNum=70&refId=KWcNqSFULYA3jTLYkiEMmQ%3D%3D&trackingId=6ZaFrf3kIEHzjf%2B2K8ErZw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGuQDG4JgJVhQ/company-logo_100_100/B4DZxrAcO2G8AY-/0/1771321807998/hackajob_logo?e=2147483647&v=beta&t=1355cxQCALa8e7tv9UZFHOazQBJXxdxsrW4-12AAyMM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381507675",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4381507675?position=7&pageNum=32&refId=7br5FV%2B7TvdzxUCEhleRIQ%3D%3D&trackingId=SXQY2KQSTB0iKoeX%2BMuGEQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381507679",
+    "title": "React Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4381507679?position=10&pageNum=27&refId=ayHG3lTX7aCtXEfN4UaZsg%3D%3D&trackingId=flTQSHiuBx9qLKx9LnqdNg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
   }
 ]
