@@ -22,6 +22,17 @@
     "lng": 77.694995
   },
   {
+    "id": "urn:li:jobPosting:4382645241",
+    "title": "Software Engineer",
+    "company": "geidea",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-08",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-geidea-4382645241?position=3&pageNum=95&refId=ExHm1m8gLf3VGpBSNN9zkA%3D%3D&trackingId=ahRgAANooYhBfCtW38I2bQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH0QxB0FcJR2A/company-logo_100_100/B4DZXOJNcUHkAg-/0/1742920280126/geidea_logo?e=2147483647&v=beta&t=sG1eG02vJD9j950AOkRP0nStyLcvOdrrBhlweYWAAH0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4380688625",
     "title": "Software Development Engineer II",
     "company": "Tesco Technology",
@@ -165,6 +176,28 @@
     "lng": 77.7166929
   },
   {
+    "id": "urn:li:jobPosting:4381003044",
+    "title": "Staff Software Engineer",
+    "company": "Commonwealth Bank",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-06",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-at-commonwealth-bank-4381003044?position=8&pageNum=97&refId=bVP%2BlSEkmeZeqZtRrdmxXw%3D%3D&trackingId=67PEwNMCjvtJhA9oDKHtqw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGLodxq_N-mcA/company-logo_100_100/company-logo_100_100/0/1692243810359/commonwealthbank_logo?e=2147483647&v=beta&t=RQNStTO8TBpVHM_QuBlbbkubgbYkNVYMD9A62xn8frQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4381958534",
+    "title": "Senior Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-06",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-capgemini-4381958534?position=4&pageNum=70&refId=t8G9qzzTyPaJB6cqZTfkYw%3D%3D&trackingId=p%2BpWNFvT%2F2VxHvxb%2Bths8Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4381450954",
     "title": "Staff UI Software Engineer",
     "company": "Okta for Developers",
@@ -306,6 +339,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF42fGVfa1OTg/company-logo_100_100/company-logo_100_100/0/1631351277605?e=2147483647&v=beta&t=TGDc4-IRXXateJunaPrWmwHQz_7wpgkUXBXQ2w5Pqxo",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4381654767",
+    "title": "Senior Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-05",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-capgemini-4381654767?position=5&pageNum=92&refId=wLyYB7MkScu5PD88HdNdwQ%3D%3D&trackingId=uxhfhPAwC%2FQFVofvmOwscg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4380748500",
@@ -1406,6 +1450,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHtf0NHyUa92g/company-logo_100_100/company-logo_100_100/0/1719933220460/thomson_reuters_logo?e=2147483647&v=beta&t=ML9NnTk2lfPONL3Ft_HeSGyq0tQPb7SrfP_LSYjC6c0",
     "lat": 12.9476359,
     "lng": 77.6892208
+  },
+  {
+    "id": "urn:li:jobPosting:4242461038",
+    "title": "Staff Software Engineer, Front-End (AI Engineering)",
+    "company": "Okta",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-02",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-front-end-ai-engineering-at-okta-4242461038?position=5&pageNum=65&refId=QPZmK2WqD1pL05ZmeOZLVA%3D%3D&trackingId=t1qToI8%2FLUqQ9P2konAHPg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE0I9HrjbrEYQ/company-logo_100_100/company-logo_100_100/0/1667862034764/okta_inc__logo?e=2147483647&v=beta&t=jgTgxfuLfY5pp_Mk_6UMtjNHd2zQZVHPkh6QxrCWNCo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4379579566",
@@ -25018,5 +25073,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
     "lat": 12.9216236,
     "lng": 77.6688299
+  },
+  {
+    "id": "urn:li:jobPosting:4383364114",
+    "title": "Software Engineer III - UI Developer",
+    "company": "JPMorganChase",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-ui-developer-at-jpmorganchase-4383364114?position=1&pageNum=47&refId=B2v%2BNP3i6XSUO4381WLdYw%3D%3D&trackingId=QTiVDNfz%2FcYWtZpRJO6Ffg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4383425703",
+    "title": "Interesting Job Opportunity: Staff Frontend Engineer - React.js",
+    "company": "Redica Systems",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/interesting-job-opportunity-staff-frontend-engineer-react-js-at-redica-systems-4383425703?position=6&pageNum=97&refId=ctzSAKY9oikLGp6es3Q1Rg%3D%3D&trackingId=F0yNKRfeR8rbbfu%2BwavFtA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGqo7HwJdpOBQ/company-logo_100_100/company-logo_100_100/0/1630654640743/fdazilla_logo?e=2147483647&v=beta&t=ZDQ0x2rAHMGxjyc1s60TZuxRhpCemYBc103e9KTobGo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4383477057",
+    "title": "UI Developer - ReactJS/NextJS",
+    "company": "Teamware Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ui-developer-reactjs-nextjs-at-teamware-solutions-4383477057?position=8&pageNum=97&refId=ctzSAKY9oikLGp6es3Q1Rg%3D%3D&trackingId=bxJ6ERX%2BKrglTuMUYxxPMQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGTmsLAkTTGww/company-logo_100_100/company-logo_100_100/0/1722576449607/teamware_solutions_logo?e=2147483647&v=beta&t=QIDeTszOkwzAnnawMWT3qa9iPNzIuSXvAHSI6E-3FcA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4383350481",
+    "title": "UI Software Engineer",
+    "company": "Labcorp",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ui-software-engineer-at-labcorp-4383350481?position=9&pageNum=67&refId=0DMgfOjNbi7OyiMUCWRMSw%3D%3D&trackingId=qUabvc9q4o1fipLEJY%2FpcQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGolZAtx6vrGQ/company-logo_100_100/company-logo_100_100/0/1685740832018/labcorp_logo?e=2147483647&v=beta&t=Js_uOv4622ltY0bHsmXaOemU6v4MIfJmBaqJYgUrICE",
+    "lat": 0,
+    "lng": 0
   }
 ]
