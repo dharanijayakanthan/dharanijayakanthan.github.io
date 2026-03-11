@@ -33,6 +33,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4381732714",
+    "title": "Frontend Developer (all gender)",
+    "company": "JENOPTIK",
+    "location": "Greater Bengaluru Area",
+    "date": "2026-03-09",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-all-gender-at-jenoptik-4381732714?position=3&pageNum=90&refId=IVORyu6Xiu90Uy5nOplNgQ%3D%3D&trackingId=0hbUuhhUALQP6wk707YfBw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEoPIsbhrJCFw/company-logo_100_100/company-logo_100_100/0/1630542222477/jenoptik_logo?e=2147483647&v=beta&t=OA3goOz4JZm1dkqNs7Wg9ujVxB1IAERZbAM43B2Swcs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4382645241",
     "title": "Software Engineer",
     "company": "geidea",
@@ -25567,5 +25578,95 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4382445620",
+    "title": "Frontend Developer",
+    "company": "Zilo AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-zilo-ai-4382445620?position=2&pageNum=47&refId=jsp36wxYDMU3VWGECyKy2Q%3D%3D&trackingId=EvrL8BuTNtVwd3tuPH5dtg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFjofZCUsnL-g/company-logo_100_100/B56ZZ4IlOmGkAQ-/0/1745772238284?e=2147483647&v=beta&t=0p8VF3NfMgxNZtytLXnxlvlz6_FQxQM9xtzZDsXtF88",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4383756841",
+    "title": "Software Engineer - UI/UX Developer",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ui-ux-developer-at-hewlett-packard-enterprise-4383756841?position=1&pageNum=65&refId=RrTdYGs8TOSghOzVu%2FBUyQ%3D%3D&trackingId=HRcEElsI8EK4Y03vABMl1g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG3eeRIFGMG9g/company-logo_100_100/B4EZdkxlEZH0AU-/0/1749742408362/hewlett_packard_enterprise_logo?e=2147483647&v=beta&t=ijFn20TK1upEkeiP1oWhqe152s87m6307NkiugLc8_E",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4383877031",
+    "title": "Trendlyne - Software Frontend Developer - React.js",
+    "company": "Trendlyne.com",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/trendlyne-software-frontend-developer-react-js-at-trendlyne-com-4383877031?position=9&pageNum=37&refId=PK6PrqNgG0MArcqBwlfjIg%3D%3D&trackingId=xbBM8URwwALeZs9p7KI1Aw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHX_qw8J4cOIw/company-logo_100_100/company-logo_100_100/0/1630668671982/trendlyne_logo?e=2147483647&v=beta&t=-M5F9Dob55g6QAapwRs_-gJ_fL7U3GgZcbz_cNyANoQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4383790831",
+    "title": "Senior Software Engineer",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-microsoft-4383790831?position=10&pageNum=52&refId=eGkTZnOOUsR99YbpR4%2FaDg%3D%3D&trackingId=j5KSV5%2FgBbyDZ2fwXwBy%2Fw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4383852524",
+    "title": "Software Engineer in Test",
+    "company": "Okta",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-in-test-at-okta-4383852524?position=1&pageNum=87&refId=VcMXQgcxygBRaEEDqLSCoQ%3D%3D&trackingId=%2Fdv1%2BWHY3jLWme7%2FckyA7g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE0I9HrjbrEYQ/company-logo_100_100/company-logo_100_100/0/1667862034764/okta_inc__logo?e=2147483647&v=beta&t=jgTgxfuLfY5pp_Mk_6UMtjNHd2zQZVHPkh6QxrCWNCo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4382240782",
+    "title": "Web Developer",
+    "company": "Jase HR Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-jase-hr-solutions-4382240782?position=8&pageNum=97&refId=6xPClstArSkF1RKbiLYWZg%3D%3D&trackingId=s4SBJSCTNMqu4PyoU7FBKQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGLvpTwI71TDA/company-logo_100_100/B56ZbisSBsG4AQ-/0/1747559981891?e=2147483647&v=beta&t=ITy6B-6i3qJZfVI3xSxCb4xu4BuTVdWOQIbdnhq4upU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4382291253",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4382291253?position=7&pageNum=15&refId=BAQ2Lk4eP80ZSTUjPetkjA%3D%3D&trackingId=YQjGMFT955SEujsdV2S2lg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4383728424",
+    "title": "Software Engineer",
+    "company": "Fidelity Investments",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-fidelity-investments-4383728424?position=3&pageNum=82&refId=jk8NGvPfC4sNMldjHA2b6g%3D%3D&trackingId=tjWW9ReNkgzeCdjZb%2B3RiA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEuH501asNUIQ/company-logo_100_100/B4EZXtxo03G0AU-/0/1743450967859/fidelity_investments_logo?e=2147483647&v=beta&t=KyaswXYHURo34Y0GAgxyomTUHS2AT7gsD5nrw-IGG78",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4382068343",
+    "title": "Software Engineer (Full-stack Developer)",
+    "company": "NetApp",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-full-stack-developer-at-netapp-4382068343?position=3&pageNum=95&refId=EU5zS07TQVUr351zQ%2BjZOw%3D%3D&trackingId=8qLAbWbpNLuZVuVJbTyl%2Bg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF9CVZrvp6uLw/company-logo_100_100/B4DZnjqBAhKsAQ-/0/1760461066775/netapp_logo?e=2147483647&v=beta&t=Ub-IPHRFUCeiIZAxOcKaDb0yRyP98M2f6-vKG-hybM4",
+    "lat": 0,
+    "lng": 0
   }
 ]
