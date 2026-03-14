@@ -16876,6 +16876,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4331628926",
+    "title": "Software QA Engineer - 2",
+    "company": "Fortinet",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2025-09-30",
+    "link": "https://in.linkedin.com/jobs/view/software-qa-engineer-2-at-fortinet-4331628926?position=9&pageNum=97&refId=6z0EyIiEG9Cm6%2BMWRYlGOA%3D%3D&trackingId=Lu4M53IsYacqBwFnjoQB7Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIQ_eNe9b1jg/company-logo_100_100/company-logo_100_100/0/1688016806462/fortinet_logo?e=2147483647&v=beta&t=9tNow5ncOHxspWqtfMfVTWmUElHk1LVb1ucfetaW8m0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "title": "SDE II / III - Frontend Developer",
     "company": "ZEE - Technology & Innovation",
     "location": "Bengaluru, Karnataka, India",
@@ -28388,5 +28399,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFXMNnAtaU2qA/company-logo_100_100/company-logo_100_100/0/1738582300818/peopleprimeww_logo?e=2147483647&v=beta&t=46Euex735XHnnSL-4JCCUWosRqNQHcuDHCtDgn3B-XU",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4385813929",
+    "title": "Software Engineer II - Frontend",
+    "company": "Uber",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-frontend-at-uber-4385813929?position=6&pageNum=2&refId=%2FgOgWK6b8drV41d%2Fpwp6ng%3D%3D&trackingId=tXVSRko3VK7cXrpi18U6ew%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4384234068",
+    "title": "React Js Developer ( Banking Domain is mandate) - 8+ YOE - Bangalore Location - Immediate joiners Preferrable",
+    "company": "ValueLabs",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-js-developer-banking-domain-is-mandate-8%2B-yoe-bangalore-location-immediate-joiners-preferrable-at-valuelabs-4384234068?position=5&pageNum=97&refId=Z7r4ZjRjGEm7PA7Pgikzxg%3D%3D&trackingId=w9CLutAHfiO9kdVOddmywQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHl-cSnWPrX_A/company-logo_100_100/B4DZjvjBocIYAU-/0/1756365593610/valuelabs_logo?e=2147483647&v=beta&t=hSd0fppM8jKFuKwABGO_Q2VDR4pzXN4W8RE7wcObtiY",
+    "lat": 0,
+    "lng": 0
   }
 ]
