@@ -2574,6 +2574,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4375926292",
+    "title": "Full Stack Developer (JAVA+Angular)",
+    "company": "LTIMindtree",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-27",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-java%2Bangular-at-ltimindtree-4375926292?position=1&pageNum=97&refId=fKaym73IPVGDcXY4DaRZ2w%3D%3D&trackingId=E1lTopQmLal8bWFB85BpPg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGBGxSs8hv4_A/company-logo_100_100/B56ZuM_jsXJoAQ-/0/1767597030946/ltimindtree_logo?e=2147483647&v=beta&t=NXmA23dhf5irpFMXfEf2V7HYf2xSnHN5hZqivDmCfog",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4378692151",
     "title": "Software Engineer",
     "company": "TALENTMATE",
@@ -2790,6 +2801,17 @@
     "date": "2026-02-26",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-in-test-java-javascript-phyton%E2%80%8B-at-electrolux-group-4378373471?position=10&pageNum=97&refId=Or0oJ7w0gIQJGtmBtcmG6g%3D%3D&trackingId=k6s4p6kk9CK5thrzXdkBUw%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEZiaaUvM-yOg/company-logo_100_100/company-logo_100_100/0/1631372210419?e=2147483647&v=beta&t=72drfQgDML4gVpn_fD7t_OHdVmFA00Lf-m1mK1l8S2k",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4378073384",
+    "title": "Software Development Engineer in Test ( MABL , Selenium/Cypress )",
+    "company": "Evertz",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-26",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-in-test-mabl-selenium-cypress-at-evertz-4378073384?position=10&pageNum=97&refId=CkinN8Qmw8q%2B%2F5Vgg%2B1lAw%3D%3D&trackingId=%2F6XlIQSdokJW2GNkfpXv2Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGOPISDv847Gw/company-logo_100_100/company-logo_100_100/0/1631342565370?e=2147483647&v=beta&t=se5KGD28nC9WSI3_QaR0sZaFyUP3lZK-AiFrzZ21Sc0",
     "lat": 0,
     "lng": 0
   },
@@ -16106,6 +16128,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4344512294",
+    "title": "QA Engineer - Manual Software Tester",
+    "company": "Shipthis",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2025-12-17",
+    "link": "https://in.linkedin.com/jobs/view/qa-engineer-manual-software-tester-at-shipthis-4344512294?position=9&pageNum=97&refId=1lKJwKNMJtP9%2Bpy1D873Dw%3D%3D&trackingId=xQICJxe7ErUXihpcU7bYTw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGrhvUvRUhGUw/company-logo_100_100/company-logo_100_100/0/1683195342688/shipthis_logo?e=2147483647&v=beta&t=xM1AxztccP3EsNZV_B_weG5OcjnVTRQ1qAlBijEbgcA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4344180426",
     "title": "Angular/ JS Developer",
     "company": "Naviam",
@@ -17216,6 +17249,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4308003788",
+    "title": "Senior Software Engineer",
+    "company": "Curl.tech",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-09-29",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-curl-tech-4308003788?position=8&pageNum=97&refId=M1nfRRDeeAgW9HTu44sbzw%3D%3D&trackingId=i1FZ7Lglt7iTm63nZZ0%2Buw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEYPms2UyL8LA/company-logo_100_100/company-logo_100_100/0/1729773310655/curl_analytics_logo?e=2147483647&v=beta&t=_1JIiHGqURp5tCF_je425dCARQRM8X-PA7DSFbS7tjc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4306293018",
     "title": "Software Development Engineer in Test (SDET)",
     "company": "Dicetek LLC",
@@ -17522,6 +17566,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF_0JqR2CRpJw/company-logo_100_100/company-logo_100_100/0/1688571543420/soprasteria_logo?e=2147483647&v=beta&t=-Z1iFS5Flfpz13u7tuuVv3PINIKOucA30K1D8j8kyX4",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4279683849",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-08-05",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4279683849?position=10&pageNum=97&refId=1lKJwKNMJtP9%2Bpy1D873Dw%3D%3D&trackingId=hxWQyuYaORDyWsAukKPCMQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4275025806",
@@ -28867,5 +28922,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4385853976",
+    "title": "Senior Software Engineer",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-microsoft-4385853976?position=9&pageNum=97&refId=fKaym73IPVGDcXY4DaRZ2w%3D%3D&trackingId=OkSGeVCwbGg7Lg%2Fgxrdcdw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4386036270",
+    "title": "Frontend Developer",
+    "company": "Gloroots AI",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-gloroots-ai-4386036270?position=8&pageNum=90&refId=Oj00ZeMAiFa35g4x%2FalF4Q%3D%3D&trackingId=tXbSY%2B0wCqDx3v7s7I2eVA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF7U0LlfJgdXw/company-logo_100_100/company-logo_100_100/0/1718264614091/gloroots_logo?e=2147483647&v=beta&t=s6oUC_RFADBQQPJRNIH6A8L1Ht8Kk5RFqGZmRI1siOM",
+    "lat": 0,
+    "lng": 0
   }
 ]
