@@ -121,6 +121,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4383103522",
+    "title": "Software Applications Development Engineer",
+    "company": "NTT DATA, Inc.",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-03-13",
+    "link": "https://in.linkedin.com/jobs/view/software-applications-development-engineer-at-ntt-data-inc-4383103522?position=6&pageNum=90&refId=mpme07C1LPDC%2B%2F45Y6ak%2Bw%3D%3D&trackingId=HndhUDllJW1GsBPqDNP4ug%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHNV1DPBFCCEw/company-logo_100_100/company-logo_100_100/0/1719587181974/ntt_data_inc_logo?e=2147483647&v=beta&t=8j9xIeED4Yfu6ShBiPz8DmEvpcgcaqz5yQV5QIlnong",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4384871231",
     "title": "Senior Software Engineer",
     "company": "Microsoft",
@@ -29347,5 +29358,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4384911332",
+    "title": "Front End Developer Intern",
+    "company": "Tieout",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/front-end-developer-intern-at-tieout-4384911332?position=1&pageNum=45&refId=Aph8Ll1QNdAKCZ%2FL6uM15Q%3D%3D&trackingId=AuAZwGnk1iRmhgenVoBgJQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE8YdIEoWFFyg/company-logo_100_100/B56ZxGj97PKcAQ-/0/1770710360468?e=2147483647&v=beta&t=hti6snppUcJ5ItchaAX0Hmd5g-xs0ZXtZcjJ6Ltw_2Y",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4386067644",
+    "title": "Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4386067644?position=7&pageNum=30&refId=6%2BGr4tLuNEprHXORlFFrdA%3D%3D&trackingId=Ltp%2F0sNaLzSsHVR97a4qOw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
   }
 ]
