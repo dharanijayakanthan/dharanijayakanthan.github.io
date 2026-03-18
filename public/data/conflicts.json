@@ -4,7 +4,7 @@
     "lat": 48.3794,
     "lng": 31.1656,
     "intensity": 100,
-    "date": "2026-03-17",
+    "date": "2026-03-18",
     "description": "Ongoing major conflict with active frontline engagements."
   },
   {
@@ -12,7 +12,7 @@
     "lat": 31.5,
     "lng": 34.466667,
     "intensity": 95,
-    "date": "2026-03-17",
+    "date": "2026-03-18",
     "description": "Intense urban warfare and airstrikes in the region."
   },
   {
@@ -20,7 +20,7 @@
     "lat": 15.5007,
     "lng": 32.5599,
     "intensity": 85,
-    "date": "2026-03-17",
+    "date": "2026-03-18",
     "description": "Clashes between SAF and RSF causing widespread displacement."
   },
   {
@@ -28,7 +28,7 @@
     "lat": 21.9162,
     "lng": 95.956,
     "intensity": 70,
-    "date": "2026-03-17",
+    "date": "2026-03-18",
     "description": "Clashes between military junta and armed ethnic groups."
   },
   {
@@ -36,7 +36,7 @@
     "lat": 34.8021,
     "lng": 38.9968,
     "intensity": 60,
-    "date": "2026-03-17",
+    "date": "2026-03-18",
     "description": "Various rebel groups and government forces in skirmishes."
   },
   {
@@ -44,7 +44,7 @@
     "lat": -4.0383,
     "lng": 21.7587,
     "intensity": 65,
-    "date": "2026-03-17",
+    "date": "2026-03-18",
     "description": "Ongoing violence in eastern provinces involving multiple armed groups."
   }
 ]
