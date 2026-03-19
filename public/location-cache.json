@@ -1914,5 +1914,17 @@
   "Fidelity Investments, Bengaluru East, Karnataka, India": {
     "lat": 12.9493824,
     "lng": 77.6447448
+  },
+  "Cytiva, Bengaluru East, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Visa, Bengaluru East, Karnataka, India": {
+    "lat": 12.9838791,
+    "lng": 77.693991
+  },
+  "AgileEngine, Bangalore North Rural, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
   }
 }
