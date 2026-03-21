@@ -1,5 +1,38 @@
 [
   {
+    "id": "urn:li:jobPosting:4387966267",
+    "title": "Software Development Engineer I",
+    "company": "WizCommerce",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-20",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-i-at-wizcommerce-4387966267?position=3&pageNum=87&refId=QpnyUT65sJcL1BMk7v7uTg%3D%3D&trackingId=PRabsdCl9YWaDaR%2BLJES2Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFbkErkZfxbHQ/company-logo_100_100/B56Zye.ES4I0AQ-/0/1772193597009/wizcommerce_logo?e=2147483647&v=beta&t=XQfx1VFNZ-yp680jAI2nKIAqYZrdTL-oNIMoM09vCZs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4385423446",
+    "title": "Senior Frontend Developer",
+    "company": "PinnacleU",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-19",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-developer-at-pinnacleu-4385423446?position=2&pageNum=92&refId=VRd0groMIJuwkM0X8tCs8A%3D%3D&trackingId=H44wNWUAUU7prif9lUU1Qg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGdWJnAaKw9pQ/company-logo_100_100/company-logo_100_100/0/1630626168121/pinnacleu_consultants_logo?e=2147483647&v=beta&t=HgMfexNwotILC430St9H7N203PFlPVuEY_oZhvoPABA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4387800408",
+    "title": "Senior Staff Software Engineer - Applications",
+    "company": "LinkedIn",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-19",
+    "link": "https://in.linkedin.com/jobs/view/senior-staff-software-engineer-applications-at-linkedin-4387800408?position=3&pageNum=82&refId=i5L3vHfflqquhlf%2BUeeqQA%3D%3D&trackingId=jPwcuDZtrb9ZexbzWTEjrA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4382843451",
     "title": "Software Engineer",
     "company": "Wayfair",
@@ -647,6 +680,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEalrw0TDZSEA/company-logo_100_100/B4EZeDNrGTHcAQ-/0/1750253089569/the_emmes_group_logo?e=2147483647&v=beta&t=tdLfkRbjRshr2GSvg_Y8-8fBCY3LJKVIrVOZoe9NkXI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4388588205",
+    "title": "Associate Software Development Engineer",
+    "company": "Instamart",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-17",
+    "link": "https://in.linkedin.com/jobs/view/associate-software-development-engineer-at-instamart-4388588205?position=3&pageNum=57&refId=DN2ng%2FAgpqdoiJtT6vq1Xw%3D%3D&trackingId=vfFPPQbeq7EebWxE%2B7I%2Bbw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEWv0_SaPeOBg/company-logo_100_100/B4DZmUkOJGIYAQ-/0/1759134147806/swiggy_instamart_logo?e=2147483647&v=beta&t=IxC9tMXUHNk88ExLvvUjWjCzlS8yffeh32EPlclKQCY",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4384990300",
@@ -6015,6 +6059,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGHwgKxhj0rNw/company-logo_100_100/company-logo_100_100/0/1630637444487?e=2147483647&v=beta&t=If5vaHtRddeWyLLo-2bhHS4oD1rB9Qb1WPAQH-WLGn0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4387791729",
+    "title": "Web Developer",
+    "company": "BU Consultants",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-23",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-bu-consultants-4387791729?position=3&pageNum=92&refId=xr9OHWJTWOEpd5XAZwiJIw%3D%3D&trackingId=N1RP60Vp4fX7FB5l0pUJAQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGHwgKxhj0rNw/company-logo_100_100/company-logo_100_100/0/1630637444487?e=2147483647&v=beta&t=If5vaHtRddeWyLLo-2bhHS4oD1rB9Qb1WPAQH-WLGn0",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4374969260",
@@ -33394,5 +33449,105 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQFfGj-Xuawo6A/company-logo_100_100/company-logo_100_100/0/1634568184469/ebay_logo?e=2147483647&v=beta&t=BEp-EQMNBexZVYGMcq6jeof_bX8QzuCCq4BEG6UCRdM",
     "lat": 12.9299432,
     "lng": 77.6868588
+  },
+  {
+    "id": "urn:li:jobPosting:4388529843",
+    "title": "Software Engineer 2",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-2-at-microsoft-4388529843?position=3&pageNum=20&refId=YhRIAUxygdjUBaQExifLfA%3D%3D&trackingId=yP2QwBin4th6ayCnS56Ukg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4387903799",
+    "title": "Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4387903799?position=3&pageNum=42&refId=VGOzBu0aT6Hys3lx7%2BbCEw%3D%3D&trackingId=5j%2FTIXSxGCMolf6FVvRzvg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4387969227",
+    "title": "Lead - React Developer - GO/JC/1477/2025",
+    "company": "Golden Opportunities",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/lead-react-developer-go-jc-1477-2025-at-golden-opportunities-4387969227?position=4&pageNum=72&refId=oyqXFWiX9qYJK9NUlJv8YA%3D%3D&trackingId=EkpN7Ozd7hZc3ON8NRBd6A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQEoCeuC00PoCg/company-logo_100_100/company-logo_100_100/0/1630584409100/golden_opportunities_pvt_ltd_logo?e=2147483647&v=beta&t=HQ2nCrZafU9UPgXsCSzxaELqo7ESpuiFEeOeJVl4xq8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4387976719",
+    "title": "Frontend Developer",
+    "company": "Ascendion",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-ascendion-4387976719?position=2&pageNum=85&refId=AAuFMxfnGh9An3e3fWAbRA%3D%3D&trackingId=8TwJyS1NvUDCt92guflwNw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEjwUhLqLGaAQ/company-logo_100_100/B56Zc2XoO0HEAU-/0/1748963853609/ascendion_logo?e=2147483647&v=beta&t=bVB7guRmKDQeB5bYI0rWapTtIUvTw8kgOZYeAi2LBeQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4385764426",
+    "title": "Front End UI Engineer",
+    "company": "Ascendion",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/front-end-ui-engineer-at-ascendion-4385764426?position=6&pageNum=87&refId=xWIHsdIZiZYUbUqn1CAAdA%3D%3D&trackingId=k014Yz%2FyWBl98GpgDLy5XQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEjwUhLqLGaAQ/company-logo_100_100/B56Zc2XoO0HEAU-/0/1748963853609/ascendion_logo?e=2147483647&v=beta&t=bVB7guRmKDQeB5bYI0rWapTtIUvTw8kgOZYeAi2LBeQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4385762454",
+    "title": "Junior Web Developer - SCHIE FY26 Pods A, B, C, D, E - James Whitaker - Offshore (3)(1)",
+    "company": "Ascendion",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/junior-web-developer-schie-fy26-pods-a-b-c-d-e-james-whitaker-offshore-3-1-at-ascendion-4385762454?position=7&pageNum=92&refId=VRd0groMIJuwkM0X8tCs8A%3D%3D&trackingId=uG4b%2Bb4roykc4GoFE5RU3Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEjwUhLqLGaAQ/company-logo_100_100/B56Zc2XoO0HEAU-/0/1748963853609/ascendion_logo?e=2147483647&v=beta&t=bVB7guRmKDQeB5bYI0rWapTtIUvTw8kgOZYeAi2LBeQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4388556299",
+    "title": "Web Developer",
+    "company": "Getege EdTech Pvt. Ltd.",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-getege-edtech-pvt-ltd-4388556299?position=7&pageNum=50&refId=iheh%2Bywjjz%2Fm8zJmBoJqLw%3D%3D&trackingId=%2BakBBlQQtSoioTCMYtjYKA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGkwhSohEyzww/company-logo_100_100/B56Zceb6.ZGoAU-/0/1748562326176/getege_edtech_logo?e=2147483647&v=beta&t=X-UBYxTdpXd4MZ_uSXLaYCpXtvFewdxaWNV_sLyTDa8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4385761496",
+    "title": "Front End UI Engineer/Developer - HCB Core development and support - LENKALA SREE TEJA - Offshore",
+    "company": "Ascendion",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/front-end-ui-engineer-developer-hcb-core-development-and-support-lenkala-sree-teja-offshore-at-ascendion-4385761496?position=9&pageNum=70&refId=nHbQw25Z2pSMx72Rr6VX%2Fw%3D%3D&trackingId=36f4DrR9%2FHU29Mz5utumoA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEjwUhLqLGaAQ/company-logo_100_100/B56Zc2XoO0HEAU-/0/1748963853609/ascendion_logo?e=2147483647&v=beta&t=bVB7guRmKDQeB5bYI0rWapTtIUvTw8kgOZYeAi2LBeQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4385771206",
+    "title": "Front End UI Engineer",
+    "company": "Ascendion",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/front-end-ui-engineer-at-ascendion-4385771206?position=10&pageNum=77&refId=BZ4H9DLXT2cou5KHK5Nm%2Bg%3D%3D&trackingId=6hdxdmue9Lwnc%2Btd8P64YQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEjwUhLqLGaAQ/company-logo_100_100/B56Zc2XoO0HEAU-/0/1748963853609/ascendion_logo?e=2147483647&v=beta&t=bVB7guRmKDQeB5bYI0rWapTtIUvTw8kgOZYeAi2LBeQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4387926162",
+    "title": "Sr. Staff Software Engineer, Machine Learning",
+    "company": "LinkedIn",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-staff-software-engineer-machine-learning-at-linkedin-4387926162?position=1&pageNum=92&refId=xr9OHWJTWOEpd5XAZwiJIw%3D%3D&trackingId=36SbBL1RDTCZhUdUVhTheg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
+    "lat": 0,
+    "lng": 0
   }
 ]
