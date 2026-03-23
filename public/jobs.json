@@ -66,6 +66,17 @@
     "lng": 77.6688299
   },
   {
+    "id": "urn:li:jobPosting:4385763297",
+    "title": "(IND) STAFF, SOFTWARE ENGINEER",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-20",
+    "link": "https://in.linkedin.com/jobs/view/ind-staff-software-engineer-at-walmart-global-tech-india-4385763297?position=2&pageNum=97&refId=GucpkaSAGG22831foBpg1A%3D%3D&trackingId=fSPc5GI%2BhbpUlugX06bYUA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4385423446",
     "title": "Senior Frontend Developer",
     "company": "PinnacleU",
@@ -196,6 +207,50 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4386829544",
+    "title": "Software Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-18",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-tata-consultancy-services-4386829544?position=1&pageNum=97&refId=d%2BD9z661uJpTjsP054ec%2BA%3D%3D&trackingId=S%2FvpOkn6XLDjdliirH0shA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4387248801",
+    "title": "Software Engineer III - Full Stack Developer (Python & React )",
+    "company": "JPMorganChase",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-18",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-full-stack-developer-python-react-at-jpmorganchase-4387248801?position=3&pageNum=97&refId=d%2BD9z661uJpTjsP054ec%2BA%3D%3D&trackingId=EoeQYJTVD9VJDcdOTrEyVw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4386796583",
+    "title": "Principal Software engineer",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-18",
+    "link": "https://in.linkedin.com/jobs/view/principal-software-engineer-at-microsoft-4386796583?position=5&pageNum=82&refId=5NIYkv8I5%2FfcDTiZDzRffg%3D%3D&trackingId=OnwPBPud%2BiOgR%2FXaPJ14bQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4384797345",
+    "title": "(IND) STAFF, SOFTWARE ENGINEER",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-18",
+    "link": "https://in.linkedin.com/jobs/view/ind-staff-software-engineer-at-walmart-global-tech-india-4384797345?position=9&pageNum=65&refId=%2FvqVk%2BdaRnrC17RJP2KFLw%3D%3D&trackingId=CajVCP2gJI8%2FJKQjxYeRWg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4386721462",
@@ -834,6 +889,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFXW0z1cbz1gw/company-logo_100_100/B4EZmffYFxKoAQ-/0/1759317426920/synmatch_ai_logo?e=2147483647&v=beta&t=pE-p6xNMEqKnvy2KAfx_Zrvo80xTua_B1RWVfZMV4h0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4386511060",
+    "title": "Software Development Engineer (Fixed Term Contract)",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-17",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-fixed-term-contract-at-amazon-web-services-aws-4386511060?position=1&pageNum=97&refId=GucpkaSAGG22831foBpg1A%3D%3D&trackingId=ejy0I9g7Wj6GkJ8VZetuLw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_100_100/B4EZgOay6gHEAY-/0/1752588562343/amazon_web_services_logo?e=2147483647&v=beta&t=813v--p_AS7bme1J7PlAyB2BEU4-c9ba9AUzyuGb5Wg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4386792375",
+    "title": "Blockchain Engineer_Director_Software Engineering",
+    "company": "Morgan Stanley",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-17",
+    "link": "https://in.linkedin.com/jobs/view/blockchain-engineer-director-software-engineering-at-morgan-stanley-4386792375?position=4&pageNum=85&refId=IRrVi6UYSzkhMR15l7b6tg%3D%3D&trackingId=3VYFsgfGkEGywM8%2BvGDByw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_100_100/company-logo_100_100/0/1677778128461/morgan_stanley_logo?e=2147483647&v=beta&t=f7aAdfTeMpLPSwCGS8zQ4DtuVYuEuN3OSYQ8ksHvOsI",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4384990300",
@@ -2231,6 +2308,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4382414252",
+    "title": "Associate Software Engineer, AI",
+    "company": "Conga",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-10",
+    "link": "https://in.linkedin.com/jobs/view/associate-software-engineer-ai-at-conga-4382414252?position=8&pageNum=97&refId=GucpkaSAGG22831foBpg1A%3D%3D&trackingId=EoWhhzFjCGCLHUma7HviAw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFdvbE9HTVNmQ/company-logo_100_100/B4EZzX_sXVHYAQ-/0/1773150324540/conga_logo?e=2147483647&v=beta&t=VN2O68tWD7-3ikxVR2aqOnCgo-VEFpTF2bkBGq5Aj8k",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4382948032",
@@ -34064,5 +34152,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG3eeRIFGMG9g/company-logo_100_100/B4EZdkxlEZH0AU-/0/1749742408362/hewlett_packard_enterprise_logo?e=2147483647&v=beta&t=ijFn20TK1upEkeiP1oWhqe152s87m6307NkiugLc8_E",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4389048141",
+    "title": "Full Stack Developer (Node.js & React)",
+    "company": "WillWare Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-node-js-react-at-willware-technologies-4389048141?position=10&pageNum=77&refId=WYNbC1EbkTBhDvq0jN8rpA%3D%3D&trackingId=cB%2BTPN4xkcxtMNUeT927Ag%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG0h5Rnd_RDvg/company-logo_100_100/company-logo_100_100/0/1737558627138/willware_technologies_logo?e=2147483647&v=beta&t=K7yuc9Awez5en9kPeKGqsSQZhaDjTAE6DI33C7iTjRU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4388684352",
+    "title": "Software Engineer",
+    "company": "Umanist NA",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-umanist-na-4388684352?position=8&pageNum=95&refId=gvUW4SG5hfabw3WPBspeLg%3D%3D&trackingId=sGr03DANvVFGKK7p7UDQ6Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE9p98tVKf_tg/company-logo_100_100/B56ZgQKq3xGUAQ-/0/1752617890200/cryptomark_logo?e=2147483647&v=beta&t=IUbKaP9XoFf8068zWdR75qBgEcNs_AAUE-ebBymwcqk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4388687231",
+    "title": "Junior Software Engineer",
+    "company": "Aetosky",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/junior-software-engineer-at-aetosky-4388687231?position=5&pageNum=67&refId=o5%2B8FgQlmG7DhpXEecCvXA%3D%3D&trackingId=7iI7bVsZvn%2BZb9LZzLib1g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEW7SA6TUgsTA/company-logo_100_100/company-logo_100_100/0/1708526968061/aetosky_logo?e=2147483647&v=beta&t=J1DB2SqZKzZXzU0d0DqMObmFDtmr2i2bnBgawiy9cvc",
+    "lat": 0,
+    "lng": 0
   }
 ]
