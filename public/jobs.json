@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4388757765",
+    "title": "Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-22",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4388757765?position=3&pageNum=5&refId=fkhdQ%2FAFSPX46EJqzO%2B1tQ%3D%3D&trackingId=VnNYGHmOHpWz%2FA1kvDOFsA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4388250893",
     "title": "Senior Software Engineer",
     "company": "Capgemini",
@@ -163,6 +174,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQGIZWbix5emLA/company-logo_100_100/company-logo_100_100/0/1662109754071/robosoft_technologies_logo?e=2147483647&v=beta&t=q2JuobL96UJO4xxxWR78AHpWXsdSYCunvx9-lBUHAX0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4388122983",
+    "title": "Remote JavaScript Engineer",
+    "company": "Turing",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-19",
+    "link": "https://in.linkedin.com/jobs/view/remote-javascript-engineer-at-turing-4388122983?position=1&pageNum=97&refId=by0R7dCWce9cVXzTZCNkDw%3D%3D&trackingId=QQHFxXEVo5Nv3o8lfUIl1A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEMzTP7ySRl1w/company-logo_100_100/B4DZraOH1PGgAQ-/0/1764597727124?e=2147483647&v=beta&t=cantgcA-j0iG-Xjuff93LI7KVJx677N_2JBYHhtRa5Q",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4382843451",
@@ -911,6 +933,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_100_100/company-logo_100_100/0/1677778128461/morgan_stanley_logo?e=2147483647&v=beta&t=f7aAdfTeMpLPSwCGS8zQ4DtuVYuEuN3OSYQ8ksHvOsI",
     "lat": 12.9377133,
     "lng": 77.6806194
+  },
+  {
+    "id": "urn:li:jobPosting:4384702277",
+    "title": "Staff, Software Engineer",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-17",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-at-walmart-global-tech-india-4384702277?position=6&pageNum=95&refId=5jBIQT1%2FmCw8AnR11x0fJg%3D%3D&trackingId=D6DODdszT2R1pJt2LXB0xg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4384990300",
@@ -34182,5 +34215,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEW7SA6TUgsTA/company-logo_100_100/company-logo_100_100/0/1708526968061/aetosky_logo?e=2147483647&v=beta&t=J1DB2SqZKzZXzU0d0DqMObmFDtmr2i2bnBgawiy9cvc",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4386650738",
+    "title": "Gen AI - React Developer || Bangalore/Chennai/Hyderabad/Noida",
+    "company": "HCLTech",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/gen-ai-react-developer-bangalore-chennai-hyderabad-noida-at-hcltech-4386650738?position=8&pageNum=50&refId=CLDZKGbGephUaNdRnJbY2g%3D%3D&trackingId=nGiJaLYzju0fv35C4cjBxA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF-RIoeeMTMKQ/company-logo_100_100/company-logo_100_100/0/1664197008220/hcltech_logo?e=2147483647&v=beta&t=xcyEJUPhrb87C_rsxS_BX3_2bZJF40KfbSVTJWSFdkU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4388906014",
+    "title": "Frontend Engineer",
+    "company": "ProfoundIQ",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-at-profoundiq-4388906014?position=8&pageNum=72&refId=Yqi0KWvEJHLM1Y7ILEsdsw%3D%3D&trackingId=qh5u5taBQKl8VghWt%2Ft%2FkA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG3qE5esTC9Bg/company-logo_100_100/B56ZkGUaloHMAY-/0/1756747639619/profoundiq_logo?e=2147483647&v=beta&t=CYsfAJMNivG26w-pdi7ExIwYsJBu1KZBPIb3QGi_DcU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4388914265",
+    "title": "React Developer",
+    "company": "Specbee",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-specbee-4388914265?position=7&pageNum=42&refId=gikg58jFfjs9rfsm9dnpVA%3D%3D&trackingId=2dZZpjeNe987GfHQ1OQTqg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFy0SwylQLpZw/company-logo_100_100/company-logo_100_100/0/1631302918904?e=2147483647&v=beta&t=qJlChVagHq0OnIiNmQkt9mPgbStSWEpr87RYEZTBjzE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4386684037",
+    "title": "Senior Frontend Developer",
+    "company": "Electrolux Group",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-developer-at-electrolux-group-4386684037?position=3&pageNum=72&refId=1G40vmvMuMdxG7mw7ERZCg%3D%3D&trackingId=CuYc6OudJx9AdfDWmdU1Ew%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEZiaaUvM-yOg/company-logo_100_100/company-logo_100_100/0/1631372210419?e=2147483647&v=beta&t=72drfQgDML4gVpn_fD7t_OHdVmFA00Lf-m1mK1l8S2k",
+    "lat": 0,
+    "lng": 0
   }
 ]
