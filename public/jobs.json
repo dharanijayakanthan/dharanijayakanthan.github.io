@@ -363,6 +363,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4377169919",
+    "title": "Software Development Engineer, Backend",
+    "company": "Fox Corporation",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-18",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-backend-at-fox-corporation-4377169919?position=10&pageNum=95&refId=UMQ60ihv41vYErbPR1Zx4g%3D%3D&trackingId=XD8YbtEFTWQBb4oXrX3E7w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGOh0NK_f3phg/company-logo_100_100/company-logo_100_100/0/1630486618930/fox_corporation_logo?e=2147483647&v=beta&t=BQYtzeWCinbABeI4KihKLcI6XzEja7QoEz4PqJeEiXc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4386721462",
     "title": "Senior Software Engineer - Applications",
     "company": "LinkedIn",
@@ -1032,6 +1043,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4385911064",
+    "title": "Software Engineer",
+    "company": "Alp Consulting Ltd.",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-17",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-alp-consulting-ltd-4385911064?position=2&pageNum=87&refId=yErnL1ap733wtFIil%2FzmQg%3D%3D&trackingId=9SoIygvzyqKuZT7jLV3R6Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFHg0pErlEQJA/company-logo_100_100/company-logo_100_100/0/1688357097046/alp_consulting_ltd_logo?e=2147483647&v=beta&t=9_njI-zhxPVMx8ri5NoFKpPWqzd_3d36L5jyyTmV-lk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4385921039",
+    "title": "Software Engineer",
+    "company": "Quest Global",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-17",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-quest-global-4385921039?position=2&pageNum=95&refId=UMQ60ihv41vYErbPR1Zx4g%3D%3D&trackingId=Me99fS2tlbYofjrGW41XDg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFqsywUQl7okA/company-logo_100_100/company-logo_100_100/0/1650955890222/quest_global_logo?e=2147483647&v=beta&t=1iJwdF4wJntsh5TikN51Pj4Xl4TrY1duYOT8WP8ifFU",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4384990300",
@@ -34553,5 +34586,105 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
     "lat": 12.9272566,
     "lng": 77.6828027
+  },
+  {
+    "id": "urn:li:jobPosting:4389438672",
+    "title": "Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4389438672?position=10&pageNum=35&refId=%2F50Z7YSkFym3t1XNb2BLUQ%3D%3D&trackingId=0QE2aAU%2B0Q7WA0NftN3ItA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4389436913",
+    "title": "Principal Staff Software Engineer - LinkedIn Talent Solutions",
+    "company": "LinkedIn",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/principal-staff-software-engineer-linkedin-talent-solutions-at-linkedin-4389436913?position=4&pageNum=77&refId=r2m7htR7H%2BbbkeBwA1LdaQ%3D%3D&trackingId=x6drAnYmOZ%2Bug2dHrt9Law%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4385520548",
+    "title": "Frontend Developer-5+ years of (Angular 15+, Bootstrap, • TypeScript/JavaScript Libraries or Frameworks, NoSQL/SQL Databases/MongoDB)",
+    "company": "Motorola Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-5%2B-years-of-angular-15%2B-bootstrap-%E2%80%A2%09typescript-javascript-libraries-or-frameworks-nosql-sql-databases-mongodb-at-motorola-solutions-4385520548?position=4&pageNum=80&refId=STK59fJgVFuiCp%2Fd8JjhBQ%3D%3D&trackingId=Gw9peRY93VdjNyt2aXMvKw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE4yt5Gz-3KGQ/company-logo_100_100/company-logo_100_100/0/1631305138860?e=2147483647&v=beta&t=RRA1iVnmnB5_JECLM4zN2qK8EQL6r0txMNwhmX5nMSc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4389407107",
+    "title": "Senior Software Engineer I (React JS)",
+    "company": "MakeMyTrip",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-i-react-js-at-makemytrip-4389407107?position=2&pageNum=15&refId=wOm%2FAlIYo7EV%2FaPGOVAjuQ%3D%3D&trackingId=j3UdIoL79wJYQ7CAWNdrnQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGztBPTPiyXdA/company-logo_100_100/company-logo_100_100/0/1630583346942/makemytripcom_logo?e=2147483647&v=beta&t=fOMvG6edzf1FAZGLRA3F67uqaB-y0OFFCYoOlAHLD00",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4389455191",
+    "title": "Senior Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-capgemini-4389455191?position=7&pageNum=47&refId=atHnsmkGZwhmFBr3mWiFQw%3D%3D&trackingId=2OGv7BHMznw0V3I%2BYX29JA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4388983456",
+    "title": "Semi Senior React Developer - Remote Work",
+    "company": "BairesDev",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-at-bairesdev-4388983456?position=5&pageNum=62&refId=XC55hu63qvNXeSJF%2Fsl%2FvQ%3D%3D&trackingId=BZAcxz4PxL95O%2FS8%2B17LYA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGNvQASzrdL_w/company-logo_100_100/company-logo_100_100/0/1687874736484/bairesdev_logo?e=2147483647&v=beta&t=O-1i-F9arEGwUjngSlvE7NWxL-mpYFwN_XZxHy0C03s",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4389447437",
+    "title": "Staff Software Engineer - Productivity Engineering",
+    "company": "LinkedIn",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-productivity-engineering-at-linkedin-4389447437?position=3&pageNum=67&refId=wLPkMS%2Fgvo3TZ3qDtw0IuA%3D%3D&trackingId=ST0sVajqeJ0ZWRoTGPtFoQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4389454219",
+    "title": "Senior Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-capgemini-4389454219?position=3&pageNum=77&refId=ytjQjUSiCQ1QcK7Xa63%2BQg%3D%3D&trackingId=Yh8hWQQ%2BpSuQaDEaU8daLw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4389449450",
+    "title": "Software Development Engineer II - Backend Architecture",
+    "company": "ShopDeck",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-backend-architecture-at-shopdeck-4389449450?position=2&pageNum=77&refId=xzeKmT20KTOAP3k%2F58v8Dw%3D%3D&trackingId=aFLVi7Kz5lMFRxpF9hwkyA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEP48KeRuB3VA/company-logo_100_100/company-logo_100_100/0/1674571067007/nushop_logo?e=2147483647&v=beta&t=6u8u-nwe_fJlEZGlfhKSUMJ0WKncbKcRJ3xSKoYzaAc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4388984445",
+    "title": "Semi Senior React Developer - Remote Work",
+    "company": "BairesDev",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-at-bairesdev-4388984445?position=5&pageNum=82&refId=OxrWazXpsitfjxwOyU4PRw%3D%3D&trackingId=6L9TacJ%2BvOu5SAUfNEYZYw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGNvQASzrdL_w/company-logo_100_100/company-logo_100_100/0/1687874736484/bairesdev_logo?e=2147483647&v=beta&t=O-1i-F9arEGwUjngSlvE7NWxL-mpYFwN_XZxHy0C03s",
+    "lat": 0,
+    "lng": 0
   }
 ]
