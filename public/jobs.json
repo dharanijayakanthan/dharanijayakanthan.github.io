@@ -1,5 +1,49 @@
 [
   {
+    "id": "urn:li:jobPosting:4389934807",
+    "title": "Software Dev Engineer I",
+    "company": "Instamart",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-24",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-i-at-instamart-4389934807?position=7&pageNum=47&refId=SRVBkB4mPRLRru6lRCAMZg%3D%3D&trackingId=GwZZ6SNvV8C%2Bbk789ngGew%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEWv0_SaPeOBg/company-logo_100_100/B4DZmUkOJGIYAQ-/0/1759134147806/swiggy_instamart_logo?e=2147483647&v=beta&t=IxC9tMXUHNk88ExLvvUjWjCzlS8yffeh32EPlclKQCY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4388949427",
+    "title": "React/Next.js Developer",
+    "company": "Tata Consultancy Services",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-23",
+    "link": "https://in.linkedin.com/jobs/view/react-next-js-developer-at-tata-consultancy-services-4388949427?position=10&pageNum=90&refId=%2FfFfK8oQO%2BrSDmHUT3syIg%3D%3D&trackingId=%2BSkrek0SpH0JAFpcOXv%2BFw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4388957273",
+    "title": "Software Engineer III, AI/ML, Google Cloud",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-23",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-ai-ml-google-cloud-at-google-4388957273?position=7&pageNum=95&refId=p8rCUYRAESQwe%2BGW%2B4SJAw%3D%3D&trackingId=IYzJ4fSXjzjtaYTznifA5g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4388958914",
+    "title": "Software Engineer",
+    "company": "Pearson",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-03-23",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-pearson-4388958914?position=10&pageNum=97&refId=Vw43FSHP%2FIWfMAoWtYNw1Q%3D%3D&trackingId=MJXaUKBk9xtyv%2BSyq6rbyA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9W4lfcWc9dQ/company-logo_100_100/B4EZYPofEYHkAQ-/0/1744018993869/pearson_logo?e=2147483647&v=beta&t=tatnP8PCFOON7lKpbmG0JRCF4QYNwFaondEAOnunhUs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4388757765",
     "title": "Software Engineer",
     "company": "Capgemini",
@@ -416,6 +460,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGOh0NK_f3phg/company-logo_100_100/company-logo_100_100/0/1630486618930/fox_corporation_logo?e=2147483647&v=beta&t=BQYtzeWCinbABeI4KihKLcI6XzEja7QoEz4PqJeEiXc",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4386863544",
+    "title": "Software Engineer II",
+    "company": "Akamai Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-18",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-akamai-technologies-4386863544?position=7&pageNum=97&refId=GL8MsIMDqzWR0ZMin9y39Q%3D%3D&trackingId=Pz5h6s9QDFarY5EwKvbOOw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHpsdQkVIn86g/company-logo_100_100/B4EZiajPQ8GUAY-/0/1754939585924/akamai_technologies_logo?e=2147483647&v=beta&t=WHeaHbxtgBmtwi9Yo1Pql0PFCURZ-m3YjA9c8t3rKtM",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4386721462",
@@ -1109,6 +1164,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQFqsywUQl7okA/company-logo_100_100/company-logo_100_100/0/1650955890222/quest_global_logo?e=2147483647&v=beta&t=1iJwdF4wJntsh5TikN51Pj4Xl4TrY1duYOT8WP8ifFU",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4386789411",
+    "title": "Artificial Intelligence Java / Python Software Engineer - Vice President - Software Engineering",
+    "company": "Morgan Stanley",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-17",
+    "link": "https://in.linkedin.com/jobs/view/%E2%80%8Bartificial-intelligence-java-python-software-engineer-vice-president-software-engineering-at-morgan-stanley-4386789411?position=2&pageNum=77&refId=rCx46pWi1WCEsNQYVT5I8A%3D%3D&trackingId=df9BxBdYRzY3CkLrIzG8og%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_100_100/company-logo_100_100/0/1677778128461/morgan_stanley_logo?e=2147483647&v=beta&t=f7aAdfTeMpLPSwCGS8zQ4DtuVYuEuN3OSYQ8ksHvOsI",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4384990300",
@@ -5201,6 +5267,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH5-OYbTze-EA/company-logo_100_100/B4EZbt9pRdHkAU-/0/1747749082914/confluent_logo?e=2147483647&v=beta&t=fBVHxt93d-6sWSKGzMtlyhIFXMsoHlO1Q7EPmsinzzQ",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4378019097",
+    "title": "Software Engineer",
+    "company": "NatWest Group",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-25",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-natwest-group-4378019097?position=10&pageNum=62&refId=jy3f82XlD9WYtDaWq66B5g%3D%3D&trackingId=L85wkwX5P9qZJ1pKu61nKg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEA8k9x0NLXVw/company-logo_100_100/company-logo_100_100/0/1658409007559/natwest_group_logo?e=2147483647&v=beta&t=77U4pn7D2sdoWVtDxd-1OFNiFco375nnYIWapD6QRBA",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4376454426",
@@ -35160,5 +35237,95 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQG7td5l-rrDww/company-logo_100_100/company-logo_100_100/0/1630642256234/hypersonix_ai_logo?e=2147483647&v=beta&t=msqapTSCRWSVQ7rhm6-OydNzVmXmcIVFHtDoCrsT4PA",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4389749402",
+    "title": "Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4389749402?position=5&pageNum=12&refId=5t2VUcJ5gWnNX3RE1fbJ8g%3D%3D&trackingId=dptAWBcqQ9cka4%2Fxt233ng%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4389850395",
+    "title": "Apprentice, Software Engineer",
+    "company": "Pearson",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/apprentice-software-engineer-at-pearson-4389850395?position=2&pageNum=40&refId=s07Yk%2BVzCmyPP7uIkaHFsA%3D%3D&trackingId=3oY2jUDusrjhyI1UJNRPmw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9W4lfcWc9dQ/company-logo_100_100/B4EZYPofEYHkAQ-/0/1744018993869/pearson_logo?e=2147483647&v=beta&t=tatnP8PCFOON7lKpbmG0JRCF4QYNwFaondEAOnunhUs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4389771861",
+    "title": "Software developer engineer",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-developer-engineer-at-amazon-web-services-aws-4389771861?position=4&pageNum=42&refId=K8saPCyI%2BLIp%2FlKDmQ8lWg%3D%3D&trackingId=%2F759CIHY3kn04UtX10c3fw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_100_100/B4EZgOay6gHEAY-/0/1752588562343/amazon_web_services_logo?e=2147483647&v=beta&t=813v--p_AS7bme1J7PlAyB2BEU4-c9ba9AUzyuGb5Wg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4389784283",
+    "title": "Software developer engineer",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-developer-engineer-at-amazon-web-services-aws-4389784283?position=3&pageNum=45&refId=mzXC6UPPSCRhvYS3Xx7RQQ%3D%3D&trackingId=Lsv7IgfoLfoXQXQVNxczQQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_100_100/B4EZgOay6gHEAY-/0/1752588562343/amazon_web_services_logo?e=2147483647&v=beta&t=813v--p_AS7bme1J7PlAyB2BEU4-c9ba9AUzyuGb5Wg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4387634224",
+    "title": "Software Engineer",
+    "company": "A.P. Moller - Maersk",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-a-p-moller-maersk-4387634224?position=1&pageNum=55&refId=dR2PFjKMo%2BowU8GJTwtOIA%3D%3D&trackingId=oXqKnceSoaO%2Bv1DxDpHN%2BQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFxaOJ8VzplhA/company-logo_100_100/company-logo_100_100/0/1630463556967/maersk_group_logo?e=2147483647&v=beta&t=YrP30ynaVz8K1BQU2Ap7mlV4Hx_xpRFYBVrVAd03m5A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4389852176",
+    "title": "Front End UI Engineer",
+    "company": "Ascendion",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/front-end-ui-engineer-at-ascendion-4389852176?position=4&pageNum=82&refId=SV79A37F4jUyP0IVP%2FOvYg%3D%3D&trackingId=LW3CiZlWhRGmdK%2F2xhZ%2Bqw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEjwUhLqLGaAQ/company-logo_100_100/B56Zc2XoO0HEAU-/0/1748963853609/ascendion_logo?e=2147483647&v=beta&t=bVB7guRmKDQeB5bYI0rWapTtIUvTw8kgOZYeAi2LBeQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4385467980",
+    "title": "Software Engineer",
+    "company": "RWS Group",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-rws-group-4385467980?position=9&pageNum=97&refId=ubgL4IAzxtxigH2sIuvBZw%3D%3D&trackingId=Qf31CFn8ZFUaaD4NfIytnw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHp8SQdhwh8ow/company-logo_100_100/B4DZb4U7zVGYAQ-/0/1747922959928/rws_group_logo?e=2147483647&v=beta&t=eXiIzg7lMeIea8tz4cPaitFEWfepJ1_epWp_nN_IC74",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4388474129",
+    "title": "(IND) Software Engineer III",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ind-software-engineer-iii-at-walmart-global-tech-india-4388474129?position=3&pageNum=45&refId=U8jVY3G7XVCfzPZV%2Bepd%2FQ%3D%3D&trackingId=ydJ05E0j8aOssyuuntgzGA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4387632192",
+    "title": "Software Engineer",
+    "company": "A.P. Moller - Maersk",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-a-p-moller-maersk-4387632192?position=6&pageNum=97&refId=GL8MsIMDqzWR0ZMin9y39Q%3D%3D&trackingId=JAwrLOWz6QG0L2fsD2XPNg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFxaOJ8VzplhA/company-logo_100_100/company-logo_100_100/0/1630463556967/maersk_group_logo?e=2147483647&v=beta&t=YrP30ynaVz8K1BQU2Ap7mlV4Hx_xpRFYBVrVAd03m5A",
+    "lat": 0,
+    "lng": 0
   }
 ]
