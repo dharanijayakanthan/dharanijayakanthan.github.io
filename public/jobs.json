@@ -44,6 +44,17 @@
     "lng": 77.6746531
   },
   {
+    "id": "urn:li:jobPosting:4389076538",
+    "title": "Software Engineer I [T500-24602]",
+    "company": "Best Buy™ India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-23",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-t500-24602-at-best-buy%E2%84%A2-india-4389076538?position=6&pageNum=95&refId=%2FPxGx6jJMKe9Kwl4uWmn8Q%3D%3D&trackingId=ORTByDB70ufbyQZf2TBIEA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG_G6aPYrZrpw/company-logo_100_100/B56ZXxu6uiGUAc-/0/1743517364873/bby_india_logo?e=2147483647&v=beta&t=viDv2IT05jNSlJvpUiVsEX4CKPNoJxFU5rjl1f7mLbE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4388757765",
     "title": "Software Engineer",
     "company": "Capgemini",
@@ -97,6 +108,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
     "lat": 12.9730521,
     "lng": 77.7166929
+  },
+  {
+    "id": "urn:li:jobPosting:4377939206",
+    "title": "Software Engineer, Sr.",
+    "company": "Lam Research",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-21",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-sr-at-lam-research-4377939206?position=8&pageNum=97&refId=91X8NyK5LFVmfan1Ui%2BOYg%3D%3D&trackingId=4iLD6zG3QD2Dobj4EVyNGQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQG8Bpmhs2zyew/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630656006894/lam_research_logo?e=2147483647&v=beta&t=sTvcwAVWzK49K0-B8OVuMcCJq2jKlZHodxbSP4BmdQM",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4387966267",
@@ -2044,6 +2066,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEWv0_SaPeOBg/company-logo_100_100/B4DZmUkOJGIYAQ-/0/1759134147806/swiggy_instamart_logo?e=2147483647&v=beta&t=IxC9tMXUHNk88ExLvvUjWjCzlS8yffeh32EPlclKQCY",
     "lat": 12.9234645,
     "lng": 77.694995
+  },
+  {
+    "id": "urn:li:jobPosting:4383023971",
+    "title": "Senior Software Engineer - Backend (Java)",
+    "company": "PayPal",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-12",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-backend-java-at-paypal-4383023971?position=1&pageNum=97&refId=91X8NyK5LFVmfan1Ui%2BOYg%3D%3D&trackingId=xDadWuhUa8cOpMFw7ZMNiw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGlX0cKdGRk-w/company-logo_100_100/company-logo_100_100/0/1725506319701?e=2147483647&v=beta&t=EfHoqyaVYveWMzdT_6PpJbGNGS1P4dUk3ZryqIQRhjc",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4384166827",
@@ -4552,6 +4585,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4376266306",
+    "title": "Software Test Engineer",
+    "company": "Takeda",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-28",
+    "link": "https://in.linkedin.com/jobs/view/software-test-engineer-at-takeda-4376266306?position=2&pageNum=87&refId=c7C5kktQH2csjKlvg7MG2g%3D%3D&trackingId=2Fve0kyOmoK2Lv9ovow0MA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFDwEi2w0amXg/company-logo_100_100/B4EZhg8m1IGoAU-/0/1753973157573/takeda_pharmaceuticals_logo?e=2147483647&v=beta&t=cZOpYgVrjBQ3aJvJY02v-Ft1xjRiNxEuGjSoi3me8uc",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4379004826",
@@ -35327,5 +35371,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFxaOJ8VzplhA/company-logo_100_100/company-logo_100_100/0/1630463556967/maersk_group_logo?e=2147483647&v=beta&t=YrP30ynaVz8K1BQU2Ap7mlV4Hx_xpRFYBVrVAd03m5A",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4389468225",
+    "title": "Senior Software Engineer - Frontend",
+    "company": "Weekday AI (YC W21)",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-at-weekday-ai-yc-w21-4389468225?position=5&pageNum=37&refId=falE46hupeOTy1waOh5GaA%3D%3D&trackingId=KXF9kFDIIrf2%2BKP6BurphQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMGKC-EvAWpg/company-logo_100_100/company-logo_100_100/0/1737539347361/weekdayjobs_logo?e=2147483647&v=beta&t=ieIgvB8kFgzbxY41wBcAR7jpNOrDOqFB53OKC5vWkuQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4389729907",
+    "title": "Software Engineer III-Java/React/Angular",
+    "company": "JPMorganChase",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-react-angular-at-jpmorganchase-4389729907?position=9&pageNum=97&refId=91X8NyK5LFVmfan1Ui%2BOYg%3D%3D&trackingId=28xWaVotDNzBC%2BSfhk658Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4389980597",
+    "title": "Principal Staff Software Engineer - LinkedIn Talent Solutions",
+    "company": "LinkedIn",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/principal-staff-software-engineer-linkedin-talent-solutions-at-linkedin-4389980597?position=3&pageNum=65&refId=NXsUszo6aBPAJhoBy5%2B%2BmA%3D%3D&trackingId=lt6696mEWJ%2Fz6Aa9rROvWA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4389789158",
+    "title": "Software Development Engineer",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-at-amazon-4389789158?position=1&pageNum=50&refId=D1POVzAm67kDdUish%2FG4%2Bw%3D%3D&trackingId=o8jwqXlAdyCgU9VtBBA%2FSQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
   }
 ]
