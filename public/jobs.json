@@ -44,6 +44,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4389968094",
+    "title": "Software Development Engineer - II, Amazon",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-25",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-at-amazon-4389968094?position=7&pageNum=92&refId=i84aRqQ%2FU0m9t%2BLwwKHUUg%3D%3D&trackingId=tCAzJw84t%2BgUEFk79YaXUw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4389934807",
     "title": "Software Dev Engineer I",
     "company": "Instamart",
@@ -152,6 +163,39 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQE_b5uJ7F58GQ/company-logo_100_100/company-logo_100_100/0/1719861106621/lightnwonder_logo?e=2147483647&v=beta&t=1g9UD8qeixSfZbNxJmBSo_kciNaRXQAN0VGdbAFPFQ8",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4389583221",
+    "title": "Software Development Engineer III(Android)",
+    "company": "Swiggy",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-24",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-iii-android-at-swiggy-4389583221?position=5&pageNum=87&refId=1qjo7oKOuHay68c1kEy9xQ%3D%3D&trackingId=%2Bmj2KHWjklit3A%2FQPZ0Wwg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFgJifoYusljQ/company-logo_100_100/B56ZbSxECTHgAU-/0/1747292799806/swiggy_in_logo?e=2147483647&v=beta&t=oNoKyEO_OQfRdHA1w93B_KhstwFa7dPSPuZjFUL0KZE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4389721209",
+    "title": "Software Engineer",
+    "company": "Epsilon",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-24",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-epsilon-4389721209?position=3&pageNum=85&refId=V83c5UGar%2FgwFvcfj%2F0asg%3D%3D&trackingId=McL%2BG013DvfJtYYPgrU2Ww%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHTq28lFWEZTw/company-logo_100_100/company-logo_100_100/0/1722449351277/epsilon_logo?e=2147483647&v=beta&t=JVhXdGxn4xlr7Y4CzxWce0DjUqsK2zb5Na-aAbyaHfY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4388968959",
+    "title": "Software Development Engineer II",
+    "company": "Tesco Technology",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-24",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-tesco-technology-4388968959?position=5&pageNum=50&refId=EqKTQDeVZh8Wq4e%2BHLIWFg%3D%3D&trackingId=DzDeSGe56mIbwS%2F33F85hQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFJN5qXVxmIEw/company-logo_100_100/company-logo_100_100/0/1663681176949/tesco_technology_logo?e=2147483647&v=beta&t=xYJWJM2EZiX-0-NGZgWUx6gFsik8MXfFd0jmeopiSTc",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4388949427",
@@ -3727,6 +3771,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQG5sGeujDi0lA/company-logo_100_100/company-logo_100_100/0/1630662232486/mouser_electronics_logo?e=2147483647&v=beta&t=6pCYt3BnSOCa0fdtit_rSV_yQhOGQ82UIpsI1dDhDTw",
     "lat": 12.9736232,
     "lng": 77.6167885
+  },
+  {
+    "id": "urn:li:jobPosting:4381987716",
+    "title": "Software Engineer, VP",
+    "company": "NatWest Group",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-06",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-vp-at-natwest-group-4381987716?position=9&pageNum=97&refId=i2ApxXzu7gkdMofoXUCV2Q%3D%3D&trackingId=8v9w1Sjp8H8TTLgHp3iRcg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEA8k9x0NLXVw/company-logo_100_100/company-logo_100_100/0/1658409007559/natwest_group_logo?e=2147483647&v=beta&t=77U4pn7D2sdoWVtDxd-1OFNiFco375nnYIWapD6QRBA",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4381450954",
@@ -37030,5 +37085,95 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEXYV6p34CtPA/company-logo_100_100/B4DZjMehUuGgAc-/0/1755777210085/standard_chartered_india_logo?e=2147483647&v=beta&t=gxeH4hJTKe069a0UzLFYxW71KL4pW41yTiDx8Kp_wdg",
     "lat": 12.9853637,
     "lng": 77.7081623
+  },
+  {
+    "id": "urn:li:jobPosting:4391510763",
+    "title": "Software Engineer II",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-microsoft-4391510763?position=4&pageNum=35&refId=yH%2FiW%2B1H4Uy7Tw0mHI4oPg%3D%3D&trackingId=1i6OP9w6QHrhIOKz3fiWuw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4390885251",
+    "title": "Software Engineer",
+    "company": "TOPPAN Edge Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-toppan-edge-inc-4390885251?position=7&pageNum=75&refId=SQLLGaUqUSrcyNXmCmtu8g%3D%3D&trackingId=bPQdS7AQ3GKsqZqizPytMg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHZFme0gfAzcg/company-logo_100_100/company-logo_100_100/0/1680272130587/toppan_forms_co_ltd_logo?e=2147483647&v=beta&t=WCsbv_P8oTmEopaZnlLhHRBcH5M4hSQr387MCMdgSkQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4390907404",
+    "title": "Frontend Developer",
+    "company": "Movate",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-movate-4390907404?position=6&pageNum=85&refId=KH%2BrFbE7gugXEbTICsCAaQ%3D%3D&trackingId=p0uZz5JDxe5B37C5CzHfwQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBAE0k5s6B0g/company-logo_100_100/company-logo_100_100/0/1663763859074/movate_logo?e=2147483647&v=beta&t=2C_PEQ8olGxMUy7X1rNxYZGLCqYyIyKp0LKGbRydejo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4391158595",
+    "title": "Software developer engineer",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-developer-engineer-at-amazon-web-services-aws-4391158595?position=3&pageNum=35&refId=aBKFYeh0yaQDERvEyfRkmw%3D%3D&trackingId=EnCbUbd8QoBDNsxxDEVmZQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_100_100/B4EZgOay6gHEAY-/0/1752588562343/amazon_web_services_logo?e=2147483647&v=beta&t=813v--p_AS7bme1J7PlAyB2BEU4-c9ba9AUzyuGb5Wg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4390757344",
+    "title": "Associate Software Engineer",
+    "company": "Thomson Reuters",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-thomson-reuters-4390757344?position=2&pageNum=55&refId=mNttvJLmInJjDeU8pgb1Iw%3D%3D&trackingId=Jb%2FnTbZdN2dc8ryPKACrMQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHtf0NHyUa92g/company-logo_100_100/company-logo_100_100/0/1719933220460/thomson_reuters_logo?e=2147483647&v=beta&t=ML9NnTk2lfPONL3Ft_HeSGyq0tQPb7SrfP_LSYjC6c0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4390439604",
+    "title": "React Native Developer",
+    "company": "PhonePe",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-native-developer-at-phonepe-4390439604?position=5&pageNum=82&refId=%2BbFqnhua%2FyD9HUp0OTDZGg%3D%3D&trackingId=%2FFpDu9qRKJTePG9c20OxVA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHLOrShxWW33g/company-logo_100_100/company-logo_100_100/0/1732870614932/phonepe_internet_logo?e=2147483647&v=beta&t=09gfiudcKM9d5Urbb5ZWLBlHIshGNxCo6uG3oQpoL_g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4391513258",
+    "title": "Web Developer",
+    "company": "Jase HR Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-jase-hr-solutions-4391513258?position=8&pageNum=97&refId=i2ApxXzu7gkdMofoXUCV2Q%3D%3D&trackingId=h6zEBUk9w7j7LvftjQ3%2FPQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGLvpTwI71TDA/company-logo_100_100/B56ZbisSBsG4AQ-/0/1747559981891?e=2147483647&v=beta&t=ITy6B-6i3qJZfVI3xSxCb4xu4BuTVdWOQIbdnhq4upU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4390903489",
+    "title": "Software Engineer Frontend - E5 (SDE4 Equivalent)",
+    "company": "Whatfix",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-frontend-e5-sde4-equivalent-at-whatfix-4390903489?position=9&pageNum=25&refId=UM6R6JBAsBJI7AGzsMbjXA%3D%3D&trackingId=RvM1RaYCjv4pQAOxpXCcaQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH0N7kZ_mtRAw/company-logo_100_100/company-logo_100_100/0/1635276260298/whatfix_logo?e=2147483647&v=beta&t=uip_ZFG2zzlaEwtinOqdJ69lssFUyitqQrPv4ejDOzE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4391511221",
+    "title": "Front-End Architect",
+    "company": "hackajob",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/front-end-architect-at-hackajob-4391511221?position=6&pageNum=90&refId=v9jxwOauY71TVaJnNgMq4w%3D%3D&trackingId=8DhA7COoGunfAzSp87T6Xw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M",
+    "lat": 0,
+    "lng": 0
   }
 ]
