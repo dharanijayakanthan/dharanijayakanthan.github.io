@@ -11,6 +11,17 @@
     "lng": 77.6283031
   },
   {
+    "id": "urn:li:jobPosting:4391083420",
+    "title": "Associate Software Engineer",
+    "company": "Cargill",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-26",
+    "link": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-cargill-4391083420?position=1&pageNum=95&refId=73KRgE0RX5TaXRYh%2FcWQ%2Bw%3D%3D&trackingId=Z85SclVX6AL5Vc6a11Z%2FOg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE-JavwZhEueQ/company-logo_100_100/B56ZVIHolwGoAQ-/0/1740671715990/cargill_logo?e=2147483647&v=beta&t=RPlPp82xXXkRoQDn4nzjP9Bwsl_J6fJiIf6-9ZmVxZo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4389986851",
     "title": "Software Engineer 1",
     "company": "Dell Technologies",
@@ -715,6 +726,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4389246710",
+    "title": "Staff Software Development Engineer",
+    "company": "Zscaler",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-03-23",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-development-engineer-at-zscaler-4389246710?position=3&pageNum=92&refId=WAo8nxX83OkHJpwGWI1ePw%3D%3D&trackingId=IgiSk99CXrfZWqfB6NUo2A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHswWh4VGNL3A/company-logo_100_100/B56Za2TSlsGoAU-/0/1746815232721/zscaler_logo?e=2147483647&v=beta&t=gv_C-RT17Wc3oLJxwyhI_zPbl25Fqaij10h8zQeiUzA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4388757765",
     "title": "Software Engineer",
     "company": "Capgemini",
@@ -900,6 +922,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEjwUhLqLGaAQ/company-logo_100_100/B56Zc2XoO0HEAU-/0/1748963853609/ascendion_logo?e=2147483647&v=beta&t=bVB7guRmKDQeB5bYI0rWapTtIUvTw8kgOZYeAi2LBeQ",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4387838491",
+    "title": "Senior Software Engineer",
+    "company": "DHL",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-20",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-dhl-4387838491?position=3&pageNum=80&refId=qf6Q1DKEzrBjGiNW%2FPLlbw%3D%3D&trackingId=PrtgucRTAvSN8mKTqzv2Og%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGzUZizqkIVKg/company-logo_100_100/B4DZfEvGJRG8AQ-/0/1751352370236/dhl_logo?e=2147483647&v=beta&t=LVPcj7Z1vW575A6qCtb_vJ7g9DuEXIxzO7cQqwMWXo4",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4385423446",
@@ -37485,5 +37518,85 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFxaOJ8VzplhA/company-logo_100_100/company-logo_100_100/0/1630463556967/maersk_group_logo?e=2147483647&v=beta&t=YrP30ynaVz8K1BQU2Ap7mlV4Hx_xpRFYBVrVAd03m5A",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4392666067",
+    "title": "DE- React Senior Developer-GDSF02",
+    "company": "EY",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/de-react-senior-developer-gdsf02-at-ey-4392666067?position=2&pageNum=47&refId=ifvVShBKBTuOGjcZw1wSEQ%3D%3D&trackingId=A6Jtyt9gKwKxo14imNG75g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4392668574",
+    "title": "Lead Software Engineer",
+    "company": "PayU",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/lead-software-engineer-at-payu-4392668574?position=7&pageNum=95&refId=73KRgE0RX5TaXRYh%2FcWQ%2Bw%3D%3D&trackingId=WYtlQ6AfjUH4Sfq3Mysh2A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7Pgi9EEhe5Q/company-logo_100_100/company-logo_100_100/0/1719833653506/payu_logo?e=2147483647&v=beta&t=kH-_6jOEH8nyW1-HT_hjKkaE8VCP7dDLeHJggk6I6rM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4390958668",
+    "title": "Senior Software Development Engineer in Test",
+    "company": "Swiggy",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-development-engineer-in-test-at-swiggy-4390958668?position=1&pageNum=97&refId=L90a%2BB36q2ZX4EC3WF0VKg%3D%3D&trackingId=XW%2B2TDwNJebGun8aamfkXA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFgJifoYusljQ/company-logo_100_100/B56ZbSxECTHgAU-/0/1747292799806/swiggy_in_logo?e=2147483647&v=beta&t=oNoKyEO_OQfRdHA1w93B_KhstwFa7dPSPuZjFUL0KZE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4390929096",
+    "title": "Associate - Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-frontend-developer-at-scoutit-4390929096?position=8&pageNum=20&refId=CzBruE2rlnFkF4CzrB73DA%3D%3D&trackingId=%2FxROfb8BiMVrB1OMVPb2Yw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4390963407",
+    "title": "Entry Level Software Engineer",
+    "company": "Building and Industrial Control System (BICSYS)",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/entry-level-software-engineer-at-building-and-industrial-control-system-bicsys-4390963407?position=1&pageNum=42&refId=aFz6Hpug5bcu5WIFI1612Q%3D%3D&trackingId=zBIq8gYSRYdx6fa4ZNi%2FKg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFYpQESq5bLjQ/company-logo_100_100/B4EZpCJH_EKYAQ-/0/1762046280088/bicsys_logo?e=2147483647&v=beta&t=QGxdmT41FsoLPu_3K9Jkobh7T4WDcbQhEe78RxGVGFM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4391550751",
+    "title": "Senior Staff Software Engineer - LMS",
+    "company": "LinkedIn",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-staff-software-engineer-lms-at-linkedin-4391550751?position=7&pageNum=90&refId=bdaZr7ksFdp1ieyhUaIfXw%3D%3D&trackingId=4pHXLKk0B%2FPHwgL4lHT7Ag%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4391578783",
+    "title": "Senior Software Engineer",
+    "company": "Renesas Electronics",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-renesas-electronics-4391578783?position=5&pageNum=95&refId=x7TkDQ87mtVEuVPkATonTw%3D%3D&trackingId=3eU0SDGGdfRt8FDWen%2B9Jw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHlwp8hH_CdSg/company-logo_100_100/B56Zm7Sm_TIAAQ-/0/1759783842062/renesas_logo?e=2147483647&v=beta&t=IPyLH7X_M1aJkP81Og5r0dpxZkleQxB_cRImLz-lxVY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4391594978",
+    "title": "Software Engineer",
+    "company": "HCLTech",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-hcltech-4391594978?position=4&pageNum=87&refId=zD1nzAMtzVt8JcugXbr3yw%3D%3D&trackingId=3MeqsBPn6CxJOR1Ts9q4Kg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF-RIoeeMTMKQ/company-logo_100_100/company-logo_100_100/0/1664197008220/hcltech_logo?e=2147483647&v=beta&t=xcyEJUPhrb87C_rsxS_BX3_2bZJF40KfbSVTJWSFdkU",
+    "lat": 0,
+    "lng": 0
   }
 ]
