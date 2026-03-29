@@ -3520,6 +3520,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4382269308",
+    "title": "Software Engineer",
+    "company": "Avenue Code",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-10",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-avenue-code-4382269308?position=1&pageNum=80&refId=gFG%2FzcoRf349rTOxWxfw9w%3D%3D&trackingId=XSatLhUXH8vLBDmv1MZayg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF-KDkpz8WDtQ/company-logo_100_100/company-logo_100_100/0/1729606237800/avenuecode_logo?e=2147483647&v=beta&t=91ER7BVJdgYL5oguG35BWE1TxJAdbKj38NNoTXp_Rg0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4382948032",
     "title": "Senior Software Engineer",
     "company": "Infinite Computer Solutions",
@@ -37859,5 +37870,15 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFQ524hZ3eM9A/company-logo_100_100/B4EZoGaBIFIoAQ-/0/1761044075585/automation_anywhere_logo?e=2147483647&v=beta&t=rdlpvArp4cxaKINXtpyljwlHYlWBxBC68yzEO-uaMg4",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4391626389",
+    "title": "Angular Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru North, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-at-scoutit-4391626389?position=10&pageNum=55&refId=S8FcFV8jKQcQ4k10kgPKpQ%3D%3D&trackingId=nxDJlhvpQBbiQh8917%2BImw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
   }
 ]
