@@ -1,5 +1,49 @@
 [
   {
+    "id": "urn:li:jobPosting:4391566213",
+    "title": "Software Development Engineer - II, Amazon",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-27",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-at-amazon-4391566213?position=6&pageNum=90&refId=%2FpOlM9jvpfKeyGxY%2BJOVzg%3D%3D&trackingId=IKgbrE6elLnKgXdqbwG5Qw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4391536691",
+    "title": "Remote JavaScript Engineer",
+    "company": "Turing",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-27",
+    "link": "https://in.linkedin.com/jobs/view/remote-javascript-engineer-at-turing-4391536691?position=9&pageNum=92&refId=DIqjrqUmw9GCg8UHoDc6Hw%3D%3D&trackingId=vzEHj9qEvStS01Dzb3Qaow%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEMzTP7ySRl1w/company-logo_100_100/B4DZraOH1PGgAQ-/0/1764597727124?e=2147483647&v=beta&t=cantgcA-j0iG-Xjuff93LI7KVJx677N_2JBYHhtRa5Q",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4391545497",
+    "title": "Remote JavaScript Developer",
+    "company": "Turing",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-27",
+    "link": "https://in.linkedin.com/jobs/view/remote-javascript-developer-at-turing-4391545497?position=6&pageNum=95&refId=3W6gvlZhESca9QQqcLumeQ%3D%3D&trackingId=hDAc9wb%2BMN9PkHqc2pXbCg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEMzTP7ySRl1w/company-logo_100_100/B4DZraOH1PGgAQ-/0/1764597727124?e=2147483647&v=beta&t=cantgcA-j0iG-Xjuff93LI7KVJx677N_2JBYHhtRa5Q",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4391582827",
+    "title": "Sr. Frontend Engineer",
+    "company": "Electrolux Group",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-03-27",
+    "link": "https://in.linkedin.com/jobs/view/sr-frontend-engineer-at-electrolux-group-4391582827?position=2&pageNum=90&refId=VelsVmi6Khvtu%2BVDIgkT0w%3D%3D&trackingId=7FtYVzWwdaUJx8Ml%2Btdmeg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEZiaaUvM-yOg/company-logo_100_100/company-logo_100_100/0/1631372210419?e=2147483647&v=beta&t=72drfQgDML4gVpn_fD7t_OHdVmFA00Lf-m1mK1l8S2k",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4390842005",
     "title": "Software Engineer II",
     "company": "American Express",
@@ -20,6 +64,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQE-JavwZhEueQ/company-logo_100_100/B56ZVIHolwGoAQ-/0/1740671715990/cargill_logo?e=2147483647&v=beta&t=RPlPp82xXXkRoQDn4nzjP9Bwsl_J6fJiIf6-9ZmVxZo",
     "lat": 13.1068089,
     "lng": 77.577749
+  },
+  {
+    "id": "urn:li:jobPosting:4390753383",
+    "title": "Software Engineer III, Full Stack, YouTube Music Integrations",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-26",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-full-stack-youtube-music-integrations-at-google-4390753383?position=4&pageNum=97&refId=MPp4u6%2B77Mx1rNpJHQuKew%3D%3D&trackingId=9nlke3zJ%2FsuiyX7btGdFBA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4389986851",
@@ -86,6 +141,39 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEAl4UqQUBngw/company-logo_100_100/B4EZp.iTGWHUAQ-/0/1763059512052/chubb_logo?e=2147483647&v=beta&t=lh21Rj4ekgDwfPVISgfQMEz2A_cUGIhUD47Z9-dI7fs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4389989905",
+    "title": "Software Engineer 2",
+    "company": "Dell Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-25",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-2-at-dell-technologies-4389989905?position=1&pageNum=95&refId=3W6gvlZhESca9QQqcLumeQ%3D%3D&trackingId=iH%2FjGBAoHfrVZSlDeLU3JQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF0hQrvoqdRNw/company-logo_100_100/company-logo_100_100/0/1725894960637/delltechnologies_logo?e=2147483647&v=beta&t=t3FboSeb340NLTi76bvejVOPP6amOYgze8b_Yojnjog",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4389895662",
+    "title": "Associate Web Developer",
+    "company": "LWYD Interactive",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-25",
+    "link": "https://in.linkedin.com/jobs/view/associate-web-developer-at-lwyd-interactive-4389895662?position=3&pageNum=95&refId=v13vLqKEmnrZHpNpis8Ikg%3D%3D&trackingId=mQosoNcTAJAmo33XMaOAJg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE2sK6k0xMtEA/company-logo_100_100/company-logo_100_100/0/1630583057660?e=2147483647&v=beta&t=svylfaYRTRJw-L91Htw36mXhJ4Rn4iJOvHcPwEqcf-w",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4390316090",
+    "title": "Software Development Engineer, Sidewalk Cloud, Sidewalk Cloud",
+    "company": "Ring",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-25",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-sidewalk-cloud-sidewalk-cloud-at-ring-4390316090?position=1&pageNum=90&refId=VelsVmi6Khvtu%2BVDIgkT0w%3D%3D&trackingId=qhl%2BZNCrbV4WkeY4QFuG1Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEMi2q0vql6HA/company-logo_100_100/B56ZYdKSHBGUAQ-/0/1744245957355/ring_labs_logo?e=2147483647&v=beta&t=tsGGg-aHMbOXk1t5PV3X-AYiLlzU1c5QZ2zvuCL-GTI",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4389934807",
@@ -2682,6 +2770,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
     "lat": 12.9216236,
     "lng": 77.6688299
+  },
+  {
+    "id": "urn:li:jobPosting:4383531987",
+    "title": "Software Development Engineer III",
+    "company": "Tesco Bengaluru",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-13",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-iii-at-tesco-bengaluru-4383531987?position=10&pageNum=97&refId=QyVleGl0ZOrvbEhucqVBGg%3D%3D&trackingId=s9rS4JPYIzljQFTGrhNrmQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNqJip6BEwGw/company-logo_100_100/company-logo_100_100/0/1688367507340/tesco_bengaluru_logo?e=2147483647&v=beta&t=RNhSg7-j-lU4JLvK8r-VtORAikcZ6GcI8M0sqJiRom4",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4384871231",
