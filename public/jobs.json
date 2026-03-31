@@ -2882,6 +2882,17 @@
     "lng": 77.7285752
   },
   {
+    "id": "urn:li:jobPosting:4383071973",
+    "title": "Web Developer",
+    "company": "Mouser Electronics",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-13",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-mouser-electronics-4383071973?position=2&pageNum=97&refId=9i1j2P7ZJG0LiKiwlxej1A%3D%3D&trackingId=sSK3c3LEwzHokthjAnVNEQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQG5sGeujDi0lA/company-logo_100_100/company-logo_100_100/0/1630662232486/mouser_electronics_logo?e=2147483647&v=beta&t=6pCYt3BnSOCa0fdtit_rSV_yQhOGQ82UIpsI1dDhDTw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4384871231",
     "title": "Senior Software Engineer",
     "company": "Microsoft",
@@ -38843,5 +38854,95 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
     "lat": 12.9272566,
     "lng": 77.6828027
+  },
+  {
+    "id": "urn:li:jobPosting:4395150524",
+    "title": "Front-end Developer",
+    "company": "Huron",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/front-end-developer-at-huron-4395150524?position=9&pageNum=15&refId=pE4%2BxyYhNCkwoEeVtzhrKw%3D%3D&trackingId=uOu2aZ4GuDw81XWZMajdhQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGb9cGj38ji8w/company-logo_100_100/B4EZiF7P8AGYAQ-/0/1754593558566/huronconsulting_logo?e=2147483647&v=beta&t=I9tG2lBX2Ey4sQAtVEFHYeTDsBD6syi6CX27i8HjA4A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4391857337",
+    "title": "ReactJS Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/reactjs-developer-at-scoutit-4391857337?position=10&pageNum=20&refId=hvp4moe0BYLHQcvw%2BzG%2Fsg%3D%3D&trackingId=2biM6pa9MGyR9vAetPPGsw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4392153944",
+    "title": "Software Dev Engineer II",
+    "company": "Swiggy",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-at-swiggy-4392153944?position=1&pageNum=35&refId=IsaDicJbZp8hfipOFyvhwQ%3D%3D&trackingId=IX96N%2FtHlIrfPa5BmKb4zQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFgJifoYusljQ/company-logo_100_100/B56ZbSxECTHgAU-/0/1747292799806/swiggy_in_logo?e=2147483647&v=beta&t=oNoKyEO_OQfRdHA1w93B_KhstwFa7dPSPuZjFUL0KZE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4391898600",
+    "title": "Semi Senior React Developer - Remote Work",
+    "company": "BairesDev",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-at-bairesdev-4391898600?position=9&pageNum=35&refId=ySrS9UbTrDbBvYXndmy3mA%3D%3D&trackingId=k3P2aGsozmcRyfADlxF6LQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGNvQASzrdL_w/company-logo_100_100/company-logo_100_100/0/1687874736484/bairesdev_logo?e=2147483647&v=beta&t=O-1i-F9arEGwUjngSlvE7NWxL-mpYFwN_XZxHy0C03s",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4395150879",
+    "title": "Software Engineer, Frontend/Fullstack",
+    "company": "WisdomAI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-frontend-fullstack-at-wisdomai-4395150879?position=5&pageNum=92&refId=TQXo7GULwMmMMlalfiL%2Bcg%3D%3D&trackingId=v4nDlMg%2B83yKdte%2FWOlNxw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEHNV7jOMzP2w/company-logo_100_100/B56Z0wq.C8JMAU-/0/1774638064885/wisdomai_inc_logo?e=2147483647&v=beta&t=jdZfDj5D8SD_0rpARum6C-isPmRNiai7f2l-o8Zrxpc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4393219799",
+    "title": "Software Development Engineer, Alexa Ads",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-alexa-ads-at-amazon-4393219799?position=3&pageNum=97&refId=9i1j2P7ZJG0LiKiwlxej1A%3D%3D&trackingId=mfYx6LoDK3ZKWRPv%2FihNTg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4391882672",
+    "title": "Staff Software Engineer, Machine Learning",
+    "company": "LinkedIn",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-machine-learning-at-linkedin-4391882672?position=2&pageNum=55&refId=FIb%2FgFrCCGFRdCKeRnmz4w%3D%3D&trackingId=J1ETgzLqrSn5A48ZcLc%2BVw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4391882662",
+    "title": "Principal Staff Software Engineer - Linkedin Sales Solutions",
+    "company": "LinkedIn",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/principal-staff-software-engineer-linkedin-sales-solutions-at-linkedin-4391882662?position=1&pageNum=57&refId=sLCKUd9KWADQ3tcBmVqQug%3D%3D&trackingId=LxrWtU5UWfBT7TrgeJh3xw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4391806290",
+    "title": "Software Engineer III, YouTube, Mobile",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-youtube-mobile-at-google-4391806290?position=2&pageNum=97&refId=dtl70yMkC%2FbxhxN0MyAH%2FA%3D%3D&trackingId=rVyqVV%2FPQVBODBzNYAgN8g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
+    "lat": 0,
+    "lng": 0
   }
 ]
