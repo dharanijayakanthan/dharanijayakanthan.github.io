@@ -330,6 +330,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4393582927",
+    "title": "software engineer 2 iOS",
+    "company": "Uber",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-31",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-2-ios-at-uber-4393582927?position=3&pageNum=60&refId=%2BWlgfYvwRKsY26wSTtTfhQ%3D%3D&trackingId=o30%2F3L5RZ2DnHlx7lR7Low%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4393280498",
+    "title": "Remote JavaScript Engineer",
+    "company": "Turing",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-31",
+    "link": "https://in.linkedin.com/jobs/view/remote-javascript-engineer-at-turing-4393280498?position=5&pageNum=90&refId=dMNFqfIkxgwB4KPNNz7zSg%3D%3D&trackingId=fQAQR4Bxx8d8cdUTUk73wQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEMzTP7ySRl1w/company-logo_100_100/B4DZraOH1PGgAQ-/0/1764597727124?e=2147483647&v=beta&t=cantgcA-j0iG-Xjuff93LI7KVJx677N_2JBYHhtRa5Q",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4393216211",
     "title": "Software Development Engineer III",
     "company": "Instamart",
@@ -691,6 +713,50 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGqo7HwJdpOBQ/company-logo_100_100/company-logo_100_100/0/1630654640743/fdazilla_logo?e=2147483647&v=beta&t=ZDQ0x2rAHMGxjyc1s60TZuxRhpCemYBc103e9KTobGo",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4391869342",
+    "title": "Staff Software Engineer (6+ years, GO, AWS)",
+    "company": "Pismo",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-30",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-6%2B-years-go-aws-at-pismo-4391869342?position=5&pageNum=82&refId=4ydMeoDdTL6yUyLPhl3fAw%3D%3D&trackingId=24OD6xm%2Bg2GkN4dHrrB4Dg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF6G0kvGXnp3Q/company-logo_100_100/company-logo_100_100/0/1630521394707/pismo_tecnologia_logo?e=2147483647&v=beta&t=JJ2iUOUkpitL7wslAskOf8pK--ybxCQSJ5wPN84FJ1A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4392991326",
+    "title": "Software Engineer",
+    "company": "GE HealthCare",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-30",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-ge-healthcare-4392991326?position=2&pageNum=90&refId=NDpOBDDfJAKsy6EjBJ5hgA%3D%3D&trackingId=bBif1sgiDRUtqZ42%2B7P9xw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG30MejU_UygQ/company-logo_100_100/B56ZlzFxy6I0AQ-/0/1758572519588/gehealthcare_logo?e=2147483647&v=beta&t=nY-wpTVABSqcsPg_WG65-jSQQsWCROwqEEKlxai4V6g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4391822231",
+    "title": "Python + React Developer",
+    "company": "msg global solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-30",
+    "link": "https://in.linkedin.com/jobs/view/python-%2B-react-developer-at-msg-global-solutions-4391822231?position=8&pageNum=55&refId=e%2BIJ%2FVAlOmAHobNSe5YqaA%3D%3D&trackingId=TXAdxveBBifj6A8g4ohsuA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHM6aq38Z-uyw/company-logo_100_100/company-logo_100_100/0/1630641761851/msg_global_logo?e=2147483647&v=beta&t=vtpnvFXZQUYtmCJckHmgeoFtMAPWbqoOZzzI1iU4I1I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4392568004",
+    "title": "Senior Software Engineer",
+    "company": "Omio",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-30",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-omio-4392568004?position=8&pageNum=20&refId=p6aumzpqAe5mrPGI%2BWY9rQ%3D%3D&trackingId=QuFvqyFducp4pdoXZci1pA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGGg_qspOgZpQ/company-logo_100_100/company-logo_100_100/0/1630528186819/omio_logo?e=2147483647&v=beta&t=fQ2ZGxcNZ8qUlKWec1PevFPijZYryC-KFVehLvIcUHM",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4393161169",
@@ -40622,5 +40688,55 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
     "lat": 13.120648,
     "lng": 77.6114683
+  },
+  {
+    "id": "urn:li:jobPosting:4395228782",
+    "title": "Specialist Software engineer -Front end",
+    "company": "Societe Generale Global Solution Centre",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/specialist-software-engineer-front-end-at-societe-generale-global-solution-centre-4395228782?position=2&pageNum=52&refId=Zj8KTSfn3wp6qXzgNOvZog%3D%3D&trackingId=U3twB6oo3xjxvxOmNfQRww%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQFwBvGQK2NyEA/company-logo_100_100/company-logo_100_100/0/1630620434106/societe_generale_global_solution_centre_logo?e=2147483647&v=beta&t=JLVeP7Wt4mveji2MHGGJKTK-7LZYVstKBki3yCG64XA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4393053540",
+    "title": "Senior Software Engineer, Search",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-search-at-google-4393053540?position=6&pageNum=52&refId=Zj8KTSfn3wp6qXzgNOvZog%3D%3D&trackingId=WIpY4TCC2SpbGbjq0MYlXg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4395227861",
+    "title": "Specialist Software engineer -Front end",
+    "company": "Societe Generale Global Solution Centre",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/specialist-software-engineer-front-end-at-societe-generale-global-solution-centre-4395227861?position=4&pageNum=60&refId=voiBcH3%2BVuxUueNI62XuVA%3D%3D&trackingId=kY2TueqJZ6p1W8lObUV%2F%2Bg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQFwBvGQK2NyEA/company-logo_100_100/company-logo_100_100/0/1630620434106/societe_generale_global_solution_centre_logo?e=2147483647&v=beta&t=JLVeP7Wt4mveji2MHGGJKTK-7LZYVstKBki3yCG64XA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4396856866",
+    "title": "Software Engineer - 11343",
+    "company": "Coupa",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-11343-at-coupa-4396856866?position=8&pageNum=27&refId=Ad6sErKkF62EAbg%2FMkYS7w%3D%3D&trackingId=Ingvgd53XLvKO2GqnspqCw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFYhziIq_nSVg/company-logo_100_100/B4EZfLgHhRGwAU-/0/1751465884508/coupa_software_logo?e=2147483647&v=beta&t=WBhFsCbmaUf7O0I7l9gJIu8qgHm8GopzgQiW0T3pEo4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4396654799",
+    "title": "(IND) SENIOR, SOFTWARE ENGINEER",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ind-senior-software-engineer-at-walmart-global-tech-india-4396654799?position=2&pageNum=85&refId=7cn4uTWAkoLldxNsauylGA%3D%3D&trackingId=p5DmLWdhKJHiSttrLsHAQQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
   }
 ]
