@@ -77,6 +77,28 @@
     "lng": 77.7084168
   },
   {
+    "id": "urn:li:jobPosting:4395399374",
+    "title": "Remote JavaScript Engineer",
+    "company": "Turing",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-02",
+    "link": "https://in.linkedin.com/jobs/view/remote-javascript-engineer-at-turing-4395399374?position=3&pageNum=90&refId=v4GVeTQgA8n51p5FalASGg%3D%3D&trackingId=Pk0SvqLBv5ETtXY%2BBdeLzw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEMzTP7ySRl1w/company-logo_100_100/B4DZraOH1PGgAQ-/0/1764597727124?e=2147483647&v=beta&t=cantgcA-j0iG-Xjuff93LI7KVJx677N_2JBYHhtRa5Q",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4396955028",
+    "title": "Senior Software Engineer - Fullstack",
+    "company": "PayPal",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-02",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-paypal-4396955028?position=8&pageNum=92&refId=ytcmqS84kWs0pVQJjN9gSw%3D%3D&trackingId=T4qJbICAUPLYVROd1yEbTw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGlX0cKdGRk-w/company-logo_100_100/company-logo_100_100/0/1725506319701?e=2147483647&v=beta&t=EfHoqyaVYveWMzdT_6PpJbGNGS1P4dUk3ZryqIQRhjc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4392859395",
     "title": "Software Development Engineer II",
     "company": "Tesco Bengaluru",
@@ -41589,5 +41611,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGlX0cKdGRk-w/company-logo_100_100/company-logo_100_100/0/1725506319701?e=2147483647&v=beta&t=EfHoqyaVYveWMzdT_6PpJbGNGS1P4dUk3ZryqIQRhjc",
     "lat": 12.9223031,
     "lng": 77.6804666
+  },
+  {
+    "id": "urn:li:jobPosting:4394240464",
+    "title": "Frontend Developer - Pan India",
+    "company": "Tata Consultancy Services",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-pan-india-at-tata-consultancy-services-4394240464?position=6&pageNum=42&refId=eB9kxIQDnbs8abgprWH5vQ%3D%3D&trackingId=qAF87mdRWz5ss28Kj1kRkw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4393870145",
+    "title": "Software Engineer",
+    "company": "Alteryx",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-alteryx-4393870145?position=1&pageNum=77&refId=xYt21xXlsF3Efx8g%2FW8XwQ%3D%3D&trackingId=xoEtfOrWFYHqTi%2BUnFZwaw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE6Q7_2t9Qq0w/company-logo_100_100/B4EZzScUPuGUAQ-/0/1773057164524/alteryx_logo?e=2147483647&v=beta&t=wrc1plzuSiNPjJf9JfvZe_jl77yIODCPEEyJZh7fry8",
+    "lat": 0,
+    "lng": 0
   }
 ]
