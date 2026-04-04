@@ -110,6 +110,17 @@
     "lng": 77.6804666
   },
   {
+    "id": "urn:li:jobPosting:4395703467",
+    "title": "Software Engineer",
+    "company": "NatWest Group",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-02",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-natwest-group-4395703467?position=2&pageNum=97&refId=QpHIS9H6Tbc9BZnEutzmaQ%3D%3D&trackingId=lhcdT7Pqrnw1sKrSKgvtKw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEA8k9x0NLXVw/company-logo_100_100/company-logo_100_100/0/1658409007559/natwest_group_logo?e=2147483647&v=beta&t=77U4pn7D2sdoWVtDxd-1OFNiFco375nnYIWapD6QRBA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4392859395",
     "title": "Software Development Engineer II",
     "company": "Tesco Bengaluru",
@@ -41733,6 +41744,46 @@
     "location": "Bengaluru North, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/associate-frontend-developer-at-scoutit-4394270181?position=1&pageNum=30&refId=12Wa6BoWIkeCzVOfYXb80g%3D%3D&trackingId=XN5iCEK%2Fm7HzHWypH5KEDg%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4394277412",
+    "title": "Fullstack Engineer (Python, React)",
+    "company": "CG-VAK Software & Exports Ltd.",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/fullstack-engineer-python-react-at-cg-vak-software-exports-ltd-4394277412?position=2&pageNum=42&refId=R40jHNS2G90aVDyq6eBTyA%3D%3D&trackingId=aTzHLKMs1AVd9VC39DKAJg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQEDi_RJooeE1g/company-logo_100_100/company-logo_100_100/0/1630623377499/cg_vak_software__exports_ltd_logo?e=2147483647&v=beta&t=wsAiHRqfvzt1-ijBbkZ83gZpj6k-L2VHEZtUJ4VD4gA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4283357518",
+    "title": "Software Engineer",
+    "company": "LSEG",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-lseg-4283357518?position=7&pageNum=85&refId=XKQs7InXMpf32yincoCj%2FQ%3D%3D&trackingId=%2BPXpE88dXnHm0w6JjUH5mA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEfgZXAuQXg6w/company-logo_100_100/B56ZfK6LczHUAQ-/0/1751455938973/london_stock_exchange_group_logo?e=2147483647&v=beta&t=5ZFP4xHS24_BnpZHtT7ZbuN_opspJmRO698ZnXJSlOU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4394263280",
+    "title": "Associate - Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-frontend-developer-at-scoutit-4394263280?position=6&pageNum=20&refId=y8pFyxTdGO49QOL0PCNpGg%3D%3D&trackingId=WX%2B9qtUazKqlRZxWJbfOHQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4397447461",
+    "title": "Senior Software Engineer",
+    "company": "Uber",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-uber-4397447461?position=4&pageNum=45&refId=VCy6%2F7saAH5L3B3WG%2Bec2g%3D%3D&trackingId=wrPYCpFZHuzcIQo3J3mVIQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ",
     "lat": 0,
     "lng": 0
   }
