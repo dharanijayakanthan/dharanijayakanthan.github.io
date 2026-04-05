@@ -11,6 +11,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4393853988",
+    "title": "Senior Software Engineer",
+    "company": "Infosys",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-03",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-infosys-4393853988?position=6&pageNum=80&refId=s4w9Gd5y2ybbDCDQxxDmnA%3D%3D&trackingId=o%2FGiPHC910iAWSl5iCIlJg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4395277880",
     "title": "Software Engineer 1",
     "company": "apna",
@@ -119,6 +130,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEA8k9x0NLXVw/company-logo_100_100/company-logo_100_100/0/1658409007559/natwest_group_logo?e=2147483647&v=beta&t=77U4pn7D2sdoWVtDxd-1OFNiFco375nnYIWapD6QRBA",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4393460269",
+    "title": "Software Quality Assurance Engineer",
+    "company": "Emmes Group",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-02",
+    "link": "https://in.linkedin.com/jobs/view/software-quality-assurance-engineer-at-emmes-group-4393460269?position=9&pageNum=97&refId=cWDhWU%2B2RBNefIByHxTgpg%3D%3D&trackingId=oilj%2FekWYC9GODDpeo0PRQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEalrw0TDZSEA/company-logo_100_100/B4EZeDNrGTHcAQ-/0/1750253089569/the_emmes_group_logo?e=2147483647&v=beta&t=tdLfkRbjRshr2GSvg_Y8-8fBCY3LJKVIrVOZoe9NkXI",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4392859395",
@@ -41786,5 +41808,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ",
     "lat": 12.9185763,
     "lng": 77.6707864
+  },
+  {
+    "id": "urn:li:jobPosting:4394258310",
+    "title": "Associate - Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-frontend-developer-at-scoutit-4394258310?position=10&pageNum=30&refId=w9gKH6nUZ9YrC1G55lVjcg%3D%3D&trackingId=WU2%2FglKFqI%2BtBTESTp05%2Bw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4397449834",
+    "title": "Senior Software Engineer",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-microsoft-4397449834?position=9&pageNum=70&refId=o7%2FptQPMCtIi%2FK%2BJZkaJ%2Bg%3D%3D&trackingId=dxvGY%2BIwut0bNz3k2j6fzQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
   }
 ]
