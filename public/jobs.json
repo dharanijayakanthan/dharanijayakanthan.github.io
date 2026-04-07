@@ -1,5 +1,27 @@
 [
   {
+    "id": "urn:li:jobPosting:4397751440",
+    "title": "JAVA FULL STACK AND ANGULAR DEVELOPER",
+    "company": "Wipro",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-06",
+    "link": "https://in.linkedin.com/jobs/view/java-full-stack-and-angular-developer-at-wipro-4397751440?position=5&pageNum=82&refId=AhjCEWFZP9WSIsElbZ0l2g%3D%3D&trackingId=R9oePGsV86DePnDCTMSN6A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTFdGNe-V9tw/company-logo_100_100/B4EZpFMu4WIQAQ-/0/1762097557732?e=2147483647&v=beta&t=ou5vQOksNDH68avQwV6fPk4vX3nYe_Vc_K1zSfm9PFg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4383138348",
+    "title": "Staff Software Engineer, YouTube OTT",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-04",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-youtube-ott-at-google-4383138348?position=7&pageNum=97&refId=90LmFMHZgJf8N7VPaRH49A%3D%3D&trackingId=ij8bUMzdMfC5wEAZvE5G5w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4385190169",
     "title": "Software Engineer",
     "company": "Automation Anywhere",
@@ -1296,6 +1318,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGvWrbRGuYPiA/company-logo_100_100/company-logo_100_100/0/1719258076092/infinite_computer_solutions_logo?e=2147483647&v=beta&t=6mbIprl1PpMg4qSWtJJM63KMITI9z5nzMqycKNwBJK4",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4390862721",
+    "title": "Software Engineer",
+    "company": "Bottomline",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-26",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-bottomline-4390862721?position=10&pageNum=97&refId=og8UmaErIIxnnUZ3%2F6gDqw%3D%3D&trackingId=jjaWEP530066Zu8wj%2Fingg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF9cJO9hHno8g/company-logo_100_100/B4EZnEHNvLHgAQ-/0/1759931850122/bottomline_payments_logo?e=2147483647&v=beta&t=Iszk6qLAbl_ytEet6W69XURrYbGXPMm_ORbFl2VpRcE",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4389986851",
@@ -42498,5 +42531,115 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
     "lat": 12.9740345,
     "lng": 77.6174204
+  },
+  {
+    "id": "urn:li:jobPosting:4394452953",
+    "title": "Associate - Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-frontend-developer-at-scoutit-4394452953?position=2&pageNum=10&refId=n7H04hcQ4P5iW%2BG0YI2Mkw%3D%3D&trackingId=ULZg9Q6dgCCfKozdIc%2BBNQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4394466152",
+    "title": "UI Developer (ReactJS)",
+    "company": "Whitefield Careers",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ui-developer-reactjs-at-whitefield-careers-4394466152?position=8&pageNum=15&refId=KRTfftWI%2FPUV0RDVYC1kag%3D%3D&trackingId=rf9ukhZQ3giB6RpSYGGXAg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG108WOS9UBtQ/company-logo_100_100/company-logo_100_100/0/1684171597846?e=2147483647&v=beta&t=os7Gupae_BVIHsa56ONRHhMtov75snBv6Fg0G5O9mhc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4398318217",
+    "title": "Snapmint - Software Backend Engineer II",
+    "company": "Snapmint",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/snapmint-software-backend-engineer-ii-at-snapmint-4398318217?position=3&pageNum=65&refId=WBZ1E2TmWPGW5RrWAkV9Vg%3D%3D&trackingId=V15OHmb676wviaYZB7MlDQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEFFV1OEIuH9w/company-logo_100_100/company-logo_100_100/0/1715605318956/snapmintfinserv_logo?e=2147483647&v=beta&t=i1NfdvUIaB1PAdu4x9cB6BSVNydIBxKFXj-yAMgami8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4394746393",
+    "title": "Engineering Trainee",
+    "company": "21K School",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/engineering-trainee-at-21k-school-4394746393?position=6&pageNum=75&refId=zaiofN4t%2BD1RV9mFOXZVEQ%3D%3D&trackingId=7PlD40kOyd2NU3d%2BwrfRgw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEd1WNMv5Sy1w/img-crop_100/img-crop_100/0/1731487270591?e=2147483647&v=beta&t=bujxXj5NU81MNECm0CqbZv9uKLkZf1MpTDHeFIhOK8o",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4397977435",
+    "title": "Full Stack Javascript Developer",
+    "company": "American Express Global Business Travel",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-javascript-developer-at-american-express-global-business-travel-4397977435?position=5&pageNum=85&refId=9%2Bo8oDeoaDY%2FJfdz8kdc%2Bg%3D%3D&trackingId=gkMIvYCzz26EW2B83Dyh6g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFz4Ke0cUy2TQ/company-logo_100_100/company-logo_100_100/0/1684940844745?e=2147483647&v=beta&t=hGgU8WsvI9fYBLhcHDCWGNJXikJKRTx21vxVUBDfy2c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4394460767",
+    "title": "Software Engineer",
+    "company": "Docusign",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-docusign-4394460767?position=4&pageNum=90&refId=IXAs7U8lb7hijBIDHQjWTg%3D%3D&trackingId=IA4ZWa%2BNDHzB61hJUh0OtA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFJh4R0ibULEg/company-logo_100_100/company-logo_100_100/0/1712837162469/docusign_logo?e=2147483647&v=beta&t=Y-f3Qq3iOXvWBwbXRkBZlDyiYso6ADqLFZ_f5hsk1i8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4394474727",
+    "title": "Software Development Engineer II",
+    "company": "Tesco Bengaluru",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-tesco-bengaluru-4394474727?position=5&pageNum=97&refId=90LmFMHZgJf8N7VPaRH49A%3D%3D&trackingId=55QsND1SSr2QID4tjBNvsQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNqJip6BEwGw/company-logo_100_100/company-logo_100_100/0/1688367507340/tesco_bengaluru_logo?e=2147483647&v=beta&t=RNhSg7-j-lU4JLvK8r-VtORAikcZ6GcI8M0sqJiRom4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4397950483",
+    "title": "Software Engineer III",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-walmart-global-tech-india-4397950483?position=1&pageNum=27&refId=CjXgHMJJWjIITaGZI23bPg%3D%3D&trackingId=RvDyJFxAJFck1S4vb4PHdg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4394499380",
+    "title": "Frontend Web App Developer (React) – 3+ Years Experience",
+    "company": "Aforro™",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-web-app-developer-react-%E2%80%93-3%2B-years-experience-at-aforro%E2%84%A2-4394499380?position=8&pageNum=85&refId=AuWfGUcJGyyfvABcWjV9dw%3D%3D&trackingId=lRwGYO8fpq3uCOtXqXE%2Fuw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEFnxDX5nX4Og/company-logo_100_100/company-logo_100_100/0/1738254970751/aforro_groceries_pvt_ltd_logo?e=2147483647&v=beta&t=VH7-Hsw0V-sIoA20Yjp_T876V-i9qbEVj6D95R3Rp88",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4394725007",
+    "title": "Junior JavaScript Developer - Remote Work",
+    "company": "BairesDev",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-bairesdev-4394725007?position=8&pageNum=15&refId=0fVn4pKp67aOs2tsXuyKCA%3D%3D&trackingId=3e8nSPx3OVheyTKucew9eQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGNvQASzrdL_w/company-logo_100_100/company-logo_100_100/0/1687874736484/bairesdev_logo?e=2147483647&v=beta&t=O-1i-F9arEGwUjngSlvE7NWxL-mpYFwN_XZxHy0C03s",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4398099162",
+    "title": "Sr Software Engineer",
+    "company": "Uber",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-software-engineer-at-uber-4398099162?position=3&pageNum=97&refId=8zo8yI9eKbCtlUCIttEQZA%3D%3D&trackingId=YAe6OUIc8Goyq78zXAMTDw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ",
+    "lat": 0,
+    "lng": 0
   }
 ]
