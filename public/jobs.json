@@ -1837,6 +1837,17 @@
     "lng": 77.6114683
   },
   {
+    "id": "urn:li:jobPosting:4391804240",
+    "title": "Senior Developer (Golang, AWS, React)",
+    "company": "Thoughtworks",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-30",
+    "link": "https://in.linkedin.com/jobs/view/senior-developer-golang-aws-react-at-thoughtworks-4391804240?position=10&pageNum=92&refId=xXXXseb5RkvXWhUNsasMmg%3D%3D&trackingId=GJnyG%2FTrGpxMO97nl5TBeg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE5QBG-mhja9g/company-logo_100_100/company-logo_100_100/0/1630637271377/thoughtworks_logo?e=2147483647&v=beta&t=LUm7chJ2iGborCoocWf8t0MQSCLuxy9wCzuJIt0puwc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4393161169",
     "title": "Web Developer - Analytics",
     "company": "Takeda",
@@ -18429,6 +18440,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ",
     "lat": 12.9185763,
     "lng": 77.6707864
+  },
+  {
+    "id": "urn:li:jobPosting:4367644935",
+    "title": "Kavi Global - Frontend Developer - AngularJS/React.js",
+    "company": "Kavi Global",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-01-31",
+    "link": "https://in.linkedin.com/jobs/view/kavi-global-frontend-developer-angularjs-react-js-at-kavi-global-4367644935?position=7&pageNum=95&refId=RXgLLKxLOQpoMf4PwCcEDw%3D%3D&trackingId=DKhzfakWwgXacsmTB8o3CA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGMmT6ZLkN6Og/company-logo_100_100/company-logo_100_100/0/1631352462658?e=2147483647&v=beta&t=RjEj88QoAX5oNKF49_efZSbHxw60OGArGkz_g5BNGlU",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4345110024",
@@ -44809,5 +44831,85 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
     "lat": 12.9216236,
     "lng": 77.6688299
+  },
+  {
+    "id": "urn:li:jobPosting:4397603630",
+    "title": "Software Dev Engineer I",
+    "company": "Swiggy",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-i-at-swiggy-4397603630?position=1&pageNum=7&refId=Q9%2Bud%2B4OsSu1QHjywkkOaw%3D%3D&trackingId=ss%2BVI%2FEm1Byp4LRpFn0irA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFgJifoYusljQ/company-logo_100_100/B56ZbSxECTHgAU-/0/1747292799806/swiggy_in_logo?e=2147483647&v=beta&t=oNoKyEO_OQfRdHA1w93B_KhstwFa7dPSPuZjFUL0KZE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4397262399",
+    "title": "Associate - Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bangalore Rural, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-frontend-developer-at-scoutit-4397262399?position=9&pageNum=12&refId=SC9%2BTtqMN4qLxdfHGMlHWA%3D%3D&trackingId=YUTyjGn5FFQgHxgpcCTfsw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4400225979",
+    "title": "Software Engineer II",
+    "company": "Uber",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-uber-4400225979?position=4&pageNum=20&refId=CGuXF3gNr8%2FPeMxEG3OeDw%3D%3D&trackingId=lNiKypEU8ODJZCY8Dsx1iw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4400204931",
+    "title": "Software Engineer",
+    "company": "AccioJob - Hiring Drives",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-acciojob-hiring-drives-4400204931?position=5&pageNum=82&refId=cCVtgeln4q0XefnxdDD9%2Bw%3D%3D&trackingId=bfPSSJQE6s9SoKm%2BvjZUpw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHZfrXWhKcAow/company-logo_100_100/company-logo_100_100/0/1727436894492?e=2147483647&v=beta&t=MAaSzTSqiaebjSuMcSaGoqElMA8ImdEWVYKQjoXCv8s",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4397234268",
+    "title": "Senior Software Engineer",
+    "company": "Teradata",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-teradata-4397234268?position=3&pageNum=97&refId=hLrt6gclDkqQXEoCPf11BQ%3D%3D&trackingId=s2FrRw6cPs1GgmwQcUwB%2BQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGgQByLIN_rtA/company-logo_100_100/company-logo_100_100/0/1697134375805/teradata_logo?e=2147483647&v=beta&t=SZqAm1Fje78qC2l5TwSrX7j1y5R3aihwCHPri6Kc_K8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4328848540",
+    "title": "Senior Software Engineer, Software Engineering",
+    "company": "Saviynt",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-software-engineering-at-saviynt-4328848540?position=5&pageNum=97&refId=hLrt6gclDkqQXEoCPf11BQ%3D%3D&trackingId=La8D3j0XWLoAV7VYXOcKsA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH0obMTo5lNEw/company-logo_100_100/B4EZyPc3THGkAQ-/0/1771933234894/saviynt_logo?e=2147483647&v=beta&t=jQ4NaepZzakC6YuR6mTsMYtMjVcAta5xVe6pclFBP2U",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4400245684",
+    "title": "Web Developer",
+    "company": "Dassault Systèmes",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-dassault-syst%C3%A8mes-4400245684?position=10&pageNum=27&refId=jSIXWJPaZKGh83BNDTZgjg%3D%3D&trackingId=02OL43ywzDfgkBYovMbAQg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHroRzeNTva6Q/company-logo_100_100/company-logo_100_100/0/1631330934922?e=2147483647&v=beta&t=Y_LaLgUh3t_AY4PloiAtAbGGfEr2fGl7C4_RBhQ7Vok",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4358810842",
+    "title": "Software Test Engineer",
+    "company": "Takeda",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-test-engineer-at-takeda-4358810842?position=5&pageNum=97&refId=txLfBQv7Xe9RsRlFHoq8tg%3D%3D&trackingId=AwMuY5k2Lx33lZuBcTQlSw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFDwEi2w0amXg/company-logo_100_100/B4EZhg8m1IGoAU-/0/1753973157573/takeda_pharmaceuticals_logo?e=2147483647&v=beta&t=cZOpYgVrjBQ3aJvJY02v-Ft1xjRiNxEuGjSoi3me8uc",
+    "lat": 0,
+    "lng": 0
   }
 ]
