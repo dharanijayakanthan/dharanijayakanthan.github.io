@@ -33,6 +33,28 @@
     "lng": 77.7285752
   },
   {
+    "id": "urn:li:jobPosting:4399295776",
+    "title": "Senior Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-08",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-capgemini-4399295776?position=2&pageNum=92&refId=9qhnEETNM1GU%2BoG7fW97bg%3D%3D&trackingId=VmgVT5HJtVx3XdX%2FtD1skw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4399289604",
+    "title": "Software Engineering-Sr Engineer",
+    "company": "FICO",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-08",
+    "link": "https://in.linkedin.com/jobs/view/software-engineering-sr-engineer-at-fico-4399289604?position=8&pageNum=97&refId=kS1K3fvjc%2Bu0rSkVB%2Ftr4Q%3D%3D&trackingId=g79UppBhGfTnCM1He4FXJA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQH2gSPhKN7WXw/company-logo_100_100/company-logo_100_100/0/1678222109662/fico_logo?e=2147483647&v=beta&t=6yDYj5z7udyEZ_4UdMIRX5g9mA5dtpbfIfE_i-1O5_Q",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4394764444",
     "title": "Staff Software Engineer",
     "company": "Razorpay",
@@ -671,6 +693,17 @@
     "lng": 0
   },
   {
+    "id": "urn:li:jobPosting:4398018585",
+    "title": "Software Engineer",
+    "company": "GE HealthCare",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-06",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-ge-healthcare-4398018585?position=6&pageNum=97&refId=%2BKG1mC5W%2F1l%2FzPW0bH9Gqg%3D%3D&trackingId=4ES4fgERX5Sv2aexa8DLFQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG30MejU_UygQ/company-logo_100_100/B56ZlzFxy6I0AQ-/0/1758572519588/gehealthcare_logo?e=2147483647&v=beta&t=nY-wpTVABSqcsPg_WG65-jSQQsWCROwqEEKlxai4V6g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4383138348",
     "title": "Staff Software Engineer, YouTube OTT",
     "company": "Google",
@@ -735,6 +768,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4396568393",
+    "title": "Associate QA Engineer, Software",
+    "company": "Light & Wonder",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-03",
+    "link": "https://in.linkedin.com/jobs/view/associate-qa-engineer-software-at-light-wonder-4396568393?position=10&pageNum=12&refId=gvAlSEojdB%2B%2FV6DQtS6wJg%3D%3D&trackingId=O%2Fnyuz58fczj5AHHyHjtGg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE_b5uJ7F58GQ/company-logo_100_100/company-logo_100_100/0/1719861106621/lightnwonder_logo?e=2147483647&v=beta&t=1g9UD8qeixSfZbNxJmBSo_kciNaRXQAN0VGdbAFPFQ8",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4395277880",
@@ -45543,5 +45587,95 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHneCFNW5-qJw/company-logo_100_100/company-logo_100_100/0/1653387910016/ness_ses_logo?e=2147483647&v=beta&t=EtXgplHbhzpw42m01al_gWd8AWWlRPjCRlPSvF3vMF0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4400601136",
+    "title": "Software Engineer II",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-microsoft-4400601136?position=5&pageNum=20&refId=ZXJqWcbUHtOQ5YcGhSLZIw%3D%3D&trackingId=mi8WLhxeCx1K%2BqKDVKQXnA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4398128168",
+    "title": "Associate - Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-frontend-developer-at-scoutit-4398128168?position=9&pageNum=27&refId=1TYK4MhrmPjm%2Bxp2WFTy8Q%3D%3D&trackingId=%2BJa4Z13LULGHmFaoK7jq2Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4400606793",
+    "title": "Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4400606793?position=5&pageNum=30&refId=RvFJ9NIkV%2F7Az9nYNehaOQ%3D%3D&trackingId=YMRqAn%2FtW2E9VyAmCzVI0Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4400556132",
+    "title": "React FullStack Software Engineer",
+    "company": "NatWest Group",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-fullstack-software-engineer-at-natwest-group-4400556132?position=5&pageNum=80&refId=4Z9Iy%2Fm5HGEX%2Fl2%2Fz0E7Tw%3D%3D&trackingId=Vh9DVBM%2BfnY2Ts3Db4OA%2BA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEA8k9x0NLXVw/company-logo_100_100/company-logo_100_100/0/1658409007559/natwest_group_logo?e=2147483647&v=beta&t=77U4pn7D2sdoWVtDxd-1OFNiFco375nnYIWapD6QRBA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4400399494",
+    "title": "Frontend Engineer",
+    "company": "Electrolux Group",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-at-electrolux-group-4400399494?position=10&pageNum=15&refId=Xxe4ywVuXwT%2BxMxMQInLuQ%3D%3D&trackingId=saN2TgeakF7iJU%2FUwxkoyg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEZiaaUvM-yOg/company-logo_100_100/company-logo_100_100/0/1631372210419?e=2147483647&v=beta&t=72drfQgDML4gVpn_fD7t_OHdVmFA00Lf-m1mK1l8S2k",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4399056869",
+    "title": "Software Engineer III",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-walmart-global-tech-india-4399056869?position=4&pageNum=17&refId=sXd3dXSZjMd6Dej%2F3TEYDA%3D%3D&trackingId=rJ%2BH0gzGiEhp5evF%2BPpIDg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4399048326",
+    "title": "SENIOR, SOFTWARE ENGINEER",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-walmart-global-tech-india-4399048326?position=3&pageNum=80&refId=eekYX1Ez%2BzTZesehHIT7DA%3D%3D&trackingId=G9F3vqvlYRZXrBslGiHk8g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4400620209",
+    "title": "Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4400620209?position=3&pageNum=42&refId=JVkwtAnDgjIXrDIe3lF2Iw%3D%3D&trackingId=Es5D2dQQG2qrfCh0%2FeTQWQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4398133841",
+    "title": "Software Engineer",
+    "company": "Siemens",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-siemens-4398133841?position=6&pageNum=67&refId=xFz9%2BuFnswpjS8kR%2BHc%2BxQ%3D%3D&trackingId=IOYmnkFyvDsOVY%2F4cvWaiQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_100_100/company-logo_100_100/0/1719931174735/siemens_logo?e=2147483647&v=beta&t=iNZVOYYuYOnkz09IBCFrK9Ik8uTqP6ZDnhCEJjPouV4",
+    "lat": 0,
+    "lng": 0
   }
 ]
