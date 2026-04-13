@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4399319398",
+    "title": "Java Software Engineer",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-11",
+    "link": "https://in.linkedin.com/jobs/view/java-software-engineer-at-deloitte-4399319398?position=1&pageNum=90&refId=xlMXx0IMk0ASi8WbHYxoGQ%3D%3D&trackingId=fQRZOL%2BRrhi28HhH270qCQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4400354238",
     "title": "Software Engineer III",
     "company": "JPMorganChase",
@@ -139,6 +150,17 @@
     "date": "2026-04-10",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cohesity-4400380241?position=10&pageNum=97&refId=QcF4lr00ItIwGq4dDjR8fQ%3D%3D&trackingId=fmcPU3nG946ngekRxzZWhQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFXZ2Hda_puGA/company-logo_100_100/B56ZXZqwVUHEAY-/0/1743113619242/cohesity_logo?e=2147483647&v=beta&t=Xm_ovt5DUQMGQETaHBrDcDmRzdMmFnvbVuEvG-Le9Bo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4398174706",
+    "title": "Frontend Developer",
+    "company": "Ed Astra",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-10",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-ed-astra-4398174706?position=8&pageNum=10&refId=5h5%2BRxBa1usl3Fj5nP6iOA%3D%3D&trackingId=ACx6SQQdydrQzDtcWeNawg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFJFwpGSlBZBA/company-logo_100_100/company-logo_100_100/0/1738817019556/ed_astra_logo?e=2147483647&v=beta&t=2ZMZdjN_Oy9IT8RLo7a6XosQeCSvLdnS4lw0xCG1-JY",
     "lat": 0,
     "lng": 0
   },
@@ -284,6 +306,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNqJip6BEwGw/company-logo_100_100/company-logo_100_100/0/1688367507340/tesco_bengaluru_logo?e=2147483647&v=beta&t=RNhSg7-j-lU4JLvK8r-VtORAikcZ6GcI8M0sqJiRom4",
     "lat": 12.9736991,
     "lng": 77.7285752
+  },
+  {
+    "id": "urn:li:jobPosting:4399451364",
+    "title": "Software Engineer III",
+    "company": "JPMorganChase",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-08",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-jpmorganchase-4399451364?position=7&pageNum=97&refId=FJ5Akp8OE54D7G4GA2n0vw%3D%3D&trackingId=7unOCRinuWdJDk0HO6Y0yQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4395984092",
+    "title": "Software Development Engineer III",
+    "company": "Tesco Bengaluru",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-08",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-iii-at-tesco-bengaluru-4395984092?position=8&pageNum=95&refId=w%2BN8s62dRjOzBuTseXZpkg%3D%3D&trackingId=x%2FyR%2BoKCEm26I3%2Fx%2BVFQVg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNqJip6BEwGw/company-logo_100_100/company-logo_100_100/0/1688367507340/tesco_bengaluru_logo?e=2147483647&v=beta&t=RNhSg7-j-lU4JLvK8r-VtORAikcZ6GcI8M0sqJiRom4",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4394764444",
