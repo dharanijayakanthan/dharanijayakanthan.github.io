@@ -11,6 +11,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4401723662",
+    "title": "Angular Developer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-14",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-at-capgemini-4401723662?position=10&pageNum=2&refId=xsC5JEaxpaGiazEj9NqvhQ%3D%3D&trackingId=IsOpgzLEPYQ6Vct4qUuTFQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4399396653",
     "title": "SENIOR, SOFTWARE ENGINEER",
     "company": "Walmart Global Tech India",
@@ -20,6 +31,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4401335208",
+    "title": "Associate Software Engineer",
+    "company": "ECI",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-13",
+    "link": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-eci-4401335208?position=8&pageNum=97&refId=c0pyDcK353khgdOtkVUhMA%3D%3D&trackingId=NgCdJ1vkwhHebK%2FFGgBv5w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGMUmVSgo456g/company-logo_100_100/company-logo_100_100/0/1690998792263/eci_1995_logo?e=2147483647&v=beta&t=FW6_-4twW4iQF4I9x2s2ZZ_BORUoQkIgFxnDuH96KaA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4348652753",
+    "title": "(IND) STAFF, SOFTWARE ENGINEER",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-13",
+    "link": "https://in.linkedin.com/jobs/view/ind-staff-software-engineer-at-walmart-global-tech-india-4348652753?position=9&pageNum=97&refId=MFTYSr62m6eIcsrjL0U6Sw%3D%3D&trackingId=CpWQceuKaSVg1KuOpjNi8A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4399157379",
@@ -449,6 +482,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHPxOQjSTf63Q/company-logo_100_100/company-logo_100_100/0/1733126326977?e=2147483647&v=beta&t=Sox1AP2RLBDINbiSLzHmDnuHDV-LTcQdBKVQ2b6mFVg",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4399250719",
+    "title": "Software Engineer II",
+    "company": "Akamai Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-08",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-akamai-technologies-4399250719?position=10&pageNum=82&refId=buh6csK%2BshXFnvIsGnDexA%3D%3D&trackingId=UDLrTdFq7prh5kIlrzuQBA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHpsdQkVIn86g/company-logo_100_100/B4EZiajPQ8GUAY-/0/1754939585924/akamai_technologies_logo?e=2147483647&v=beta&t=WHeaHbxtgBmtwi9Yo1Pql0PFCURZ-m3YjA9c8t3rKtM",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4394764444",
@@ -3793,6 +3837,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEA8k9x0NLXVw/company-logo_100_100/company-logo_100_100/0/1658409007559/natwest_group_logo?e=2147483647&v=beta&t=77U4pn7D2sdoWVtDxd-1OFNiFco375nnYIWapD6QRBA",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4401411976",
+    "title": "Senior Frontend Engineer",
+    "company": "Ctruh",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-21",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-at-ctruh-4401411976?position=4&pageNum=90&refId=XldNHdSN6fkPxo2XfLUdhQ%3D%3D&trackingId=jQYY2ht6UlLDuSpOn1fgIA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFQ7WTOEQ2afA/company-logo_100_100/B56ZolnFILKwAQ-/0/1761567595314/ctruh_logo?e=2147483647&v=beta&t=DP1fiZjSnZsZtzfzSE47WVrJx9Y-BcKcDNbdVaS8zWc",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4387966267",
@@ -47810,5 +47865,195 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYQJRpdWIV3A/company-logo_100_100/company-logo_100_100/0/1696360009849/zynga_logo?e=2147483647&v=beta&t=9okvXGjIzoERubjtO6qzmqNIkcuxylBrmujG-uEvKGE",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4402272497",
+    "title": "Javascript Developer",
+    "company": "TCS",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/javascript-developer-at-tcs-4402272497?position=3&pageNum=12&refId=QPbzt4i%2FrMXsXFX6KbkoVw%3D%3D&trackingId=r6LrDLo1IEQJ8Yfdv8R%2FfA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv0z3fRg2gwA/company-logo_100_100/company-logo_100_100/0/1719256907484/calltcs_logo?e=2147483647&v=beta&t=DOCmbpZpWUsgcXf5usdb71bNnYJHBtd-KGNT0rTZkjE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401431573",
+    "title": "Software Dev Engineer III",
+    "company": "Swiggy",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-iii-at-swiggy-4401431573?position=6&pageNum=25&refId=Wly3kJHT5JFYEN91e5TOuw%3D%3D&trackingId=UORzXrLuCfn7CkixhztIIw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFgJifoYusljQ/company-logo_100_100/B56ZbSxECTHgAU-/0/1747292799806/swiggy_in_logo?e=2147483647&v=beta&t=oNoKyEO_OQfRdHA1w93B_KhstwFa7dPSPuZjFUL0KZE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401424553",
+    "title": "Associate - Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru North, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-frontend-developer-at-scoutit-4401424553?position=2&pageNum=27&refId=1UuB8Jas9oA6etdMM4mfbA%3D%3D&trackingId=FDKiL%2F6p1ZLAELUQjt%2BNOg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401441165",
+    "title": "Software Technologist I",
+    "company": "Philips",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-technologist-i-at-philips-4401441165?position=8&pageNum=30&refId=o68S2IXuqWJbNbfpHVq4aw%3D%3D&trackingId=ioeYRRqsSF8FlyOsGGMusQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFpB8fd3m9G0w/company-logo_100_100/company-logo_100_100/0/1737552865359/philips_logo?e=2147483647&v=beta&t=ofVCClHfl44rpskSlerFBlKtFP0YcncuUIJWOVhOttk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4399950693",
+    "title": "SENIOR, SOFTWARE ENGINEER",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-walmart-global-tech-india-4399950693?position=7&pageNum=55&refId=XTIePUoCCYnmyZs592ytkw%3D%3D&trackingId=a4pGFl%2BoZl8DR7A9ztaHWQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4402260405",
+    "title": "Java React Fullstack Developer",
+    "company": "Mphasis",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/java-react-fullstack-developer-at-mphasis-4402260405?position=5&pageNum=67&refId=iPsZB3eeqmHdgSBoGg2Pow%3D%3D&trackingId=%2BsNvvu5woI2Oh%2BVlDh26ag%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGA6s2gCDu-MA/company-logo_100_100/company-logo_100_100/0/1630508225160/mphasis_logo?e=2147483647&v=beta&t=LsW_dXdTeJM-FxhZdq4jZDl5nBl7udjHVknyNvqreJk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4402283267",
+    "title": "Software Engineer",
+    "company": "Fidelity Investments",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-fidelity-investments-4402283267?position=7&pageNum=80&refId=bo6s8L0ciTkSGV76qIwcMw%3D%3D&trackingId=H%2FPH6pEphnV1RoEnxku7lw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEuH501asNUIQ/company-logo_100_100/B4EZXtxo03G0AU-/0/1743450967859/fidelity_investments_logo?e=2147483647&v=beta&t=KyaswXYHURo34Y0GAgxyomTUHS2AT7gsD5nrw-IGG78",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4399937877",
+    "title": "SENIOR, SOFTWARE ENGINEER",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-walmart-global-tech-india-4399937877?position=3&pageNum=87&refId=JPoLcpGwci8SOzYluKlR6w%3D%3D&trackingId=BV5v%2Ffunid6DpYWDVKNPQw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4399954068",
+    "title": "Software Engineer (Routing)",
+    "company": "Arista Networks",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-routing-at-arista-networks-4399954068?position=5&pageNum=95&refId=dAY%2BRn1p2XtVJYOSEBxpQQ%3D%3D&trackingId=4D98QI%2FyVRIO4YTneHi%2BZg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGkAHWhvOGQbA/company-logo_100_100/company-logo_100_100/0/1631359666583?e=2147483647&v=beta&t=XeYwctubA9hp5FP3rPks0_AMYJYXB-5_9hGo80XvRQM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4402205000",
+    "title": "Software Engineer III - Python, Java, React",
+    "company": "JPMorganChase",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-python-java-react-at-jpmorganchase-4402205000?position=1&pageNum=97&refId=T9RHClZ7co2A%2BdUE6FCIqw%3D%3D&trackingId=Zu%2FmQ0MXVztlwrrgsAA8Tw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401423583",
+    "title": "Associate - Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-frontend-developer-at-scoutit-4401423583?position=9&pageNum=25&refId=bkNBlKOoh7%2FFTdxBwMH8iA%3D%3D&trackingId=ieRuv3CSgWFEhmNA5Ph8Uw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401435307",
+    "title": "Associate - Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-frontend-developer-at-scoutit-4401435307?position=2&pageNum=27&refId=Rs7nnlsYSTjFG4bAb2uvnw%3D%3D&trackingId=uhgoFYSa%2Fhj8hDhiI%2BbJGQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4399946803",
+    "title": "SENIOR, SOFTWARE ENGINEER",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-walmart-global-tech-india-4399946803?position=10&pageNum=65&refId=2nu55Akw1TxfG6smdGgZAA%3D%3D&trackingId=MfJ%2FudlgzQeyGX1mtdzrVQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401438304",
+    "title": "Associate - Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-frontend-developer-at-scoutit-4401438304?position=10&pageNum=12&refId=ED%2BvXbgJle6GYs7NBaCwlA%3D%3D&trackingId=cfmutxfGxMWwrBQtJcWyUQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401421644",
+    "title": "Associate - Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bangalore Rural, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-frontend-developer-at-scoutit-4401421644?position=5&pageNum=22&refId=uyH%2Bkqw0jqCIdm%2BJpg3YrA%3D%3D&trackingId=%2BqCmrD7k0PzpQRdQGrGsvA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4402225185",
+    "title": "Staff Software Engineer, Frontend/Web - Uber AI Solutions",
+    "company": "Uber",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-frontend-web-uber-ai-solutions-at-uber-4402225185?position=2&pageNum=25&refId=S3Km33CfPrkJ5Yp1cl6w2A%3D%3D&trackingId=oyWCc8jn%2BItXs6vTHTrsBA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401439146",
+    "title": "Associate - Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bangalore Urban district, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-frontend-developer-at-scoutit-4401439146?position=3&pageNum=27&refId=4s6gSUvjadOOahRpfHzLtQ%3D%3D&trackingId=VjPae1dehZh4L7hLQSyQsw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4399936783",
+    "title": "Web Developer",
+    "company": "Takeda",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-takeda-4399936783?position=4&pageNum=30&refId=fX4mij3mrGfDNA65WZ%2FRMw%3D%3D&trackingId=0XnLRkU5YxzJ96ZqQmWPAg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFDwEi2w0amXg/company-logo_100_100/B4EZhg8m1IGoAU-/0/1753973157573/takeda_pharmaceuticals_logo?e=2147483647&v=beta&t=cZOpYgVrjBQ3aJvJY02v-Ft1xjRiNxEuGjSoi3me8uc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4402266210",
+    "title": "Software Dev Engineer III",
+    "company": "Instamart",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-iii-at-instamart-4402266210?position=1&pageNum=82&refId=buh6csK%2BshXFnvIsGnDexA%3D%3D&trackingId=miQoom6OL72n26iOZyb3Fg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEWv0_SaPeOBg/company-logo_100_100/B4DZmUkOJGIYAQ-/0/1759134147806/swiggy_instamart_logo?e=2147483647&v=beta&t=IxC9tMXUHNk88ExLvvUjWjCzlS8yffeh32EPlclKQCY",
+    "lat": 0,
+    "lng": 0
   }
 ]
