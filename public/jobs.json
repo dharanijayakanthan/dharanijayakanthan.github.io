@@ -44,6 +44,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4401450870",
+    "title": "Senior Staff Software Engineer, Google One",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-15",
+    "link": "https://in.linkedin.com/jobs/view/senior-staff-software-engineer-google-one-at-google-4401450870?position=5&pageNum=90&refId=nabmutjA%2B6VjNdMf3hgNjA%3D%3D&trackingId=9w5h4zlOUHPFdKZ4TAiteA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4399584635",
     "title": "Software Engineer",
     "company": "Tenant Inc.",
@@ -3573,6 +3584,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGt5m5f34Ot1Q/company-logo_100_100/company-logo_100_100/0/1661544359336/srr_group_logo?e=2147483647&v=beta&t=FEVwQK4I4rui0HFz72CzFoqQ7V6MXalxpG9Am7wU3Mw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4390922384",
+    "title": "Software Development Engineer III",
+    "company": "Ericsson",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-27",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-iii-at-ericsson-4390922384?position=6&pageNum=92&refId=c1kKE0p5EFLzvyAoZMFtYQ%3D%3D&trackingId=YXHHUgi2Nel0KJLwgkgOzg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE4si5Pr9mLOw/company-logo_100_100/B4DZ1CtTDxJQAQ-/0/1774940664616/ericsson_logo?e=2147483647&v=beta&t=uBW6XCFjRamZlFTbuh_MMHTcRnaFOdv-RmIpLm7r080",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4390842005",
@@ -49620,5 +49642,75 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI",
     "lat": 12.9483819,
     "lng": 77.6892497
+  },
+  {
+    "id": "urn:li:jobPosting:4402340499",
+    "title": "Frontend Developer Intern ( Remote)",
+    "company": "AI Startup Impact",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-intern-remote-at-ai-startup-impact-4402340499?position=4&pageNum=42&refId=LZnjMSPVmMLfaa1KCw0tdQ%3D%3D&trackingId=f5P6DsIKAk6uUNg0Qg%2Ff3A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFnJmABHWZXmg/company-logo_100_100/B56ZzENyvjIkAU-/0/1772818476509/ai_startup_imapact_logo?e=2147483647&v=beta&t=sP2-Gqdri-LWO7c-iRCmFwOHDxwtCbaCIlc3kr6Kv6g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4403157767",
+    "title": "Software Engineer, Core Technology",
+    "company": "Stripe",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-core-technology-at-stripe-4403157767?position=2&pageNum=45&refId=zHzCCtWUOTfC5ikzyOwYKg%3D%3D&trackingId=1huHPaEgZbzNsOhyO6qkVA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE2ZfJyfn-VCg/company-logo_100_100/B56ZlyKwpUKIAQ-/0/1758557047806/stripe_logo?e=2147483647&v=beta&t=fRMcaMGPJNFUMq_l1f2zzyX4PaK3yg-MRicyUuY3qSI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4400483716",
+    "title": "Software Engineer",
+    "company": "Wabtec Corporation",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-wabtec-corporation-4400483716?position=6&pageNum=57&refId=brM%2B80emszVdmFnvNj7D7w%3D%3D&trackingId=siCc2qr9jZdpjFgmmWt0fQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE-BMGfbyTJnw/company-logo_100_100/company-logo_100_100/0/1719767483469/wabtec_corporation_logo?e=2147483647&v=beta&t=g0fQPttrsSs4dlkxaepmssaE1H-lpJCvtfpJ4qxoDsQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4403106282",
+    "title": "Software Engineer III - Java, React JS",
+    "company": "JPMorganChase",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-react-js-at-jpmorganchase-4403106282?position=10&pageNum=57&refId=brM%2B80emszVdmFnvNj7D7w%3D%3D&trackingId=mawvvR%2FFDjJTtw%2F8Y3A%2F%2Fw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4403175923",
+    "title": "Software Engineer I",
+    "company": "Mimecast",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-at-mimecast-4403175923?position=6&pageNum=95&refId=1EF%2Fqyb2GRY6D48w8wDNjw%3D%3D&trackingId=bHsVW8lEZu7%2FHVpENDa6JA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFkUqCYV-Em3g/company-logo_100_100/B56Z0.mNVwJsAQ-/0/1774871697359/mimecast_logo?e=2147483647&v=beta&t=nRwk-l5eKpKyDvpDlSi6AZexFosoIyAiUj5_WY4SCuU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4400425589",
+    "title": "Software Engineer III",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-walmart-global-tech-india-4400425589?position=8&pageNum=32&refId=JFQk5VAaE2tRBLxaCO93lg%3D%3D&trackingId=i1c%2FTJPnXDhL%2B2TLXd89KA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4403150826",
+    "title": "Software Engineer, Fee Insights",
+    "company": "Stripe",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-fee-insights-at-stripe-4403150826?position=1&pageNum=97&refId=Ts%2F9ZLQY8dersIEe9l9DEg%3D%3D&trackingId=jeleSqES71SQsWlnQkltpQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE2ZfJyfn-VCg/company-logo_100_100/B56ZlyKwpUKIAQ-/0/1758557047806/stripe_logo?e=2147483647&v=beta&t=fRMcaMGPJNFUMq_l1f2zzyX4PaK3yg-MRicyUuY3qSI",
+    "lat": 0,
+    "lng": 0
   }
 ]
