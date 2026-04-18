@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4403581237",
+    "title": "Frontend Engineer React Next Js Nestjs",
+    "company": "TALENTMATE",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-17",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-react-next-js-nestjs-at-talentmate-4403581237?position=6&pageNum=75&refId=Ymw9J5HVBQEHdj7PSdeQvA%3D%3D&trackingId=jq%2B%2FOuGRHQLRWGu1GfHCVw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG-8UDhIAH2KQ/company-logo_100_100/company-logo_100_100/0/1725607290186/talentmateglobal_logo?e=2147483647&v=beta&t=b4zIShiUy2aHby6bC64NYAf7jQFuB7uQJ4EgebH4PEA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4401833765",
     "title": "Software Engineer, Fullstack",
     "company": "ADA",
@@ -31,6 +42,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ",
     "lat": 12.9185763,
     "lng": 77.6707864
+  },
+  {
+    "id": "urn:li:jobPosting:4402959848",
+    "title": "Software Engineer",
+    "company": "NatWest Group",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-16",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-natwest-group-4402959848?position=7&pageNum=95&refId=xNA1jMwDCWZnPEKuq6xlgw%3D%3D&trackingId=h42dLNrnzpguUSg27ZBs1g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEA8k9x0NLXVw/company-logo_100_100/company-logo_100_100/0/1658409007559/natwest_group_logo?e=2147483647&v=beta&t=77U4pn7D2sdoWVtDxd-1OFNiFco375nnYIWapD6QRBA",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4402073624",
@@ -4838,6 +4860,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHA7wPV9k1E4w/company-logo_100_100/company-logo_100_100/0/1701687833222/abas_business_solutions_iberica_sl_logo?e=2147483647&v=beta&t=CyN3KDilrHTdz8bSVzFostjstc2sSxbBZ1DogzfxhDc",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4402761332",
+    "title": "Senior Frontend Engineer",
+    "company": "Ctruh",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-23",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-at-ctruh-4402761332?position=6&pageNum=97&refId=hS34ZBYaKzN%2FwxvHjRN7%2Fg%3D%3D&trackingId=tMIcAjMJa1RjGYzSy3aHMA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFQ7WTOEQ2afA/company-logo_100_100/B56ZolnFILKwAQ-/0/1761567595314/ctruh_logo?e=2147483647&v=beta&t=DP1fiZjSnZsZtzfzSE47WVrJx9Y-BcKcDNbdVaS8zWc",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4388757765",
@@ -50314,6 +50347,66 @@
     "location": "Bengaluru East, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/software-quality-engineer-at-scoutit-4402391547?position=3&pageNum=97&refId=%2BOxyW1NadwPt%2FXWk4C5lSQ%3D%3D&trackingId=I6QovGVfyGR3ZRksTfbznQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4403548470",
+    "title": "Software Engineer- UI Developer",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ui-developer-at-hewlett-packard-enterprise-4403548470?position=2&pageNum=10&refId=fST28M41zEYpOvWudwRa%2Bg%3D%3D&trackingId=ikrTPCiv0AY7u%2Bf801OVIw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG3eeRIFGMG9g/company-logo_100_100/B4EZdkxlEZH0AU-/0/1749742408362/hewlett_packard_enterprise_logo?e=2147483647&v=beta&t=ijFn20TK1upEkeiP1oWhqe152s87m6307NkiugLc8_E",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4403804013",
+    "title": "Front-End Software Engineer",
+    "company": "Doxel",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/front-end-software-engineer-at-doxel-4403804013?position=5&pageNum=27&refId=Jvx%2Fjy8YW3Y51g3JZxZShA%3D%3D&trackingId=W77mUGhYa15yTwHY%2FvpaFw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHoPKbZa5MoYA/company-logo_100_100/B56Zu4cbYkGwAU-/0/1768326018939/doxel_sr_autonomous_inc__logo?e=2147483647&v=beta&t=cI7uPJ6ACY79ENItfZ05mb5P9kZIMqIi1HEe2YrTw20",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4403549692",
+    "title": "Software Engineer I",
+    "company": "Rippling",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-at-rippling-4403549692?position=7&pageNum=55&refId=UWkruxweQNNR1VKURqa4aQ%3D%3D&trackingId=31Wr2%2BC22Zm9gavSIfmMYA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGVw6UsjqtXGw/company-logo_100_100/B4EZlN73QeHIAQ-/0/1757949162831/rippling_logo?e=2147483647&v=beta&t=_-PZ3E8XmdCyc89UhLvip3soyI97bY1FRM89cZYXEiQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4402726566",
+    "title": "Senior Software Engineer - Credit Karma",
+    "company": "Intuit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-credit-karma-at-intuit-4402726566?position=4&pageNum=87&refId=0JZ4ZrFiDDq4%2FFA4FNc5Pg%3D%3D&trackingId=bU4SKpl93Wc2abcGLcXNFw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFTpF8uneqScw/company-logo_100_100/company-logo_100_100/0/1661446146222/intuit_logo?e=2147483647&v=beta&t=5hsEsGdMVVpQSXz7yjJc2fshydqwaa7AOmiIPwuwgmA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4403454945",
+    "title": "Software Engineer",
+    "company": "Verint Germany, Austria, and Switzerland",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-verint-germany-austria-and-switzerland-4403454945?position=3&pageNum=90&refId=0p%2BzQ%2FcAma28oBJVMb4Cgw%3D%3D&trackingId=1bXNSegt6qyTj5YNzNs70Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFD72mOi2lvMg/company-logo_100_100/company-logo_100_100/0/1639737597632/m_pathy_logo?e=2147483647&v=beta&t=9XUlakUonHR0Xe9TtN1Tvjx60qE7sOqtA7qFAiJTp70",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4371888495",
+    "title": "Software Development Engineer, CAM",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-cam-at-amazon-4371888495?position=10&pageNum=95&refId=xNA1jMwDCWZnPEKuq6xlgw%3D%3D&trackingId=151tShc6wxelLPONFpa6mw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
     "lat": 0,
     "lng": 0
   }
