@@ -55,6 +55,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4403500084",
+    "title": "Software Engineer",
+    "company": "EarnIn",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-17",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-earnin-4403500084?position=4&pageNum=97&refId=KtXuCG7H7QIQ1BJfCKo94Q%3D%3D&trackingId=mICBzAFqcoi8sQnyD%2BXAVQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHQD88jYf-vPg/company-logo_100_100/company-logo_100_100/0/1674591755695/earnin_logo?e=2147483647&v=beta&t=2D1PV6HXsQWcKKqJd4-9qkZWyVaCbUIDZbM7ASMugQE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4400839194",
+    "title": "Software Engineer I",
+    "company": "7-Eleven Global Solution Center – India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-17",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-at-7-eleven-global-solution-center-%E2%80%93-india-4400839194?position=5&pageNum=97&refId=KtXuCG7H7QIQ1BJfCKo94Q%3D%3D&trackingId=%2B1%2BlaPQHyKL5j%2Fv9EfnPNw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEhKAsc0i9UgA/company-logo_100_100/company-logo_100_100/0/1719461284612/7_eleven_global_solution_center__india_logo?e=2147483647&v=beta&t=V2w6kkd3erig16KhHwBtw9Qd00H8UOeSYqeY_urX2-E",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4401833765",
     "title": "Software Engineer, Fullstack",
     "company": "ADA",
@@ -1518,6 +1540,17 @@
     "lng": 77.7285752
   },
   {
+    "id": "urn:li:jobPosting:4343479738",
+    "title": "Principal Software Engineer",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-08",
+    "link": "https://in.linkedin.com/jobs/view/principal-software-engineer-at-microsoft-4343479738?position=9&pageNum=97&refId=RyTNNg5Bf3Z4rw4gzoURFg%3D%3D&trackingId=27SR6i5lo%2BDnXevyq8ekZQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4394764444",
     "title": "Staff Software Engineer",
     "company": "Razorpay",
@@ -2275,6 +2308,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQG30MejU_UygQ/company-logo_100_100/B56ZlzFxy6I0AQ-/0/1758572519588/gehealthcare_logo?e=2147483647&v=beta&t=nY-wpTVABSqcsPg_WG65-jSQQsWCROwqEEKlxai4V6g",
     "lat": 12.9760519,
     "lng": 77.722082
+  },
+  {
+    "id": "urn:li:jobPosting:4398010894",
+    "title": "Software Engineer",
+    "company": "GE HealthCare",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-06",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-ge-healthcare-4398010894?position=10&pageNum=97&refId=RyTNNg5Bf3Z4rw4gzoURFg%3D%3D&trackingId=0k3OPSz44UFY08lRvWT01w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG30MejU_UygQ/company-logo_100_100/B56ZlzFxy6I0AQ-/0/1758572519588/gehealthcare_logo?e=2147483647&v=beta&t=nY-wpTVABSqcsPg_WG65-jSQQsWCROwqEEKlxai4V6g",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4383138348",
@@ -50699,5 +50743,55 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGZaEx4qwD7IA/company-logo_100_100/B56Z2GgtYDKwAQ-/0/1776078215755/joveo_ai_logo?e=2147483647&v=beta&t=Z_c1Wdt3sOnawDucHhWZoerE4Sgjz4CUC25PsdPubQg",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4403338983",
+    "title": "Software Dev Engineer II",
+    "company": "Swiggy",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-at-swiggy-4403338983?position=10&pageNum=25&refId=YrjtQN14F0dTFxFKiu1zfw%3D%3D&trackingId=ODsGx00%2B4AkAhyhKLIJkmQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFgJifoYusljQ/company-logo_100_100/B56ZbSxECTHgAU-/0/1747292799806/swiggy_in_logo?e=2147483647&v=beta&t=oNoKyEO_OQfRdHA1w93B_KhstwFa7dPSPuZjFUL0KZE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4402359291",
+    "title": "Software Engineer in Test- II",
+    "company": "Groww",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-in-test-ii-at-groww-4402359291?position=1&pageNum=72&refId=je6W7%2FFzoizSGoqPVTDTdA%3D%3D&trackingId=aeBU8Jze7vIxLgGwF4uIPQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE52I3UW6wFMg/company-logo_100_100/company-logo_100_100/0/1691578957554/growwin_logo?e=2147483647&v=beta&t=bWFVcE_R4SZfoO5FK6QRoNH_jSsapuaTpN6A7uch9F0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401605372",
+    "title": "Software UI / UX Design Engineer (Universal Robots, India)",
+    "company": "Universal Robots",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-ui-ux-design-engineer-universal-robots-india-at-universal-robots-4401605372?position=6&pageNum=87&refId=q3quVwUhcbaZrGFyjIrJvg%3D%3D&trackingId=pfwUlZ1WggubuJreRvLMbQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFXe_hOyJi7UA/company-logo_100_100/company-logo_100_100/0/1639573768381/universal_robots_a_s_logo?e=2147483647&v=beta&t=g9Nhv5EtJNZ8TWWGVYAl8rzpGiDO51nCxWHmVJvOxHM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4404049193",
+    "title": "Frontend Engineer (Level 1)",
+    "company": "Cognite",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-level-1-at-cognite-4404049193?position=7&pageNum=12&refId=dYbC2ZYv%2F%2B5dmoYbSwEWcg%3D%3D&trackingId=%2BqUxXyHvMo4VUPoDhOiCnA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHDYandmEOXMg/company-logo_100_100/B56Z0GG.K2IMAQ-/0/1773923985074/cognitedata_logo?e=2147483647&v=beta&t=2l7dG0ofuW3uzoraa1a1J-zBUqoxF0Ed3Xy8UgAbp3A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4404035486",
+    "title": "Senior Frontend Engineer [React]",
+    "company": "InCommon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-react-at-incommon-4404035486?position=3&pageNum=97&refId=RyTNNg5Bf3Z4rw4gzoURFg%3D%3D&trackingId=DcXSZfmgXbmVr8pakmU3FA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEMFFK2yVtWFg/company-logo_100_100/company-logo_100_100/0/1716288645557/incommonhq_logo?e=2147483647&v=beta&t=0WkqG_8PkZuocmHHYYYfdLIH72RNGmMrFlP0TiXYVh8",
+    "lat": 0,
+    "lng": 0
   }
 ]
