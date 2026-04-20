@@ -77,6 +77,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4392262987",
+    "title": "Web Developer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-17",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-accenture-in-india-4392262987?position=8&pageNum=37&refId=RBc1bxyo0TaES7ES1%2FFrqg%3D%3D&trackingId=ZdaEgbIRVKDpPUKT0%2BbwnA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4401833765",
     "title": "Software Engineer, Fullstack",
     "company": "ADA",
@@ -1043,6 +1054,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQH28JVpUxotOA/company-logo_100_100/B56Zfk7gc4GQAQ-/0/1751892495560/evnek_logo?e=2147483647&v=beta&t=gJNcYP77lXdoVVP-ankiLLgMSq-8akHkBN6Dz9QS7sg",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4398772971",
+    "title": "Software Engineer - Flink",
+    "company": "hackajob",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-12",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-flink-at-hackajob-4398772971?position=1&pageNum=25&refId=YePO76Dg0D7aZvxUECCAKg%3D%3D&trackingId=3YbGvDyjApIpJW8Ya4u5Dw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4399319398",
@@ -2321,6 +2343,17 @@
     "lng": 77.722082
   },
   {
+    "id": "urn:li:jobPosting:4398037608",
+    "title": "Full Stack Software Engineer - Python",
+    "company": "Rockwell Automation",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-06",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-software-engineer-python-at-rockwell-automation-4398037608?position=9&pageNum=97&refId=pgv9N6nKbCYDr9UNZOI%2BjA%3D%3D&trackingId=FdvjWPMfYblh8K0eTi15Qw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFRXUKwML_TTQ/company-logo_100_100/company-logo_100_100/0/1655148418582/rockwell_automation_logo?e=2147483647&v=beta&t=jwUtB-MX6EGs60EC4qJU_ZOeIYZRhgKYp8FhS6DvVRA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4383138348",
     "title": "Staff Software Engineer, YouTube OTT",
     "company": "Google",
@@ -2726,6 +2759,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHglJDVKqCfbw/company-logo_100_100/B56ZXN2cF_HQAQ-/0/1742915355480/6sense_logo?e=2147483647&v=beta&t=-ADJoPEyMDejcJOihKcN7hgHOmZkHQbtA4_UgdP5Gi8",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4382552938",
+    "title": "IT Software Engineer",
+    "company": "Palo Alto Networks",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-04-01",
+    "link": "https://in.linkedin.com/jobs/view/it-software-engineer-at-palo-alto-networks-4382552938?position=8&pageNum=82&refId=2fuMKAB3sc9mKZp52JDACw%3D%3D&trackingId=Tfp8sYu%2BUxHX3tSTGrYaVQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFZg72Sfni4SA/company-logo_100_100/company-logo_100_100/0/1657225156841/palo_alto_networks_logo?e=2147483647&v=beta&t=w5HNHNOQyVpcdvzfmUcHeJEtSJFrAouMjagBqwW3Itk",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4393952708",
@@ -50993,5 +51037,105 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGlX0cKdGRk-w/company-logo_100_100/company-logo_100_100/0/1725506319701?e=2147483647&v=beta&t=EfHoqyaVYveWMzdT_6PpJbGNGS1P4dUk3ZryqIQRhjc",
     "lat": 12.9223031,
     "lng": 77.6804666
+  },
+  {
+    "id": "urn:li:jobPosting:4401640409",
+    "title": "Frontend Engineer - JavaScript, React (Remote, Full-Time) [HR171]",
+    "company": "Smart Working",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-javascript-react-remote-full-time-hr171-at-smart-working-4401640409?position=2&pageNum=25&refId=qiLLn28ldlct%2BNPnbip5JQ%3D%3D&trackingId=UPFMdwXn%2BadZHxiRHq7%2BuQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHUxd8kYUsTaQ/company-logo_100_100/company-logo_100_100/0/1725018611800/smartworkingsolutions_logo?e=2147483647&v=beta&t=pMU3zeIFuRDS9xLbKRRKsWlJRsLNCi19iR_bn12AYxM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401656012",
+    "title": "Senior Software Engineer (UI Developer)",
+    "company": "Sabre",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-ui-developer-at-sabre-4401656012?position=4&pageNum=72&refId=oWLk%2BKh0XFRE8ou%2FX1ykkQ%3D%3D&trackingId=vhQZ2lYKIuuU6ra3LQN4hw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE5aWeWq32Bcg/company-logo_100_100/B56ZyyfXvWIsAQ-/0/1772521094603?e=2147483647&v=beta&t=6-dE2t5kxTeAs9FmTRdtxqMjWwaWfvvrcXfENqgaWYI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4404322562",
+    "title": "Staff Software Engineer (SDET)",
+    "company": "NetApp",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-sdet-at-netapp-4404322562?position=4&pageNum=87&refId=UjdAIYKMHb2u8xkBYwatCw%3D%3D&trackingId=10o%2BmplLx7BPIIOlp5GqFw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF9CVZrvp6uLw/company-logo_100_100/B4DZnjqBAhKsAQ-/0/1760461066775/netapp_logo?e=2147483647&v=beta&t=Ub-IPHRFUCeiIZAxOcKaDb0yRyP98M2f6-vKG-hybM4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401647561",
+    "title": "Frontend Developer",
+    "company": "The Alter Office",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-the-alter-office-4401647561?position=1&pageNum=95&refId=40Q6DxU%2FlfKRzu5S93ehqA%3D%3D&trackingId=LBR2flzHhd3tgynZTZp%2F6w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH42HXoIAZWdQ/company-logo_100_100/company-logo_100_100/0/1712558218291/thealteroffice_logo?e=2147483647&v=beta&t=8EmBzmnwhwflS-yU7yJBUtRdCRXmNo5Y40DRzms1Mhk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4404352861",
+    "title": "Software Engineer - Frontend Development",
+    "company": "Vidwath",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-frontend-development-at-vidwath-4404352861?position=5&pageNum=42&refId=Pvo6Tn7D1cj0jD7UEHbWkA%3D%3D&trackingId=JtDxXh3ttTOvYhZuu7KRRw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFpaByPFOThPQ/company-logo_100_100/B56Zj6f28gHcAQ-/0/1756549312704/vidwathsolutions_logo?e=2147483647&v=beta&t=naPp5OKya9ntsJ9ZOKSKBgUPcttguKmfja2SDdET9q0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4403616729",
+    "title": "Founding Frontend Engineer",
+    "company": "Fabric",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/founding-frontend-engineer-at-fabric-4403616729?position=7&pageNum=67&refId=QpBPkwnQv3H0EyzYC%2BbEaA%3D%3D&trackingId=kqaqY7trklUeWbb8Img1gQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHfW21TQphYbQ/company-logo_100_100/B56ZwiL5woJEAQ-/0/1770100072094/fabrichq_logo?e=2147483647&v=beta&t=zrJUTlrwOViWdNhOuYu9AUY_QmgnjTjessUzNHq9a0I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4404066630",
+    "title": "Test Software Engineer",
+    "company": "Friday Media Group",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/test-software-engineer-at-friday-media-group-4404066630?position=9&pageNum=90&refId=d0vTV7HM9qFN7yyy9m56fw%3D%3D&trackingId=gOzEKJ%2BMBcdq46w69o2bQA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF9yTc271ePIw/company-logo_100_100/company-logo_100_100/0/1630559372113/friday_media_group_logo?e=2147483647&v=beta&t=gO92HZ9AqWJZvDjUiaO24vc8AvodTNUmqaQVh9eIyJ0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401284797",
+    "title": "Software Development Engineer I",
+    "company": "Joveo Ai",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-i-at-joveo-ai-4401284797?position=4&pageNum=97&refId=UU%2Fil9apdl2eQORPSZ5Img%3D%3D&trackingId=9tXoSDY1TbVnntpDInQCXg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGZaEx4qwD7IA/company-logo_100_100/B56Z2GgtYDKwAQ-/0/1776078215755/joveo_ai_logo?e=2147483647&v=beta&t=Z_c1Wdt3sOnawDucHhWZoerE4Sgjz4CUC25PsdPubQg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401284763",
+    "title": "Software Development Engineer I",
+    "company": "Joveo Ai",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-i-at-joveo-ai-4401284763?position=5&pageNum=97&refId=UU%2Fil9apdl2eQORPSZ5Img%3D%3D&trackingId=T%2BNgJYvy4XKPHRytN%2BWgmA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGZaEx4qwD7IA/company-logo_100_100/B56Z2GgtYDKwAQ-/0/1776078215755/joveo_ai_logo?e=2147483647&v=beta&t=Z_c1Wdt3sOnawDucHhWZoerE4Sgjz4CUC25PsdPubQg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4403373859",
+    "title": "Software Engineer",
+    "company": "PineGap.ai",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-pinegap-ai-4403373859?position=8&pageNum=97&refId=N103aEz696BOLzgk9fToPA%3D%3D&trackingId=GAZts4nGaCbDQFsK5TcrtA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQErolBif39Nxg/company-logo_100_100/company-logo_100_100/0/1713706098061/pinegap_logo?e=2147483647&v=beta&t=jByKARHnOISD1HHdZrtHPNdyZJHH2DHeFDYNR-jyfIE",
+    "lat": 0,
+    "lng": 0
   }
 ]
