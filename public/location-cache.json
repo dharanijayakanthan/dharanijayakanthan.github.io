@@ -1994,5 +1994,9 @@
   "Palo Alto Networks, Bengaluru East, Karnataka, India": {
     "lat": 12.9800059,
     "lng": 77.6649627
+  },
+  "Sage, Bengaluru East, Karnataka, India": {
+    "lat": 0,
+    "lng": 0
   }
 }
