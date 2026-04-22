@@ -22,6 +22,61 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4404035812",
+    "title": "Front End Developer",
+    "company": "Vontier",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-20",
+    "link": "https://in.linkedin.com/jobs/view/front-end-developer-at-vontier-4404035812?position=7&pageNum=12&refId=%2F3RNOPgDz9k7VHmNOP0srA%3D%3D&trackingId=f9VFCuMckFagxfbA%2BCCLhA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQETMLUI1EeX5w/company-logo_100_100/B4EZoHTKoWIQAU-/0/1761059056515/vontier_logo?e=2147483647&v=beta&t=QCDLuFOcB6-ePkOPj_M0PeroRdExcn6g_eY6h2WRLlE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401607277",
+    "title": "Web Developer Intern",
+    "company": "Joveo AI",
+    "location": "Bangalore Urban, Karnataka, India",
+    "date": "2026-04-20",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-intern-at-joveo-ai-4401607277?position=3&pageNum=85&refId=uAfN4jfd9eZ3S%2F9BFFCxQA%3D%3D&trackingId=9JvKbdDSZvN2WPji%2B%2FmqAw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGZaEx4qwD7IA/company-logo_100_100/B56Z2GgtYDKwAQ-/0/1776078215755/joveo_ai_logo?e=2147483647&v=beta&t=Z_c1Wdt3sOnawDucHhWZoerE4Sgjz4CUC25PsdPubQg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4404061836",
+    "title": "Software QA Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-20",
+    "link": "https://in.linkedin.com/jobs/view/software-qa-engineer-at-cisco-4404061836?position=7&pageNum=85&refId=uAfN4jfd9eZ3S%2F9BFFCxQA%3D%3D&trackingId=W0R5S%2FEa4knLTWIisCn95Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4404055016",
+    "title": "Sr Software Engineer",
+    "company": "PayPal",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-20",
+    "link": "https://in.linkedin.com/jobs/view/sr-software-engineer-at-paypal-4404055016?position=6&pageNum=90&refId=XnsuL4IdLvui7lgkLYZCbQ%3D%3D&trackingId=zMCeqiJBcpY0P48JZ%2FDuSg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGlX0cKdGRk-w/company-logo_100_100/company-logo_100_100/0/1725506319701?e=2147483647&v=beta&t=EfHoqyaVYveWMzdT_6PpJbGNGS1P4dUk3ZryqIQRhjc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401610200",
+    "title": "Staff, Software Engineer",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-20",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-at-walmart-global-tech-india-4401610200?position=1&pageNum=97&refId=DmkNM4IuWQLbcOvYaBE6Bw%3D%3D&trackingId=bHGTgC9%2BJfroENdCk9s2%2FQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4404010632",
     "title": "Software Development Engineer JWO",
     "company": "TALENTMATE",
@@ -51913,5 +51968,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGRhsociEn4gQ/company-logo_100_100/company-logo_100_100/0/1631367875582?e=2147483647&v=beta&t=bk_i8KnJwZyUrbBXvWK0NMb6W3nPq64rupEGTrKvxYU",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4404809842",
+    "title": "Senior Software Engineer",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-microsoft-4404809842?position=5&pageNum=77&refId=0Fsdj3bVQ1sN%2B3RwyyNOTg%3D%3D&trackingId=VbxJhMlEjylUzOzv%2BgMEAg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401932022",
+    "title": "Software Development Engineer I",
+    "company": "Joveo AI",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-i-at-joveo-ai-4401932022?position=7&pageNum=97&refId=%2FaKh3dJ8ZtObv1nfnKn9gA%3D%3D&trackingId=SqmG%2BaouxvsiWDQSRPybjw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGZaEx4qwD7IA/company-logo_100_100/B56Z2GgtYDKwAQ-/0/1776078215755/joveo_ai_logo?e=2147483647&v=beta&t=Z_c1Wdt3sOnawDucHhWZoerE4Sgjz4CUC25PsdPubQg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4404205441",
+    "title": "JavaScript Software Developer - Remote Work",
+    "company": "BairesDev",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/javascript-software-developer-remote-work-at-bairesdev-4404205441?position=2&pageNum=10&refId=r7y%2BHHzs9cgwd6Xy6sMOWw%3D%3D&trackingId=PJ4I6izkJssxjEeruuqmsQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGNvQASzrdL_w/company-logo_100_100/company-logo_100_100/0/1687874736484/bairesdev_logo?e=2147483647&v=beta&t=O-1i-F9arEGwUjngSlvE7NWxL-mpYFwN_XZxHy0C03s",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4404935039",
+    "title": "Interesting Job Opportunity: F22 LABS - Frontend Engineer - Next.js Framework",
+    "company": "F22 Labs",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/interesting-job-opportunity-f22-labs-frontend-engineer-next-js-framework-at-f22-labs-4404935039?position=2&pageNum=72&refId=Zj9v54YXkxa4%2Bp7KZ2bMbg%3D%3D&trackingId=XU15vlkVkk3TzV83XIqJPg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGv8qA-yHADUA/img-crop_100/B56ZbH9SZDGkAQ-/0/1747111455185?e=2147483647&v=beta&t=NmNwu9G-DlwMdonN1oGMU6Ja8YMBHvBCaBQuaz3z_Tg",
+    "lat": 0,
+    "lng": 0
   }
 ]
