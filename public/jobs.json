@@ -11,6 +11,39 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4405310138",
+    "title": "Web Developer",
+    "company": "Shine.com",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-24",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-shine-com-4405310138?position=10&pageNum=37&refId=6Awe%2BOcTXdSZu7eO1fZZmg%3D%3D&trackingId=2c6jH%2F4Oa0ShDmCwwdU2Wg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFsOIih8CAKRw/company-logo_100_100/company-logo_100_100/0/1719814354460?e=2147483647&v=beta&t=p8D7XzVaG0CINbp953zWHD_wuDCiT0yES36SluU2m6k",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406149195",
+    "title": "Sr. Staff Software Engineer, Machine Learning",
+    "company": "LinkedIn",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-24",
+    "link": "https://in.linkedin.com/jobs/view/sr-staff-software-engineer-machine-learning-at-linkedin-4406149195?position=9&pageNum=77&refId=ClgFhr1fodZeyhIRNNg6SQ%3D%3D&trackingId=4xF7REE%2BgUz4tU5QiEIHew%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406152265",
+    "title": "Sr. Software Engineer, Python Automation",
+    "company": "Roku",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-24",
+    "link": "https://in.linkedin.com/jobs/view/sr-software-engineer-python-automation-at-roku-4406152265?position=9&pageNum=97&refId=IG3uASYSqoVyoj%2FgoObVMw%3D%3D&trackingId=mc5LApRmX8Dl59XgdnH0cA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwtnEFj0grWQ/company-logo_100_100/B56ZaxohrVH0AU-/0/1746736913380/roku_logo?e=2147483647&v=beta&t=rlz3iSQYwGeir-xgrxNGxQJ9v_dNYWJiqDBsqHkr7L8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4405862140",
     "title": "Software Engineer",
     "company": "Infinite Computer Solutions",
@@ -2275,6 +2308,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFJN5qXVxmIEw/company-logo_100_100/company-logo_100_100/0/1663681176949/tesco_technology_logo?e=2147483647&v=beta&t=xYJWJM2EZiX-0-NGZgWUx6gFsik8MXfFd0jmeopiSTc",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4398807665",
+    "title": "Software Engineer (Backend)",
+    "company": "Qoala",
+    "location": "Bangalore Urban, Karnataka, India",
+    "date": "2026-04-09",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-backend-at-qoala-4398807665?position=2&pageNum=97&refId=IG3uASYSqoVyoj%2FgoObVMw%3D%3D&trackingId=tDmd8WiSb0CLVLehiT%2FsCA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQH7GHJV6ySgaQ/company-logo_100_100/company-logo_100_100/0/1630661742455/qoala_logo?e=2147483647&v=beta&t=pz2KV3hUu85o5HtjBnn4miQflYGF23MCoAt7Fds5znM",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4398457891",
@@ -54434,5 +54478,85 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4404152816",
+    "title": "Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4404152816?position=4&pageNum=22&refId=qQ1n6%2F7Rwy4oCXOCPqlUwA%3D%3D&trackingId=usk0xR4n5sfUQiDbIXZk9g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406854749",
+    "title": "Fresher Software Engineer",
+    "company": "Joveo AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/fresher-software-engineer-at-joveo-ai-4406854749?position=7&pageNum=42&refId=7rgb0Rz%2FP8virKL%2Bv127OA%3D%3D&trackingId=s6wJi%2FQVpenj5Orw5iLz3g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGZaEx4qwD7IA/company-logo_100_100/B56Z2GgtYDKwAQ-/0/1776078215755/joveo_ai_logo?e=2147483647&v=beta&t=Z_c1Wdt3sOnawDucHhWZoerE4Sgjz4CUC25PsdPubQg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406871009",
+    "title": "Software Engineer 2",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-2-at-microsoft-4406871009?position=4&pageNum=67&refId=Q4WHAQJyoF3MMahv5xlezA%3D%3D&trackingId=GfzskbJvSkun1%2FKXhLo2AA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406838957",
+    "title": "JavaScript Developer (Remote)",
+    "company": "Joveo AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/javascript-developer-remote-at-joveo-ai-4406838957?position=4&pageNum=75&refId=w1Rp5hvg90lR3wwOp%2Bnu9g%3D%3D&trackingId=U9drd1pk%2B6du6zBxOBh2jw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGZaEx4qwD7IA/company-logo_100_100/B56Z2GgtYDKwAQ-/0/1776078215755/joveo_ai_logo?e=2147483647&v=beta&t=Z_c1Wdt3sOnawDucHhWZoerE4Sgjz4CUC25PsdPubQg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406843938",
+    "title": "Frontend Engineer (Remote)",
+    "company": "Joveo AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-remote-at-joveo-ai-4406843938?position=4&pageNum=42&refId=m4yrJC8opbF9lv1BacZNYA%3D%3D&trackingId=m5QaGsMORycr%2F9HajaWZ%2BA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGZaEx4qwD7IA/company-logo_100_100/B56Z2GgtYDKwAQ-/0/1776078215755/joveo_ai_logo?e=2147483647&v=beta&t=Z_c1Wdt3sOnawDucHhWZoerE4Sgjz4CUC25PsdPubQg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406852698",
+    "title": "Junior Software Engineer",
+    "company": "Joveo AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/junior-software-engineer-at-joveo-ai-4406852698?position=2&pageNum=60&refId=lZ06ZscijA2F2czahcjJ%2Bw%3D%3D&trackingId=BujE4Df2X%2BhcgYySiM9Jpg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGZaEx4qwD7IA/company-logo_100_100/B56Z2GgtYDKwAQ-/0/1776078215755/joveo_ai_logo?e=2147483647&v=beta&t=Z_c1Wdt3sOnawDucHhWZoerE4Sgjz4CUC25PsdPubQg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4404140998",
+    "title": "Senior Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-capgemini-4404140998?position=1&pageNum=70&refId=d%2FHuDIWGynBUop5SeEtZJQ%3D%3D&trackingId=R%2FsT7SQ3jDkK09hiBg1YVw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406840671",
+    "title": "Software Engineer",
+    "company": "Wells Fargo",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-wells-fargo-4406840671?position=7&pageNum=70&refId=d%2FHuDIWGynBUop5SeEtZJQ%3D%3D&trackingId=rPZCp5q9xw8rJTAbQ7NQcw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGLxWPpGqaVmw/company-logo_100_100/company-logo_100_100/0/1630471638964/wellsfargo_logo?e=2147483647&v=beta&t=D1e-PmlhlUZN0ekIYF0M9XadtGDukrr58ywiHYGlJ_Y",
+    "lat": 0,
+    "lng": 0
   }
 ]
