@@ -44,6 +44,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4405327962",
+    "title": "Front End Developer",
+    "company": "Fogwing® Operations Management Platform",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-24",
+    "link": "https://in.linkedin.com/jobs/view/front-end-developer-at-fogwing%C2%AE-operations-management-platform-4405327962?position=4&pageNum=10&refId=g0mD74nmFCzz4M5J%2FsP9Gg%3D%3D&trackingId=COeKl1meg1b2W9HU81AISg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHt2IrS1Baf3Q/company-logo_100_100/company-logo_100_100/0/1645518638933/fogwingcloud_logo?e=2147483647&v=beta&t=O_GQw9ExVGgLtAQ4-4fidi9JmsgVnZHliy-EnLV_hPo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406146250",
+    "title": "BlinkRx - Senior Software Engineer ( 0-0 yrs )",
+    "company": "ETCIO - Cloud Data Center",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-24",
+    "link": "https://in.linkedin.com/jobs/view/blinkrx-senior-software-engineer-0-0-yrs-at-etcio-cloud-data-center-4406146250?position=5&pageNum=95&refId=yX6nlYX2uVnUsJ%2Fu6ca3gA%3D%3D&trackingId=nG%2B1Sv48GhdcMEtcDvJ3EA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQF6o81OkrKWVA/company-logo_100_100/company-logo_100_100/0/1630651309984/et_cio_logo?e=2147483647&v=beta&t=YE7Cjo72saB4dOBsUrPWvtuhjRF74A50Uu7zTpzy2tE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4405862140",
     "title": "Software Engineer",
     "company": "Infinite Computer Solutions",
@@ -64,6 +86,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_100_100/company-logo_100_100/0/1677778128461/morgan_stanley_logo?e=2147483647&v=beta&t=f7aAdfTeMpLPSwCGS8zQ4DtuVYuEuN3OSYQ8ksHvOsI",
     "lat": 12.9377133,
     "lng": 77.6806194
+  },
+  {
+    "id": "urn:li:jobPosting:4404783684",
+    "title": "Engineer/Senior Engineer - Data ML Software Development",
+    "company": "Qualcomm",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-23",
+    "link": "https://in.linkedin.com/jobs/view/engineer-senior-engineer-data-ml-software-development-at-qualcomm-4404783684?position=4&pageNum=85&refId=QzoihmdZRdIYNmvq0Fkkxg%3D%3D&trackingId=baJP0LtacFPFGVoQ9iSsow%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFOe36gT9mXIQ/company-logo_100_100/company-logo_100_100/0/1709233599959/qualcomm_logo?e=2147483647&v=beta&t=iGqgBDuzGG9XMxMrP62LF-NaNkyTgXbw1_Xp_Sghqdk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4405895105",
+    "title": "Senior Software Engineer, Backend: Third-Party Loyalty",
+    "company": "Uber",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-23",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-backend-third-party-loyalty-at-uber-4405895105?position=10&pageNum=97&refId=ZZ7tBETG19LdHyuZN0TGLA%3D%3D&trackingId=gXRpN1b1C19AZAcPM9NDyQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4402465218",
@@ -4937,6 +4981,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4390928108",
+    "title": "Senior Software Engineer",
+    "company": "Chargebee",
+    "location": "Bangalore Urban, Karnataka, India",
+    "date": "2026-03-27",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-chargebee-4390928108?position=2&pageNum=97&refId=g%2FMjVTxzbqxOi1Mt2f51Zw%3D%3D&trackingId=8XnxHKFY2iNK%2BrgG3Vsh8A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFXxcdJAHLTAw/company-logo_100_100/company-logo_100_100/0/1686828247179/chargebee_logo?e=2147483647&v=beta&t=JNxZMo6820vdledsPtaG5SNJNdvzOjsXfTL0oa89Kto",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4390842005",
@@ -26015,6 +26070,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQH8p15unSQuNg/company-logo_100_100/company-logo_100_100/0/1726488435665/sourcingxpress_logo?e=2147483647&v=beta&t=iFtAwYhOzhMZtNarkze-r6fDB-RFk6LFqh98zidvhgo",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4334815681",
+    "title": "Senior Frontend Developer",
+    "company": "SourcingXPress",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-11-10",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-developer-at-sourcingxpress-4334815681?position=3&pageNum=97&refId=g%2FMjVTxzbqxOi1Mt2f51Zw%3D%3D&trackingId=y%2BPoYPw80anDuSXKLAa1uw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH8p15unSQuNg/company-logo_100_100/company-logo_100_100/0/1726488435665/sourcingxpress_logo?e=2147483647&v=beta&t=iFtAwYhOzhMZtNarkze-r6fDB-RFk6LFqh98zidvhgo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4338151858",
@@ -54558,5 +54624,75 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGLxWPpGqaVmw/company-logo_100_100/company-logo_100_100/0/1630471638964/wellsfargo_logo?e=2147483647&v=beta&t=D1e-PmlhlUZN0ekIYF0M9XadtGDukrr58ywiHYGlJ_Y",
     "lat": 12.9331456,
     "lng": 77.6903598
+  },
+  {
+    "id": "urn:li:jobPosting:4406876136",
+    "title": "Software Development Engineer",
+    "company": "Yellow.ai",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-at-yellow-ai-4406876136?position=2&pageNum=30&refId=VUdJHna42fTM37Nw1JDc6Q%3D%3D&trackingId=4yOZTNAX67R9wQsnCrdEEQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG2ZQfhH46cmw/company-logo_100_100/company-logo_100_100/0/1682433539825/yellowdotai_logo?e=2147483647&v=beta&t=l7ku9cpX9ZYD2LcN6_UFl2hYH6QZe1rH1Qs16BSUx_A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406861665",
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-netapp-4406861665?position=6&pageNum=30&refId=VUdJHna42fTM37Nw1JDc6Q%3D%3D&trackingId=1ohoOKTZNlA92yU3VAssiQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHBBBHJ60EHpQ/company-logo_100_100/B4EZ2x0ZwfJ0AQ-/0/1776804798059/netapp_logo?e=2147483647&v=beta&t=npLtq7DSM81VB_rppmxI4M5hEbEfmslWCkCOYG7Fy8c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406860127",
+    "title": "Software Engineer (Remote)",
+    "company": "Joveo AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-remote-at-joveo-ai-4406860127?position=9&pageNum=70&refId=T5B6OpwOaVcC1kHavMhPug%3D%3D&trackingId=Cp3CbqScqPMP6PPR3Cdh8w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGZaEx4qwD7IA/company-logo_100_100/B56Z2GgtYDKwAQ-/0/1776078215755/joveo_ai_logo?e=2147483647&v=beta&t=Z_c1Wdt3sOnawDucHhWZoerE4Sgjz4CUC25PsdPubQg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406862284",
+    "title": "Graduate Software Engineer",
+    "company": "Joveo AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/graduate-software-engineer-at-joveo-ai-4406862284?position=4&pageNum=82&refId=otFFc4yFqQAwwUEjIlnt1g%3D%3D&trackingId=73UZmLPIfQJ3wWvPkz4ZJA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGZaEx4qwD7IA/company-logo_100_100/B56Z2GgtYDKwAQ-/0/1776078215755/joveo_ai_logo?e=2147483647&v=beta&t=Z_c1Wdt3sOnawDucHhWZoerE4Sgjz4CUC25PsdPubQg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4404154720",
+    "title": "Software Development Engineer I",
+    "company": "Joveo AI",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-i-at-joveo-ai-4404154720?position=4&pageNum=95&refId=yX6nlYX2uVnUsJ%2Fu6ca3gA%3D%3D&trackingId=3T%2BDgk5krFN%2BnOVpR5pCsw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGZaEx4qwD7IA/company-logo_100_100/B56Z2GgtYDKwAQ-/0/1776078215755/joveo_ai_logo?e=2147483647&v=beta&t=Z_c1Wdt3sOnawDucHhWZoerE4Sgjz4CUC25PsdPubQg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406858289",
+    "title": "Frontend Engineer",
+    "company": "Binocs.co",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-at-binocs-co-4406858289?position=3&pageNum=5&refId=BglhekK9tJeP%2Fl8fp6aM6Q%3D%3D&trackingId=7P5pCyuUmVPZQ8QXFx5I0g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFf0H_EWdFxUg/company-logo_100_100/B56Zh5T0TuHMAQ-/0/1754381895337/binocs_co_logo?e=2147483647&v=beta&t=t4ReDM6vLo50M78MD6oNFE5kSN3bWzKlsdzU3uyAfAA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406864216",
+    "title": "Frontend Engineer",
+    "company": "Emergent",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-at-emergent-4406864216?position=7&pageNum=15&refId=3MJQ3WC5sKttrUAysw89xg%3D%3D&trackingId=VzqgFK6glXiNWD2CYKt6VQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGDxavK__rQ_w/company-logo_100_100/B4DZZta760HIAU-/0/1745592500385/emergentlabs_logo?e=2147483647&v=beta&t=UpIEkeNMf3xRVGvtmNKV58TMPPL_L0kJXMU51XwzDrM",
+    "lat": 0,
+    "lng": 0
   }
 ]
