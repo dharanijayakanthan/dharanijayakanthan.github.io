@@ -132,6 +132,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4403258998",
+    "title": "Software Test Engineer",
+    "company": "UST",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-24",
+    "link": "https://in.linkedin.com/jobs/view/software-test-engineer-at-ust-4403258998?position=2&pageNum=97&refId=AQKYnmJpv157A2VYGDo8uA%3D%3D&trackingId=gCyICspXaURX2gJHutt48Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEr-ib3Nn15Aw/company-logo_100_100/company-logo_100_100/0/1648787427825/ustglobal_logo?e=2147483647&v=beta&t=Mat5nuskL90W74qGXwwpHLg2mXn8Mfwf1z8oLxbk--c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4405862140",
     "title": "Software Engineer",
     "company": "Infinite Computer Solutions",
@@ -3188,6 +3199,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGvWrbRGuYPiA/company-logo_100_100/company-logo_100_100/0/1719258076092/infinite_computer_solutions_logo?e=2147483647&v=beta&t=6mbIprl1PpMg4qSWtJJM63KMITI9z5nzMqycKNwBJK4",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4395418436",
+    "title": "Software Engineer",
+    "company": "Accenture",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-07",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-accenture-4395418436?position=8&pageNum=97&refId=AQKYnmJpv157A2VYGDo8uA%3D%3D&trackingId=oUrZCBgqQ%2FER%2BroIx9yU7w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEgtOEcxlXMog/company-logo_100_100/B4DZfqEQWkHAAY-/0/1751978673981/accenture_logo?e=2147483647&v=beta&t=tLvhurHHfk50VA6sIbfiOh129B747uf610Drl6yG4t8",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4397751440",
@@ -20663,6 +20685,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE5VUS4aKzIjw/company-logo_100_100/company-logo_100_100/0/1707335788746/wayfair_logo?e=2147483647&v=beta&t=a4Yc_3etDpvzYYPZlz7RKAsnryw37x8G9vVJhQ7V024",
     "lat": 12.9873478,
     "lng": 77.7035469
+  },
+  {
+    "id": "urn:li:jobPosting:4368771670",
+    "title": "Software Engineer",
+    "company": "42Gears",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-04",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-42gears-4368771670?position=3&pageNum=97&refId=AQKYnmJpv157A2VYGDo8uA%3D%3D&trackingId=Z7hOEiypEVPLIDbde%2FfauA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEWLZFIiB-XYQ/company-logo_100_100/company-logo_100_100/0/1686053070211/42gears_logo?e=2147483647&v=beta&t=hVpuewHRh_DQlboLafACoh2awqO3NA4Nxh0cL-vevsw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4335131317",
@@ -54915,5 +54948,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFvob5tgwvezA/company-logo_100_100/B56ZqwoCmSHYAQ-/0/1763899878616/zzazz_logo?e=2147483647&v=beta&t=CRbRLaI9W3SNV5uu3qMhTFYPXNexE2NuG1WFYOd8Ms0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4404640421",
+    "title": "Software Engineer",
+    "company": "Optimo Capital",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-optimo-capital-4404640421?position=9&pageNum=62&refId=lFr1J5p2BUyHcFKiz1%2FDmg%3D%3D&trackingId=807Hv0xkV6Hp1khnQncdYw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEBEIXimKngzw/company-logo_100_100/B56ZX2EqzEGQAU-/0/1743590174468/optimocapital_logo?e=2147483647&v=beta&t=_HBFtuobp4swP2Mt0DseLscux9DJKYXomYv5BA7mlgQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4407116894",
+    "title": "Senior React Developer",
+    "company": "Impact Analytics",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-react-developer-at-impact-analytics-4407116894?position=3&pageNum=90&refId=W2vhwN4M5IAgH5FIMHfpIA%3D%3D&trackingId=c4XheOkaNmYiSQ9%2B4L8e0Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHotv0iUrH7UA/company-logo_100_100/B56ZoQcMjZI4AU-/0/1761212418788/impactanalytics_logo?e=2147483647&v=beta&t=A65Mc7Wz9BUcI8uLU29JTuKieQvLpZXQoqc2YsROEw0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4407148032",
+    "title": "Frontend Engineer (Remote)",
+    "company": "Joblet-AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-remote-at-joblet-ai-4407148032?position=5&pageNum=42&refId=AY08KpNWvXICjRRLrawy5g%3D%3D&trackingId=spEEwFwBZL634Cl%2FbYjARA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQERA_lImGq6Pg/company-logo_100_100/B56Z13MdyVKkAQ-/0/1775821250353/joblet_ai_logo?e=2147483647&v=beta&t=PlQU3D9P8-_G7RYrg9RPJggT38P_VbhUS_wX57p3wqI",
+    "lat": 0,
+    "lng": 0
   }
 ]
