@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4408031473",
+    "title": "Software Engineer",
+    "company": "Infinite Computer Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-28",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-infinite-computer-solutions-4408031473?position=7&pageNum=52&refId=O4L6Lye3pM947xbARiOH0Q%3D%3D&trackingId=I%2BzHsTi5C4%2Fw%2B1upGQAI3w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGvWrbRGuYPiA/company-logo_100_100/company-logo_100_100/0/1719258076092/infinite_computer_solutions_logo?e=2147483647&v=beta&t=6mbIprl1PpMg4qSWtJJM63KMITI9z5nzMqycKNwBJK4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4405167012",
     "title": "Software Engineer II",
     "company": "Wayfair",
@@ -56092,5 +56103,65 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE16mVVJFncgw/company-logo_100_100/company-logo_100_100/0/1695398528446?e=2147483647&v=beta&t=rUgh1QL89-0G-XuNJq5U8Hki0V8RFPCheOyDS4WBwJc",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4406907295",
+    "title": "Software Development Engineer 2",
+    "company": "IQVIA",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-2-at-iqvia-4406907295?position=3&pageNum=95&refId=aJk3%2FNz8l4PtF07Uru1ngw%3D%3D&trackingId=wEdKbu7saRGTltfeKf9sjQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFW8oSPns4-Cw/company-logo_100_100/company-logo_100_100/0/1678802429367/iqvia_logo?e=2147483647&v=beta&t=QOXo3llXq86V8X_W17HYn3FC5VtElAP1K_rAxCkyhIs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406567429",
+    "title": "Senior Software Engineer, Frontend",
+    "company": "Docusign",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-at-docusign-4406567429?position=2&pageNum=35&refId=kR5BNWYnty4QxTpTsjXVGA%3D%3D&trackingId=EmE4EYpHhAhZ397ay77fqA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFJh4R0ibULEg/company-logo_100_100/company-logo_100_100/0/1712837162469/docusign_logo?e=2147483647&v=beta&t=Y-f3Qq3iOXvWBwbXRkBZlDyiYso6ADqLFZ_f5hsk1i8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4408044763",
+    "title": "Senior Software Engineer - Mobile Web",
+    "company": "Uber",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-mobile-web-at-uber-4408044763?position=6&pageNum=37&refId=mLRSXaiC8Y1JEmuCfo6gUQ%3D%3D&trackingId=jI1orqCGfXr9%2BARTTNpolg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4405568328",
+    "title": "Web Developer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-accenture-in-india-4405568328?position=2&pageNum=55&refId=SWudw%2BpcGtzy0UAo8cc9TA%3D%3D&trackingId=UdhlZu%2FXJl6AF5j%2B%2BUAVgw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4405530182",
+    "title": "Software Engineer III",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-walmart-global-tech-india-4405530182?position=2&pageNum=57&refId=Ul%2BHHkNyqQ64fZmNAEgg9A%3D%3D&trackingId=diKqN2wE%2BjV2S3No5bdj%2BQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4405554388",
+    "title": "Senior Software Engineer",
+    "company": "eBay",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-ebay-4405554388?position=5&pageNum=97&refId=tM90RSThq2HliYeEf83grw%3D%3D&trackingId=Ri8fKpKHjtMu1Q2xVhYc%2FA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFfGj-Xuawo6A/company-logo_100_100/company-logo_100_100/0/1634568184469/ebay_logo?e=2147483647&v=beta&t=BEp-EQMNBexZVYGMcq6jeof_bX8QzuCCq4BEG6UCRdM",
+    "lat": 0,
+    "lng": 0
   }
 ]
