@@ -264,6 +264,17 @@
     "lng": 77.722082
   },
   {
+    "id": "urn:li:jobPosting:4408035437",
+    "title": "Senior Software Engineer",
+    "company": "Infinite Computer Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-28",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-infinite-computer-solutions-4408035437?position=8&pageNum=27&refId=ZDMS9e3fm8KCcEbkuqjWEw%3D%3D&trackingId=PAMw5uLlSlPNtJJgUmwAiw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGvWrbRGuYPiA/company-logo_100_100/company-logo_100_100/0/1719258076092/infinite_computer_solutions_logo?e=2147483647&v=beta&t=6mbIprl1PpMg4qSWtJJM63KMITI9z5nzMqycKNwBJK4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4405167012",
     "title": "Software Engineer II",
     "company": "Wayfair",
@@ -1318,6 +1329,61 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4401873359",
+    "title": "Software Engineer III - Java",
+    "company": "hackajob",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-20",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-at-hackajob-4401873359?position=1&pageNum=15&refId=ySrJWmHJ2cXKCHrgr1tu3w%3D%3D&trackingId=DehxDSC2tgt9jUxPUA9S3g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401883127",
+    "title": "Software Engineer III - Java Fullstack",
+    "company": "hackajob",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-20",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-fullstack-at-hackajob-4401883127?position=7&pageNum=67&refId=gLGFi8r37YVfETU9F7dWQg%3D%3D&trackingId=9XGw4DxqJ%2F%2F7p7kXv1LNDQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4402145140",
+    "title": "Software Engineer III - Java Fullstack",
+    "company": "hackajob",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-20",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-fullstack-at-hackajob-4402145140?position=3&pageNum=25&refId=iqXZFRuMxsUZy9yXcU4aWQ%3D%3D&trackingId=b2LmXLM3AuaNQGALvaClsQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401880210",
+    "title": "Software Engineer II - Java",
+    "company": "hackajob",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-20",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-java-at-hackajob-4401880210?position=7&pageNum=27&refId=ABMRwD6vKIPifiZ9AxHi%2Bw%3D%3D&trackingId=QXVvleFE96RwwsQwtVbAxA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4401863523",
+    "title": "Software Engineer III - Java Fullstack",
+    "company": "hackajob",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-20",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-fullstack-at-hackajob-4401863523?position=6&pageNum=72&refId=idDwLRUFP8bh8%2FxEtoEsiA%3D%3D&trackingId=I9vmCba00PeauQrC6DAG1A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4404010632",
@@ -56948,5 +57014,95 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHxizgos6gQaA/company-logo_100_100/company-logo_100_100/0/1661839299050/netconnectpvtltd_logo?e=2147483647&v=beta&t=q7mkWcKHs13njCq4kbtXHOd4P688p0fwsYOR8YZxcRA",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4408798147",
+    "title": "React JS Developer (Intern)",
+    "company": "ThiDiff Technologies",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-js-developer-intern-at-thidiff-technologies-4408798147?position=7&pageNum=15&refId=ySrJWmHJ2cXKCHrgr1tu3w%3D%3D&trackingId=qgBG3Ki0cwNBF%2B7QNC%2F%2FQQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG0rpW10rOE8g/company-logo_100_100/company-logo_100_100/0/1632240319834/thidiff_technologies_logo?e=2147483647&v=beta&t=sjeQ03Nmu0Kg9K9elR9cy9XZYLj6vT-GqMi8DlgOjPo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4407384117",
+    "title": "Software Development Engineer in Test",
+    "company": "Swiggy",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-in-test-at-swiggy-4407384117?position=3&pageNum=12&refId=UpTW5SoV7atvsCUMeBIMvA%3D%3D&trackingId=8Wj1iEvqnnXK%2BCYr83oiOw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFgJifoYusljQ/company-logo_100_100/B56ZbSxECTHgAU-/0/1747292799806/swiggy_in_logo?e=2147483647&v=beta&t=oNoKyEO_OQfRdHA1w93B_KhstwFa7dPSPuZjFUL0KZE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4407397015",
+    "title": "Junior Web Developer",
+    "company": "Brandshark",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/junior-web-developer-at-brandshark-4407397015?position=7&pageNum=55&refId=seGW9fK7Y9582W%2FRHLscjw%3D%3D&trackingId=0cTjxlJRH18yM%2F%2BU4ceb1Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHWPEGxCtqEJg/company-logo_100_100/company-logo_100_100/0/1677047116895/designbrandshark_logo?e=2147483647&v=beta&t=4h3zB64V8DdmRTeddWqXk-k5ThfE4JcMKA0EgecGU28",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4408777007",
+    "title": "Software Engineer",
+    "company": "Visa",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-visa-4408777007?position=5&pageNum=65&refId=Pp2dl61S85Rcx9dD%2FOqjaA%3D%3D&trackingId=9ZDaIPRRbu57hijrShJIdA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHAxoD4chKrgg/company-logo_100_100/B4EZfR2e4JHcAk-/0/1751572410148/visa_logo?e=2147483647&v=beta&t=mZYikLJ1nOM9RYXsRYavU2c7xuzCKWDqH8Q0UzAGrhw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406449717",
+    "title": "(IND)SENIOR, SOFTWARE ENGINEER",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ind-senior-software-engineer-at-walmart-global-tech-india-4406449717?position=9&pageNum=32&refId=6l%2FJHeMXHQZh2JXt%2BkCvtw%3D%3D&trackingId=27WSGWPE%2B%2BLSt%2FuxCvZIWg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406456529",
+    "title": "Software Engineer III",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-walmart-global-tech-india-4406456529?position=2&pageNum=35&refId=HzMik4tSSZk1c3cpe9FPzA%3D%3D&trackingId=WqZODMLiDEb5rQ%2FEr%2FCjqQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4408768624",
+    "title": "Software Engineer",
+    "company": "Visa",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-visa-4408768624?position=7&pageNum=35&refId=HzMik4tSSZk1c3cpe9FPzA%3D%3D&trackingId=hjgY%2BgrW38P2IrDRwA7G%2Fg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHAxoD4chKrgg/company-logo_100_100/B4EZfR2e4JHcAk-/0/1751572410148/visa_logo?e=2147483647&v=beta&t=mZYikLJ1nOM9RYXsRYavU2c7xuzCKWDqH8Q0UzAGrhw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4406093247",
+    "title": "SENIOR, SOFTWARE ENGINEER",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-walmart-global-tech-india-4406093247?position=5&pageNum=87&refId=jaLqXmQoCm312ow2YcpCog%3D%3D&trackingId=ghzowuDcHEg40YGHD%2Fh2yA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4407367066",
+    "title": "Frontend Developer",
+    "company": "Runable",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-runable-4407367066?position=5&pageNum=22&refId=LKf9f%2B%2F1YR7UISFG69c00w%3D%3D&trackingId=LRPFEDiP7kuP6xdXdJdSVg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHNgXPM_zRtug/company-logo_100_100/B56ZenVIewGQAU-/0/1750859024892/runablehq_logo?e=2147483647&v=beta&t=CPRVr4HVC4Q2wZF7ieR4s6Aqu7ekCe4q0l_8xq_Wqu8",
+    "lat": 0,
+    "lng": 0
   }
 ]
