@@ -58261,5 +58261,55 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHq33akTF76eA/company-logo_100_100/company-logo_100_100/0/1679061166847/hm_logo?e=2147483647&v=beta&t=EJEWNoFmNEh77Ma_WEkty8xBK6yX37uTMl7HVNRiP0U",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4407720467",
+    "title": "Software Engineer",
+    "company": "Virtusa",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-virtusa-4407720467?position=10&pageNum=40&refId=hjop6CjiHPRjmgrEkNxeCA%3D%3D&trackingId=gZVwharMtjyrqVRzos8OqQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE1wyZ0gd_P_w/company-logo_100_100/B4DZmf03PuJMAY-/0/1759323061531/virtusa_logo?e=2147483647&v=beta&t=BX2oukfWW-ynMINuDRbCIlfgg5xRn0BoZf9Mk-TS1t4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4409869429",
+    "title": "Frontend Developer (Remote)",
+    "company": "Jobs Ai",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-remote-at-jobs-ai-4409869429?position=9&pageNum=42&refId=OVvVHxgN92EVNlLTS%2BideA%3D%3D&trackingId=l5rL%2FQzW9U1hq8J4SiJTNA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEeXjvtRvoV1w/company-logo_100_100/B56Z0gEWqLKsAQ-/0/1774359506020/hirewaveee_logo?e=2147483647&v=beta&t=h9FRktpODAn1lM_i1WFg-7qGZvBSGx0fjxH-6dYbkPY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4409865628",
+    "title": "Junior Software Engineer (Remote)",
+    "company": "Jobs Ai",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/junior-software-engineer-remote-at-jobs-ai-4409865628?position=9&pageNum=57&refId=fUHQ83XSPgd4dEaixuVr8w%3D%3D&trackingId=zy1D5hQ0iR9bzckdi6j5NA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEeXjvtRvoV1w/company-logo_100_100/B56Z0gEWqLKsAQ-/0/1774359506020/hirewaveee_logo?e=2147483647&v=beta&t=h9FRktpODAn1lM_i1WFg-7qGZvBSGx0fjxH-6dYbkPY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4408379538",
+    "title": "Senior Software Engineer – Frontend",
+    "company": "Coreshield Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-frontend-at-coreshield-technologies-4408379538?position=7&pageNum=90&refId=2HQV6QbHSaZAL2HiuKexrw%3D%3D&trackingId=tVB1OGFe8ReDr1eK0l2QPA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGrLR2GrfkHUQ/company-logo_100_100/B4DZYebJ6lHwAQ-/0/1744267157905/coreshield_technology_logo?e=2147483647&v=beta&t=gprrNofhHdh5qvcj7DCtURKS0_7Tb2Fbz3yF43TJyT4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4407719463",
+    "title": "Software Engineer",
+    "company": "Virtusa",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-virtusa-4407719463?position=2&pageNum=47&refId=nlnSjC6qqss1jVHVe8D09Q%3D%3D&trackingId=xjrsdtM0S2Lgi0sFkxj8ZA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE1wyZ0gd_P_w/company-logo_100_100/B4DZmf03PuJMAY-/0/1759323061531/virtusa_logo?e=2147483647&v=beta&t=BX2oukfWW-ynMINuDRbCIlfgg5xRn0BoZf9Mk-TS1t4",
+    "lat": 0,
+    "lng": 0
   }
 ]
