@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4410473554",
+    "title": "Software Engineer",
+    "company": "GoComet",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-07",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-gocomet-4410473554?position=5&pageNum=95&refId=aGggk2AuuarRb6BbvygyPA%3D%3D&trackingId=7%2FLFvU8YHPTwtcxfXM%2BiwA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGu9NL0AbamJA/company-logo_100_100/company-logo_100_100/0/1688447565209/go_comet_logo?e=2147483647&v=beta&t=ZInO2Op6kgfLyHt05a8b5vk2U5LrXnbmzW3c73hafVI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4410910449",
     "title": "Software Development Engineer, Amazon Core Search",
     "company": "Amazon",
@@ -834,6 +845,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFcxM2DLNAOhQ/company-logo_100_100/company-logo_100_100/0/1631326687237?e=2147483647&v=beta&t=CA77BPjeyUKY3a9oPVOdtTI20DqPEmXYn27pQ7tP7BI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4395438183",
+    "title": "Front-end Developer",
+    "company": "CLO Virtual Fashion",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-29",
+    "link": "https://in.linkedin.com/jobs/view/front-end-developer-at-clo-virtual-fashion-4395438183?position=6&pageNum=22&refId=Gh42KQqa68cZemKm7ZX4Zg%3D%3D&trackingId=W5gV%2Bh8L5KxvlYacBkbZyA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEx4SfiQvXB1w/company-logo_100_100/company-logo_100_100/0/1630522834062/clo_virtual_fashion_inc__logo?e=2147483647&v=beta&t=nsSpqLXyPxiBrt4HNykNxwaYoVJZKPWGaC_DGjfe310",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4408031473",
@@ -1868,6 +1890,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMdgkjmsLgLw/company-logo_100_100/B56ZoVGk2tHIAQ-/0/1761290641122/tech_mahindra_logo?e=2147483647&v=beta&t=NyDt8yKh3yp62bGvdXdf-GKmWkqBx1-Twa5zCqCXecU",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4402824281",
+    "title": "Software Engineer",
+    "company": "Nokia",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-22",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-nokia-4402824281?position=2&pageNum=97&refId=RVJhv8GuoKRF9fcjOsggjA%3D%3D&trackingId=ob1fj2EQ4e4koHEQio2VWg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE_ff-lEcAC5w/company-logo_100_100/B4EZqby_U_HgAQ-/0/1763550426950/nokia_logo?e=2147483647&v=beta&t=qxtoTn57D4TyVa7Or6EcSCx-lBK1o3cVYD71ukfu5Q0",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4404926375",
@@ -61488,5 +61521,95 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFExrh__n07qg/company-logo_100_100/company-logo_100_100/0/1728533375851/bceglobaltech_logo?e=2147483647&v=beta&t=zkDleb8hfT1F28GUvQPeY800KMGlUIfPzTlUjMXp7Is",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4409685839",
+    "title": "Software Engineer III",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-walmart-global-tech-india-4409685839?position=7&pageNum=37&refId=Cd8W9VoRNsTYMVNtFTE%2BoA%3D%3D&trackingId=p2oGAHPd0etA60A5ptHXGw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4412127609",
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-netapp-4412127609?position=2&pageNum=52&refId=x2z6C5DJr6raCpGqWunBfw%3D%3D&trackingId=DUckzzEYzNACfA%2BRwef%2F4A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHBBBHJ60EHpQ/company-logo_100_100/B4EZ2x0ZwfJ0AQ-/0/1776804798059/netapp_logo?e=2147483647&v=beta&t=npLtq7DSM81VB_rppmxI4M5hEbEfmslWCkCOYG7Fy8c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4410100771",
+    "title": "(IND)SENIOR, SOFTWARE ENGINEER",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ind-senior-software-engineer-at-walmart-global-tech-india-4410100771?position=1&pageNum=55&refId=HQ7BmCM2P3OGKJJkpmVyTQ%3D%3D&trackingId=SERtweHKoJn%2Bsr9nah%2FACw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4412135455",
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-netapp-4412135455?position=8&pageNum=62&refId=MML1Nh4us5I1wgh0NKHqDw%3D%3D&trackingId=t38AQyS9f%2BGILeJ7M3%2BZRA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHBBBHJ60EHpQ/company-logo_100_100/B4EZ2x0ZwfJ0AQ-/0/1776804798059/netapp_logo?e=2147483647&v=beta&t=npLtq7DSM81VB_rppmxI4M5hEbEfmslWCkCOYG7Fy8c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4411372392",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru Rural District, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4411372392?position=2&pageNum=65&refId=mLUGulsJdXuN039V55ICvA%3D%3D&trackingId=sCyrX1twvlZFqe5Ejvcp7A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4411880534",
+    "title": "Software Dev Engineer IV",
+    "company": "Swiggy",
+    "location": "Bengaluru North, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-iv-at-swiggy-4411880534?position=8&pageNum=85&refId=jv5%2BJBKvYcZOEnh9WYEGkA%3D%3D&trackingId=0KBheVC7uvf5gL%2FYPWwPvw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFgJifoYusljQ/company-logo_100_100/B56ZbSxECTHgAU-/0/1747292799806/swiggy_in_logo?e=2147483647&v=beta&t=oNoKyEO_OQfRdHA1w93B_KhstwFa7dPSPuZjFUL0KZE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4411891935",
+    "title": "Senior Frontend Developer",
+    "company": "Questhiring",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-developer-at-questhiring-4411891935?position=3&pageNum=92&refId=UBHJW8nYPIT9Ji24aEnh9g%3D%3D&trackingId=BeAmchAR%2FD%2FXpUmhGJAm0w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEJkYCgWkcGMQ/company-logo_100_100/B56ZvF4ppnK4AQ-/0/1768551521364/questhiring_logo?e=2147483647&v=beta&t=20zDS22Iv2cPnmQNfTP73_AmE3-NF50TMgihrTtfKro",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4402119779",
+    "title": "Software Engineer 2",
+    "company": "Abnormal AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-2-at-abnormal-ai-4402119779?position=10&pageNum=97&refId=%2BZWTzud6X5uEnk56Yso8og%3D%3D&trackingId=51FargKZ8IM2QDjbhletmQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG-KFcaVYoAvg/company-logo_100_100/B56ZZJwWRtGoAQ-/0/1744994133503/abnormal_ai_logo?e=2147483647&v=beta&t=W2fUCpmD6kdSbxpuOwqpWS4kJAJZwpLOHAt2FzhWqbk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4411080446",
+    "title": "Frontend Developer",
+    "company": "DocPulse",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-docpulse-4411080446?position=4&pageNum=27&refId=6MUA0rleLGbMUJ0rMihn2w%3D%3D&trackingId=nQBrX4sB2DHVW%2BHzyG1EVA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQGDfddPWBFtpA/company-logo_100_100/company-logo_100_100/0/1631314836418?e=2147483647&v=beta&t=pOtdM8hGLIs74ZQMdQm0LDBq2zT3XXfcYrxpJjcJ_5E",
+    "lat": 0,
+    "lng": 0
   }
 ]
