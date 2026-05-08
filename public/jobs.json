@@ -61223,5 +61223,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
     "lat": 12.982827,
     "lng": 77.6917293
+  },
+  {
+    "id": "urn:li:jobPosting:4411008210",
+    "title": "React Developer",
+    "company": "TruMetric.AI",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-trumetric-ai-4411008210?position=4&pageNum=52&refId=SiffvuHRykUrfbAp3ieHLg%3D%3D&trackingId=TcWU7treiBBkN5qIMegiVg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHWVs53L_UPmA/company-logo_100_100/B56Z1oEa.5J0AQ-/0/1775567483365/trumetric_ai_logo?e=2147483647&v=beta&t=4mNk5SKrOSJM-Gt9WtN6_F1Rg-X2LYP-ghWv74I-RuY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4411013431",
+    "title": "Frontend Developer",
+    "company": "Recrew AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-recrew-ai-4411013431?position=9&pageNum=70&refId=4JXuR9dXr%2FIG3%2BH8MI9tEg%3D%3D&trackingId=Nsde4bwpA4hsXwWoGEwlQQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGM70qm9MbWvA/company-logo_100_100/company-logo_100_100/0/1729664053436/recrew_ai_logo?e=2147483647&v=beta&t=RCofKskdvbsnkea0U_gPcjUIePQ7boxR7mGyf4nKjDU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4411004329",
+    "title": "React Developer Internship",
+    "company": "Workfall",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-internship-at-workfall-4411004329?position=7&pageNum=82&refId=oWA5%2B6uNkw0DZ8VEkanZxg%3D%3D&trackingId=%2FVy%2F66rKUvs777x%2F6QhDVw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHJ56l6SxtSgQ/company-logo_100_100/company-logo_100_100/0/1630590762350?e=2147483647&v=beta&t=ToMdlTUivijEweRFPLYrgMfIptpsFjGGYrjSIuqSPHU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4388480118",
+    "title": "Node JS Developer",
+    "company": "Virtusa",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/node-js-developer-at-virtusa-4388480118?position=4&pageNum=92&refId=H2torplc7Hp0FFvSBlXrng%3D%3D&trackingId=bJY0X2o%2B1RQgqQg5Hmzunw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE1wyZ0gd_P_w/company-logo_100_100/B4DZmf03PuJMAY-/0/1759323061531/virtusa_logo?e=2147483647&v=beta&t=BX2oukfWW-ynMINuDRbCIlfgg5xRn0BoZf9Mk-TS1t4",
+    "lat": 0,
+    "lng": 0
   }
 ]
