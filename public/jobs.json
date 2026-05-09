@@ -61865,5 +61865,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
     "lat": 0,
     "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4411988145",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4411988145?position=6&pageNum=70&refId=joUKpawITqz6nkcNHiqo8w%3D%3D&trackingId=Nf%2Bb6nDrmw3iddVwfa%2FTGg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4411969734",
+    "title": "React JS Developer",
+    "company": "AeroAegis",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-js-developer-at-aeroaegis-4411969734?position=1&pageNum=27&refId=MzEz495yT4U0WvC1fBe2nQ%3D%3D&trackingId=F%2B3iPQgimtWp4sanbOGl4g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGviSbicK71Gg/company-logo_100_100/company-logo_100_100/0/1693640795472?e=2147483647&v=beta&t=EvrSUWN5zVkbhfYTQlHi412MRWNNGc0ea5I_xVJRuBs",
+    "lat": 0,
+    "lng": 0
   }
 ]
