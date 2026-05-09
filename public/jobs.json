@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4411765892",
+    "title": "Software Dev Engineer III",
+    "company": "Instamart",
+    "location": "Bengaluru North, Karnataka, India",
+    "date": "2026-05-08",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-iii-at-instamart-4411765892?position=3&pageNum=70&refId=ixNudvd%2BQPWHOWAVvqln4Q%3D%3D&trackingId=hJzothPVTiHdpal8wRK5jQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEWv0_SaPeOBg/company-logo_100_100/B4DZmUkOJGIYAQ-/0/1759134147806/swiggy_instamart_logo?e=2147483647&v=beta&t=IxC9tMXUHNk88ExLvvUjWjCzlS8yffeh32EPlclKQCY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4410473554",
     "title": "Software Engineer",
     "company": "GoComet",
@@ -61713,5 +61724,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEMzTP7ySRl1w/company-logo_100_100/B4DZraOH1PGgAQ-/0/1764597727124?e=2147483647&v=beta&t=cantgcA-j0iG-Xjuff93LI7KVJx677N_2JBYHhtRa5Q",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4412162631",
+    "title": "Software Engineer III, Infrastructure, Google Cloud",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-infrastructure-google-cloud-at-google-4412162631?position=5&pageNum=80&refId=yOc%2FMZ3vLS3R6pIxwrNC6g%3D%3D&trackingId=8C9pF5rKbMbSWhn75oojEQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4412124487",
+    "title": "Remote JavaScript Developer",
+    "company": "Turing",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/remote-javascript-developer-at-turing-4412124487?position=8&pageNum=95&refId=i1eno%2BYXKAoUsQ9w2v9%2FMQ%3D%3D&trackingId=6eFzE7r1bxc1pSTXPhzpXQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEMzTP7ySRl1w/company-logo_100_100/B4DZraOH1PGgAQ-/0/1764597727124?e=2147483647&v=beta&t=cantgcA-j0iG-Xjuff93LI7KVJx677N_2JBYHhtRa5Q",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4412435880",
+    "title": "Junior Frontend Engineer (HTML/CSS) (Freelancer)",
+    "company": "Deccan AI Experts",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/junior-frontend-engineer-html-css-freelancer-at-deccan-ai-experts-4412435880?position=7&pageNum=7&refId=t4zGvRR2oZRzG8YGvhiIXQ%3D%3D&trackingId=ekmiamQOLv3eLkKGCy09Mw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFXntEK8DNrzw/company-logo_100_100/B56Zq6DHTdHQAY-/0/1764057971045/deccan_ai_experts_logo?e=2147483647&v=beta&t=4-gq03srQ8VNZkx_tCNZP6W9rR9fPvSFrJUihToihr0",
+    "lat": 0,
+    "lng": 0
   }
 ]
