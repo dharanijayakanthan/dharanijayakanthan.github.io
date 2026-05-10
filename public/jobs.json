@@ -11,6 +11,28 @@
     "lng": 0
   },
   {
+    "id": "urn:li:jobPosting:4409666213",
+    "title": "Senior Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-08",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-capgemini-4409666213?position=3&pageNum=95&refId=yDUtnTGO3AvpgeolAKbG8w%3D%3D&trackingId=tCCgLtmMThnXlkVE24R%2B5Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4402101567",
+    "title": "Software Script Engineer",
+    "company": "Applied Systems",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-08",
+    "link": "https://in.linkedin.com/jobs/view/software-script-engineer-at-applied-systems-4402101567?position=10&pageNum=97&refId=J5%2Bym865goway0F0bt4exA%3D%3D&trackingId=%2BLEnhjp0HjBNioDac1wJyQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH1OlYcejEeCg/company-logo_100_100/company-logo_100_100/0/1719932215284/applied_systems_logo?e=2147483647&v=beta&t=vSMASU_A_XJfS6T4zfrayYQYVxJ6affzYlYyA5xRmVo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4410473554",
     "title": "Software Engineer",
     "company": "GoComet",
@@ -31,6 +53,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
     "lat": 12.9216236,
     "lng": 77.6688299
+  },
+  {
+    "id": "urn:li:jobPosting:4409284477",
+    "title": "Senior Frontend Engineer [T500-25756]",
+    "company": "Neighborly®",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-07",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-t500-25756-at-neighborly%C2%AE-4409284477?position=5&pageNum=97&refId=hY4eqyxdAcJMGdBSMGIVvw%3D%3D&trackingId=THJW5xiZuRe9QPTyYSXaSQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE2fUi2Nr_kDQ/company-logo_100_100/company-logo_100_100/0/1630563158807/nbly_logo?e=2147483647&v=beta&t=Z-VjIOd_uyuatz45Cz230FeIwKGglDtqF0GbtQYK7Eo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4411464383",
+    "title": "Software Engineer",
+    "company": "HPE Aruba Networking",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-07",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-hpe-aruba-networking-4411464383?position=3&pageNum=95&refId=ete2%2FRz8mBunSfplgRmGtw%3D%3D&trackingId=61B%2FgsEY1VyJVLHr1Hp3Pg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGDnmjOQlmgtg/company-logo_100_100/B4EZdk_QyCHsAU-/0/1749745995186/aruba_a_hewlett_packard_enterprise_company_logo?e=2147483647&v=beta&t=Jew_bDgyEZD6bjlkWumu32nNXI8BFKNx7cbTlFGQPKE",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4410910449",
@@ -61885,5 +61929,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGviSbicK71Gg/company-logo_100_100/company-logo_100_100/0/1693640795472?e=2147483647&v=beta&t=EvrSUWN5zVkbhfYTQlHi412MRWNNGc0ea5I_xVJRuBs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4411979364",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bangalore Rural, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4411979364?position=5&pageNum=50&refId=xPkYwsDxZ4FpGUGpBmzlcw%3D%3D&trackingId=l%2FkXc0XX5K7iILtA%2BWQs0g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4412467378",
+    "title": "Software Development Engineer, E-reader",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-e-reader-at-amazon-4412467378?position=8&pageNum=92&refId=2bqdQ3JuYCsl2Tw5oMZJEg%3D%3D&trackingId=j4YqN8WmfT0iGNgiLYcJ%2Fg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4412452972",
+    "title": "Software Dev Engineer 2",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-2-at-amazon-4412452972?position=4&pageNum=92&refId=ZJBbsZxrbk54BD2wrJQGkQ%3D%3D&trackingId=CiD14LaxZvvjOo6FnNZFTw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
   }
 ]
