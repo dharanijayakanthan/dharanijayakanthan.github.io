@@ -11,6 +11,17 @@
     "lng": 77.6174204
   },
   {
+    "id": "urn:li:jobPosting:4411970087",
+    "title": "Software Engineer - AI/Agentic AI, Python, DSA/Algorithm, Asiloft, Contract Lifecycle Management, Ironclad & Conga (Preferred) - (5+Yrs)",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-09",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ai-agentic-ai-python-dsa-algorithm-asiloft-contract-lifecycle-management-ironclad-conga-preferred-5%2Byrs-at-cisco-4411970087?position=9&pageNum=85&refId=To%2B8keRuhsSAPvwskyu4Dg%3D%3D&trackingId=UZepmdaulx9SYp%2ByHqinKg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4411765892",
     "title": "Software Dev Engineer III",
     "company": "Instamart",
@@ -834,6 +845,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4407359004",
+    "title": "SOFTWARE ENGINEER",
+    "company": "OakNorth in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-30",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-oaknorth-in-india-4407359004?position=8&pageNum=17&refId=5icEJ7rTu0B1Fbc%2FHiOIhQ%3D%3D&trackingId=tkcjS4uaxCurkPkgMmgcmw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF-o6XhJuiXvQ/company-logo_100_100/company-logo_100_100/0/1701275055570/oaknorth_india_logo?e=2147483647&v=beta&t=_QkuSTxITftL4Ulkm4-6iGCkj8NP2Sfg7f4ZovJHEaw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4408065395",
@@ -1756,6 +1778,17 @@
     "date": "2026-04-23",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-at-solera-holdings-llc-4405028544?position=5&pageNum=47&refId=PV6UHq%2FLd%2BpgdF%2BJvySbkQ%3D%3D&trackingId=D9eUxtrY5lpm0BZrcMcgjw%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHbxKQIuq_ysw/company-logo_100_100/company-logo_100_100/0/1641389737388/solera_logo?e=2147483647&v=beta&t=fR7xWgVoo8wQYHLkFk8yUClMLv0fvAq_7KqsVu8NlgQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4405030560",
+    "title": "Software Engineer III",
+    "company": "Pearson",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-04-23",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-pearson-4405030560?position=7&pageNum=97&refId=qfiij4hTTlp3YCxD0nIhYg%3D%3D&trackingId=i%2BaO%2FFCSk2OZP5rhJFXASQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9W4lfcWc9dQ/company-logo_100_100/B4EZYPofEYHkAQ-/0/1744018993869/pearson_logo?e=2147483647&v=beta&t=tatnP8PCFOON7lKpbmG0JRCF4QYNwFaondEAOnunhUs",
     "lat": 0,
     "lng": 0
   },
@@ -61981,5 +62014,55 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
     "lat": 13.120648,
     "lng": 77.6114683
+  },
+  {
+    "id": "urn:li:jobPosting:4412382323",
+    "title": "Fullstack Developer (ReactJS, C++)",
+    "company": "Virtusa",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/fullstack-developer-reactjs-c%2B%2B-at-virtusa-4412382323?position=7&pageNum=52&refId=JbpiOspjeGsB8pnjOYaQHg%3D%3D&trackingId=638B9y4AlTUZD%2FatjyZYDw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE1wyZ0gd_P_w/company-logo_100_100/B4DZmf03PuJMAY-/0/1759323061531/virtusa_logo?e=2147483647&v=beta&t=BX2oukfWW-ynMINuDRbCIlfgg5xRn0BoZf9Mk-TS1t4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4412368681",
+    "title": "Software Test Engineer Trainee_Technical Graduate Apprentice - India UHR",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-test-engineer-trainee-technical-graduate-apprentice-india-uhr-at-cisco-4412368681?position=2&pageNum=40&refId=89J6TQVhe4hiFfxJtLDP6A%3D%3D&trackingId=Nfk0cnH%2FZRR1e3hncxO2qQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4412376415",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4412376415?position=8&pageNum=55&refId=M4bGlMIrZ3kaH94IPZm7Bw%3D%3D&trackingId=m0F%2BIVlhwQf1B8oWhlO7Pw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4412385225",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4412385225?position=7&pageNum=77&refId=gehW9dyLfNh2IrtzCUBOIw%3D%3D&trackingId=Y4kLbPTVI57dXxqGKwGo9w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4412370509",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4412370509?position=4&pageNum=82&refId=qqftL504ZAtrPKxJ3HY5OQ%3D%3D&trackingId=wlhtJcNpPT5Kzsb%2Ba7iJNA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
   }
 ]
