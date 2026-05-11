@@ -110,6 +110,17 @@
     "lng": 77.6978119
   },
   {
+    "id": "urn:li:jobPosting:4409282470",
+    "title": "Software Applications Development Engineer",
+    "company": "NTT DATA, Inc.",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-05-07",
+    "link": "https://in.linkedin.com/jobs/view/software-applications-development-engineer-at-ntt-data-inc-4409282470?position=8&pageNum=97&refId=r3XnepNrI7OTRdbd1rnVbQ%3D%3D&trackingId=rge681GY6LLMehqq%2FHMrqA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHNV1DPBFCCEw/company-logo_100_100/company-logo_100_100/0/1719587181974/ntt_data_inc_logo?e=2147483647&v=beta&t=8j9xIeED4Yfu6ShBiPz8DmEvpcgcaqz5yQV5QIlnong",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4410910449",
     "title": "Software Development Engineer, Amazon Core Search",
     "company": "Amazon",
@@ -2651,6 +2662,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4404058048",
+    "title": "Software Engineer - .NET & React [T500-21991]",
+    "company": "FM",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-20",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-net-react-t500-21991-at-fm-4404058048?position=10&pageNum=97&refId=oZoE4B%2F25jd49TuiZ0epvw%3D%3D&trackingId=to2BPiK%2BZrIzdXJ3tQlrEQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEY7AWBjO5ASA/company-logo_100_100/company-logo_100_100/0/1721223237412/thefmgroup_logo?e=2147483647&v=beta&t=hwricR42d7s_0dkRfcWfhxrO7nIlMvUk8HCqtpiJN5k",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4404010632",
     "title": "Software Development Engineer JWO",
     "company": "TALENTMATE",
@@ -3034,6 +3056,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGBGxSs8hv4_A/company-logo_100_100/B56ZuM_jsXJoAQ-/0/1767597030946/ltimindtree_logo?e=2147483647&v=beta&t=NXmA23dhf5irpFMXfEf2V7HYf2xSnHN5hZqivDmCfog",
     "lat": 13.068802,
     "lng": 77.592011
+  },
+  {
+    "id": "urn:li:jobPosting:4412358475",
+    "title": "Senior Frontend Engineer",
+    "company": "Ctruh",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-15",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-at-ctruh-4412358475?position=7&pageNum=60&refId=24CwhGQNaHv3btsNDt8UWg%3D%3D&trackingId=jY8eXqq8IhG5ZHfwim%2Boag%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFQ7WTOEQ2afA/company-logo_100_100/B56ZolnFILKwAQ-/0/1761567595314/ctruh_logo?e=2147483647&v=beta&t=DP1fiZjSnZsZtzfzSE47WVrJx9Y-BcKcDNbdVaS8zWc",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4399584635",
@@ -62111,6 +62144,26 @@
     "company": "Umanist NA",
     "location": "Hoskote, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/senior-frontend-developer-react-%2B-azure-%2B-microservices-at-umanist-na-4412370756?position=5&pageNum=95&refId=%2FZUb1XJmFt%2B8QrJa8s5D2g%3D%3D&trackingId=CPO7Ib%2BCOsqTqpwI54wgVA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE9p98tVKf_tg/company-logo_100_100/B56ZgQKq3xGUAQ-/0/1752617890200/cryptomark_logo?e=2147483647&v=beta&t=IUbKaP9XoFf8068zWdR75qBgEcNs_AAUE-ebBymwcqk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4412385224",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru North, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4412385224?position=6&pageNum=62&refId=c1crol2liC1qagjS585Rqw%3D%3D&trackingId=Yh690vIW5NPk%2B4Gr38FXAA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4412377648",
+    "title": "Senior Frontend Developer (React + Azure + Microservices).",
+    "company": "Umanist NA",
+    "location": "Devanahalli, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-developer-react-%2B-azure-%2B-microservices-at-umanist-na-4412377648?position=7&pageNum=97&refId=r3XnepNrI7OTRdbd1rnVbQ%3D%3D&trackingId=3hCn9%2FTj%2FSHm%2F2TnlBQr4g%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQE9p98tVKf_tg/company-logo_100_100/B56ZgQKq3xGUAQ-/0/1752617890200/cryptomark_logo?e=2147483647&v=beta&t=IUbKaP9XoFf8068zWdR75qBgEcNs_AAUE-ebBymwcqk",
     "lat": 0,
     "lng": 0
