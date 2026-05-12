@@ -11,6 +11,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4412561877",
+    "title": "Software Engineer - Desktop",
+    "company": "Soroco",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-10",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-desktop-at-soroco-4412561877?position=4&pageNum=97&refId=zNjVOGptsyRAB%2Buiepo0Vg%3D%3D&trackingId=Sa4wDqXvbw9Eo0ykCxYs4A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG1MFGHerlXyg/company-logo_100_100/company-logo_100_100/0/1719821450221/soroco_pvt_ltd_logo?e=2147483647&v=beta&t=BWpzFv3GwKcDqMReDF2VQM5Xw9tVlqM910uS9srfV7M",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4411961470",
     "title": "Software Engineer - AI Engineer, Design and implement AI Agents, Python, Jupyter, ML libraries, Predictive models, Automation & Monitoring (5+ Yrs)",
     "company": "Cisco",
@@ -42,6 +53,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNqJip6BEwGw/company-logo_100_100/company-logo_100_100/0/1688367507340/tesco_bengaluru_logo?e=2147483647&v=beta&t=RNhSg7-j-lU4JLvK8r-VtORAikcZ6GcI8M0sqJiRom4",
     "lat": 12.9736991,
     "lng": 77.7285752
+  },
+  {
+    "id": "urn:li:jobPosting:4411912544",
+    "title": "Software Engineer (Backend), Integrations",
+    "company": "Postman",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-09",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-backend-integrations-at-postman-4411912544?position=10&pageNum=97&refId=r5hKQncdSwmWN9H%2FgXWIDw%3D%3D&trackingId=7z1Ri6cragjf1Ps%2FSnHapw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFf8sH83foEVg/company-logo_100_100/company-logo_100_100/0/1654794308958/postman_platform_logo?e=2147483647&v=beta&t=vhUFiD_84RWtJWzqMFME4YJ9Jgnne9fH6DlCHgLCIEA",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4411765892",
@@ -86,6 +108,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEMzTP7ySRl1w/company-logo_100_100/B4DZraOH1PGgAQ-/0/1764597727124?e=2147483647&v=beta&t=cantgcA-j0iG-Xjuff93LI7KVJx677N_2JBYHhtRa5Q",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4409671811",
+    "title": "Senior Software Engineer",
+    "company": "Capgemini Engineering",
+    "location": "Bangalore Urban, Karnataka, India",
+    "date": "2026-05-08",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-capgemini-engineering-4409671811?position=4&pageNum=95&refId=9T%2F9COlraY0aa90MI9%2FznQ%3D%3D&trackingId=g3ZMP8%2FQqW%2Fd2d2lGGKUJg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF65j53YY6XWA/company-logo_100_100/B4EZqB8jt5GUAQ-/0/1763116728049/capgemini_engineering_logo?e=2147483647&v=beta&t=mL00_jBY2TJhTyB4Ge-jt1Ln1UO7kKZyip6Ro_t8JiM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4409665440",
+    "title": "Software Engineer - Observability Core Platform Engineering",
+    "company": "IKEA",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-08",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-observability-core-platform-engineering-at-ikea-4409665440?position=1&pageNum=97&refId=r5hKQncdSwmWN9H%2FgXWIDw%3D%3D&trackingId=Ix4wEuZfqRMjIPzadUoD%2Bw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHFZRoCWlWZ-g/company-logo_100_100/company-logo_100_100/0/1630574725858/ikea_group_logo?e=2147483647&v=beta&t=9-VJrIF2z_1fp9dknIpVt5CQOwrUyL9Dr_7JV13RN9s",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4410473554",
@@ -284,6 +328,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
     "lat": 12.982827,
     "lng": 77.6917293
+  },
+  {
+    "id": "urn:li:jobPosting:4408847913",
+    "title": "Software Engineer",
+    "company": "GE HealthCare",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-06",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-ge-healthcare-4408847913?position=2&pageNum=97&refId=zNjVOGptsyRAB%2Buiepo0Vg%3D%3D&trackingId=MIae5tiALH%2FPKpeF%2FgncWw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG30MejU_UygQ/company-logo_100_100/B56ZlzFxy6I0AQ-/0/1758572519588/gehealthcare_logo?e=2147483647&v=beta&t=nY-wpTVABSqcsPg_WG65-jSQQsWCROwqEEKlxai4V6g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4409760736",
+    "title": "Software Engineer",
+    "company": "Indium",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-06",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-indium-4409760736?position=6&pageNum=97&refId=r5hKQncdSwmWN9H%2FgXWIDw%3D%3D&trackingId=VbQxxEFd521W22mfbx3nwg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEC1hpWvKTsQg/company-logo_100_100/B56ZWDxlnNGQAQ-/0/1741672569705/indiumsoftware_logo?e=2147483647&v=beta&t=3td21skrwxuB1sqp75YsFoJlh7sgP8dcXHGKZVfAeUo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4409375497",
@@ -62723,5 +62789,55 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI",
     "lat": 12.9483819,
     "lng": 77.6892497
+  },
+  {
+    "id": "urn:li:jobPosting:4413506950",
+    "title": "Lead Frontend Engineer",
+    "company": "Headout",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/lead-frontend-engineer-at-headout-4413506950?position=3&pageNum=22&refId=69dA%2FuIscbiOqZ6STBzS8Q%3D%3D&trackingId=6nIoAlX%2F94BEKlBm%2FQV18w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF36N2orKYsLg/company-logo_100_100/B56ZozJFPlHIAQ-/0/1761794611427/headout_com_logo?e=2147483647&v=beta&t=ltF9EC25VBx_srSLXLhL-agwG2ryXw85V3cFzV16ofY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4413532118",
+    "title": "Junior Software Engineer",
+    "company": "Cron Labs",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/junior-software-engineer-at-cron-labs-4413532118?position=5&pageNum=27&refId=iriLEpZKa4r2C23jkzEv6g%3D%3D&trackingId=F5Wt9AWOw4L8HdGyxAHxfQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQHiT-3bQZeIfg/company-logo_100_100/company-logo_100_100/0/1631414585909?e=2147483647&v=beta&t=zO39XfB22eIkVXmN9qeO0FZknshJke1NL0EP96JDTfc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4413264756",
+    "title": "Software Development Engineer In Test",
+    "company": "Greenlight",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-in-test-at-greenlight-4413264756?position=1&pageNum=45&refId=qfG6Cm4SwVFCu4gnKf3diQ%3D%3D&trackingId=T3brXwYBaaQEabXB%2BiLoGw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHgfdO3tf4TQw/company-logo_100_100/company-logo_100_100/0/1642710651269/greenlightcard_logo?e=2147483647&v=beta&t=SbNy9Ivd6-jwAi-K7w1j7TptO6Hy7bXZ6WKLTA0Lw1g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4412755862",
+    "title": "Software Dev Engineer II, Amazon Detail Page",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-amazon-detail-page-at-amazon-4412755862?position=4&pageNum=92&refId=vvPVJD8Pxb4uLb16R4QLUw%3D%3D&trackingId=pDI0dc8lbPy8jpaC3h6HKg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4404071484",
+    "title": "Software Engineer",
+    "company": "ABB",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-abb-4404071484?position=2&pageNum=97&refId=r5hKQncdSwmWN9H%2FgXWIDw%3D%3D&trackingId=1micprlMWu7oqc48VuLmJg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHPGAMgqJMBZQ/company-logo_100_100/company-logo_100_100/0/1630579606103/abb_logo?e=2147483647&v=beta&t=UOAvwz5s6liS099z91BNomM-lOY3CC7ClOAVlUTpdR8",
+    "lat": 0,
+    "lng": 0
   }
 ]
