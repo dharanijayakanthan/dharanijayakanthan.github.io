@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4413252396",
+    "title": "Software Engineer II",
+    "company": "JPMorganChase",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-12",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-jpmorganchase-4413252396?position=2&pageNum=92&refId=N3%2BR%2BreomMpIxPm5AHKHcw%3D%3D&trackingId=6ak0ObBpLhVeWbsLY9DPYw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4412787751",
     "title": "Front end developer",
     "company": "Virtusa",
@@ -9,6 +20,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE1wyZ0gd_P_w/company-logo_100_100/B4DZmf03PuJMAY-/0/1759323061531/virtusa_logo?e=2147483647&v=beta&t=BX2oukfWW-ynMINuDRbCIlfgg5xRn0BoZf9Mk-TS1t4",
     "lat": 12.9258061,
     "lng": 77.6870496
+  },
+  {
+    "id": "urn:li:jobPosting:4413075669",
+    "title": "Software Engineer_Java_Springboot_React JS",
+    "company": "Lowe's India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-11",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-java-springboot-react-js-at-lowe-s-india-4413075669?position=9&pageNum=95&refId=VjipwumQFxcMbnc9CUZDmg%3D%3D&trackingId=R8FpJB0MLzMsfOIjgn9DyQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHoNPNGRZYG-w/company-logo_100_100/company-logo_100_100/0/1630617454317/lowes_india_logo?e=2147483647&v=beta&t=V2blyxQNtBHHqgDqDg-WADh2r2MvLpg4fLsnuqmMICs",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4412568404",
@@ -63351,5 +63373,145 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
     "lat": 12.982827,
     "lng": 77.6917293
+  },
+  {
+    "id": "urn:li:jobPosting:4413722955",
+    "title": "Senior Software Engineer - FullStack",
+    "company": "Roku",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-roku-4413722955?position=3&pageNum=25&refId=pfMas03cKrgjyn%2F8iyiGiw%3D%3D&trackingId=ZDafJxz2vqyPKGeM1CJmXA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwtnEFj0grWQ/company-logo_100_100/B56ZaxohrVH0AU-/0/1746736913380/roku_logo?e=2147483647&v=beta&t=rlz3iSQYwGeir-xgrxNGxQJ9v_dNYWJiqDBsqHkr7L8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4413856513",
+    "title": "Frontend Developer",
+    "company": "InfoVision Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-infovision-inc-4413856513?position=6&pageNum=35&refId=MW9koPWVQHK7RT73Cylnwg%3D%3D&trackingId=Tw8TYCvu88Oaz%2Bk83WrznA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGUsWvr5LQ4Og/company-logo_100_100/company-logo_100_100/0/1661759233767/infovision_logo?e=2147483647&v=beta&t=lDL__UrYG2O__TqMTGHh7xsLMYZ5dGeL6J4MYa5dpmk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4413825456",
+    "title": "Senior Software Engineer – Frontend (Digital)",
+    "company": "Five9",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-frontend-digital-at-five9-4413825456?position=3&pageNum=40&refId=YwC9ves0ioMlAf7rUfxNXw%3D%3D&trackingId=ay8xLSG5Y5ZSpe%2F6VsiJSA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHMMyOf2KYP2Q/company-logo_100_100/company-logo_100_100/0/1738688772509/five9_logo?e=2147483647&v=beta&t=v2ltB6pxFy-X6sftIpBP7dLnh9DLr4PwDokgCvUjqVw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4413757672",
+    "title": "Software Development Engineer, Amazon",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-amazon-at-amazon-4413757672?position=10&pageNum=92&refId=sA5oOUN9cQonWU7688mXWg%3D%3D&trackingId=z%2FSu7p4mW1doT1Jzo%2Fjz0w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4413833247",
+    "title": "Software Engineer II (Frontend-Digital) | India",
+    "company": "Five9",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-frontend-digital-india-at-five9-4413833247?position=6&pageNum=17&refId=TARpgTiyLZ2L10SrUC18BA%3D%3D&trackingId=SZW7TSTYYYnUMU9WaisdZg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHMMyOf2KYP2Q/company-logo_100_100/company-logo_100_100/0/1738688772509/five9_logo?e=2147483647&v=beta&t=v2ltB6pxFy-X6sftIpBP7dLnh9DLr4PwDokgCvUjqVw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4410328734",
+    "title": "Software Engineer III - Front End Engineer",
+    "company": "JPMorganChase",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-front-end-engineer-at-jpmorganchase-4410328734?position=10&pageNum=27&refId=izfDYqI090vrKeYBTMou3A%3D%3D&trackingId=P4nn910%2BxvXhrQW%2BjozMng%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4413875214",
+    "title": "ASE Front-end developer",
+    "company": "Mygate",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ase-front-end-developer-at-mygate-4413875214?position=2&pageNum=60&refId=%2FvmSJDOAHahJQ5%2FBPP5Prg%3D%3D&trackingId=bavEDcjfGhrE37VryCBC4w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF-gU0nbs6Exw/company-logo_100_100/B4EZ09aGFdHAAU-/0/1774851744886/mygatecom_logo?e=2147483647&v=beta&t=LlpaquUAVNQKBAmYNzV05i8hcPPI1DMvodUtAj2JaLE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4413758882",
+    "title": "Interesting Job Opportunity: Think41 - Software Development Engineer III",
+    "company": "Think41",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/interesting-job-opportunity-think41-software-development-engineer-iii-at-think41-4413758882?position=4&pageNum=85&refId=tbsFM%2BCrU7LPQcdVdvC8Ew%3D%3D&trackingId=ZZDlm7A7yhfTuhrqhRDTOg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE-xza2FNU68Q/company-logo_100_100/company-logo_100_100/0/1738672856597/think41_logo?e=2147483647&v=beta&t=GY38oWdB-9o-we24vuQTbGdSI64vUbjON5d6ICXhtms",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4413423794",
+    "title": "Software Dev Engineer 2",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-2-at-amazon-4413423794?position=6&pageNum=95&refId=3aru52uL8wp%2BANTlodLOTg%3D%3D&trackingId=FEbqbdMMTKtClqzx%2BuwsDw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4413906843",
+    "title": "Software Engineer - Azure",
+    "company": "LinkedIn",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-azure-at-linkedin-4413906843?position=6&pageNum=27&refId=4xqDtOa%2BTnH%2FvoVhCxq98Q%3D%3D&trackingId=z8Vi9ydBpq%2FklMWiUmvXlQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4410307456",
+    "title": "Software Engineer",
+    "company": "Virtusa",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-virtusa-4410307456?position=8&pageNum=32&refId=79NIwPJ9MSfGdRKiJ2%2BZxA%3D%3D&trackingId=r9BYyapL3szcEgMyqXDdCQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE1wyZ0gd_P_w/company-logo_100_100/B4DZmf03PuJMAY-/0/1759323061531/virtusa_logo?e=2147483647&v=beta&t=BX2oukfWW-ynMINuDRbCIlfgg5xRn0BoZf9Mk-TS1t4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4410190831",
+    "title": "Web Developer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-accenture-in-india-4410190831?position=1&pageNum=80&refId=%2B7dIxD2IHR0vLk%2FXh4QE4Q%3D%3D&trackingId=PiGQRr%2F3YEwgqY%2FQ8tNBLQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4410348760",
+    "title": "Senior Software Engineer",
+    "company": "Porter",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-porter-4410348760?position=10&pageNum=47&refId=%2FnpqKTRZRRvQ5H3bjLWhUw%3D%3D&trackingId=a7%2BFWwrd5AeceGdQFHkukw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF09SSQEw087w/company-logo_100_100/company-logo_100_100/0/1700825978493/theporter_in_logo?e=2147483647&v=beta&t=f-qop0GZo8cIStZUKn5HUnbAshOUuAPSAZKIv3JOLyY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4413727767",
+    "title": "Software Engineer, UI, VP",
+    "company": "NatWest Group",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ui-vp-at-natwest-group-4413727767?position=4&pageNum=65&refId=820m8jCrKbYBwu%2BEPyNobw%3D%3D&trackingId=fQb6lfqPQER4JkD6wwJMGQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEA8k9x0NLXVw/company-logo_100_100/company-logo_100_100/0/1658409007559/natwest_group_logo?e=2147483647&v=beta&t=77U4pn7D2sdoWVtDxd-1OFNiFco375nnYIWapD6QRBA",
+    "lat": 0,
+    "lng": 0
   }
 ]
