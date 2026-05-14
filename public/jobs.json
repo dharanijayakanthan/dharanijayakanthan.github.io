@@ -1320,6 +1320,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4410070000",
+    "title": "Lead React Developer",
+    "company": "BMC Software",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-05-04",
+    "link": "https://in.linkedin.com/jobs/view/lead-react-developer-at-bmc-software-4410070000?position=1&pageNum=77&refId=L4XYuzJPx6dTVm9qLl%2B73w%3D%3D&trackingId=rTAfmgbelFoi%2BLSpWxqB0Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFofZBjhDHR-g/company-logo_100_100/company-logo_100_100/0/1711479125573/bmc_software_logo?e=2147483647&v=beta&t=hTLtyvOeGFM0L6F3coJcMwZGYvupVL_J8R_CZnC67OE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4408685721",
     "title": "Require a Frontend Developer in Bengaluru",
     "company": "TestHiring",
@@ -64986,5 +64997,105 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_100_100/company-logo_100_100/0/1630637844948/apple_logo?e=2147483647&v=beta&t=p0JNmv2WB0EMMQgvzl9R8TaXgzEaDraGS4MWR0IawjQ",
     "lat": 12.9718591,
     "lng": 77.5956698
+  },
+  {
+    "id": "urn:li:jobPosting:4414718625",
+    "title": "Frontend Developer",
+    "company": "RingCentral",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-ringcentral-4414718625?position=8&pageNum=42&refId=VPkn4UZDkWcBrqZV6LR65Q%3D%3D&trackingId=yiOuXMtmzNW6%2FVzQycQDNw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGK8yQRxyL0Fw/company-logo_100_100/company-logo_100_100/0/1683330264034/ringcentral_logo?e=2147483647&v=beta&t=iP8h3ezhisr98VrcHg0QiQIgzlhEoGWsK3Jx0jwwaPI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4414199958",
+    "title": "Apprentice, Software Engineer",
+    "company": "Pearson",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/apprentice-software-engineer-at-pearson-4414199958?position=2&pageNum=50&refId=ljjzsgsPFNDRfcBR1Fwhcg%3D%3D&trackingId=5hGrAJtm04sMaCZBz%2BZfFA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9W4lfcWc9dQ/company-logo_100_100/B4EZYPofEYHkAQ-/0/1744018993869/pearson_logo?e=2147483647&v=beta&t=tatnP8PCFOON7lKpbmG0JRCF4QYNwFaondEAOnunhUs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4411190198",
+    "title": "Software Engineer (Platform Developer)",
+    "company": "NetApp",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-platform-developer-at-netapp-4411190198?position=4&pageNum=90&refId=LvM1Q4bu%2BABpc4QhkPKFCg%3D%3D&trackingId=W%2FjkGW356E0ESIogVjB7xw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHBBBHJ60EHpQ/company-logo_100_100/B4EZ2x0ZwfJ0AQ-/0/1776804798059/netapp_logo?e=2147483647&v=beta&t=npLtq7DSM81VB_rppmxI4M5hEbEfmslWCkCOYG7Fy8c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4414475457",
+    "title": "Senior Software Engineer",
+    "company": "DigiCert",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-digicert-4414475457?position=4&pageNum=97&refId=AFveJJskYoGHEI2ngBQRGg%3D%3D&trackingId=CZ3Gzde1BZkcheJzaGOUzA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGAw3CKMFrR4g/company-logo_100_100/B56ZxIzoQeH0AQ-/0/1770748021229/digicert_inc__logo?e=2147483647&v=beta&t=oQVCvm9Pbiw01a-Dkwd-ymxh-as2JvvX0NhnZ6XPlNQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4382496798",
+    "title": "Software Engineer",
+    "company": "Texas Instruments India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-texas-instruments-india-4382496798?position=10&pageNum=97&refId=AFveJJskYoGHEI2ngBQRGg%3D%3D&trackingId=GQmq0Lf2Vns94EHzOiIQPQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG5n0QbnK9B8w/company-logo_100_100/company-logo_100_100/0/1724387966456?e=2147483647&v=beta&t=K6JA3pa6Z0upzP1bGNIcEqNmhsyOuY7FsMlXJm9pgfQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4414595088",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4414595088?position=2&pageNum=60&refId=31ocI3V0v%2Fvt%2Bxei6Oenow%3D%3D&trackingId=ighK8Mc9vRSITY8kBOQfYw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4414579914",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4414579914?position=1&pageNum=62&refId=Wt6e6Umeenh3dpAPXkeTjw%3D%3D&trackingId=fRrI7RizImhHv8LPcCfoHQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4414584641",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4414584641?position=1&pageNum=85&refId=I27uW4fAqYG8gJdG0KbIfg%3D%3D&trackingId=qp83xifRPL3er%2FtojnwAMQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4414641304",
+    "title": "NodeJS Developer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/nodejs-developer-at-capgemini-4414641304?position=3&pageNum=85&refId=I27uW4fAqYG8gJdG0KbIfg%3D%3D&trackingId=kg8LT0Jsh6WUwPyWx1w4aw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4414465796",
+    "title": "Software Engineer III, Full Stack, Living Room, YouTube",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-full-stack-living-room-youtube-at-google-4414465796?position=6&pageNum=37&refId=6fXPWAuBgrkwJf5Pnu%2FTWA%3D%3D&trackingId=SKYG70cQjSYw4ovwSYPi%2BA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
+    "lat": 0,
+    "lng": 0
   }
 ]
