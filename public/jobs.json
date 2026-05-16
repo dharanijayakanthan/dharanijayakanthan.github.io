@@ -3553,6 +3553,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4414967890",
+    "title": "Senior Software Engineer- Remote",
+    "company": "First Advantage",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-04-20",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-remote-at-first-advantage-4414967890?position=3&pageNum=92&refId=%2FLN2d%2F6lVEVr%2FNeml3PUTA%3D%3D&trackingId=qd4hAyuTufDLCctp0qQKJQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG0P3KJNk6tYQ/company-logo_100_100/company-logo_100_100/0/1730374357410/first_advantage_logo?e=2147483647&v=beta&t=WT9S0F2BNMJgagLkMuCP4BNImqbj63TRBTywP4ggrUs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4404010632",
     "title": "Software Development Engineer JWO",
     "company": "TALENTMATE",
@@ -65889,6 +65900,46 @@
     "location": "Bangalore Rural, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4415037308?position=7&pageNum=97&refId=VMmmGMkcm6zGVHvNs7BcBw%3D%3D&trackingId=Nc1IXaRYG%2BalyDhpUmMQ6g%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415521916",
+    "title": "IN_Senior Associate_React Developer With AWS_GCC_Advisory_Bangalore",
+    "company": "PwC India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/in-senior-associate-react-developer-with-aws-gcc-advisory-bangalore-at-pwc-india-4415521916?position=2&pageNum=77&refId=RihPSbKuEwEiK9aBtu0lew%3D%3D&trackingId=ESbbYqtpMErqOAvgAmugSg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415539165",
+    "title": "Software Engineer",
+    "company": "Merck Group",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-merck-group-4415539165?position=8&pageNum=85&refId=tijvLHjoojbJu6yJ88%2BFmw%3D%3D&trackingId=mRvHPDUU%2FJ4%2F2TuUoXzKTg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE2ZjeYdi2Zsw/company-logo_100_100/company-logo_100_100/0/1631300666032?e=2147483647&v=beta&t=SCnQ3akWHbI2TlJkRrHjmHj-xXJWkz22fwqXYqjKLhw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415111729",
+    "title": "Senior Angular Developer",
+    "company": "Cognizant",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-angular-developer-at-cognizant-4415111729?position=4&pageNum=92&refId=3hcny4PTWFbN59fHQ3NjWw%3D%3D&trackingId=GpmFunOibNEVIj%2FQTgmuAw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_100_100/B4EZk_EfNgHgAU-/0/1757699778309/cognizant_logo?e=2147483647&v=beta&t=pEIgD9-D_EFoL3rsreK0H2EZEcsXWdZSN64-dV7VrSU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415807830",
+    "title": "Senior Software Engineer",
+    "company": "NetApp",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-netapp-4415807830?position=6&pageNum=95&refId=gsKOQbPiBbsPBFiWedl1Pw%3D%3D&trackingId=m17P5NUhCmbOvGXFPmtKxA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHBBBHJ60EHpQ/company-logo_100_100/B4EZ2x0ZwfJ0AQ-/0/1776804798059/netapp_logo?e=2147483647&v=beta&t=npLtq7DSM81VB_rppmxI4M5hEbEfmslWCkCOYG7Fy8c",
     "lat": 0,
     "lng": 0
   }
