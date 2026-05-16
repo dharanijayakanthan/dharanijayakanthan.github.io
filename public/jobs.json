@@ -1,5 +1,38 @@
 [
   {
+    "id": "urn:li:jobPosting:4411175399",
+    "title": "Software Development Engineer II",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-14",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-amazon-4411175399?position=8&pageNum=92&refId=BFxN2DoYBUgW9zebmcvAQQ%3D%3D&trackingId=xnVKoeV2K6Glz%2BZwnXHDJQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4411180206",
+    "title": "Senior Software Engineer",
+    "company": "Capgemini Engineering",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-14",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-capgemini-engineering-4411180206?position=7&pageNum=95&refId=DDPiAOehGu%2BEU73szGU4SQ%3D%3D&trackingId=LcKIQU60HiWnvtULBW8NHA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF65j53YY6XWA/company-logo_100_100/B4EZqB8jt5GUAQ-/0/1763116728049/capgemini_engineering_logo?e=2147483647&v=beta&t=mL00_jBY2TJhTyB4Ge-jt1Ln1UO7kKZyip6Ro_t8JiM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4410663172",
+    "title": "Software Engineer",
+    "company": "Cargill",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-14",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cargill-4410663172?position=7&pageNum=87&refId=nO7pkZjwVtIB9HwJcJ1lAA%3D%3D&trackingId=mI8ZZGb8%2B895T9H5feEejA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE-JavwZhEueQ/company-logo_100_100/B56ZVIHolwGoAQ-/0/1740671715990/cargill_logo?e=2147483647&v=beta&t=RPlPp82xXXkRoQDn4nzjP9Bwsl_J6fJiIf6-9ZmVxZo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4413762643",
     "title": "Software Development Engineer, E-reader Software",
     "company": "Amazon",
@@ -64,6 +97,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_100_100/company-logo_100_100/0/1630637844948/apple_logo?e=2147483647&v=beta&t=p0JNmv2WB0EMMQgvzl9R8TaXgzEaDraGS4MWR0IawjQ",
     "lat": 12.9718591,
     "lng": 77.5956698
+  },
+  {
+    "id": "urn:li:jobPosting:4413770486",
+    "title": "Software Development Engineer II, Grocery In-store",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-13",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-grocery-in-store-at-amazon-4413770486?position=6&pageNum=97&refId=kLxd9mvsdqf00FLcAZ6Iaw%3D%3D&trackingId=lRWo6s0SjOVSMOGBBXrLmQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4413252396",
@@ -65774,6 +65818,76 @@
     "company": "Scoutit",
     "location": "Bengaluru South, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/frontend-ui-developer-at-scoutit-4415044252?position=1&pageNum=15&refId=nY2R8FR5L57uav6a6yJ5VQ%3D%3D&trackingId=02HyM44N%2F0pLPSMSPEZHAA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415107794",
+    "title": "Senior React Developer",
+    "company": "Cognizant",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-react-developer-at-cognizant-4415107794?position=8&pageNum=50&refId=ScPyj%2FyY6Pr7v7j3w0xvlQ%3D%3D&trackingId=mA5CysVflYnYnq1E2xSEZQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_100_100/B4EZk_EfNgHgAU-/0/1757699778309/cognizant_logo?e=2147483647&v=beta&t=pEIgD9-D_EFoL3rsreK0H2EZEcsXWdZSN64-dV7VrSU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415562548",
+    "title": "Software Engineer (12 months)",
+    "company": "NatWest Group",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-12-months-at-natwest-group-4415562548?position=10&pageNum=60&refId=b28THxSzCELBw9QTw%2FoEoA%3D%3D&trackingId=72nukO1Ze6d%2BdV2RJvhgKA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEA8k9x0NLXVw/company-logo_100_100/company-logo_100_100/0/1658409007559/natwest_group_logo?e=2147483647&v=beta&t=77U4pn7D2sdoWVtDxd-1OFNiFco375nnYIWapD6QRBA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415033046",
+    "title": "Senior Frontend Developer",
+    "company": "Siemens Energy",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-developer-at-siemens-energy-4415033046?position=7&pageNum=80&refId=fojrJEd9l6uGjrx9yuEdbw%3D%3D&trackingId=DBB7YyPCsMLEPPqjVguH4g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHJrmcq29R6nA/company-logo_100_100/B4EZfEvuGOGwAQ-/0/1751352533824/siemens_energy_logo?e=2147483647&v=beta&t=AZ1foBZGusbDa1QrHqsc4J3zlTv3NdMDaqMUalxDhzQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415048144",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru North, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4415048144?position=6&pageNum=67&refId=hhfWIzjwT2GWh%2BoyTRPPIA%3D%3D&trackingId=mHo36QoVrWMkRCiQvbDaFw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415359454",
+    "title": "Software Dev Engineer-II",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-at-amazon-web-services-aws-4415359454?position=5&pageNum=95&refId=bWjFMZVI5uDzl6OE1%2BsySQ%3D%3D&trackingId=6%2FWIC9wLBxEcCkZLiPvMiA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_100_100/B4EZgOay6gHEAY-/0/1752588562343/amazon_web_services_logo?e=2147483647&v=beta&t=813v--p_AS7bme1J7PlAyB2BEU4-c9ba9AUzyuGb5Wg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415060890",
+    "title": "Staff Frontend Engineer",
+    "company": "Noon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/staff-frontend-engineer-at-noon-4415060890?position=3&pageNum=80&refId=w9bsYlxWfm2rkwZpQPperQ%3D%3D&trackingId=pSjP5YZEKQEzQSNZD0LJzQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHqfK1gJVvHPA/company-logo_100_100/B56Z1LOewRJgAQ-/0/1775083580851/noondesignapp_logo?e=2147483647&v=beta&t=U9JqAAKapgUTJeXS6I0bnNtxCkpYGY2Y-j1NyEk3Y_8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415037308",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bangalore Rural, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4415037308?position=7&pageNum=97&refId=VMmmGMkcm6zGVHvNs7BcBw%3D%3D&trackingId=Nc1IXaRYG%2BalyDhpUmMQ6g%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
     "lat": 0,
     "lng": 0
