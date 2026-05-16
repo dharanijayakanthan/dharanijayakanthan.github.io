@@ -1,5 +1,27 @@
 [
   {
+    "id": "urn:li:jobPosting:4415059569",
+    "title": "Senior Software Engineer",
+    "company": "Okta",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-15",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-okta-4415059569?position=8&pageNum=97&refId=o9fdeKnyqsu1jx5d8g8v9A%3D%3D&trackingId=EiP70xrLICntDB6dB%2FMnpw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE0I9HrjbrEYQ/company-logo_100_100/company-logo_100_100/0/1667862034764/okta_inc__logo?e=2147483647&v=beta&t=jgTgxfuLfY5pp_Mk_6UMtjNHd2zQZVHPkh6QxrCWNCo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4412006920",
+    "title": "NodeJS Developer",
+    "company": "Persistent Systems",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-15",
+    "link": "https://in.linkedin.com/jobs/view/nodejs-developer-at-persistent-systems-4412006920?position=8&pageNum=97&refId=7zaOiDVmc4z%2B6MlvKI61Fw%3D%3D&trackingId=q788GNVaJLLd95AP7oEgRQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHC3yzoDWBD3Q/company-logo_100_100/B4DZzV.Y2BIwAQ-/0/1773116428185/persistent_systems_logo?e=2147483647&v=beta&t=onpHtprGZL-QUM-qRjoeSOgtv6Rd4uhpFK8l6Ucv3JY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4411175399",
     "title": "Software Development Engineer II",
     "company": "Amazon",
@@ -66081,6 +66103,56 @@
     "company": "Scoutit",
     "location": "Bengaluru East, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4415187528?position=9&pageNum=85&refId=uTK9mXwJqc4o4yLVocyWIQ%3D%3D&trackingId=XMZRfS%2BFArE9v5il2R0%2FKw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415176734",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4415176734?position=7&pageNum=57&refId=lb1Qt4dj9n6yRyZ6H3Iw9A%3D%3D&trackingId=J6SR5ZIZNeI%2BHrq9yWf7hw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415177688",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4415177688?position=4&pageNum=67&refId=WFmgR%2FT9MTf9fuHhE9yf1A%3D%3D&trackingId=3y3jNob%2B9CzAR5OmkQCOOw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415189853",
+    "title": "Frontend Engineer - Intern",
+    "company": "Senseloaf AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-intern-at-senseloaf-ai-4415189853?position=6&pageNum=75&refId=HbuBL3ASOAmOtuchvJEttA%3D%3D&trackingId=6lu6BioUYOtT9VQIhuA9Tg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHlpjxUjBAcCA/company-logo_100_100/B56ZmpdBndG0AQ-/0/1759484582781/senseloaf_logo?e=2147483647&v=beta&t=qIxaEIem5k6H6E_1qL4Umg4MLR3_OUuWtrz8-gnkIrI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415196134",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4415196134?position=10&pageNum=55&refId=cnu37ooiezDbNTOMu9wg%2BA%3D%3D&trackingId=aQLBy%2BdOQZ2vI8c7iKCcCw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415174884",
+    "title": "Frontend UI Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-ui-developer-at-scoutit-4415174884?position=1&pageNum=15&refId=SzNm8KlNE50luV111mZcOw%3D%3D&trackingId=%2FSB%2BnmH0Z7sGKkCYnOnBQw%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
     "lat": 0,
     "lng": 0
