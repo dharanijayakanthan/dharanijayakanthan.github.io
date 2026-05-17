@@ -33,6 +33,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4415060170",
+    "title": "Frontend Developer Intern",
+    "company": "Adcanopus Digital Media Pvt Ltd",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-15",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-intern-at-adcanopus-digital-media-pvt-ltd-4415060170?position=5&pageNum=2&refId=GZeSlpyh957maZzISxhfPg%3D%3D&trackingId=0eVEUpiZcpEXaATj4%2FuNYA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG7-zq4Dlf-Vw/company-logo_100_100/company-logo_100_100/0/1722858693603/adcanopus_digital_media_pvt_ltd_logo?e=2147483647&v=beta&t=66QSONqJSmk3XL40VaR34_81oXYSRoYZljAvvsJ_QQo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415336859",
+    "title": "Software Engineer",
+    "company": "Allegion",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-15",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-allegion-4415336859?position=10&pageNum=95&refId=hAoz4chT6XyVPX0VFBQSww%3D%3D&trackingId=9E13Yad9kifPCAEEc1voNg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE_Z38_S8eNZw/company-logo_100_100/company-logo_100_100/0/1692288532264/allegion_logo?e=2147483647&v=beta&t=0i7S6LfHR3q5SmPA-87q32W5fnoNSMZMa9wyikAijxs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4411175399",
     "title": "Software Development Engineer II",
     "company": "Amazon",
@@ -3023,6 +3045,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4415411971",
+    "title": "Senior Frontend Engineer",
+    "company": "Ctruh",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-22",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-at-ctruh-4415411971?position=1&pageNum=97&refId=MutipsIziZBGXu5aeShFHQ%3D%3D&trackingId=XAZENRV4dar9I9hd2WH45Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGNBUX6MK52eg/company-logo_100_100/B56Z4gbuQsKUAQ-/0/1778660601342/ctruh_logo?e=2147483647&v=beta&t=b-vqHrti_UTabgRc1ZBb9ItS8Xy34dpoMjMR_TM4rok",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4404926375",
@@ -66263,5 +66296,145 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG1MFGHerlXyg/company-logo_100_100/company-logo_100_100/0/1719821450221/soroco_pvt_ltd_logo?e=2147483647&v=beta&t=BWpzFv3GwKcDqMReDF2VQM5Xw9tVlqM910uS9srfV7M",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4415449037",
+    "title": "Frontend UI Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-ui-developer-at-scoutit-4415449037?position=8&pageNum=15&refId=vGqAYwfzqQNSZqteMZes7A%3D%3D&trackingId=vo9qpoNHg2V%2B3BZDCid6Dw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415445030",
+    "title": "Frontend UI Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-ui-developer-at-scoutit-4415445030?position=9&pageNum=15&refId=vGqAYwfzqQNSZqteMZes7A%3D%3D&trackingId=zkpvTSwlgXyiJhNpFxc1JQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415451115",
+    "title": "Associate Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-scoutit-4415451115?position=2&pageNum=40&refId=xbXV1mLvcaE9KVR8sbdNzg%3D%3D&trackingId=e2afCtpZS3r%2FuubusRTANQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415456101",
+    "title": "Associate Software Engineer",
+    "company": "Scoutit",
+    "location": "Bangalore Urban district, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-scoutit-4415456101?position=7&pageNum=52&refId=81dFRLtFzNvZI27TVXkXxQ%3D%3D&trackingId=5ug7PqVt8my%2F4rRGVuMoxA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415459032",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4415459032?position=5&pageNum=57&refId=GFgnV%2BsWiWBXy1xOQSGdpw%3D%3D&trackingId=m2jQb69nsOqU1CeYR0n4vA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415447346",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4415447346?position=6&pageNum=65&refId=yQfOR80esCVcgMyiAX2vvg%3D%3D&trackingId=fRSpYKJkLIyYnZXOAcB4Uw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415456032",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bangalore Rural, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4415456032?position=9&pageNum=75&refId=7qpggrrc8D1Iu%2BPF5%2FRngA%3D%3D&trackingId=L5oxnRxOKGdwVIvrVfFMnA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415465103",
+    "title": "Associate Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-scoutit-4415465103?position=9&pageNum=37&refId=ZkGi9XNkX2WEMzYQhC6LZA%3D%3D&trackingId=ADYqtPCfddTcJ5Hy%2BuP66Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415447496",
+    "title": "Associate Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-scoutit-4415447496?position=2&pageNum=45&refId=LwJztz%2F%2FKth%2FYmWvq5TxlQ%3D%3D&trackingId=HLb9nfdSJsFtm3PZccPq8A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415465102",
+    "title": "Associate Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru North, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-scoutit-4415465102?position=7&pageNum=47&refId=4Tm4xBeV%2BFoufwAZNCjdJQ%3D%3D&trackingId=xOWzpnRydja8wNwtsnhz9g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415456031",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru Rural District, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4415456031?position=7&pageNum=60&refId=sF3tI3t4lZ4rBoa2jTmeGw%3D%3D&trackingId=HnAsdhI1bZslA76nc0Ndzg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415461025",
+    "title": "Frontend UI Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru North, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-ui-developer-at-scoutit-4415461025?position=3&pageNum=15&refId=crdEfQN9iSK0%2Bc71rI67dw%3D%3D&trackingId=bUdzMdsp1X3QU3SbBGDxIA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415446350",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4415446350?position=8&pageNum=57&refId=qz5rhFBTrDPW8m2E2%2FjZiQ%3D%3D&trackingId=KWDy6KmLMVfRAN0hZw5wXw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4415454028",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru North, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4415454028?position=3&pageNum=85&refId=4zk9ajKtf3qHTM9R742bsg%3D%3D&trackingId=T7k5%2B6fTi8hiTJKF%2BIhOzg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
   }
 ]
