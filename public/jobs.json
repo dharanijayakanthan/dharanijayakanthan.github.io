@@ -66,6 +66,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4420715836",
+    "title": "Software Engineer - Desktop",
+    "company": "Soroco",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-04",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-desktop-at-soroco-4420715836?position=9&pageNum=77&refId=zsAdUGCi%2F%2F2riwphKJsU0A%3D%3D&trackingId=7fmpLmpPvePCfPWOdLbLIw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG1MFGHerlXyg/company-logo_100_100/company-logo_100_100/0/1719821450221/soroco_pvt_ltd_logo?e=2147483647&v=beta&t=BWpzFv3GwKcDqMReDF2VQM5Xw9tVlqM910uS9srfV7M",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4423076358",
+    "title": "Software Development Engineer, Emerging Devices Software",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-04",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-emerging-devices-software-at-amazon-4423076358?position=8&pageNum=80&refId=zd6%2Fth4r5lTaODdEV2Vj5Q%3D%3D&trackingId=im1UGTps4mpcVlTKxC1Ilg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4424047825",
     "title": "Software Engineer - AI Agents & Automation",
     "company": "SecPod",
@@ -82785,5 +82807,55 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGM70qm9MbWvA/company-logo_100_100/company-logo_100_100/0/1729664053436/recrew_ai_logo?e=2147483647&v=beta&t=RCofKskdvbsnkea0U_gPcjUIePQ7boxR7mGyf4nKjDU",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4421149392",
+    "title": "Associate Software Engineer",
+    "company": "Accuris",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-accuris-4421149392?position=10&pageNum=35&refId=kEvTarDwuy5qk2q8gse4SQ%3D%3D&trackingId=W1JpOQ8BepB75My6E3QrpA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEweMQwzOX-NQ/company-logo_100_100/B56Z4i4PHkIEAI-/0/1778701628067/accurisco_logo?e=2147483647&v=beta&t=ZBoqYKAZvRHylNVIL7y7VRwBhedCnAEP9Jek8TYQmn8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4424505633",
+    "title": "Software Engineer",
+    "company": "Docusign",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-docusign-4424505633?position=10&pageNum=75&refId=UyCZDaaF9Q1icnjwhBluMw%3D%3D&trackingId=MkdActz8EmoMimQCPxZtjg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFJh4R0ibULEg/company-logo_100_100/company-logo_100_100/0/1712837162469/docusign_logo?e=2147483647&v=beta&t=Y-f3Qq3iOXvWBwbXRkBZlDyiYso6ADqLFZ_f5hsk1i8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4424710404",
+    "title": "UI AEM Developer",
+    "company": "Merck Group",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ui-aem-developer-at-merck-group-4424710404?position=7&pageNum=27&refId=DPunJ27B2VIdrfq5OuIFfg%3D%3D&trackingId=rWSI8rMx8pK7E9QxnmVQcA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE2ZjeYdi2Zsw/company-logo_100_100/company-logo_100_100/0/1631300666032?e=2147483647&v=beta&t=SCnQ3akWHbI2TlJkRrHjmHj-xXJWkz22fwqXYqjKLhw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4424564110",
+    "title": "Full stack (Python) Developer - Software Engineer III",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-python-developer-software-engineer-iii-at-deloitte-4424564110?position=8&pageNum=45&refId=%2BRN6Jok3lf9g66t%2FJW4kQQ%3D%3D&trackingId=gp7ZBMWiO0LWNQYf5A7PhQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4424546134",
+    "title": "Software Engineer I -Full stack engineering (Python)-Software Engineer I",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-full-stack-engineering-python-software-engineer-i-at-deloitte-4424546134?position=10&pageNum=12&refId=OuIuBpxBXbi4DrZTjLHlFg%3D%3D&trackingId=eu7zblVPB0OoSMblK%2FQ8DQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
   }
 ]
