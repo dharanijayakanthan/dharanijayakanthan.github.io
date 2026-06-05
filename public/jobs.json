@@ -11,6 +11,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4419682299",
+    "title": "Full Stack Engineer (React, JS, Java) - MTS I",
+    "company": "Nielsen",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-06-03",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-react-js-java-mts-i-at-nielsen-4419682299?position=10&pageNum=42&refId=2fEoQQf75N%2B2cv4CYnoSyA%3D%3D&trackingId=xpSSMnckXA8Tsi%2BaZELfbw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFKa_ObftR_8w/company-logo_100_100/company-logo_100_100/0/1634555714141/nielsen_logo?e=2147483647&v=beta&t=E8FbfWgplUSlMmYJz_9xfj8sY4p-sL9XTr3amAbK0jc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4422905149",
+    "title": "Software Engineer",
+    "company": "NatWest Group",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-03",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-natwest-group-4422905149?position=7&pageNum=80&refId=%2FmmfoGX1VOwe%2Btvc80dmcg%3D%3D&trackingId=qCHiDkkGvPznEqS7EongUg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEA8k9x0NLXVw/company-logo_100_100/company-logo_100_100/0/1658409007559/natwest_group_logo?e=2147483647&v=beta&t=77U4pn7D2sdoWVtDxd-1OFNiFco375nnYIWapD6QRBA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4422348392",
     "title": "FULL STACK FRONT END (ANGULAR/React + NODE)",
     "company": "JobLuxe",
@@ -174,6 +196,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
     "lat": 12.982827,
     "lng": 77.6917293
+  },
+  {
+    "id": "urn:li:jobPosting:4419252675",
+    "title": "Software Engineer - Python C++ with reactJS",
+    "company": "HARMAN India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-02",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-python-c%2B%2B-with-reactjs-at-harman-india-4419252675?position=2&pageNum=77&refId=ztxzmCFNrmHUqxEtY8NsoA%3D%3D&trackingId=Gr97kQx7bzw2D8tF7XSRIg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDKElnmeXZQg/company-logo_100_100/company-logo_100_100/0/1719928441230/harmanindia_logo?e=2147483647&v=beta&t=RcIRqRbij9ibXo-Mc9kJC4nhXdIBLCBwFIMdw9ugWG4",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4416488445",
@@ -1087,6 +1120,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHAxoD4chKrgg/company-logo_100_100/B4EZfR2e4JHcAk-/0/1751572410148/visa_logo?e=2147483647&v=beta&t=mZYikLJ1nOM9RYXsRYavU2c7xuzCKWDqH8Q0UzAGrhw",
     "lat": 12.9838791,
     "lng": 77.693991
+  },
+  {
+    "id": "urn:li:jobPosting:4418587456",
+    "title": "Software Engineer",
+    "company": "NAGRA",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-27",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-nagra-4418587456?position=9&pageNum=82&refId=uYtJPn39IHxlWgipXaNDwA%3D%3D&trackingId=3qgR5teo%2BG7iucbwnSHQpQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGNhAdWC5Sy9A/company-logo_100_100/company-logo_100_100/0/1725407037761/nagra_logo?e=2147483647&v=beta&t=PLljpPD1ES3jFKp9zZJzwQXUhPG6mlZn_Ict9F3h2E4",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4418254248",
@@ -82282,5 +82326,65 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGM70qm9MbWvA/company-logo_100_100/company-logo_100_100/0/1729664053436/recrew_ai_logo?e=2147483647&v=beta&t=RCofKskdvbsnkea0U_gPcjUIePQ7boxR7mGyf4nKjDU",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4423575617",
+    "title": "Frontend Engineer",
+    "company": "Emergent",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-at-emergent-4423575617?position=9&pageNum=15&refId=8LL0Csq5zAxqiKHqnYMQNQ%3D%3D&trackingId=ttVRr5v1ItqQ79th5PVGwQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGDxavK__rQ_w/company-logo_100_100/B4DZZta760HIAU-/0/1745592500385/emergentlabs_logo?e=2147483647&v=beta&t=UpIEkeNMf3xRVGvtmNKV58TMPPL_L0kJXMU51XwzDrM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4423553675",
+    "title": "Front-End Developer",
+    "company": "BoomerangFX",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/front-end-developer-at-boomerangfx-4423553675?position=6&pageNum=22&refId=kOZJhfGOh1reDzNmW%2BV%2F0A%3D%3D&trackingId=hIMMmsiSIjNikE%2BF3%2BoewA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH_tn0iyFjLVg/company-logo_100_100/company-logo_100_100/0/1691187153034/boomerangfx_logo?e=2147483647&v=beta&t=HLSEzaF_Qsk6WBpO-bLT9NbnAcj2Uq3Qa_2N4hnGNaQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4424414562",
+    "title": "AI Research Software Engineer, Code Search",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ai-research-software-engineer-code-search-at-google-4424414562?position=8&pageNum=52&refId=TOHu7jPmRy6dI5m85a7eMw%3D%3D&trackingId=oA2MfYJDYkqW9glosH42Aw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4423578076",
+    "title": "Senior React JS Developer",
+    "company": "CGI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-react-js-developer-at-cgi-4423578076?position=6&pageNum=72&refId=yukE51H%2BI%2FiT%2FwVfTBM1Pw%3D%3D&trackingId=tZUEjaMfc%2FdOIsLPjXCQcA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4420183732",
+    "title": "Staff Software Engineer in Test",
+    "company": "Okta",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-in-test-at-okta-4420183732?position=2&pageNum=75&refId=bsufUulb0GhdhgYCJWgbpg%3D%3D&trackingId=vyDZLFGA%2BsTHEZJz%2F3I5%2BA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE0I9HrjbrEYQ/company-logo_100_100/company-logo_100_100/0/1667862034764/okta_inc__logo?e=2147483647&v=beta&t=jgTgxfuLfY5pp_Mk_6UMtjNHd2zQZVHPkh6QxrCWNCo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4424359562",
+    "title": "Java-Software Engineer II",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/java-software-engineer-ii-at-deloitte-4424359562?position=10&pageNum=82&refId=WBooeA0EoRgVfkAGYS4M3Q%3D%3D&trackingId=K4ME2Uu4GFwu6wpkGaWZkw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
   }
 ]
