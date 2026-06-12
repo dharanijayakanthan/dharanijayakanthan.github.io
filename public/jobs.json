@@ -803,6 +803,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4425803750",
+    "title": "Fullstack Python Engineer",
+    "company": "Azuga, Inc.",
+    "location": "Bangalore Urban, Karnataka, India",
+    "date": "2026-06-09",
+    "link": "https://in.linkedin.com/jobs/view/fullstack-python-engineer-at-azuga-inc-4425803750?position=10&pageNum=45&refId=lnBWDs%2FR5XchpzG7A1wxQA%3D%3D&trackingId=SZXuvhaUuy7J1W932p%2Fy%2BA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEQ23ouDtAzSg/company-logo_100_100/company-logo_100_100/0/1631914088391/azuga_inc__logo?e=2147483647&v=beta&t=_rHsPlp6PNjFa7_rLSP-ekhb3BuoFkvs3GFhNOFEZng",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4425653281",
     "title": "Application Support Engineer",
     "company": "Accenture in India",
@@ -13209,6 +13220,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGXuXmRvuEOuA/company-logo_100_100/company-logo_100_100/0/1711087524897?e=2147483647&v=beta&t=0DN3FMoW77XQhqTuMgOQKdx2nJBXgMMvf8xaOgGHdoE",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4404921447",
+    "title": "Full Stack Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-22",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4404921447?position=5&pageNum=70&refId=xlXKVZGbGGuvKcGeZhXCrw%3D%3D&trackingId=lDW%2B1jD1YHdpg4wurPnOdA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4404926375",
@@ -91920,5 +91942,235 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEMzTP7ySRl1w/company-logo_100_100/B4DZraOH1PGgAQ-/0/1764597727124?e=2147483647&v=beta&t=cantgcA-j0iG-Xjuff93LI7KVJx677N_2JBYHhtRa5Q",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4426982500",
+    "title": "Software Engineer I -Digital Front End Development- Node/React JS, Software Engineer I",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-digital-front-end-development-node-react-js-software-engineer-i-at-deloitte-4426982500?position=6&pageNum=2&refId=JZ2WBEI87L%2Bcs%2FxNTdM8WQ%3D%3D&trackingId=JZ%2FC5ctOzvGer0FsEnGMSQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426977570",
+    "title": "Software Engineer I -Digital Front End Development- Node/React JS, Software Engineer I I",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-digital-front-end-development-node-react-js-software-engineer-i-i-at-deloitte-4426977570?position=9&pageNum=2&refId=JZ2WBEI87L%2Bcs%2FxNTdM8WQ%3D%3D&trackingId=ceXEcMRVB6xLQA6q1ZeARw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426973654",
+    "title": "Software Engineer I -Digital Front End Development- Node/React JS, Software Engineer III",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-digital-front-end-development-node-react-js-software-engineer-iii-at-deloitte-4426973654?position=6&pageNum=5&refId=7uMFOJrUHQEJew1R566WzA%3D%3D&trackingId=TuokUqlM1G5YhyjD9Nqhkw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426948092",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4426948092?position=2&pageNum=7&refId=vj5tG%2F9vi24IqOU3j96f6g%3D%3D&trackingId=xUCnJug2AUNKCZNBQTmrEA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426937152",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4426937152?position=10&pageNum=7&refId=vj5tG%2F9vi24IqOU3j96f6g%3D%3D&trackingId=GAppEalB4w47YfwgJpI7qg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426978631",
+    "title": "Software Engineer I -Full stack engineering (Node JS)-Software Engineer II",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-full-stack-engineering-node-js-software-engineer-ii-at-deloitte-4426978631?position=3&pageNum=20&refId=V9SRuNoeVa%2BDKqngmD3%2FGA%3D%3D&trackingId=qDZf%2FfBAx2iUE9IK88PWdQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4428114054",
+    "title": "Senior Frontend Developer (Marketing)",
+    "company": "Hevo Data",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-developer-marketing-at-hevo-data-4428114054?position=5&pageNum=35&refId=z2T1RPttXgHYBGqZHifHvA%3D%3D&trackingId=tjpTuxCmW%2Fi0moaYzeF03A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG1eMk3w3VESQ/company-logo_100_100/B56Zqraop1IYAQ-/0/1763812478335/hevodata_logo?e=2147483647&v=beta&t=lABm-UQ256kz0fmSzF0fQ2RsMkX1pwPEEsyZ0h5lG6s",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4424861315",
+    "title": "Principal Engineer UI, Lifecycle Management",
+    "company": "Okta",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/principal-engineer-ui-lifecycle-management-at-okta-4424861315?position=1&pageNum=37&refId=lG4lwg1%2F2wS%2B0wmGyumP0g%3D%3D&trackingId=4q2BwxfwahVotQadZ7LH6Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE0I9HrjbrEYQ/company-logo_100_100/company-logo_100_100/0/1667862034764/okta_inc__logo?e=2147483647&v=beta&t=jgTgxfuLfY5pp_Mk_6UMtjNHd2zQZVHPkh6QxrCWNCo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426936570",
+    "title": "Front-end React Engineer",
+    "company": "Quest Global",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/front-end-react-engineer-at-quest-global-4426936570?position=3&pageNum=50&refId=jUBNuxkknV495ygTEAgY%2Bw%3D%3D&trackingId=TJ6OZgDWsua4SD281EWIcA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFqsywUQl7okA/company-logo_100_100/company-logo_100_100/0/1650955890222/quest_global_logo?e=2147483647&v=beta&t=1iJwdF4wJntsh5TikN51Pj4Xl4TrY1duYOT8WP8ifFU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426971615",
+    "title": "Senior Software Engineer (Node.JS & React.JS)",
+    "company": "Autodesk",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-node-js-react-js-at-autodesk-4426971615?position=4&pageNum=57&refId=h6lmZKI2gdLfnL%2FNl%2FeMxA%3D%3D&trackingId=VPxhXrYJTbzxJo8%2FlZ%2FF%2FA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGrSi2UOCdL5g/company-logo_100_100/company-logo_100_100/0/1719952472030/autodesk_logo?e=2147483647&v=beta&t=ejv20VZdhB7hf_u0Lk3oSEZZ9gfuIp9MWUH0ilyn5zs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4428122290",
+    "title": "Software Dev Engineer, UTR, Last Mile",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-utr-last-mile-at-amazon-4428122290?position=10&pageNum=80&refId=hi0E0TV1DrgwhOKvDbZmRg%3D%3D&trackingId=FUDi4VaAUfrNKjUc9JqFbQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426981824",
+    "title": "Senior Software Engineer : Frontend",
+    "company": "Blackhawk Network India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-at-blackhawk-network-india-4426981824?position=2&pageNum=82&refId=EgAweOCMtBr6HDwPyUrBjA%3D%3D&trackingId=7HfVHwm%2BSCqSjn4ljv%2FFqg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEL5EztGwxfvg/company-logo_100_100/company-logo_100_100/0/1718234615232/blackhawk_network_india_logo?e=2147483647&v=beta&t=nGRPnLQGWsVRJJFe3rt-Jhx637krPDTqxI47d26zUmk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426983127",
+    "title": "Software Engineer I - VD - User Experience Designer",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-vd-user-experience-designer-at-deloitte-4426983127?position=8&pageNum=20&refId=NDJh2BJRRIGiNhQXdJtW7A%3D%3D&trackingId=qeFhapq6QaygulH0whbd%2FQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426961783",
+    "title": "Software Engineer I -AI Engineering-Software Engineer II",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-ai-engineering-software-engineer-ii-at-deloitte-4426961783?position=7&pageNum=27&refId=2xARkVCj2%2FsGuKT1UkFwww%3D%3D&trackingId=O2VOdCik9wcRY%2FuFHR7rZw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426964704",
+    "title": "Software Engineer I - VD - Senior User Experience Designer",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-vd-senior-user-experience-designer-at-deloitte-4426964704?position=6&pageNum=35&refId=oHQbbcT2O3mHN1MzByM%2BCA%3D%3D&trackingId=PtpJH475Zla1X0NnLwKnsA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426965987",
+    "title": "Software Development Engineer 2",
+    "company": "Adobe",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-2-at-adobe-4426965987?position=4&pageNum=45&refId=pZ8SimQleHTRRU1RGbnWnQ%3D%3D&trackingId=EuJvnJYLA68%2FEN5ZaEHZIQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHilaKdJueUVg/company-logo_100_100/B56ZodIp56HUAU-/0/1761425400481?e=2147483647&v=beta&t=5quwQkjoWPHt-cdv-cBmTVHls2M4cf6o-rcrCVz1-tE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426980592",
+    "title": "Software Engineer I -Full stack engineering (Node JS)-Software Engineer I",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-full-stack-engineering-node-js-software-engineer-i-at-deloitte-4426980592?position=8&pageNum=65&refId=Qk8S1a7LmaSVkTkWlfzaIg%3D%3D&trackingId=llEYfXPpFS9%2Bsbiti5lAog%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426964703",
+    "title": "Software Engineer I -Digital Front End Development- Angular, Software Engineer I",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-digital-front-end-development-angular-software-engineer-i-at-deloitte-4426964703?position=1&pageNum=67&refId=0jS0fUULBoFmXafwJOxnPA%3D%3D&trackingId=U5LXQkgbVPf5QTap1JTwSQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426964702",
+    "title": "Software Engineer I -Full stack engineering (Node JS)-Software Engineer III",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-full-stack-engineering-node-js-software-engineer-iii-at-deloitte-4426964702?position=2&pageNum=67&refId=0jS0fUULBoFmXafwJOxnPA%3D%3D&trackingId=%2FPDkS7YurE0j4vdgwlJspA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426975891",
+    "title": "Computer Scientist - I ( Backend Heavy - Full Stack )",
+    "company": "Adobe",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/computer-scientist-i-backend-heavy-full-stack-at-adobe-4426975891?position=7&pageNum=67&refId=0jS0fUULBoFmXafwJOxnPA%3D%3D&trackingId=O21JJ1puhP76PvRW5uIO4g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHilaKdJueUVg/company-logo_100_100/B56ZodIp56HUAU-/0/1761425400481?e=2147483647&v=beta&t=5quwQkjoWPHt-cdv-cBmTVHls2M4cf6o-rcrCVz1-tE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426932880",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bangalore Rural, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4426932880?position=6&pageNum=5&refId=xvf5NpELlmtKeYp9x%2FMNeQ%3D%3D&trackingId=G17K8tZJkhRy%2BlS8zRKcBQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427998530",
+    "title": "Software Engineer (Platform Developer)",
+    "company": "NetApp",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-platform-developer-at-netapp-4427998530?position=10&pageNum=45&refId=wvaChStdCqG2f0TAbFRpMw%3D%3D&trackingId=GJaBIIRCHbgtrcGCDx6OrQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHBBBHJ60EHpQ/company-logo_100_100/B4EZ2x0ZwfJ0AQ-/0/1776804798059/netapp_logo?e=2147483647&v=beta&t=npLtq7DSM81VB_rppmxI4M5hEbEfmslWCkCOYG7Fy8c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426960613",
+    "title": "Software Engineer",
+    "company": "hackajob",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-hackajob-4426960613?position=9&pageNum=52&refId=U0nxv1Ma1%2FGXxLxsBmncNQ%3D%3D&trackingId=hlwUqR4ofub9vX2vkgEr%2FA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M",
+    "lat": 0,
+    "lng": 0
   }
 ]
