@@ -88,6 +88,28 @@
     "lng": 0
   },
   {
+    "id": "urn:li:jobPosting:4428101682",
+    "title": "Configurator Solution Specialist - Full Stack",
+    "company": "ABB",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-06-12",
+    "link": "https://in.linkedin.com/jobs/view/configurator-solution-specialist-full-stack-at-abb-4428101682?position=9&pageNum=60&refId=NJ1yvFL87hYDJvtwyC1rkw%3D%3D&trackingId=jQ0mzbISU7jcAGF7%2F9HofQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHPGAMgqJMBZQ/company-logo_100_100/company-logo_100_100/0/1630579606103/abb_logo?e=2147483647&v=beta&t=UOAvwz5s6liS099z91BNomM-lOY3CC7ClOAVlUTpdR8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427271067",
+    "title": "Lead Full-Stack Tech Engineer",
+    "company": "Navinyaa Solutions",
+    "location": "Dodda Ballapur, Karnataka, India",
+    "date": "2026-06-12",
+    "link": "https://in.linkedin.com/jobs/view/lead-full-stack-tech-engineer-at-navinyaa-solutions-4427271067?position=8&pageNum=70&refId=571VVtoSfTnrMxjmPIjYWg%3D%3D&trackingId=%2FUt3qkMy6%2F81dtjJU0j1MA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHBUZBDt3Oxzw/company-logo_100_100/B4DZ0j8JR.IwAQ-/0/1774424462997/navinyaa_solutions_logo?e=2147483647&v=beta&t=tZdQzt7S1GHRGYOhVF8KSPE_TPueyL5Bv0lW4Q_lFEY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4427534864",
     "title": "Senior Software Engineer",
     "company": "Deltek",
@@ -1672,6 +1694,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4424530051",
+    "title": "Reactjs Developer",
+    "company": "E4 Software Services Pvt. Ltd",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-05",
+    "link": "https://in.linkedin.com/jobs/view/reactjs-developer-at-e4-software-services-pvt-ltd-4424530051?position=10&pageNum=22&refId=DmrpbreWFZp%2FScijDvJFXA%3D%3D&trackingId=IVR1y0sBTQj61BfejeY14w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQFdkRQdolWGpw/company-logo_100_100/company-logo_100_100/0/1631322319487?e=2147483647&v=beta&t=CTaXF23P2YTCdpHPq96pEhUPEpwsuYHZ60dsoU0J02I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4424125829",
+    "title": "Full Stack Developer",
+    "company": "HCLSoftware",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-05",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-hclsoftware-4424125829?position=9&pageNum=70&refId=571VVtoSfTnrMxjmPIjYWg%3D%3D&trackingId=n1Affww%2B8799S8BUilmTpQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFi9f-ti-ztvQ/company-logo_100_100/company-logo_100_100/0/1699438638262/hclsoftware_logo?e=2147483647&v=beta&t=US4LfGlTjg5sqtB4DF6YloVz0B0sz3faj-iMbACQTIg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4423394697",
     "title": "Software Engineer",
     "company": "Weekday AI (YC W21)",
@@ -2242,6 +2286,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGHqQMT0dV_Jw/company-logo_100_100/B56ZYfuzuWGsAQ-/0/1744289086924/hiverhq_logo?e=2147483647&v=beta&t=g8EhNyAtSgPK0BP_ZoA43oPV_5-kBj8o7FmTJ2iD5nI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4423357401",
+    "title": "Software Engineer",
+    "company": "Kyndryl",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-04",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-kyndryl-4423357401?position=9&pageNum=72&refId=AviYbsoiaKAPep4gr5CjxQ%3D%3D&trackingId=f2GAc7%2FQ%2BPUaNuIdklVpcA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHgQ1kcTnuSCg/company-logo_100_100/company-logo_100_100/0/1630640554546/kyndryl_logo?e=2147483647&v=beta&t=-hGKJoU30DGfKUjMNT6koghuAwV_yfBBv35_c6l4JT8",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4424047825",
@@ -2992,6 +3047,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4422402784",
+    "title": "Backend Engineer",
+    "company": "VAHAN Jewelry",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-02",
+    "link": "https://in.linkedin.com/jobs/view/backend-engineer-at-vahan-jewelry-4422402784?position=10&pageNum=80&refId=rg9IDhaZfQgkkSo%2Bb8auSA%3D%3D&trackingId=NRsAMlk2MsFu55G1UASb5g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG6L_bLVqJjyA/company-logo_100_100/company-logo_100_100/0/1678567994927?e=2147483647&v=beta&t=4YMLLCYfqQ5PgVxWSUpM-PhzEs-UVwyrxUMtrLMYHR8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4416488445",
     "title": "Software Engineer",
     "company": "Aurigo Software Technologies",
@@ -3221,6 +3287,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEKc1szqMZs1A/company-logo_100_100/company-logo_100_100/0/1719559364326/cube_global_logo?e=2147483647&v=beta&t=tviyhLrTafddMKP2dzQN5zJ8-wIVO60RfFH79-ORpUE",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4418748745",
+    "title": "Senior Application Software Engineer",
+    "company": "Oracle",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-01",
+    "link": "https://in.linkedin.com/jobs/view/senior-application-software-engineer-at-oracle-4418748745?position=2&pageNum=85&refId=8SNJN9pPet9y5BfnXA6MCA%3D%3D&trackingId=R7saMVHKun4Ugpj2wLAKhw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4422573553",
@@ -3815,6 +3892,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFMUs9_RUQvSQ/company-logo_100_100/company-logo_100_100/0/1630596717758/eversana_logo?e=2147483647&v=beta&t=hgkS8fTHASElXGQ16m1Y3PfUlhKuqiQrssC6Eu_ppvc",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4420670055",
+    "title": "Senior Software Engineer, Full-Stack — Content Tools",
+    "company": "Epic for Kids",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-05-29",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-full-stack-%E2%80%94-content-tools-at-epic-for-kids-4420670055?position=9&pageNum=80&refId=rg9IDhaZfQgkkSo%2Bb8auSA%3D%3D&trackingId=IKYku%2Br%2FuH4udhmjsfzrDw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEkRMTXhdCKXw/company-logo_100_100/company-logo_100_100/0/1634087309620/epic4kids_logo?e=2147483647&v=beta&t=UFXzQRb3_srb5Bgb1fSm3LcdHHUU5CUMHUC_wJZOh9o",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4420407189",
@@ -8347,6 +8435,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFsCstlm2RMAg/company-logo_100_100/company-logo_100_100/0/1696368075584/oleriasecurity_logo?e=2147483647&v=beta&t=OdkId9zdhDxe4knURFI65wtoDpEX7Qk73ElQiX_rpoQ",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4416235077",
+    "title": "Qt Developer",
+    "company": "COMRADO Aerospace",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-18",
+    "link": "https://in.linkedin.com/jobs/view/qt-developer-at-comrado-aerospace-4416235077?position=10&pageNum=72&refId=AviYbsoiaKAPep4gr5CjxQ%3D%3D&trackingId=REWnHamqwAiPuhd2VF4gHw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFiehtto3QB0w/company-logo_100_100/company-logo_100_100/0/1713815418609/comrado_aerospace_logo?e=2147483647&v=beta&t=B4Own7f26LeaTUiaATHWSkBOoLqYSW8Sy32VOSvimlM",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4415451732",
@@ -42000,6 +42099,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4330475046",
+    "title": "WordPress Developer",
+    "company": "Aarushi Infotech",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-01-06",
+    "link": "https://in.linkedin.com/jobs/view/wordpress-developer-at-aarushi-infotech-4330475046?position=10&pageNum=80&refId=VZMxCyJAnTAi91yawiqXYQ%3D%3D&trackingId=%2Fv8U%2FUSvaMi%2FnCRLtB88oA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGPpe1ST1l9TQ/company-logo_100_100/company-logo_100_100/0/1630641170125/aarushi_infotech_logo?e=2147483647&v=beta&t=wIGgTpznko5mmiCteysJxdBRuH4xEZcA6VJ-DI6mDfE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4367411064",
     "title": "Software Development Engineer - 2",
     "company": "Loop AI",
@@ -45132,6 +45242,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGHUltkZBwO2w/company-logo_100_100/B56ZaPTGtWGkAY-/0/1746160872700/quoqotech_logo?e=2147483647&v=beta&t=bVffHZV2xjUZoaiOJdTwuAKOH8RlOadsF40DOmyVMsA",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4270625001",
+    "title": "Technical Lead (Frontend & Backend)",
+    "company": "Foiwe Info Global Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-07-21",
+    "link": "https://in.linkedin.com/jobs/view/technical-lead-frontend-backend-at-foiwe-info-global-solutions-4270625001?position=7&pageNum=70&refId=571VVtoSfTnrMxjmPIjYWg%3D%3D&trackingId=c8UBexhXi%2F4IRJGeMqy1bA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE-Hd75Lw_Gdw/company-logo_100_100/B56ZXweKRhHEAU-/0/1743496194741/foiwe_logo?e=2147483647&v=beta&t=UagtnpEpwrTRmFNoBicprmaoPmojkrE9t30IFmNVsYE",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4264571059",
@@ -93833,5 +93954,165 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE_rgphO2LrKw/company-logo_100_100/company-logo_100_100/0/1719841365975/bookingholdings_logo?e=2147483647&v=beta&t=ppFlZXXXAyOWDTae073gFHYaKfZYrKKJZDoAPy8NKKE",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4427419572",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4427419572?position=8&pageNum=7&refId=Pe8u4zw0XxrBWSsz0zEk1w%3D%3D&trackingId=xgaHUSl2enP2g1QLzXyAww%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427419573",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4427419573?position=9&pageNum=17&refId=hkM2%2Br5GVfVXvcAMG7h8eg%3D%3D&trackingId=DINIQHGuIk38PVucHvkvhw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427430426",
+    "title": "React / Angular - Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-angular-software-engineer-at-scoutit-4427430426?position=8&pageNum=45&refId=5qI6eOBNwuDPAusCbo8HoA%3D%3D&trackingId=zDt0CKmSpUODtUaOI0iKFQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427410994",
+    "title": "Early Career Software Engineer",
+    "company": "Halliburton",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/early-career-software-engineer-at-halliburton-4427410994?position=5&pageNum=82&refId=fVe0OGnlhsAbr4ns%2F2n82g%3D%3D&trackingId=agOaQSUPVWSgEPdbIy03Rg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFtpbHFAokMwQ/company-logo_100_100/company-logo_100_100/0/1654719813092/halliburton_logo?e=2147483647&v=beta&t=SXl6jEnB8_zaGv5voJY-clX_UkyDpcUAwShYLSKxeeA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427421600",
+    "title": "Backend Software Development Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/backend-software-development-engineer-at-scoutit-4427421600?position=1&pageNum=95&refId=GcmBtbSpwQNUZ7dp8OG2%2BA%3D%3D&trackingId=l9Ei%2Ba%2Fqm%2Fxo4WJMbgh0CA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427424584",
+    "title": "Backend Software Development Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru North, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/backend-software-development-engineer-at-scoutit-4427424584?position=6&pageNum=95&refId=GcmBtbSpwQNUZ7dp8OG2%2BA%3D%3D&trackingId=2r0a3WkOrzgV2If3TPYzUw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427435234",
+    "title": "Frontend Software Development Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-software-development-engineer-at-scoutit-4427435234?position=6&pageNum=12&refId=plX6CsYP1ljCmZGxm8k33w%3D%3D&trackingId=%2BqQTt6RLkZWq7yuEY9mwYQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427417631",
+    "title": "Frontend Software Development Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-software-development-engineer-at-scoutit-4427417631?position=1&pageNum=15&refId=kbX8m5VZnwpUb3wgVO77Hg%3D%3D&trackingId=ioUhoAVjxVUSincoOx%2B7oQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427429384",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4427429384?position=3&pageNum=15&refId=kbX8m5VZnwpUb3wgVO77Hg%3D%3D&trackingId=oryeQLeQg2scnb5Ksfg3GQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427416649",
+    "title": "React / Angular - Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-angular-software-engineer-at-scoutit-4427416649?position=1&pageNum=22&refId=HWsND0nOGbZh5gYoQPX%2B6A%3D%3D&trackingId=ytv4Q1VG99KPHmi4L7LLng%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427430425",
+    "title": "React / Angular - Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru North, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-angular-software-engineer-at-scoutit-4427430425?position=2&pageNum=22&refId=HWsND0nOGbZh5gYoQPX%2B6A%3D%3D&trackingId=xLHub1gknmgqAORxu%2FQc7A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427427487",
+    "title": "Frontend Software Development Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-software-development-engineer-at-scoutit-4427427487?position=4&pageNum=12&refId=0AGGy%2FyqUmfekF1JwjcP4w%3D%3D&trackingId=PXk2bIt7r3l7d7qM%2FOH9%2FA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427423531",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bangalore Rural, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4427423531?position=5&pageNum=12&refId=0AGGy%2FyqUmfekF1JwjcP4w%3D%3D&trackingId=cPdedJyNBKM9hVAFUksuog%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427431448",
+    "title": "Backend Software Development Engineer",
+    "company": "Scoutit",
+    "location": "Bangalore Rural, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/backend-software-development-engineer-at-scoutit-4427431448?position=1&pageNum=67&refId=tC3ZREWs5O0ED0avj%2ByK%2FQ%3D%3D&trackingId=Vh%2FVDCMcRUaw6yELeJk6qQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427418641",
+    "title": "Backend Software Development Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/backend-software-development-engineer-at-scoutit-4427418641?position=3&pageNum=90&refId=EQEIGTHzQJUkhjerGgydRA%3D%3D&trackingId=is2yRVqbab5Ksvv8oxYj9A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427411703",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bangalore Urban district, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4427411703?position=4&pageNum=10&refId=1G41dfs7NlV3xLmus6orXQ%3D%3D&trackingId=x3aS1PH4LAYfUVCY6VA0BQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
   }
 ]
