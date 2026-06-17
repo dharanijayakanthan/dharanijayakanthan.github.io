@@ -2266,6 +2266,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4424177081",
+    "title": "Software Engineer",
+    "company": "Recrew AI",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-05",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-recrew-ai-4424177081?position=1&pageNum=97&refId=myqIHjKFrfDCOSirSMLhoA%3D%3D&trackingId=kk3a1K%2FwvGgcjR5eygXXfQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGM70qm9MbWvA/company-logo_100_100/company-logo_100_100/0/1729664053436/recrew_ai_logo?e=2147483647&v=beta&t=RCofKskdvbsnkea0U_gPcjUIePQ7boxR7mGyf4nKjDU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4423394697",
     "title": "Software Engineer",
     "company": "Weekday AI (YC W21)",
@@ -5038,6 +5049,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4351730077",
+    "title": "Sr. MTS, Software Engineer - FullStack",
+    "company": "eBay",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-28",
+    "link": "https://in.linkedin.com/jobs/view/sr-mts-software-engineer-fullstack-at-ebay-4351730077?position=10&pageNum=97&refId=xKeFUBnoJDyLkmLpmNwKKQ%3D%3D&trackingId=Uqj6f4j2Y%2B35DEAT7AF1PQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFfGj-Xuawo6A/company-logo_100_100/company-logo_100_100/0/1634568184469/ebay_logo?e=2147483647&v=beta&t=BEp-EQMNBexZVYGMcq6jeof_bX8QzuCCq4BEG6UCRdM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4419564024",
     "title": "Software Development Engineer II, Grocery In-store",
     "company": "Amazon",
@@ -5509,6 +5531,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGrSi2UOCdL5g/company-logo_100_100/company-logo_100_100/0/1719952472030/autodesk_logo?e=2147483647&v=beta&t=ejv20VZdhB7hf_u0Lk3oSEZZ9gfuIp9MWUH0ilyn5zs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4418844491",
+    "title": ".Net Fullstack (Angular) Developer",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-05-27",
+    "link": "https://in.linkedin.com/jobs/view/net-fullstack-angular-developer-at-infosys-4418844491?position=2&pageNum=97&refId=xKeFUBnoJDyLkmLpmNwKKQ%3D%3D&trackingId=Yo%2BhoMgGpkp%2F8HLFSDaoyA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4418254248",
@@ -97594,6 +97627,156 @@
     "location": "Bangalore Rural, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/software-development-engineer-at-scoutit-4428472629?position=4&pageNum=90&refId=RE94zA0w5lcA4s25TYxHFA%3D%3D&trackingId=1nfl7jFvBGC2zUL2%2FFWi%2FA%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4428485484",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4428485484?position=2&pageNum=7&refId=8J%2FTHhBtBHKHhBcjvA1Eog%3D%3D&trackingId=A0kyK7bjBOCMwCiO9kjt8A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4428475634",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bangalore Urban district, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4428475634?position=1&pageNum=10&refId=igVQQhRqy5A%2BCwKig2cLTw%3D%3D&trackingId=ANT81ikS9hyenT8glrFyzA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4428479656",
+    "title": "Frontend Software Development Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-software-development-engineer-at-scoutit-4428479656?position=6&pageNum=20&refId=FLQELLpIGjfO8l1NfdpCGw%3D%3D&trackingId=9u7TuqFwV7f2ldsLgdoNyg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430102132",
+    "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-i-amazon-university-talent-acquisition-at-amazon-4430102132?position=3&pageNum=42&refId=OzQo1aps6ZngVNc9nC6VCw%3D%3D&trackingId=DgBjSrpcH32fmRXgiBXycQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427343634",
+    "title": "React Native Developer",
+    "company": "Truemeds",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-native-developer-at-truemeds-4427343634?position=5&pageNum=50&refId=qGttEiap6ynvTbTV6ZPg3g%3D%3D&trackingId=EQREP7HJ%2BK24goUuMVEMYQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFrrPrykY73xQ/company-logo_100_100/company-logo_100_100/0/1738085687179?e=2147483647&v=beta&t=xi7Yo2T6aHKnpRbCwxRIgIiuhpxNkVYZ8SS7GUECqos",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427306653",
+    "title": "Customer Experience Engineer",
+    "company": "Ketch",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/customer-experience-engineer-at-ketch-4427306653?position=7&pageNum=77&refId=6b6SO653pBupkRmtoZ8QJw%3D%3D&trackingId=LkxTuBa3Ue6Rd%2BxW0iqHwA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHEIIOEV9mtGg/company-logo_100_100/B56ZmWBz95KwAQ-/0/1759158681767/ketchdigital_logo?e=2147483647&v=beta&t=gje2H-3q6Gcnt70UVIO29X5ToHBd0P2Fg2DWKtP1krk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4429994096",
+    "title": "MODULE LEAD - ReactJS",
+    "company": "Happiest Minds Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/module-lead-reactjs-at-happiest-minds-technologies-4429994096?position=4&pageNum=87&refId=tlN7iTpl2%2B1jl3TfWgZdNw%3D%3D&trackingId=%2BARRgdC%2BqKXIUwWrc37vvA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHrStoH8fGuxw/company-logo_100_100/B56ZwiMfPGHcAQ-/0/1770100227699/happiest_minds_technologies_logo?e=2147483647&v=beta&t=-auObn_ZxRe-m2VVRutsYcb0xcVM2r8vqzrPLt78JV0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4427307455",
+    "title": "Software Developer – C++, TypeScript, Angular (Linux Applications)",
+    "company": "Siemens",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-developer-%E2%80%93-c%2B%2B-typescript-angular-linux-applications-at-siemens-4427307455?position=6&pageNum=95&refId=MH%2BIsqo36qyPvB2G0izoAg%3D%3D&trackingId=KhmEgi5o%2BsT1vjNXNZUfig%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_100_100/company-logo_100_100/0/1719931174735/siemens_logo?e=2147483647&v=beta&t=iNZVOYYuYOnkz09IBCFrK9Ik8uTqP6ZDnhCEJjPouV4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4416898739",
+    "title": "Software Engineer - Infotainment Testing with TCU",
+    "company": "HARMAN India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-infotainment-testing-with-tcu-at-harman-india-4416898739?position=2&pageNum=97&refId=myqIHjKFrfDCOSirSMLhoA%3D%3D&trackingId=yAzeJAYISgo%2FQtf19%2FJPcg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDKElnmeXZQg/company-logo_100_100/company-logo_100_100/0/1719928441230/harmanindia_logo?e=2147483647&v=beta&t=RcIRqRbij9ibXo-Mc9kJC4nhXdIBLCBwFIMdw9ugWG4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4428728226",
+    "title": "React JS Developer",
+    "company": "Docdort",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-js-developer-at-docdort-4428728226?position=7&pageNum=12&refId=%2BCuObv0Ge3yHWJZ4IHTJww%3D%3D&trackingId=hyIdQRhAMJxBNMGWTKm9Yg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHYoL193qv6tg/company-logo_100_100/company-logo_100_100/0/1708086353497?e=2147483647&v=beta&t=doTLs0z2V8z99KLZTCn8DJFQdsRHVD6cfaxs2Y9rPgQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4428470759",
+    "title": "Frontend Software Development Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru Rural District, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-software-development-engineer-at-scoutit-4428470759?position=1&pageNum=12&refId=u5JBlTQsKiYg6gXe8oHUQQ%3D%3D&trackingId=xxmzIERP%2BZEP1jahd%2F5zPw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430106073",
+    "title": "Software Development Engineer - FTC",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ftc-at-amazon-4430106073?position=3&pageNum=72&refId=I2Gd2j36DWJpFunvshDTBg%3D%3D&trackingId=CRx5nR5RwUoJYvwS0%2BXMcw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4429989210",
+    "title": "Software Development Engineer - FTC",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ftc-at-amazon-4429989210?position=6&pageNum=85&refId=P0qCi%2Flnzj1qz0rHgCEUiQ%3D%3D&trackingId=JGiTo9344p2820ZxQKBIww%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4429953876",
+    "title": "Front End Developer",
+    "company": "capSpire",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/front-end-developer-at-capspire-4429953876?position=2&pageNum=22&refId=rXifyP0CDCTtTi6D9bgrxw%3D%3D&trackingId=fQlju57DqUnw%2B%2BewHH7%2BmA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGUrL8z3OEUUQ/company-logo_100_100/company-logo_100_100/0/1689847553506/capspire_logo?e=2147483647&v=beta&t=w1asKLHsFAgXWX5jY5WXEw7yu4ZU--bt6xcfiypp31I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4429905943",
+    "title": "Software Engineer Specialist",
+    "company": "Esko",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-specialist-at-esko-4429905943?position=3&pageNum=60&refId=2fe34%2FLg%2BwC5EaAqX2UrrA%3D%3D&trackingId=YCbGUKUA6W0BqP7BZmUyAQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEx5sSYo-xfug/company-logo_100_100/company-logo_100_100/0/1711126702508/esko_logo?e=2147483647&v=beta&t=cxmYdqAOt7GpIIxxDtbWA3eTbwRgV8qx0f1K2896HlE",
     "lat": 0,
     "lng": 0
   }
