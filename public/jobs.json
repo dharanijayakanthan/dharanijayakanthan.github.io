@@ -40,8 +40,8 @@
     "date": "2026-06-19",
     "link": "https://in.linkedin.com/jobs/view/vue-js-at-infosys-4430018480?position=5&pageNum=12&refId=1vktmqVJ%2F2ecGxHoHB4paA%3D%3D&trackingId=ZLM83qK%2F1xtgh%2F508ZG2Eg%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.8461795,
+    "lng": 77.6776437
   },
   {
     "id": "urn:li:jobPosting:4430993594",
@@ -51,8 +51,8 @@
     "date": "2026-06-19",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-principal-i-at-progress-software-4430993594?position=8&pageNum=65&refId=1%2F69Obk9rHjUoIIeMvd%2BBQ%3D%3D&trackingId=jHM8J60fBDeVbAZ5RmCDRA%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGldm6803bfwQ/company-logo_100_100/company-logo_100_100/0/1719852274348/progress_software_logo?e=2147483647&v=beta&t=JC2M0-hY8R7uJbFdO1ZkRZyStzr9QyQKPIhI7-8R4c8",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4427392924",
@@ -337,8 +337,8 @@
     "date": "2026-06-18",
     "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-epsilon-4429001251?position=4&pageNum=62&refId=Kz3dGp0KfQ5rMn5biiO9%2Bw%3D%3D&trackingId=2zMGA%2FWLRysxZg5lHZHMQA%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHTq28lFWEZTw/company-logo_100_100/company-logo_100_100/0/1722449351277/epsilon_logo?e=2147483647&v=beta&t=JVhXdGxn4xlr7Y4CzxWce0DjUqsK2zb5Na-aAbyaHfY",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9452581,
+    "lng": 77.6886571
   },
   {
     "id": "urn:li:jobPosting:4429780809",
@@ -1712,8 +1712,8 @@
     "date": "2026-06-12",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-position-located-in-bangalore-india-at-knowbe4-4426698418?position=1&pageNum=97&refId=AispzKVKzKD03pRP4c5qiw%3D%3D&trackingId=Or1cfjgWvix0igSLPnKx3Q%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGNhWEZdSQMDg/company-logo_100_100/B4EZibaHOLGcAQ-/0/1754953971038/knowbe4_logo?e=2147483647&v=beta&t=i_XEMjio7F_95EgngMYDXujQqU-SjD6zWRFfBDNXPvY",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4427534864",
@@ -3043,8 +3043,8 @@
     "date": "2026-06-09",
     "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-at-cloudera-4425806849?position=8&pageNum=97&refId=AispzKVKzKD03pRP4c5qiw%3D%3D&trackingId=3f5kmmdIg8OzDK4HdxSYbQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHVexkKukGI9w/company-logo_100_100/B56Zy.0uE_IkAU-/0/1772728017506/cloudera_logo?e=2147483647&v=beta&t=WukUE4EAb0DBs4cy-CAuv6nErUlg6LV7brv0PK1rE1Y",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4425653281",
@@ -102703,7 +102703,7 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-at-netapp-4428546982?position=6&pageNum=97&refId=AispzKVKzKD03pRP4c5qiw%3D%3D&trackingId=gNDEbdy0Pt3xaD41gv5wyA%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHBBBHJ60EHpQ/company-logo_100_100/B4EZ2x0ZwfJ0AQ-/0/1776804798059/netapp_logo?e=2147483647&v=beta&t=npLtq7DSM81VB_rppmxI4M5hEbEfmslWCkCOYG7Fy8c",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9943449,
+    "lng": 77.7084168
   }
 ]
