@@ -29,8 +29,8 @@
     "date": "2026-06-20",
     "link": "https://ca.linkedin.com/jobs/view/web-developer-at-kongsberg-geospatial-4398487375?position=8&pageNum=35&refId=6Ia37HxRCS3ChILQo7zQxg%3D%3D&trackingId=0X3X6ZFYg4dKW3XhfepCSQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEVj-nZtqAvZw/company-logo_100_100/company-logo_100_100/0/1686068917307/kongsberg_geospatial_logo?e=2147483647&v=beta&t=aQLBvkw_f8qV7OiArJFcSVth7WQELMDhbzBF0dR_1tc",
-    "lat": 0,
-    "lng": 0
+    "lat": 45.3452291,
+    "lng": -75.9104687
   },
   {
     "id": "urn:li:jobPosting:4289517313",
@@ -40,8 +40,8 @@
     "date": "2026-06-20",
     "link": "https://www.linkedin.com/jobs/view/staff-software-engineer-frontend-at-harvey-4289517313?position=5&pageNum=40&refId=NMxFgyLK2%2FJyYa6IQnYjjQ%3D%3D&trackingId=LqZYNHUwcPJVvK1euJp2DA%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEkyRHeFI9sdA/company-logo_100_100/company-logo_100_100/0/1727880962073/harvey_ai_logo?e=2147483647&v=beta&t=R7mvs4pnZdMKwptao13miPBqtpVCfbaFHNdv9gf4DAY",
-    "lat": 0,
-    "lng": 0
+    "lat": 37.7622754,
+    "lng": -122.4356124
   },
   {
     "id": "urn:li:jobPosting:4371108744",
@@ -194,8 +194,8 @@
     "date": "2026-06-19",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-hackajob-4429646137?position=5&pageNum=92&refId=nUy0zpIPIvPNk8B%2BTnyB5Q%3D%3D&trackingId=MG%2FTdYKXqkeZuzX71lgRTw%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4429650631",
@@ -205,8 +205,8 @@
     "date": "2026-06-19",
     "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-tesco-bengaluru-4429650631?position=3&pageNum=95&refId=6Mdaa0uXNGT6dOfMl99POw%3D%3D&trackingId=RKAwsE%2BHudM9eiKJFkAgew%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNqJip6BEwGw/company-logo_100_100/company-logo_100_100/0/1688367507340/tesco_bengaluru_logo?e=2147483647&v=beta&t=RNhSg7-j-lU4JLvK8r-VtORAikcZ6GcI8M0sqJiRom4",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9736991,
+    "lng": 77.7285752
   },
   {
     "id": "urn:li:jobPosting:4428219783",
@@ -227,8 +227,8 @@
     "date": "2026-06-19",
     "link": "https://in.linkedin.com/jobs/view/sr-software-engineer-enterprise-infrastructure-at-linkedin-4428218038?position=8&pageNum=72&refId=ZdQ5Qzy2h3kRcuVfFE%2F2Nw%3D%3D&trackingId=H%2Bzg8ZqqKGGEyxjJgGo07Q%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9272566,
+    "lng": 77.6828027
   },
   {
     "id": "urn:li:jobPosting:4427392924",
@@ -535,8 +535,8 @@
     "date": "2026-06-18",
     "link": "https://in.linkedin.com/jobs/view/full-stack-developer-iii-vue-js-react-js-and-nest-js-at-vonage-4409261527?position=7&pageNum=97&refId=asP7GSTuAu46MeJHbONLGw%3D%3D&trackingId=nrAIEw7j%2BDSlR5iIJ84cmg%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHAjkQnOKbUzw/company-logo_100_100/company-logo_100_100/0/1701277430733/vonage_logo?e=2147483647&v=beta&t=pt9kAPVZQm_IyIDFVLsdkTyfWcofJXaCVsvfCgarPsg",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4419951450",
@@ -1734,8 +1734,8 @@
     "date": "2026-06-15",
     "link": "https://uk.linkedin.com/jobs/view/software-engineer-frontend-at-barclays-4425326402?position=2&pageNum=22&refId=rYKFSJNgAyQhIdxFoQ1RQg%3D%3D&trackingId=1%2FhcvVEbAXF37GXKtPEgwA%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFAXc9z0Go7Uw/company-logo_100_100/company-logo_100_100/0/1663677974291/barclays_bank_logo?e=2147483647&v=beta&t=Wbhfg6jCeqyGRAAHRm9rt8zG3NCAuhHikGg5bL1tH-U",
-    "lat": 0,
-    "lng": 0
+    "lat": 53.2712366,
+    "lng": -2.3487415
   },
   {
     "id": "urn:li:jobPosting:4429174096",
@@ -1789,8 +1789,8 @@
     "date": "2026-06-15",
     "link": "https://uk.linkedin.com/jobs/view/senior-frontend-engineer-uk-at-pigment-4426336740?position=7&pageNum=55&refId=n5HnH8j9Hf6E3X25pftJDg%3D%3D&trackingId=y4Bzs4eSHcHFy7PXKwLBxw%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEVYshYq84tOw/company-logo_100_100/company-logo_100_100/0/1725986089057/pigment_logo?e=2147483647&v=beta&t=tHQHmPjKQsgS6IWHGLPS-OpWMDfTM4sUVH9UAeLK84M",
-    "lat": 0,
-    "lng": 0
+    "lat": 51.5286963,
+    "lng": -0.0414697
   },
   {
     "id": "urn:li:jobPosting:4425736775",
@@ -1877,8 +1877,8 @@
     "date": "2026-06-14",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-at-trimble-inc-4369621217?position=2&pageNum=35&refId=6Ia37HxRCS3ChILQo7zQxg%3D%3D&trackingId=e2r3VbhRUZCeAfar%2B9ihXg%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHM4R2dJDTWcQ/company-logo_100_100/B56Zat13QIHUAQ-/0/1746673300891/trimble_logo?e=2147483647&v=beta&t=4vNYuqWRjZf4hQeBvTaGa0MWB36ZLJBxOQuLDwv5KpQ",
-    "lat": 0,
-    "lng": 0
+    "lat": 39.8971434,
+    "lng": -105.1155221
   },
   {
     "id": "urn:li:jobPosting:4427403143",
@@ -1910,8 +1910,8 @@
     "date": "2026-06-13",
     "link": "https://www.linkedin.com/jobs/view/staff-software-engineer-front-end-at-watershed-4417196524?position=2&pageNum=55&refId=n5HnH8j9Hf6E3X25pftJDg%3D%3D&trackingId=Fes1OBKdkakqnj%2FqrzIfKw%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQFQAitJ8Lkdhw/company-logo_100_100/company-logo_100_100/0/1670266114751/watershedclimate_logo?e=2147483647&v=beta&t=U12drL_dDpLLIoaDusRYfx0ornJOozOLM2-VDQyvmoE",
-    "lat": 0,
-    "lng": 0
+    "lat": 43.0769792,
+    "lng": -75.6576366
   },
   {
     "id": "urn:li:jobPosting:4425347052",
@@ -2163,8 +2163,8 @@
     "date": "2026-06-12",
     "link": "https://www.linkedin.com/jobs/view/ux-front-end-developer-at-sweetwater-4418023572?position=7&pageNum=40&refId=NMxFgyLK2%2FJyYa6IQnYjjQ%3D%3D&trackingId=yFbwNLkv3SwzEv5PAG%2BdZQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGXAq7W7Hu3Sg/company-logo_100_100/B56Z2H0.VcKMAQ-/0/1776100304513/sweetwater_logo?e=2147483647&v=beta&t=QnMsuoaUp_bUf6kVph3ddRGHC33-yQP1eCnqeHuTv8s",
-    "lat": 0,
-    "lng": 0
+    "lat": 41.1242974,
+    "lng": -85.2131765
   },
   {
     "id": "urn:li:jobPosting:4427534864",
@@ -2823,8 +2823,8 @@
     "date": "2026-06-10",
     "link": "https://in.linkedin.com/jobs/view/agentic-ai-software-engineer-ii-at-deloitte-4426105503?position=1&pageNum=45&refId=qZV5Ldj4ya%2FN7FZa4QB1%2FA%3D%3D&trackingId=cfohKBbCYPkV0u53JjJN1g%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9435244,
+    "lng": 77.6986223
   },
   {
     "id": "urn:li:jobPosting:4397747859",
@@ -2834,8 +2834,8 @@
     "date": "2026-06-10",
     "link": "https://www.linkedin.com/jobs/view/front-end-engineer-react-native-at-bilt-4397747859?position=10&pageNum=35&refId=6Ia37HxRCS3ChILQo7zQxg%3D%3D&trackingId=TIA%2B7sgh4wWoFjr3FDP0FQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFkSG94I7TcZw/company-logo_100_100/B4EZoxibX7KMAQ-/0/1761767701405/biltrewards_logo?e=2147483647&v=beta&t=m0iztmyG-PTHsnBPxcD0EaTxqhKkNxKEsgE0SFgAOEc",
-    "lat": 0,
-    "lng": 0
+    "lat": 41.3199903,
+    "lng": -74.1792862
   },
   {
     "id": "urn:li:jobPosting:4425825876",
@@ -3868,8 +3868,8 @@
     "date": "2026-06-08",
     "link": "https://uk.linkedin.com/jobs/view/software-engineer-front-end-at-on-the-beach-4425228918?position=3&pageNum=52&refId=6RzN%2BhsY4V7u4vhuF3USwQ%3D%3D&trackingId=qsU2pdLq2m9ZfK05mtb%2B%2Fg%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGCGjs8cfbsvA/company-logo_100_100/company-logo_100_100/0/1664004820465?e=2147483647&v=beta&t=SdE2osUfFSA28-mORcoAGH8gNZ2kymgh7cv9TaWis_8",
-    "lat": 0,
-    "lng": 0
+    "lat": 53.4783995,
+    "lng": -2.2232317
   },
   {
     "id": "urn:li:jobPosting:4351704725",
@@ -5573,8 +5573,8 @@
     "date": "2026-06-03",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-at-walmart-global-tech-india-4401614127?position=2&pageNum=97&refId=asP7GSTuAu46MeJHbONLGw%3D%3D&trackingId=vTTn7mv0RHHRtpq1vEYQdQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4424075158",
@@ -6673,8 +6673,8 @@
     "date": "2026-06-01",
     "link": "https://ca.linkedin.com/jobs/view/senior-frontend-engineer-at-mozilla-4423237904?position=4&pageNum=22&refId=rYKFSJNgAyQhIdxFoQ1RQg%3D%3D&trackingId=Q1lWrpZkAgWXreA5zZu%2BgQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEd2Es3SH2hIQ/company-logo_100_100/company-logo_100_100/0/1733347563365/mozilla_corporation_logo?e=2147483647&v=beta&t=4VWUvr_elL3lXzXyPbJOzofEOiOXAWfvjyZEPTK142A",
-    "lat": 0,
-    "lng": 0
+    "lat": 43.6472995,
+    "lng": -79.3943762
   },
   {
     "id": "urn:li:jobPosting:4393821552",
@@ -16925,8 +16925,8 @@
     "date": "2026-05-01",
     "link": "https://in.linkedin.com/jobs/view/full-stack-developer-mern-at-comviva-4409407874?position=5&pageNum=62&refId=aOfKDACpRlPtCoBAdEyYxg%3D%3D&trackingId=8dvxFgsyqJu9Dqh8iwm%2Fbw%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQE3CVOcLuBxYQ/company-logo_100_100/company-logo_100_100/0/1630583573410/mahindra_comviva_logo?e=2147483647&v=beta&t=uPwc1gYj0wbw7ovHPAPx7HqSxOe082zfq0llalzITT8",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4407620155",
@@ -23052,8 +23052,8 @@
     "date": "2026-04-06",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-web-product-at-mirage-4398058823?position=8&pageNum=77&refId=GA0pACLwv%2BKiTKFvvxXuSw%3D%3D&trackingId=gz1dElEYlGZbmfcdbeeacA%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEst0uxvbfWdw/company-logo_100_100/B4EZkU9kREGUAQ-/0/1756993309583/trymirage_logo?e=2147483647&v=beta&t=_WhZta9IB2XgiRuvQiE-X2sScNwaYOL4NqhqdBfHUdo",
-    "lat": 0,
-    "lng": 0
+    "lat": 43.2291264,
+    "lng": -77.7353557
   },
   {
     "id": "urn:li:jobPosting:4394418301",
@@ -48200,8 +48200,8 @@
     "date": "2025-12-04",
     "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4342111900?position=4&pageNum=97&refId=asP7GSTuAu46MeJHbONLGw%3D%3D&trackingId=qherqi9h1gdHKZDkRkrnGA%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4341713011",
@@ -48431,8 +48431,8 @@
     "date": "2025-11-29",
     "link": "https://in.linkedin.com/jobs/view/sr-software-engineer-at-travtech-inc-4339845987?position=6&pageNum=97&refId=dmqtZ2HJ1QU3dzdBhl2eiA%3D%3D&trackingId=8B4E30t4wV9jFEgBCpynWQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQENVEjj3XCqqA/company-logo_100_100/company-logo_100_100/0/1630651390622/travtech_logo?e=2147483647&v=beta&t=ZnbzMKTdCba0onu42wGTdj8G86IktLpDtSpMJpg4ltk",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4339298060",
@@ -49146,8 +49146,8 @@
     "date": "2025-10-17",
     "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4316340423?position=8&pageNum=97&refId=2gPVW3rJ8uQ5m8Re533%2FfQ%3D%3D&trackingId=AFdynX92rIcv9Houi7WjKw%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4315211910",
@@ -50432,8 +50432,8 @@
     "date": "2025-06-30",
     "link": "https://ca.linkedin.com/jobs/view/frontend-developer-north-america-pst-at-brix-4259461919?position=6&pageNum=55&refId=n5HnH8j9Hf6E3X25pftJDg%3D%3D&trackingId=7NBDnrxRTw0%2BxWu1GWDVsA%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFcO6nbrNNEJA/company-logo_100_100/B56ZnTFzAGHQAQ-/0/1760183139441/joinbrix_logo?e=2147483647&v=beta&t=nmGiObxBwtFCjvuL-HfP2b7dWK6DdgNwZbjxZoQw3Zo",
-    "lat": 0,
-    "lng": 0
+    "lat": 44.3259976,
+    "lng": -80.0987699
   },
   {
     "id": "urn:li:jobPosting:4259095685",
@@ -103875,8 +103875,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4431652404?position=5&pageNum=17&refId=kHhHyp3Vv5UoSxQUxa8CjA%3D%3D&trackingId=mpWzHvdG8DvNbYlF76UTTQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9730521,
+    "lng": 77.7166929
   },
   {
     "id": "urn:li:jobPosting:4431679593",
@@ -103885,8 +103885,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4431679593?position=6&pageNum=17&refId=kHhHyp3Vv5UoSxQUxa8CjA%3D%3D&trackingId=zsaRCNYwYD8pkbHRISEnag%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9730521,
+    "lng": 77.7166929
   },
   {
     "id": "urn:li:jobPosting:4431643463",
@@ -103895,8 +103895,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4431643463?position=9&pageNum=17&refId=kHhHyp3Vv5UoSxQUxa8CjA%3D%3D&trackingId=GdRcQkusRZnBkEmwtealqA%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9730521,
+    "lng": 77.7166929
   },
   {
     "id": "urn:li:jobPosting:4431638500",
@@ -103905,8 +103905,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4431638500?position=10&pageNum=17&refId=kHhHyp3Vv5UoSxQUxa8CjA%3D%3D&trackingId=44TI5rz%2BCy1hh5BVNMmhjw%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9730521,
+    "lng": 77.7166929
   },
   {
     "id": "urn:li:jobPosting:4430385177",
@@ -103915,8 +103915,8 @@
     "location": "Greater Bengaluru Area",
     "link": "https://in.linkedin.com/jobs/view/javascript-developer-at-recro-4430385177?position=7&pageNum=20&refId=%2F6i7dqTUxX1xlrwphwFFlw%3D%3D&trackingId=iRlWo3Ml61ReMHUtfD1r%2Fg%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQH7GYOGBCj8Qg/company-logo_100_100/company-logo_100_100/0/1728907260215/recro_io_logo?e=2147483647&v=beta&t=898rSyj182aC0vqi5cZqbWQQIDumt_WpercCJsH_-TY",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4431660819",
@@ -103925,8 +103925,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/java-reactjs-fullstack-developer-at-capgemini-4431660819?position=1&pageNum=47&refId=kmA1HqrExkGAssEtusb21w%3D%3D&trackingId=pTRtD%2BGs4g5bJ5OWLBNd2A%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9730521,
+    "lng": 77.7166929
   },
   {
     "id": "urn:li:jobPosting:4430500014",
@@ -103935,8 +103935,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4430500014?position=2&pageNum=57&refId=jHhQum7W9SEtoOVfI7TByQ%3D%3D&trackingId=eVd2kdRtKYPRm6sBrcAfnQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4428950232",
@@ -103945,8 +103945,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-digi9-4428950232?position=10&pageNum=70&refId=ohU9gsbLkcADn0Vo%2FPvWuw%3D%3D&trackingId=G4jNHZtZjwjuxkkzy6gElQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFZFd0VOi-Urw/company-logo_100_100/B56Zz7lbdSJMAQ-/0/1773747419421/voizpanda_logo?e=2147483647&v=beta&t=ih3mL3Ec53qX_5AnmJdpHqkH81zpHL1kUNEMpItn-D4",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4430394980",
@@ -103975,8 +103975,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4430381865?position=10&pageNum=12&refId=rJhe%2F%2FUUmynvtIy703WQYg%3D%3D&trackingId=55CqwfNokEpgpAJEDgGTFg%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4430396759",
@@ -104025,8 +104025,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-front-end-7%2B-years-at-nielsen-4428908863?position=1&pageNum=45&refId=Nt0cbPlUQzZX3VLg5YA1CQ%3D%3D&trackingId=Rn9b%2FzYo9FrMCPvAoiwe3A%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFKa_ObftR_8w/company-logo_100_100/company-logo_100_100/0/1634555714141/nielsen_logo?e=2147483647&v=beta&t=E8FbfWgplUSlMmYJz_9xfj8sY4p-sL9XTr3amAbK0jc",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4431661746",
@@ -104055,8 +104055,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-at-dassault-syst%C3%A8mes-4431643657?position=6&pageNum=90&refId=Kik%2B%2BHk6iqBR659NBHT0fg%3D%3D&trackingId=q5p%2BlBa0PPwhZQJXuRk7yQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHroRzeNTva6Q/company-logo_100_100/company-logo_100_100/0/1631330934922?e=2147483647&v=beta&t=Y_LaLgUh3t_AY4PloiAtAbGGfEr2fGl7C4_RBhQ7Vok",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4361405144",
@@ -104065,8 +104065,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-as400-at-ust-4361405144?position=3&pageNum=95&refId=StvrKilYZmE3N0edytCCBw%3D%3D&trackingId=FPU26iCjeg43xiYRXOwDdA%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEr-ib3Nn15Aw/company-logo_100_100/company-logo_100_100/0/1648787427825/ustglobal_logo?e=2147483647&v=beta&t=Mat5nuskL90W74qGXwwpHLg2mXn8Mfwf1z8oLxbk--c",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4431659223",
@@ -104075,8 +104075,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-recrew-ai-4431659223?position=5&pageNum=12&refId=yDmJlhdm%2FsOJylaNU8LWeQ%3D%3D&trackingId=rcdKhro613I1SisfkfRyCg%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGM70qm9MbWvA/company-logo_100_100/company-logo_100_100/0/1729664053436/recrew_ai_logo?e=2147483647&v=beta&t=RCofKskdvbsnkea0U_gPcjUIePQ7boxR7mGyf4nKjDU",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4430375879",
@@ -104105,8 +104105,8 @@
     "location": "Bengaluru East, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/communication-and-collaboration-dev-ops-engineer-at-standard-chartered-india-4430377994?position=4&pageNum=90&refId=nooPVI%2FFXP3OrEAw2UqT2A%3D%3D&trackingId=psdNY%2FZHz2mEvOOygVKB0g%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEXYV6p34CtPA/company-logo_100_100/B4DZjMehUuGgAc-/0/1755777210085/standard_chartered_india_logo?e=2147483647&v=beta&t=gxeH4hJTKe069a0UzLFYxW71KL4pW41yTiDx8Kp_wdg",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9853637,
+    "lng": 77.7081623
   },
   {
     "id": "urn:li:jobPosting:4431636572",
@@ -104115,8 +104115,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-capgemini-4431636572?position=5&pageNum=95&refId=KtD%2F80dL%2BhaD0JMKehF%2Flw%3D%3D&trackingId=ajn99PTbE2y1GeTYAp8i1g%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9730521,
+    "lng": 77.7166929
   },
   {
     "id": "urn:li:jobPosting:4431647395",
@@ -104125,8 +104125,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/zeta-global-lead-software-engineer-generative-apps-0-0-yrs-at-etcio-cloud-data-center-4431647395?position=9&pageNum=97&refId=dmqtZ2HJ1QU3dzdBhl2eiA%3D%3D&trackingId=r3aLfhw0YiO%2BTf03aUcfsw%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQF6o81OkrKWVA/company-logo_100_100/company-logo_100_100/0/1630651309984/et_cio_logo?e=2147483647&v=beta&t=YE7Cjo72saB4dOBsUrPWvtuhjRF74A50Uu7zTpzy2tE",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4430383909",
@@ -104135,8 +104135,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4430383909?position=3&pageNum=12&refId=iQu7T95m32x9LndXfFa9og%3D%3D&trackingId=%2FNG8pE%2FsgRgDP3nnxy8aGg%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4431679398",
@@ -104145,8 +104145,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-at-procore-technologies-4431679398?position=8&pageNum=22&refId=QiQVoUK96Eqc%2Fw9P7WBxWg%3D%3D&trackingId=F%2Bg9HAqta9Q3r71u206CyQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGniocgaFzu6g/company-logo_100_100/company-logo_100_100/0/1737481196088/procore_technologies_logo?e=2147483647&v=beta&t=4OVlWJ3oXtVm56TIS0p8PvV7V1WXkExFpX3XNhYVVW4",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4431669504",
@@ -104155,8 +104155,8 @@
     "location": "Bengaluru, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-at-renesas-electronics-4431669504?position=1&pageNum=40&refId=y7BEtnc76l8mij6k%2Faa%2BQQ%3D%3D&trackingId=OUPne%2FoLhB6KRGsfRPvelA%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHlwp8hH_CdSg/company-logo_100_100/B56Zm7Sm_TIAAQ-/0/1759783842062/renesas_logo?e=2147483647&v=beta&t=IPyLH7X_M1aJkP81Og5r0dpxZkleQxB_cRImLz-lxVY",
-    "lat": 0,
-    "lng": 0
+    "lat": 12.9716,
+    "lng": 77.5946
   },
   {
     "id": "urn:li:jobPosting:4430394981",

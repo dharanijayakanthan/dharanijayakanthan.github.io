@@ -2426,5 +2426,269 @@
   "SatSure, Bengaluru East, Karnataka, India": {
     "lat": 0,
     "lng": 0
+  },
+  "Kongsberg Geospatial, Ottawa, Ontario, Canada": {
+    "lat": 45.3452291,
+    "lng": -75.9104687
+  },
+  "Harvey, San Francisco, CA": {
+    "lat": 37.7622754,
+    "lng": -122.4356124
+  },
+  "Astek, Singapore, Singapore": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Booz Allen Hamilton, Chantilly, VA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Benifex, Southampton, England, United Kingdom": {
+    "lat": 0,
+    "lng": 0
+  },
+  "GPTZero, New York, United States": {
+    "lat": 0,
+    "lng": 0
+  },
+  "PeopleX Inc. Active Connector Group, Tokyo, Japan": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Xanadu, Toronto, Ontario, Canada": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Marlabs, Carmel, IN": {
+    "lat": 0,
+    "lng": 0
+  },
+  "SwankTek Inc., Cincinnati, OH": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Rocket Communications, Inc., Greenwood Village, CO": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Restream, Tallinn, Harjumaa, Estonia": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Picogrid, El Segundo, CA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Barclays, Knutsford, England, United Kingdom": {
+    "lat": 53.2712366,
+    "lng": -2.3487415
+  },
+  "Beacon AI, San Carlos, CA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Overland AI, Seattle, WA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Dedalus Labs, San Francisco, CA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Counsel Health, Boston, MA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Pigment, Greater London, England, United Kingdom": {
+    "lat": 51.5286963,
+    "lng": -0.0414697
+  },
+  "Trimble Inc., Westminster, CO": {
+    "lat": 39.8971434,
+    "lng": -105.1155221
+  },
+  "Watershed, New York, NY": {
+    "lat": 43.0769792,
+    "lng": -75.6576366
+  },
+  "IBM, Vancouver, British Columbia, Canada": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Sweetwater, Fort Wayne, IN": {
+    "lat": 41.1242974,
+    "lng": -85.2131765
+  },
+  "Bentley Systems, Kaunas, Kaunas, Lithuania": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Bilt, New York, NY": {
+    "lat": 41.3199903,
+    "lng": -74.1792862
+  },
+  "Ovoko, Vilnius, Vilniaus, Lithuania": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Bettermode, Greater Toronto Area, Canada": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Convergence Group, Solihull, England, United Kingdom": {
+    "lat": 0,
+    "lng": 0
+  },
+  "HOOPP (Healthcare of Ontario Pension Plan), Toronto, Ontario, Canada": {
+    "lat": 0,
+    "lng": 0
+  },
+  "On the Beach, Manchester, England, United Kingdom": {
+    "lat": 53.4783995,
+    "lng": -2.2232317
+  },
+  "楽天カード（株）, Fukuoka, Japan": {
+    "lat": 0,
+    "lng": 0
+  },
+  "EvenUp, San Francisco, CA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Spatial Front, Inc, Arlington, VA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Cursor, New York, United States": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Mochi Health, San Francisco, CA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "BitKernel, Greater Vancouver Metropolitan Area": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Two Six Technologies, Herndon, VA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Saronic Technologies, Austin, TX": {
+    "lat": 0,
+    "lng": 0
+  },
+  "SMART DATA Deutschland GmbH, Ottawa, Ontario, Canada": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Terzo, San Francisco, CA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Asana, New York, NY": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Mozilla, Toronto, Ontario, Canada": {
+    "lat": 43.6472995,
+    "lng": -79.3943762
+  },
+  "Titan Technologies, Fort Meade, MD": {
+    "lat": 0,
+    "lng": 0
+  },
+  "平安健康保险股份有限公司, Shenzhen, Guangdong, China": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Halvik, Destin, FL": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Clariti AI, Greater London, England, United Kingdom": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Harmonic, Palo Alto, CA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Nexus Mods, Exeter, England, United Kingdom": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Bedrosians Tile and Stone, Tustin, CA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Healthspan, Santa Monica, CA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Newcode.ai, Oslo, Oslo, Norway": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Confluera, Palo Alto, CA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Signaloid, Cambridge, England, United Kingdom": {
+    "lat": 0,
+    "lng": 0
+  },
+  "EliseAI, New York, NY": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Mirage, New York, NY": {
+    "lat": 43.2291264,
+    "lng": -77.7353557
+  },
+  "Fashion Nova, Beverly Hills, CA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Sauna by Wordware, San Francisco, CA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Baton Corporation, New York, NY": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Futrend Technology, Inc., Bethesda, MD": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Infisical, San Francisco, CA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Corporate Tools, Post Falls, ID": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Brix, Simcoe, Ontario, Canada": {
+    "lat": 44.3259976,
+    "lng": -80.0987699
+  },
+  "DreamCraft Entertainment, Inc., Redwood City, CA": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Wordbricks, San Francisco Bay Area": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Hightouch, San Francisco Bay Area": {
+    "lat": 0,
+    "lng": 0
+  },
+  "Sundayy, British Columbia, Canada": {
+    "lat": 0,
+    "lng": 0
   }
 }
