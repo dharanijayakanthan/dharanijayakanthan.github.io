@@ -2453,6 +2453,17 @@
     "lng": 0
   },
   {
+    "id": "urn:li:jobPosting:4427562178",
+    "title": "Software Engineer Backend developer",
+    "company": "Moody's Corporation",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-11",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-backend-developer-at-moody-s-corporation-4427562178?position=2&pageNum=72&refId=iSIo5KqUGpxlNHeuQov1dw%3D%3D&trackingId=sk6tQSO4NRRtNMjuQyyojw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEkIGr8N7NFEQ/company-logo_100_100/company-logo_100_100/0/1709738075471/moodys_corporation_logo?e=2147483647&v=beta&t=76mKsmPm-q5VgeKdC0J5GXavGIszf40OHkQePuJCDwQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4422761907",
     "title": "Senior Software Engineer - Food",
     "company": "Cargill",
@@ -48807,6 +48818,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQENeK0wwe8OeA/company-logo_100_100/company-logo_100_100/0/1630563832694/information_services_group_logo?e=2147483647&v=beta&t=ti9rhI7lz4a36x5VydvtKOL1XnE0oB-vLQOoX1EtZws",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4340872667",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-11-14",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4340872667?position=3&pageNum=95&refId=Lc4D%2F5bWia%2FunHRFnqspmA%3D%3D&trackingId=WNrFBNE9eJ6o9kTnCE8JGQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4322331500",
@@ -104431,5 +104453,225 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHObN-z-Sg4XA/company-logo_100_100/company-logo_100_100/0/1630619164646/yash_technologies_logo?e=2147483647&v=beta&t=zlFI3yANcqA0BS5g5fT4Awbcj80u6Fdpp5XN341nhCQ",
     "lat": 12.9124015,
     "lng": 77.5856011
+  },
+  {
+    "id": "urn:li:jobPosting:4431633674",
+    "title": "Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4431633674?position=7&pageNum=17&refId=S7Gr%2BdwTFl79T732dCDxpQ%3D%3D&trackingId=I0lY6DlhGaNc2D3iysmt0Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430393269",
+    "title": "UI Specialist - ReactJS Job",
+    "company": "YASH Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ui-specialist-reactjs-job-at-yash-technologies-4430393269?position=10&pageNum=27&refId=FLCkbJHBKVZYQa45lOw8QA%3D%3D&trackingId=99j7sDlOvZOuBM7xlnPOsg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHObN-z-Sg4XA/company-logo_100_100/company-logo_100_100/0/1630619164646/yash_technologies_logo?e=2147483647&v=beta&t=zlFI3yANcqA0BS5g5fT4Awbcj80u6Fdpp5XN341nhCQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430565091",
+    "title": "Frontend Developer (Next.js)",
+    "company": "Problink Infocare",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-next-js-at-problink-infocare-4430565091?position=5&pageNum=42&refId=BkdqEFenYICitQuDZs4avA%3D%3D&trackingId=Ln5%2FoATb3W4x22XfWJT9YA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH3EUt4VMM49Q/company-logo_100_100/B56Z0yIx5wJkAQ-/0/1774662656251/problink_infocare_logo?e=2147483647&v=beta&t=aK5YGXXP2xXt7xot3Nz9NcfT9oWAYq52Z1jVwYPU6mk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430551358",
+    "title": "React Developer",
+    "company": "Ascendion",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-ascendion-4430551358?position=7&pageNum=45&refId=PwrNn7p48kBB8GusjaTcdQ%3D%3D&trackingId=A87KkIWMPxmr4RI6XO9acA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEjwUhLqLGaAQ/company-logo_100_100/B56Zc2XoO0HEAU-/0/1748963853609/ascendion_logo?e=2147483647&v=beta&t=bVB7guRmKDQeB5bYI0rWapTtIUvTw8kgOZYeAi2LBeQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431785998",
+    "title": "Senior UI Developer (React)",
+    "company": "Hypersonix Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-ui-developer-react-at-hypersonix-inc-4431785998?position=3&pageNum=62&refId=RQ%2BWbdDq3Gnc3mHG7DZrhA%3D%3D&trackingId=O4XZM8M0Lj%2FD9l673IYgVw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQG7td5l-rrDww/company-logo_100_100/company-logo_100_100/0/1630642256234/hypersonix_ai_logo?e=2147483647&v=beta&t=msqapTSCRWSVQ7rhm6-OydNzVmXmcIVFHtDoCrsT4PA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431729902",
+    "title": "Frontend Engineer",
+    "company": "Quest Global",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-at-quest-global-4431729902?position=9&pageNum=72&refId=iSIo5KqUGpxlNHeuQov1dw%3D%3D&trackingId=siRg9AfTYHIE%2FZ435nIk9g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFqsywUQl7okA/company-logo_100_100/company-logo_100_100/0/1650955890222/quest_global_logo?e=2147483647&v=beta&t=1iJwdF4wJntsh5TikN51Pj4Xl4TrY1duYOT8WP8ifFU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430579833",
+    "title": "JavaScript Software Developer - Remote Work",
+    "company": "BairesDev",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/javascript-software-developer-remote-work-at-bairesdev-4430579833?position=7&pageNum=80&refId=7MkB1JK%2FopJr1q4yuzCBvg%3D%3D&trackingId=MdtBjHLB6%2B8HNHRCGF7XhQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGNvQASzrdL_w/company-logo_100_100/company-logo_100_100/0/1687874736484/bairesdev_logo?e=2147483647&v=beta&t=O-1i-F9arEGwUjngSlvE7NWxL-mpYFwN_XZxHy0C03s",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4432012317",
+    "title": "Software Development Engineer (Backend) | Razorpay",
+    "company": "Trend Today 360",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-backend-razorpay-at-trend-today-360-4432012317?position=9&pageNum=95&refId=Lc4D%2F5bWia%2FunHRFnqspmA%3D%3D&trackingId=7n7x8rRjNuO94bR%2Bpes7gw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQExdQFCUdqT9g/company-logo_100_100/B4DZnpfEvOIkAU-/0/1760558861831?e=2147483647&v=beta&t=UkyFwmqKo4VceerBiEGebuJ012ewsOUucI9nPq5hJbo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431689485",
+    "title": "Software Engineer II",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-microsoft-4431689485?position=9&pageNum=37&refId=gzxCRUr7cy5U%2BX2PfZscxQ%3D%3D&trackingId=iUre12ir0YJHVXN2q%2FLh5g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431692158",
+    "title": "SENIOR SOFTWARE ENGINEER - Angular 14",
+    "company": "Happiest Minds Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-angular-14-at-happiest-minds-technologies-4431692158?position=2&pageNum=87&refId=igEgOEMvdX7Uf8yvkZXaAg%3D%3D&trackingId=kicaqGPzImDXOOkaq%2FKtoA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHrStoH8fGuxw/company-logo_100_100/B56ZwiMfPGHcAQ-/0/1770100227699/happiest_minds_technologies_logo?e=2147483647&v=beta&t=-auObn_ZxRe-m2VVRutsYcb0xcVM2r8vqzrPLt78JV0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4432023132",
+    "title": "Software QA Engineer | Siemens",
+    "company": "Trend Today 360",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/software-qa-engineer-siemens-at-trend-today-360-4432023132?position=8&pageNum=90&refId=nXbdYirp9dFACiM4caQBLA%3D%3D&trackingId=esiq%2FSaiXTZB%2BqdEi5rSPQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQExdQFCUdqT9g/company-logo_100_100/B4DZnpfEvOIkAU-/0/1760558861831?e=2147483647&v=beta&t=UkyFwmqKo4VceerBiEGebuJ012ewsOUucI9nPq5hJbo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4432021114",
+    "title": "Software Engineer | Razorpay",
+    "company": "Trend Today 360",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-razorpay-at-trend-today-360-4432021114?position=7&pageNum=42&refId=%2B8cTGCaqZu06xAe090SDGw%3D%3D&trackingId=oaND22dHTRPM9oth0yIikA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQExdQFCUdqT9g/company-logo_100_100/B4DZnpfEvOIkAU-/0/1760558861831?e=2147483647&v=beta&t=UkyFwmqKo4VceerBiEGebuJ012ewsOUucI9nPq5hJbo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431719631",
+    "title": "Senior Software Engineer",
+    "company": "Impetus",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-impetus-4431719631?position=4&pageNum=82&refId=xrs4RReFjnbKd%2Fm4X74bDA%3D%3D&trackingId=JDn7s4xWS3PO9yMaSdjn3Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF5WnJLwgq0lw/company-logo_100_100/company-logo_100_100/0/1683552216985/impetus_logo?e=2147483647&v=beta&t=Co9z3tEn3J6hrNi1kk5vgfafKL8ib9HMRnvT6RVj56c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431685824",
+    "title": "Senior Software Engineer (Endpoint security-Windows) IND",
+    "company": "Fortanix",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-endpoint-security-windows-ind-at-fortanix-4431685824?position=5&pageNum=90&refId=RAdmKpxOYq5NQBMPg5w73w%3D%3D&trackingId=IuB6klP4SAH0qwR80t4JWQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGQHBliihJh-g/company-logo_100_100/company-logo_100_100/0/1680778012950/fortanix_logo?e=2147483647&v=beta&t=Eumc3ncSLMNaE8T00t1EJ2Mt0QyolH7wLGZSlqzisWg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431736435",
+    "title": "Software Development Engineer 1",
+    "company": "WEX",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-1-at-wex-4431736435?position=3&pageNum=97&refId=SNJ6FzDIH9mksjJ1TCN2oA%3D%3D&trackingId=f74x8MiJeYtd99lSeZK4IQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEqDSQp6mtoSw/company-logo_100_100/B56Zx8YMCPJUAU-/0/1771613242228/wexinc_logo?e=2147483647&v=beta&t=HD3q48Iqn9MJQl0QhO15ssrmACKKsAMvG481SGeVebg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431655280",
+    "title": "Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4431655280?position=9&pageNum=17&refId=EUyiElpKp1opUaznbUiWPg%3D%3D&trackingId=1FDhk8aK6R4WHOY9A%2FnOsQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4432025381",
+    "title": "Software Engineer in Test",
+    "company": "Headout",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-in-test-at-headout-4432025381?position=8&pageNum=22&refId=GKR%2FT2Bk4NHqgJSx6Xvw5g%3D%3D&trackingId=p7XzeAds85iv56dSX9Bgaw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF36N2orKYsLg/company-logo_100_100/B56ZozJFPlHIAQ-/0/1761794611427/headout_com_logo?e=2147483647&v=beta&t=ltF9EC25VBx_srSLXLhL-agwG2ryXw85V3cFzV16ofY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4432005019",
+    "title": "Software Development Engineer In Test",
+    "company": "Avasant",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-in-test-at-avasant-4432005019?position=1&pageNum=25&refId=rCde34KSxHVoV272rLkPjQ%3D%3D&trackingId=83StGrDk4G1bUN0qWZKsqQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEvgoMGUFX16Q/company-logo_100_100/company-logo_100_100/0/1631301787032?e=2147483647&v=beta&t=cQzdS1CIgkLCTyGes-uIYoqT_h3nKezv5QqvJYC8VRo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431640785",
+    "title": "Customer Interface Specialist",
+    "company": "NAVEX",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/customer-interface-specialist-at-navex-4431640785?position=7&pageNum=52&refId=OvJIfxAnlVeXggIgbDph1w%3D%3D&trackingId=FLfEI7O1McUPIo116KVFeA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF-FZY4NVAQHg/company-logo_100_100/B56Zz20O7CHkAQ-/0/1773667413979/navexinc_logo?e=2147483647&v=beta&t=9S1BsrZ3fOJsOXr5z9_9H-eSoiPqj0SMg0uTjIUGLdc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4428905498",
+    "title": "software engineer I",
+    "company": "Zebra Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-at-zebra-technologies-4428905498?position=1&pageNum=60&refId=BGAGJfKnTFAJU%2Bt7mDCyZw%3D%3D&trackingId=zh1VlXOzrDbDVsyWhJ8yag%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHNpPkwV6ciNA/company-logo_100_100/B4EZluX6eQKgAQ-/0/1758493387175/zebra_technologies_logo?e=2147483647&v=beta&t=tYYWhXfRSRuZcxZg17iQI5e1jpKge8mYAgEim0bS63s",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430598536",
+    "title": "Software Test Engineer (QA Engineer)",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-test-engineer-qa-engineer-at-infosys-4430598536?position=1&pageNum=87&refId=VD6aYBWg8qfsFOSFpfdQ9w%3D%3D&trackingId=HZQ7l%2B0tt5H8eZIWCjYp2w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4412749515",
+    "title": "Software Engineer - Infotainment Testing with TCU",
+    "company": "HARMAN India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-infotainment-testing-with-tcu-at-harman-india-4412749515?position=4&pageNum=87&refId=VD6aYBWg8qfsFOSFpfdQ9w%3D%3D&trackingId=jDsap6dnd9xop%2BwWj4K7YA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDKElnmeXZQg/company-logo_100_100/company-logo_100_100/0/1719928441230/harmanindia_logo?e=2147483647&v=beta&t=RcIRqRbij9ibXo-Mc9kJC4nhXdIBLCBwFIMdw9ugWG4",
+    "lat": 0,
+    "lng": 0
   }
 ]
