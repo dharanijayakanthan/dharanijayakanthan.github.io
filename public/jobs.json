@@ -22,6 +22,39 @@
     "lng": 77.7084168
   },
   {
+    "id": "urn:li:jobPosting:4398487375",
+    "title": "Web Developer",
+    "company": "Kongsberg Geospatial",
+    "location": "Ottawa, Ontario, Canada",
+    "date": "2026-06-20",
+    "link": "https://ca.linkedin.com/jobs/view/web-developer-at-kongsberg-geospatial-4398487375?position=8&pageNum=35&refId=6Ia37HxRCS3ChILQo7zQxg%3D%3D&trackingId=0X3X6ZFYg4dKW3XhfepCSQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEVj-nZtqAvZw/company-logo_100_100/company-logo_100_100/0/1686068917307/kongsberg_geospatial_logo?e=2147483647&v=beta&t=aQLBvkw_f8qV7OiArJFcSVth7WQELMDhbzBF0dR_1tc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4289517313",
+    "title": "Staff Software Engineer, Frontend",
+    "company": "Harvey",
+    "location": "San Francisco, CA",
+    "date": "2026-06-20",
+    "link": "https://www.linkedin.com/jobs/view/staff-software-engineer-frontend-at-harvey-4289517313?position=5&pageNum=40&refId=NMxFgyLK2%2FJyYa6IQnYjjQ%3D%3D&trackingId=LqZYNHUwcPJVvK1euJp2DA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEkyRHeFI9sdA/company-logo_100_100/company-logo_100_100/0/1727880962073/harvey_ai_logo?e=2147483647&v=beta&t=R7mvs4pnZdMKwptao13miPBqtpVCfbaFHNdv9gf4DAY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4371108744",
+    "title": "Front-end Developer (Futures)",
+    "company": "Binance",
+    "location": "Singapore, Singapore",
+    "date": "2026-06-20",
+    "link": "https://sg.linkedin.com/jobs/view/front-end-developer-futures-at-binance-4371108744?position=1&pageNum=52&refId=6RzN%2BhsY4V7u4vhuF3USwQ%3D%3D&trackingId=HFGWdQciXBkimP2OyR5%2BZQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHO84AUYFfPWA/company-logo_100_100/company-logo_100_100/0/1704706393136/binance_logo?e=2147483647&v=beta&t=k_ZDsfP8yYw9uUxSCMkz1anmilXsEXS_3F8fYa0lXhY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4430958223",
     "title": "Senior Software Engineer",
     "company": "Bajaj Finserv",
@@ -152,6 +185,50 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4429646137",
+    "title": "Software Engineer III",
+    "company": "hackajob",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-19",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-hackajob-4429646137?position=5&pageNum=92&refId=nUy0zpIPIvPNk8B%2BTnyB5Q%3D%3D&trackingId=MG%2FTdYKXqkeZuzX71lgRTw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4429650631",
+    "title": "Software Development Engineer II",
+    "company": "Tesco Bengaluru",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-19",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-tesco-bengaluru-4429650631?position=3&pageNum=95&refId=6Mdaa0uXNGT6dOfMl99POw%3D%3D&trackingId=RKAwsE%2BHudM9eiKJFkAgew%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNqJip6BEwGw/company-logo_100_100/company-logo_100_100/0/1688367507340/tesco_bengaluru_logo?e=2147483647&v=beta&t=RNhSg7-j-lU4JLvK8r-VtORAikcZ6GcI8M0sqJiRom4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4428219783",
+    "title": "Software Engineer",
+    "company": "Astek",
+    "location": "Singapore, Singapore",
+    "date": "2026-06-19",
+    "link": "https://sg.linkedin.com/jobs/view/software-engineer-at-astek-4428219783?position=7&pageNum=52&refId=6RzN%2BhsY4V7u4vhuF3USwQ%3D%3D&trackingId=oy%2BnlefEcjfICG32tfuGzQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGYx0fox5gMCQ/company-logo_100_100/company-logo_100_100/0/1721227620337/astek_logo?e=2147483647&v=beta&t=YSrKNlvpShhMQUwJxQaoS4kWUr-Ho3tnTnDLjablHTQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4428218038",
+    "title": "Sr. Software Engineer - Enterprise Infrastructure",
+    "company": "LinkedIn",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-19",
+    "link": "https://in.linkedin.com/jobs/view/sr-software-engineer-enterprise-infrastructure-at-linkedin-4428218038?position=8&pageNum=72&refId=ZdQ5Qzy2h3kRcuVfFE%2F2Nw%3D%3D&trackingId=H%2Bzg8ZqqKGGEyxjJgGo07Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4427392924",
@@ -451,6 +528,61 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4409261527",
+    "title": "Full Stack Developer III (Vue.js / React.js and Nest.Js)",
+    "company": "Vonage",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-18",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-iii-vue-js-react-js-and-nest-js-at-vonage-4409261527?position=7&pageNum=97&refId=asP7GSTuAu46MeJHbONLGw%3D%3D&trackingId=nrAIEw7j%2BDSlR5iIJ84cmg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHAjkQnOKbUzw/company-logo_100_100/company-logo_100_100/0/1701277430733/vonage_logo?e=2147483647&v=beta&t=pt9kAPVZQm_IyIDFVLsdkTyfWcofJXaCVsvfCgarPsg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4419951450",
+    "title": "Front End Software Engineer",
+    "company": "Booz Allen Hamilton",
+    "location": "Chantilly, VA",
+    "date": "2026-06-18",
+    "link": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-booz-allen-hamilton-4419951450?position=7&pageNum=35&refId=6Ia37HxRCS3ChILQo7zQxg%3D%3D&trackingId=E96dhrM3KQ6D39Xkc1U24w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFXBzVcVDSTOQ/company-logo_100_100/company-logo_100_100/0/1737465459820/booz_allen_hamilton_logo?e=2147483647&v=beta&t=SswDqk5ZXqP0jtQgXL12ktHuwfRb0zf8se42kJe-lFM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4411163819",
+    "title": "Senior Frontend Engineer",
+    "company": "Benifex",
+    "location": "Southampton, England, United Kingdom",
+    "date": "2026-06-18",
+    "link": "https://uk.linkedin.com/jobs/view/senior-frontend-engineer-at-benifex-4411163819?position=6&pageNum=40&refId=NMxFgyLK2%2FJyYa6IQnYjjQ%3D%3D&trackingId=cgHN32nb8QUOb1hVbdLlGQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFMdEEQUaGBPg/company-logo_100_100/B4DZ4Chsk8IgAU-/0/1778158848664/benifex_logo?e=2147483647&v=beta&t=6Gbbtzhc_ak7hrje0ryGPlG52xQaiZVoDGiL-gmK6VA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4382094276",
+    "title": "Software Engineer",
+    "company": "GPTZero",
+    "location": "New York, United States",
+    "date": "2026-06-18",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-at-gptzero-4382094276?position=3&pageNum=57&refId=IqST9EY1%2B%2FHmpXIayD9ZZA%3D%3D&trackingId=3oaXnDByfGXgxcDJV%2Fi6YQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFn4s6Nr1sKVw/company-logo_100_100/company-logo_100_100/0/1686030874712/gptzero_logo?e=2147483647&v=beta&t=Gx0RnmQlVNp09DO3j_dXkQHR5bL4X3s0nEZLBDIspjQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4413043042",
+    "title": "Frontend Engineer",
+    "company": "PeopleX Inc. Active Connector Group",
+    "location": "Tokyo, Japan",
+    "date": "2026-06-18",
+    "link": "https://jp.linkedin.com/jobs/view/frontend-engineer-at-peoplex-inc-active-connector-group-4413043042?position=4&pageNum=77&refId=GA0pACLwv%2BKiTKFvvxXuSw%3D%3D&trackingId=O%2Bd1hTjWqK0%2BPlT3OwyKTw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHeelnCd2kU3w/company-logo_100_100/company-logo_100_100/0/1682418499599/active_connector_logo?e=2147483647&v=beta&t=qjCPdFPm-N0VlXeR0QU3RzGakLz7fD84aDnPIFQLkN0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4429780809",
     "title": "ServiceNow Developer - Agentic AI",
     "company": "Avensys Consulting",
@@ -691,6 +823,50 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
     "lat": 13.120648,
     "lng": 77.6114683
+  },
+  {
+    "id": "urn:li:jobPosting:4429992109",
+    "title": "Software Developer - Frontend (Intermediate to Senior)",
+    "company": "Xanadu",
+    "location": "Toronto, Ontario, Canada",
+    "date": "2026-06-17",
+    "link": "https://ca.linkedin.com/jobs/view/software-developer-frontend-intermediate-to-senior-at-xanadu-4429992109?position=4&pageNum=35&refId=6Ia37HxRCS3ChILQo7zQxg%3D%3D&trackingId=exrBcpEswmou7nz6B9d5YA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQESkgPGkkmSDw/company-logo_100_100/company-logo_100_100/0/1650651836716/xanaduai_logo?e=2147483647&v=beta&t=lJdyeyM_jQcqmt_IJukFWhv2ocGFhKmaRGPyQaomus4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4428498698",
+    "title": "React Developer",
+    "company": "Marlabs",
+    "location": "Carmel, IN",
+    "date": "2026-06-17",
+    "link": "https://www.linkedin.com/jobs/view/react-developer-at-marlabs-4428498698?position=10&pageNum=55&refId=n5HnH8j9Hf6E3X25pftJDg%3D%3D&trackingId=x1WTCqb05aW6jki2jVds0g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGYCtwQrMH1nA/company-logo_100_100/company-logo_100_100/0/1720097209278/marlabs_logo?e=2147483647&v=beta&t=8RDIeU4NDwZw5FOzI8j5UY8ZWCyEagjKbxt4J_6yhgc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430476038",
+    "title": "React Developer",
+    "company": "SwankTek Inc.",
+    "location": "Cincinnati, OH",
+    "date": "2026-06-17",
+    "link": "https://www.linkedin.com/jobs/view/react-developer-at-swanktek-inc-4430476038?position=8&pageNum=57&refId=IqST9EY1%2B%2FHmpXIayD9ZZA%3D%3D&trackingId=pRG3XyKHNhJIUx7ZIL72AA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7CCrnoOYy3w/company-logo_100_100/company-logo_100_100/0/1666770629216/swanktek_inc_logo?e=2147483647&v=beta&t=-DchUxM8ZCKpxgeAdB0CPAcEwb4tpJEVcgVat5VChT0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430100007",
+    "title": "Front End Developer (Top Secret Clearance, Onsite in Denver)",
+    "company": "Rocket Communications, Inc.",
+    "location": "Greenwood Village, CO",
+    "date": "2026-06-17",
+    "link": "https://www.linkedin.com/jobs/view/front-end-developer-top-secret-clearance-onsite-in-denver-at-rocket-communications-inc-4430100007?position=10&pageNum=57&refId=IqST9EY1%2B%2FHmpXIayD9ZZA%3D%3D&trackingId=hPrv%2BwDNSqok7Wl3WFbGGw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFthOe4qrbkFg/company-logo_100_100/company-logo_100_100/0/1631653231981/rocket_communications_logo?e=2147483647&v=beta&t=mTp6K5Gq_NrxD87Q9KGdvDXY2ousjEUtFb6cbnDc8qQ",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4426494589",
@@ -1320,6 +1496,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4351645374",
+    "title": "Software Engineer - Frontend - Studio Team",
+    "company": "Restream",
+    "location": "Tallinn, Harjumaa, Estonia",
+    "date": "2026-06-16",
+    "link": "https://ee.linkedin.com/jobs/view/software-engineer-frontend-studio-team-at-restream-4351645374?position=4&pageNum=55&refId=n5HnH8j9Hf6E3X25pftJDg%3D%3D&trackingId=wiEQC9jZXZquQFXNeKSu7A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH81z4Fd0mnFg/company-logo_100_100/company-logo_100_100/0/1713874503780/restreamio_logo?e=2147483647&v=beta&t=wxVcyYhsBWcFmS-Jq5LKS_1pP0VX9MtMOj__F9zqlkE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4409101138",
+    "title": "Fullstack Engineer",
+    "company": "Picogrid",
+    "location": "El Segundo, CA",
+    "date": "2026-06-16",
+    "link": "https://www.linkedin.com/jobs/view/fullstack-engineer-at-picogrid-4409101138?position=9&pageNum=55&refId=n5HnH8j9Hf6E3X25pftJDg%3D%3D&trackingId=PuWek%2Bi%2F0n7y9ig4zo6YMA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFWLLkvQq0cgQ/company-logo_100_100/B56Zm76SOrKMAU-/0/1759794242830/picogrid_logo?e=2147483647&v=beta&t=Y0LNlh5F-gKn2fZpDVFACKBDNGoSprn1wya4DN40F2U",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4425788014",
     "title": "Software Engineer 3",
     "company": "eBay",
@@ -1529,6 +1727,72 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4425326402",
+    "title": "Software Engineer -Frontend",
+    "company": "Barclays",
+    "location": "Knutsford, England, United Kingdom",
+    "date": "2026-06-15",
+    "link": "https://uk.linkedin.com/jobs/view/software-engineer-frontend-at-barclays-4425326402?position=2&pageNum=22&refId=rYKFSJNgAyQhIdxFoQ1RQg%3D%3D&trackingId=1%2FhcvVEbAXF37GXKtPEgwA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFAXc9z0Go7Uw/company-logo_100_100/company-logo_100_100/0/1663677974291/barclays_bank_logo?e=2147483647&v=beta&t=Wbhfg6jCeqyGRAAHRm9rt8zG3NCAuhHikGg5bL1tH-U",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4429174096",
+    "title": "Software Engineer, Frontend/Web App",
+    "company": "Beacon AI",
+    "location": "San Carlos, CA",
+    "date": "2026-06-15",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-web-app-at-beacon-ai-4429174096?position=3&pageNum=22&refId=rYKFSJNgAyQhIdxFoQ1RQg%3D%3D&trackingId=k%2Fy7cJBbvQhUGcJ%2BAYIOyA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQENnUZGaDTs9Q/company-logo_100_100/company-logo_100_100/0/1635203689996/beacon_ai_logo?e=2147483647&v=beta&t=CTYpp1ChkSbi8RuUAqhgxA5Asht0B1jiF4RxOH8k0Cg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426445180",
+    "title": "Software Engineer - UI",
+    "company": "Overland AI",
+    "location": "Seattle, WA",
+    "date": "2026-06-15",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-ui-at-overland-ai-4426445180?position=6&pageNum=22&refId=rYKFSJNgAyQhIdxFoQ1RQg%3D%3D&trackingId=GSKNtARvYD%2FT5EA2%2FI6Nug%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHXELnJ6WodWg/company-logo_100_100/company-logo_100_100/0/1714505292845/overland_ai_logo?e=2147483647&v=beta&t=yR7M-vlSuh2a7rlPviI9r34qBGP_ehQeszZmlE8vbyM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4428858352",
+    "title": "Design Engineer",
+    "company": "Dedalus Labs",
+    "location": "San Francisco, CA",
+    "date": "2026-06-15",
+    "link": "https://www.linkedin.com/jobs/view/design-engineer-at-dedalus-labs-4428858352?position=7&pageNum=22&refId=rYKFSJNgAyQhIdxFoQ1RQg%3D%3D&trackingId=IhqMlDbJxQS9EUwAeN0ajQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG4U44MruPzzw/company-logo_100_100/B56Z2uk99MIsAU-/0/1776750420923/dedalus_labs_logo?e=2147483647&v=beta&t=65Z1felQwpsZtqKvN_6RUsZ_tF3HRYToiMr0SDEDe-c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426083385",
+    "title": "Senior Software Engineer (Frontend)",
+    "company": "Counsel Health",
+    "location": "Boston, MA",
+    "date": "2026-06-15",
+    "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-frontend-at-counsel-health-4426083385?position=1&pageNum=35&refId=6Ia37HxRCS3ChILQo7zQxg%3D%3D&trackingId=XpJ5PJtF1lDODfYmnpZLhA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGQD8Umwv3R7g/company-logo_100_100/B4EZnqftQZJ0AY-/0/1760575804735/counselhealth_logo?e=2147483647&v=beta&t=udyPJMkgYJqK-RG5xyUdSurV9baTVJmA9Hkj8Jj2vTw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426336740",
+    "title": "Senior Frontend Engineer (UK)",
+    "company": "Pigment",
+    "location": "Greater London, England, United Kingdom",
+    "date": "2026-06-15",
+    "link": "https://uk.linkedin.com/jobs/view/senior-frontend-engineer-uk-at-pigment-4426336740?position=7&pageNum=55&refId=n5HnH8j9Hf6E3X25pftJDg%3D%3D&trackingId=y4Bzs4eSHcHFy7PXKwLBxw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEVYshYq84tOw/company-logo_100_100/company-logo_100_100/0/1725986089057/pigment_logo?e=2147483647&v=beta&t=tHQHmPjKQsgS6IWHGLPS-OpWMDfTM4sUVH9UAeLK84M",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4425736775",
     "title": "Java Software Engineer",
     "company": "VAYUZ Technologies",
@@ -1606,6 +1870,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4369621217",
+    "title": "Software Engineer",
+    "company": "Trimble Inc.",
+    "location": "Westminster, CO",
+    "date": "2026-06-14",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-at-trimble-inc-4369621217?position=2&pageNum=35&refId=6Ia37HxRCS3ChILQo7zQxg%3D%3D&trackingId=e2r3VbhRUZCeAfar%2B9ihXg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHM4R2dJDTWcQ/company-logo_100_100/B56Zat13QIHUAQ-/0/1746673300891/trimble_logo?e=2147483647&v=beta&t=4vNYuqWRjZf4hQeBvTaGa0MWB36ZLJBxOQuLDwv5KpQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4427403143",
     "title": "Staff Software Engineer - Credit Karma",
     "company": "Intuit",
@@ -1624,6 +1899,28 @@
     "date": "2026-06-13",
     "link": "https://in.linkedin.com/jobs/view/gen-ai-full-stack-engineer-senior-associate-at-pwc-acceleration-center-india-4385028462?position=1&pageNum=72&refId=2UQ%2FAc6ZqBRZJKeQ7fRatA%3D%3D&trackingId=Hm1f6kxLOvrhGjuUOTpCmQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHuQqdWGsFM9Q/company-logo_100_100/B56ZaB.PV5HgAQ-/0/1745937299380/pwc_acs_in_india_logo?e=2147483647&v=beta&t=P9D-9QhC9uzOr1Kg4yRseC0uvYNXmxHvqWDvGrqTriY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4417196524",
+    "title": "Staff software engineer, front end",
+    "company": "Watershed",
+    "location": "New York, NY",
+    "date": "2026-06-13",
+    "link": "https://www.linkedin.com/jobs/view/staff-software-engineer-front-end-at-watershed-4417196524?position=2&pageNum=55&refId=n5HnH8j9Hf6E3X25pftJDg%3D%3D&trackingId=Fes1OBKdkakqnj%2FqrzIfKw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFQAitJ8Lkdhw/company-logo_100_100/company-logo_100_100/0/1670266114751/watershedclimate_logo?e=2147483647&v=beta&t=U12drL_dDpLLIoaDusRYfx0ornJOozOLM2-VDQyvmoE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4425347052",
+    "title": "Senior Frontend Engineer - Confluent UX Platform",
+    "company": "IBM",
+    "location": "Vancouver, British Columbia, Canada",
+    "date": "2026-06-13",
+    "link": "https://ca.linkedin.com/jobs/view/senior-frontend-engineer-confluent-ux-platform-at-ibm-4425347052?position=6&pageNum=77&refId=GA0pACLwv%2BKiTKFvvxXuSw%3D%3D&trackingId=NxJjK4DQKbjAo%2BfUYWBP%2Fw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&v=beta&t=HPSmWLOCvdPkWO1nRWwjjmCNpaCqww20rSJ4E54QtxQ",
     "lat": 0,
     "lng": 0
   },
@@ -1857,6 +2154,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGNhWEZdSQMDg/company-logo_100_100/B4EZibaHOLGcAQ-/0/1754953971038/knowbe4_logo?e=2147483647&v=beta&t=i_XEMjio7F_95EgngMYDXujQqU-SjD6zWRFfBDNXPvY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4418023572",
+    "title": "UX/Front-End Developer",
+    "company": "Sweetwater",
+    "location": "Fort Wayne, IN",
+    "date": "2026-06-12",
+    "link": "https://www.linkedin.com/jobs/view/ux-front-end-developer-at-sweetwater-4418023572?position=7&pageNum=40&refId=NMxFgyLK2%2FJyYa6IQnYjjQ%3D%3D&trackingId=yFbwNLkv3SwzEv5PAG%2BdZQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGXAq7W7Hu3Sg/company-logo_100_100/B56Z2H0.VcKMAQ-/0/1776100304513/sweetwater_logo?e=2147483647&v=beta&t=QnMsuoaUp_bUf6kVph3ddRGHC33-yQP1eCnqeHuTv8s",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4427534864",
@@ -2097,6 +2405,17 @@
     "date": "2026-06-11",
     "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-ecolab-4427651580?position=2&pageNum=97&refId=9NAX03Al0kfhVJ22Gc4EmQ%3D%3D&trackingId=s8q0c111FN30ffsINzRduw%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQH3EsOD1h7Tgg/company-logo_100_100/company-logo_100_100/0/1675088982273/ecolab_logo?e=2147483647&v=beta&t=SpYjPrKS-P3Gc4Uai-f_GzDw4TmfzdgNsx3EvmZQVnE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4426652887",
+    "title": "Front-end Engineer (React/TypeScript)",
+    "company": "Bentley Systems",
+    "location": "Kaunas, Kaunas, Lithuania",
+    "date": "2026-06-11",
+    "link": "https://lt.linkedin.com/jobs/view/front-end-engineer-react-typescript-at-bentley-systems-4426652887?position=2&pageNum=77&refId=GA0pACLwv%2BKiTKFvvxXuSw%3D%3D&trackingId=nyOy8p%2BXzpHoUMrYjK9NIg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHkHC7vnDuBRQ/company-logo_100_100/company-logo_100_100/0/1719493210887/bentley_systems_logo?e=2147483647&v=beta&t=lvjLXulgjdLrkH2yESg-GzhUiiymPJCIjn6u68t4Bd4",
     "lat": 0,
     "lng": 0
   },
@@ -2495,6 +2814,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF6VxeKGI-lyg/company-logo_100_100/company-logo_100_100/0/1632477690193/volvo_group_logo?e=2147483647&v=beta&t=TBHevHwbPwxnhRBqx67f6OU1m1_kaUIXM7pWA0RrNyw",
     "lat": 12.9789871,
     "lng": 77.6658753
+  },
+  {
+    "id": "urn:li:jobPosting:4426105503",
+    "title": "Agentic AI-Software Engineer II",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-10",
+    "link": "https://in.linkedin.com/jobs/view/agentic-ai-software-engineer-ii-at-deloitte-4426105503?position=1&pageNum=45&refId=qZV5Ldj4ya%2FN7FZa4QB1%2FA%3D%3D&trackingId=cfohKBbCYPkV0u53JjJN1g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4397747859",
+    "title": "Front End Engineer (React Native)",
+    "company": "Bilt",
+    "location": "New York, NY",
+    "date": "2026-06-10",
+    "link": "https://www.linkedin.com/jobs/view/front-end-engineer-react-native-at-bilt-4397747859?position=10&pageNum=35&refId=6Ia37HxRCS3ChILQo7zQxg%3D%3D&trackingId=TIA%2B7sgh4wWoFjr3FDP0FQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFkSG94I7TcZw/company-logo_100_100/B4EZoxibX7KMAQ-/0/1761767701405/biltrewards_logo?e=2147483647&v=beta&t=m0iztmyG-PTHsnBPxcD0EaTxqhKkNxKEsgE0SFgAOEc",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4425825876",
@@ -3190,6 +3531,39 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4426512258",
+    "title": "Front-end Engineer (mid)",
+    "company": "Ovoko",
+    "location": "Vilnius, Vilniaus, Lithuania",
+    "date": "2026-06-09",
+    "link": "https://lt.linkedin.com/jobs/view/front-end-engineer-mid-at-ovoko-4426512258?position=8&pageNum=55&refId=n5HnH8j9Hf6E3X25pftJDg%3D%3D&trackingId=qm7LJTC34fR5pHEDOCpKaw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGQmbCipJNwtA/company-logo_100_100/B4DZ6RsXjCK4AQ-/0/1780560787965/ovoko_logo?e=2147483647&v=beta&t=ZeniPXH7cWvP37eUnGYNxXSh0DkykkdG_pf_PeHlceg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4425996509",
+    "title": "Staff Frontend Engineer",
+    "company": "Bettermode",
+    "location": "Greater Toronto Area, Canada",
+    "date": "2026-06-09",
+    "link": "https://ca.linkedin.com/jobs/view/staff-frontend-engineer-at-bettermode-4425996509?position=9&pageNum=57&refId=IqST9EY1%2B%2FHmpXIayD9ZZA%3D%3D&trackingId=B2ML%2FJQM23GYoecJjAztRw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQESyne70cFaHA/company-logo_100_100/company-logo_100_100/0/1721847244159/bettermode_logo?e=2147483647&v=beta&t=rKWM19jYXZTMrSt9zkdFzGeXEPOe5hruNUptORkIqe4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4422760482",
+    "title": "Front End Software Engineer",
+    "company": "Convergence Group",
+    "location": "Solihull, England, United Kingdom",
+    "date": "2026-06-09",
+    "link": "https://uk.linkedin.com/jobs/view/front-end-software-engineer-at-convergence-group-4422760482?position=7&pageNum=77&refId=GA0pACLwv%2BKiTKFvvxXuSw%3D%3D&trackingId=E5xXUjXDlmBUTVGUWBmc3A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFXvWj-gF3feA/company-logo_100_100/company-logo_100_100/0/1631302982164?e=2147483647&v=beta&t=54vMJ61JmMIv3xXSS6hw_pROBhseYhjv8qNUxx4dsNk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4425653281",
     "title": "Application Support Engineer",
     "company": "Accenture in India",
@@ -3476,6 +3850,28 @@
     "lng": 0
   },
   {
+    "id": "urn:li:jobPosting:4425634977",
+    "title": "Front-End Development Engineer",
+    "company": "HOOPP (Healthcare of Ontario Pension Plan)",
+    "location": "Toronto, Ontario, Canada",
+    "date": "2026-06-08",
+    "link": "https://ca.linkedin.com/jobs/view/front-end-development-engineer-at-hoopp-healthcare-of-ontario-pension-plan-4425634977?position=5&pageNum=22&refId=rYKFSJNgAyQhIdxFoQ1RQg%3D%3D&trackingId=%2B7gNZ66rQYv%2FyNaJ2eCV2A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHO4dk2bG8FNw/company-logo_100_100/B4EZ6DRgXwHoAI-/0/1780318865458/hoopp_logo?e=2147483647&v=beta&t=RiwofQWnvzoBLZgEqedML1usMlJjVxCIUv3hPOEEciw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4425228918",
+    "title": "Software Engineer - Front end",
+    "company": "On the Beach",
+    "location": "Manchester, England, United Kingdom",
+    "date": "2026-06-08",
+    "link": "https://uk.linkedin.com/jobs/view/software-engineer-front-end-at-on-the-beach-4425228918?position=3&pageNum=52&refId=6RzN%2BhsY4V7u4vhuF3USwQ%3D%3D&trackingId=qsU2pdLq2m9ZfK05mtb%2B%2Fg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGCGjs8cfbsvA/company-logo_100_100/company-logo_100_100/0/1664004820465?e=2147483647&v=beta&t=SdE2osUfFSA28-mORcoAGH8gNZ2kymgh7cv9TaWis_8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4351704725",
     "title": "Staff Mobile Developer",
     "company": "SPAN India",
@@ -3562,6 +3958,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGx5RV9AvJFYg/company-logo_100_100/company-logo_100_100/0/1649455844543/warner_bros_discovery_logo?e=2147483647&v=beta&t=Y1wvgvddjPchRXRn5qHzevYF0yQmZeRh6jUTWZChhWs",
     "lat": 12.9296041,
     "lng": 77.694186
+  },
+  {
+    "id": "urn:li:jobPosting:4425419191",
+    "title": "【福岡】フロントエンドSE",
+    "company": "楽天カード（株）",
+    "location": "Fukuoka, Japan",
+    "date": "2026-06-07",
+    "link": "https://jp.linkedin.com/jobs/view/%E3%80%90%E7%A6%8F%E5%B2%A1%E3%80%91%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89se-at-%E6%A5%BD%E5%A4%A9%E3%82%AB%E3%83%BC%E3%83%89%EF%BC%88%E6%A0%AA%EF%BC%89-4425419191?position=6&pageNum=35&refId=6Ia37HxRCS3ChILQo7zQxg%3D%3D&trackingId=qDRa9X%2FuHz%2F4s8%2Byh8DskQ%3D%3D",
+    "logo": "https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4424691140",
@@ -3659,6 +4066,17 @@
     "date": "2026-06-06",
     "link": "https://www.linkedin.com/jobs/view/front-end-engineer-at-halliday-4424977305?position=6&pageNum=10&refId=tKXP%2FOX6qcZNdgFGfvx21A%3D%3D&trackingId=P2KC1gstKCgb4TpWTWwUgQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHhpa-Y1Zd-fA/company-logo_100_100/company-logo_100_100/0/1738872326676/halliday_logo?e=2147483647&v=beta&t=kf6DstEExZQMjhPBNGkyuNQZJiZ_-XczlD1-yPbwbqo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4382810963",
+    "title": "Frontend Engineer, New Products",
+    "company": "EvenUp",
+    "location": "San Francisco, CA",
+    "date": "2026-06-06",
+    "link": "https://www.linkedin.com/jobs/view/frontend-engineer-new-products-at-evenup-4382810963?position=10&pageNum=40&refId=NMxFgyLK2%2FJyYa6IQnYjjQ%3D%3D&trackingId=ah%2FKICsEf%2BvuiEKL9253Bw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFLqBz4qU9OQA/company-logo_100_100/company-logo_100_100/0/1674768727001/evenup_logo?e=2147483647&v=beta&t=kRbf3jse8wf3UouWT4TfjF6TGq1E6mP8Npm74hUsdSM",
     "lat": 0,
     "lng": 0
   },
@@ -4011,6 +4429,39 @@
     "date": "2026-06-05",
     "link": "https://in.linkedin.com/jobs/view/require-a-software-engineer-in-bangalore-at-testhiring-4424681262?position=2&pageNum=92&refId=4%2FDo8nbtGGN3NPWpehEsAw%3D%3D&trackingId=5GcpVlTf07gUVBUjVjmF1g%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG2770PvEzIrg/company-logo_100_100/company-logo_100_100/0/1727694691269?e=2147483647&v=beta&t=OWtFPc1xEobPOlBAo5D0QFgNYoZmQ-KGTnWhpcxc9hQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4383244282",
+    "title": "Frontend Developer",
+    "company": "Spatial Front, Inc",
+    "location": "Arlington, VA",
+    "date": "2026-06-05",
+    "link": "https://www.linkedin.com/jobs/view/frontend-developer-at-spatial-front-inc-4383244282?position=3&pageNum=35&refId=6Ia37HxRCS3ChILQo7zQxg%3D%3D&trackingId=1WvTiANPiX%2FeO%2BwNVihw9Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFp3Ch7kPcMTA/company-logo_100_100/company-logo_100_100/0/1631351085597?e=2147483647&v=beta&t=He6W7WXd2l2XGXwClN4rfgLm5cM4snAlXqEvvgqVQd8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4405245530",
+    "title": "Design Engineer",
+    "company": "Cursor",
+    "location": "New York, United States",
+    "date": "2026-06-05",
+    "link": "https://www.linkedin.com/jobs/view/design-engineer-at-cursor-4405245530?position=5&pageNum=57&refId=IqST9EY1%2B%2FHmpXIayD9ZZA%3D%3D&trackingId=wH%2FSFubTDYm%2BH%2BL51LxGBg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHKh6nk4UdeBA/company-logo_100_100/B56ZnbGvJ6KUAQ-/0/1760317600747/cursorai_logo?e=2147483647&v=beta&t=1yAAWeBonUXQjXYfVd2zhoGg4vRI99tIr8Pl8zZn58I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4414702990",
+    "title": "Senior Software Engineer (Front-End)",
+    "company": "Mochi Health",
+    "location": "San Francisco, CA",
+    "date": "2026-06-05",
+    "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-front-end-at-mochi-health-4414702990?position=7&pageNum=57&refId=IqST9EY1%2B%2FHmpXIayD9ZZA%3D%3D&trackingId=WovUlhl0r6QE7DgBQQ1EHQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEGtMS9GSIMZQ/company-logo_100_100/B56ZWQu1VcHoAQ-/0/1741889951475/mochihealth_logo?e=2147483647&v=beta&t=Zm-vwh8hZ5fUqMiiPypQ55YUg4MVSMLMpLPeNHL4tvk",
     "lat": 0,
     "lng": 0
   },
@@ -5115,6 +5566,39 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4401614127",
+    "title": "Software Engineer III - Java",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-03",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-at-walmart-global-tech-india-4401614127?position=2&pageNum=97&refId=asP7GSTuAu46MeJHbONLGw%3D%3D&trackingId=vTTn7mv0RHHRtpq1vEYQdQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4424075158",
+    "title": "Web Developer",
+    "company": "BitKernel",
+    "location": "Greater Vancouver Metropolitan Area",
+    "date": "2026-06-03",
+    "link": "https://ca.linkedin.com/jobs/view/web-developer-at-bitkernel-4424075158?position=9&pageNum=22&refId=rYKFSJNgAyQhIdxFoQ1RQg%3D%3D&trackingId=zaOTFuNIp78caHh8NWlvQQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHoEUVRnP6R2g/company-logo_100_100/company-logo_100_100/0/1727110184835/bitkernel_logo?e=2147483647&v=beta&t=uyz8bHOG3Ffov2hk6V46fOObKDNtX-IvcLM-Ia7tn_Q",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4392971557",
+    "title": "UI/UX Developer",
+    "company": "Two Six Technologies",
+    "location": "Herndon, VA",
+    "date": "2026-06-03",
+    "link": "https://www.linkedin.com/jobs/view/ui-ux-developer-at-two-six-technologies-4392971557?position=5&pageNum=52&refId=6RzN%2BhsY4V7u4vhuF3USwQ%3D%3D&trackingId=0UQDSh0z%2FJET8GW%2Fp978uQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH3HqFTANdrRg/company-logo_100_100/company-logo_100_100/0/1713801402222/twosixtechnologies_logo?e=2147483647&v=beta&t=2zZFwPM6Q92QBdEiJnuQ8y6qHH3505XPuTXjeyr_0h4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4422348392",
     "title": "FULL STACK FRONT END (ANGULAR/React + NODE)",
     "company": "JobLuxe",
@@ -5797,6 +6281,50 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4401686051",
+    "title": "Front End Software Engineer",
+    "company": "Saronic Technologies",
+    "location": "Austin, TX",
+    "date": "2026-06-02",
+    "link": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-saronic-technologies-4401686051?position=1&pageNum=22&refId=rYKFSJNgAyQhIdxFoQ1RQg%3D%3D&trackingId=apbaPQdH0GZQDZ551dkMHg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHHSOxJwXEBmQ/company-logo_100_100/company-logo_100_100/0/1694889051064/saronic_technologies_logo?e=2147483647&v=beta&t=uREOiv41SxcPNv84B_PnaMQy3NY_564y-XC3NGuJJiM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4422305664",
+    "title": "Software Development Frontend",
+    "company": "SMART DATA Deutschland GmbH",
+    "location": "Ottawa, Ontario, Canada",
+    "date": "2026-06-02",
+    "link": "https://ca.linkedin.com/jobs/view/software-development-frontend-at-smart-data-deutschland-gmbh-4422305664?position=8&pageNum=52&refId=6RzN%2BhsY4V7u4vhuF3USwQ%3D%3D&trackingId=bNpK1sdqzeVSC1SQL0OPmw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFfZOgY4y8YfA/company-logo_100_100/company-logo_100_100/0/1630458602232/smart_data_deutschland_gmbh_logo?e=2147483647&v=beta&t=UVAQ1SgeRcveUz5g20a3E0c6d45-dBOrtttMzmZ592k",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4423512582",
+    "title": "(Sr/Staff) Frontend Engineer",
+    "company": "Terzo",
+    "location": "San Francisco, CA",
+    "date": "2026-06-02",
+    "link": "https://www.linkedin.com/jobs/view/sr-staff-frontend-engineer-at-terzo-4423512582?position=5&pageNum=77&refId=GA0pACLwv%2BKiTKFvvxXuSw%3D%3D&trackingId=AFnF3HGqLwD17b6SGgBUkg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFXVhwUN6cp4g/company-logo_100_100/company-logo_100_100/0/1650891274730/terzoai_logo?e=2147483647&v=beta&t=F1mBU_ItfPu39frGUfFXTo7vKmzJhR7Ij1eGLnVByI0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4419645165",
+    "title": "Software Engineer",
+    "company": "Asana",
+    "location": "New York, NY",
+    "date": "2026-06-02",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-at-asana-4419645165?position=10&pageNum=77&refId=GA0pACLwv%2BKiTKFvvxXuSw%3D%3D&trackingId=2%2Bv8jpd5re4igAXb7uvTJw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQERbUpXJLqJ-w/company-logo_100_100/B4EZ6RrHb0JkAI-/0/1780560459807/asana_logo?e=2147483647&v=beta&t=TxGsHu5l46eo81QaBBXuKokqm1XA2QQSxFdu23J4Z-k",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4416488445",
     "title": "Software Engineer",
     "company": "Aurigo Software Technologies",
@@ -6136,6 +6664,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHAxoD4chKrgg/company-logo_100_100/B4EZfR2e4JHcAk-/0/1751572410148/visa_logo?e=2147483647&v=beta&t=mZYikLJ1nOM9RYXsRYavU2c7xuzCKWDqH8Q0UzAGrhw",
     "lat": 12.9838791,
     "lng": 77.693991
+  },
+  {
+    "id": "urn:li:jobPosting:4423237904",
+    "title": "Senior Frontend Engineer",
+    "company": "Mozilla",
+    "location": "Toronto, Ontario, Canada",
+    "date": "2026-06-01",
+    "link": "https://ca.linkedin.com/jobs/view/senior-frontend-engineer-at-mozilla-4423237904?position=4&pageNum=22&refId=rYKFSJNgAyQhIdxFoQ1RQg%3D%3D&trackingId=Q1lWrpZkAgWXreA5zZu%2BgQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEd2Es3SH2hIQ/company-logo_100_100/company-logo_100_100/0/1733347563365/mozilla_corporation_logo?e=2147483647&v=beta&t=4VWUvr_elL3lXzXyPbJOzofEOiOXAWfvjyZEPTK142A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4393821552",
+    "title": "UI/UX Frontend Developer - Mid level",
+    "company": "Titan Technologies",
+    "location": "Fort Meade, MD",
+    "date": "2026-06-01",
+    "link": "https://www.linkedin.com/jobs/view/ui-ux-frontend-developer-mid-level-at-titan-technologies-4393821552?position=8&pageNum=40&refId=NMxFgyLK2%2FJyYa6IQnYjjQ%3D%3D&trackingId=ZDvjcFqsFuQZgKLcwRBdSw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEWjo4dEvEIBw/company-logo_100_100/B4DZa2W_XcGYAU-/0/1746816202469/titantechnologiesllc_logo?e=2147483647&v=beta&t=AiuvJa37q7M_I7dXXpGzXfLYs3bCvuoAv7t5jukf7-M",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4422573553",
@@ -9768,6 +10318,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4418186183",
+    "title": "前端开发工程师",
+    "company": "平安健康保险股份有限公司",
+    "location": "Shenzhen, Guangdong, China",
+    "date": "2026-05-22",
+    "link": "https://cn.linkedin.com/jobs/view/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88-at-%E5%B9%B3%E5%AE%89%E5%81%A5%E5%BA%B7%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-4418186183?position=1&pageNum=77&refId=GA0pACLwv%2BKiTKFvvxXuSw%3D%3D&trackingId=3Jo%2FGurBlfnVD%2F1lK6g9zQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQHq8rjXjnkcgw/company-logo_100_100/company-logo_100_100/0/1630623484139/_logo?e=2147483647&v=beta&t=dh7z1BnMsH-DvDWLoBPjhpCO0CsQCyoad_KfN3X4v8g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4413656382",
     "title": "Staff Software Engineer in Test",
     "company": "Okta",
@@ -11198,6 +11759,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4414938843",
+    "title": "Web Apps Developer",
+    "company": "Halvik",
+    "location": "Destin, FL",
+    "date": "2026-05-19",
+    "link": "https://www.linkedin.com/jobs/view/web-apps-developer-at-halvik-4414938843?position=4&pageNum=52&refId=6RzN%2BhsY4V7u4vhuF3USwQ%3D%3D&trackingId=1y2Xd948pQ0oId1wxCz%2FwA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFyx7oe3MRYtw/company-logo_100_100/company-logo_100_100/0/1631344558817?e=2147483647&v=beta&t=KE4YE5uqsifVV7mIwJ1Yd4cPUrJ5xou7INTqKxTNNw4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4415474966",
     "title": "Senior Frontend Developer - Mobile & Web",
     "company": "Neo Wealth and Asset Management",
@@ -11955,6 +12527,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFhjBfix7j79Q/company-logo_100_100/company-logo_100_100/0/1688359364881/pragyaam_logo?e=2147483647&v=beta&t=XNjd-Xxk2INU-U4lABEcsMTnFjK_vRfy0RTpIQGTXHY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4416258400",
+    "title": "Full Stack Engineer (Front end leaning)",
+    "company": "Clariti AI",
+    "location": "Greater London, England, United Kingdom",
+    "date": "2026-05-18",
+    "link": "https://uk.linkedin.com/jobs/view/full-stack-engineer-front-end-leaning-at-clariti-ai-4416258400?position=5&pageNum=55&refId=n5HnH8j9Hf6E3X25pftJDg%3D%3D&trackingId=sNFjB%2BJ27JknbWw5LqXz2g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG-TM3jhQw7rA/company-logo_100_100/company-logo_100_100/0/1630567567089/claritiai_logo?e=2147483647&v=beta&t=xOQgNAn1g2DKLkNFQ0M8AjDNHGdYhYfRpAThI6VqTKA",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4415451732",
@@ -14399,6 +14982,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4330528787",
+    "title": "Full-Stack Software Engineer, Product",
+    "company": "Harmonic",
+    "location": "Palo Alto, CA",
+    "date": "2026-05-10",
+    "link": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-product-at-harmonic-4330528787?position=3&pageNum=77&refId=GA0pACLwv%2BKiTKFvvxXuSw%3D%3D&trackingId=IjtKfaNaz8H44HgH66Y%2Fvg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHFEpvsXnnmwA/company-logo_100_100/company-logo_100_100/0/1719258055269?e=2147483647&v=beta&t=OHAuLBrKayXNi0AfYCy_fOiGp0pAs8y_gEjOd_BvOcY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4411961470",
     "title": "Software Engineer - AI Engineer, Design and implement AI Agents, Python, Jupyter, ML libraries, Predictive models, Automation & Monitoring (5+ Yrs)",
     "company": "Cisco",
@@ -14839,6 +15433,17 @@
     "lng": 0
   },
   {
+    "id": "urn:li:jobPosting:4411733688",
+    "title": "Senior Frontend Engineer",
+    "company": "Nexus Mods",
+    "location": "Exeter, England, United Kingdom",
+    "date": "2026-05-08",
+    "link": "https://uk.linkedin.com/jobs/view/senior-frontend-engineer-at-nexus-mods-4411733688?position=2&pageNum=57&refId=IqST9EY1%2B%2FHmpXIayD9ZZA%3D%3D&trackingId=Et7qzbnskG4VlZDK2rYmOA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHGfyleyJtJNQ/company-logo_100_100/B4EZoLoo7tIwAQ-/0/1761131794903/nexusmods_logo?e=2147483647&v=beta&t=f-lVh6ottpueozcuiyC1U3MVEXaZgAFJMy_WlnLnc1A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4410473554",
     "title": "Software Engineer",
     "company": "GoComet",
@@ -15035,6 +15640,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHislen9Mc29A/company-logo_100_100/company-logo_100_100/0/1732020819656/exponent_energy_logo?e=2147483647&v=beta&t=VzbLfbkxJwZMWwe2RbXc6unHrE9WMV52STRl0qw2IhI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4411861703",
+    "title": "Front-End Developer",
+    "company": "Bedrosians Tile and Stone",
+    "location": "Tustin, CA",
+    "date": "2026-05-07",
+    "link": "https://www.linkedin.com/jobs/view/front-end-developer-at-bedrosians-tile-and-stone-4411861703?position=10&pageNum=52&refId=6RzN%2BhsY4V7u4vhuF3USwQ%3D%3D&trackingId=U46cc0klEXoBiDdlAAH1GA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEXxGx-wO5Zqg/company-logo_100_100/company-logo_100_100/0/1630622058999/bedrosians_tile_and_stone_logo?e=2147483647&v=beta&t=BOvxu6g4M4zAIeBdVcrDV3dgVTaC4q6FdA-KSuDHxsg",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4410910449",
@@ -15398,6 +16014,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQETBZSIS5vqqw/company-logo_100_100/company-logo_100_100/0/1657569254292/empower_india_logo?e=2147483647&v=beta&t=9zSjkk6FyT7_5hKKz1NzqRuXBNZio4MR0dqLNcGDlHE",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4408899285",
+    "title": "Product Engineer",
+    "company": "Healthspan",
+    "location": "Santa Monica, CA",
+    "date": "2026-05-06",
+    "link": "https://www.linkedin.com/jobs/view/product-engineer-at-healthspan-4408899285?position=8&pageNum=22&refId=rYKFSJNgAyQhIdxFoQ1RQg%3D%3D&trackingId=IO2fyOMOIA8LV503%2FPzEpA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGseMN02OEcDg/company-logo_100_100/B56Zdw_qWsHUAQ-/0/1749947426858/healthspan_medical_logo?e=2147483647&v=beta&t=9O2t0UxopHlTNk_LMnxRMDVrSElilx1JC7E5E9JQRDc",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4409375497",
@@ -15917,6 +16544,17 @@
     "lng": 0
   },
   {
+    "id": "urn:li:jobPosting:4410593438",
+    "title": "Frontend Engineer",
+    "company": "Newcode.ai",
+    "location": "Oslo, Oslo, Norway",
+    "date": "2026-05-05",
+    "link": "https://no.linkedin.com/jobs/view/frontend-engineer-at-newcode-ai-4410593438?position=1&pageNum=55&refId=n5HnH8j9Hf6E3X25pftJDg%3D%3D&trackingId=DOzO4OQsA84ryLgXDju0Ag%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQESUscEAvlWXA/company-logo_100_100/B4EZ0HEIxZHAAU-/0/1773940019546/newcode_ai_logo?e=2147483647&v=beta&t=DJdQOE1uQ2Z-NvsNITAQlpbzI4kZ8Lvq8jNBaLSLIxY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4408681844",
     "title": "Senior Software Engineer - Credit Karma",
     "company": "Intuit",
@@ -16278,6 +16916,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQE3CVOcLuBxYQ/company-logo_100_100/company-logo_100_100/0/1630583573410/mahindra_comviva_logo?e=2147483647&v=beta&t=uPwc1gYj0wbw7ovHPAPx7HqSxOe082zfq0llalzITT8",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4409407874",
+    "title": "Full Stack Developer (MERN)",
+    "company": "Comviva",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-05-01",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-mern-at-comviva-4409407874?position=5&pageNum=62&refId=aOfKDACpRlPtCoBAdEyYxg%3D%3D&trackingId=8dvxFgsyqJu9Dqh8iwm%2Fbw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQE3CVOcLuBxYQ/company-logo_100_100/company-logo_100_100/0/1630583573410/mahindra_comviva_logo?e=2147483647&v=beta&t=uPwc1gYj0wbw7ovHPAPx7HqSxOe082zfq0llalzITT8",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4407620155",
@@ -17875,6 +18524,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4404792858",
+    "title": "Front-End Engineer",
+    "company": "Confluera",
+    "location": "Palo Alto, CA",
+    "date": "2026-04-23",
+    "link": "https://www.linkedin.com/jobs/view/front-end-engineer-at-confluera-4404792858?position=6&pageNum=57&refId=IqST9EY1%2B%2FHmpXIayD9ZZA%3D%3D&trackingId=2i6qYPF%2Bavg4k7VQ9NY7OQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFW4q2mQeMbWQ/company-logo_100_100/company-logo_100_100/0/1630632006516/conflueraiq_logo?e=2147483647&v=beta&t=CE2jbheD9NmYHZP_TpJiolFc5zNYcajSeisgWcWRz50",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4402465218",
     "title": "Frontend Engineer",
     "company": "Proof-of-Skill",
@@ -19470,6 +20130,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4402965990",
+    "title": "Cloud Frontend Engineer",
+    "company": "Signaloid",
+    "location": "Cambridge, England, United Kingdom",
+    "date": "2026-04-16",
+    "link": "https://uk.linkedin.com/jobs/view/cloud-frontend-engineer-at-signaloid-4402965990?position=5&pageNum=35&refId=6Ia37HxRCS3ChILQo7zQxg%3D%3D&trackingId=8IcwdTAXBYiVS6clEhP4IQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHDqOtZSwjbaw/company-logo_100_100/company-logo_100_100/0/1726732490322/signaloid_logo?e=2147483647&v=beta&t=X72a0EBnnyfzMjSA0g9GWSX3VXmZGO_BGwUbQUMV228",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4402073624",
     "title": "Senior Software Engineer",
     "company": "Microsoft",
@@ -20733,6 +21404,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-dUQnQRmQKQ/company-logo_100_100/B56ZpT8720JsAU-/0/1762345074559/apnahq_logo?e=2147483647&v=beta&t=l2CVwb_6BjSmbYqQcQcRCgldXssmwh0ul13hTKahA7Y",
     "lat": 12.9600163,
     "lng": 77.6435713
+  },
+  {
+    "id": "urn:li:jobPosting:4400664363",
+    "title": "Design Engineer",
+    "company": "EliseAI",
+    "location": "New York, NY",
+    "date": "2026-04-11",
+    "link": "https://www.linkedin.com/jobs/view/design-engineer-at-eliseai-4400664363?position=4&pageNum=40&refId=NMxFgyLK2%2FJyYa6IQnYjjQ%3D%3D&trackingId=NNsx3PneWHtfvp5VL7zSzQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF0qU1drRa6GQ/company-logo_100_100/B4DZamAQASHQAQ-/0/1746541805967/eliseai_logo?e=2147483647&v=beta&t=Jmybn44H_2QJ2ErlvdUiSOlPi2kS_mSCm4RDogsVFSQ",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4400354238",
@@ -22361,6 +23043,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEqzr4z_vFq6w/company-logo_100_100/company-logo_100_100/0/1691385273438/bright_money_logo?e=2147483647&v=beta&t=CGzIL7CAx5BJZPUligpIoY2RnJvYL3Gi0-m_FE0nmas",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4398058823",
+    "title": "Software Engineer, Web Product",
+    "company": "Mirage",
+    "location": "New York, NY",
+    "date": "2026-04-06",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-web-product-at-mirage-4398058823?position=8&pageNum=77&refId=GA0pACLwv%2BKiTKFvvxXuSw%3D%3D&trackingId=gz1dElEYlGZbmfcdbeeacA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEst0uxvbfWdw/company-logo_100_100/B4EZkU9kREGUAQ-/0/1756993309583/trymirage_logo?e=2147483647&v=beta&t=_WhZta9IB2XgiRuvQiE-X2sScNwaYOL4NqhqdBfHUdo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4394418301",
@@ -25641,6 +26334,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4400167867",
+    "title": "Software Engineer",
+    "company": "Fashion Nova",
+    "location": "Beverly Hills, CA",
+    "date": "2026-03-22",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-at-fashion-nova-4400167867?position=9&pageNum=77&refId=GA0pACLwv%2BKiTKFvvxXuSw%3D%3D&trackingId=o7PjqLXISQCJ0Yqb%2B1LSsw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGQCdERoxB_Og/company-logo_100_100/company-logo_100_100/0/1662657210403/fashion_nova_logo?e=2147483647&v=beta&t=eH6CsS6VU_4sLN3e_P4nDLHOHi0xAO0gGQy57cm2ZVw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4388250893",
     "title": "Senior Software Engineer",
     "company": "Capgemini",
@@ -27894,6 +28598,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEXYV6p34CtPA/company-logo_100_100/B4DZjMehUuGgAc-/0/1755777210085/standard_chartered_india_logo?e=2147483647&v=beta&t=gxeH4hJTKe069a0UzLFYxW71KL4pW41yTiDx8Kp_wdg",
     "lat": 12.9853637,
     "lng": 77.7081623
+  },
+  {
+    "id": "urn:li:jobPosting:4384616788",
+    "title": "Senior Frontend Engineer",
+    "company": "Sauna by Wordware",
+    "location": "San Francisco, CA",
+    "date": "2026-03-14",
+    "link": "https://www.linkedin.com/jobs/view/senior-frontend-engineer-at-sauna-by-wordware-4384616788?position=6&pageNum=52&refId=6RzN%2BhsY4V7u4vhuF3USwQ%3D%3D&trackingId=ELDcBo05suXNtMdz1C%2B1wQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEmk7BUglugkg/company-logo_100_100/B56Z3VczVCJ8AU-/0/1777402590837/wordware_logo?e=2147483647&v=beta&t=vhjnAYGmtzr84aj2R1a-_f2XAS7rs-V2a4e9Nzin2N4",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4384267334",
@@ -35154,6 +35869,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4373800011",
+    "title": "Staff Frontend Engineer ($300k - $500k salary)",
+    "company": "Baton Corporation",
+    "location": "New York, NY",
+    "date": "2026-02-16",
+    "link": "https://www.linkedin.com/jobs/view/staff-frontend-engineer-%24300k-%24500k-salary-at-baton-corporation-4373800011?position=2&pageNum=52&refId=6RzN%2BhsY4V7u4vhuF3USwQ%3D%3D&trackingId=tb4vltExddyHvwtt71KioA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEOX4blxvh03g/company-logo_100_100/B4EZvCQXdpHkAQ-/0/1768490629691/baton_corporation1_logo?e=2147483647&v=beta&t=2iEeVShFrRkLiQMJlmgPKE-Naw4Ox4ANHHkyoYrdiRA",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4372323705",
@@ -44466,6 +45192,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4366948840",
+    "title": "Junior to Mid Level Front End Developer",
+    "company": "Futrend Technology, Inc.",
+    "location": "Bethesda, MD",
+    "date": "2026-01-28",
+    "link": "https://www.linkedin.com/jobs/view/junior-to-mid-level-front-end-developer-at-futrend-technology-inc-4366948840?position=9&pageNum=52&refId=6RzN%2BhsY4V7u4vhuF3USwQ%3D%3D&trackingId=ViD6L%2FiA0E40qeCLPXKsYA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEy-lc5D15qTQ/company-logo_100_100/company-logo_100_100/0/1631332847197?e=2147483647&v=beta&t=g3RuHt9m47hlxYp9EtMD21khFwS0jolON5jxjeDJJQw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "title": "Frontend Engineer (React+ Javascript)",
     "company": "Apple",
     "location": "Bengaluru, Karnataka, India",
@@ -45529,6 +46266,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4360904393",
+    "title": "Design Engineer (San Francisco)",
+    "company": "Infisical",
+    "location": "San Francisco, CA",
+    "date": "2026-01-19",
+    "link": "https://www.linkedin.com/jobs/view/design-engineer-san-francisco-at-infisical-4360904393?position=4&pageNum=57&refId=IqST9EY1%2B%2FHmpXIayD9ZZA%3D%3D&trackingId=XdSmOoNDqixNROzGW5xTMg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEe34uc5oArMA/company-logo_100_100/B56ZhEN_XnHkAQ-/0/1753491175137/infisical_logo?e=2147483647&v=beta&t=qmtfVlpBdxIta7GJdM_siiemjPWiX3rLVWR2hdBYzMU",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4371856194",
@@ -47445,6 +48193,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4342111900",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-12-04",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4342111900?position=4&pageNum=97&refId=asP7GSTuAu46MeJHbONLGw%3D%3D&trackingId=qherqi9h1gdHKZDkRkrnGA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4341713011",
     "title": "Angular Developer",
     "company": "Bizdata Inc",
@@ -47663,6 +48422,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFbkErkZfxbHQ/company-logo_100_100/B56Zye.ES4I0AQ-/0/1772193597009/wizcommerce_logo?e=2147483647&v=beta&t=XQfx1VFNZ-yp680jAI2nKIAqYZrdTL-oNIMoM09vCZs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4339845987",
+    "title": "Sr. Software Engineer",
+    "company": "Travtech Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-11-29",
+    "link": "https://in.linkedin.com/jobs/view/sr-software-engineer-at-travtech-inc-4339845987?position=6&pageNum=97&refId=dmqtZ2HJ1QU3dzdBhl2eiA%3D%3D&trackingId=8B4E30t4wV9jFEgBCpynWQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQENVEjj3XCqqA/company-logo_100_100/company-logo_100_100/0/1630651390622/travtech_logo?e=2147483647&v=beta&t=ZnbzMKTdCba0onu42wGTdj8G86IktLpDtSpMJpg4ltk",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4339298060",
@@ -48369,6 +49139,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4316340423",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-10-17",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4316340423?position=8&pageNum=97&refId=2gPVW3rJ8uQ5m8Re533%2FfQ%3D%3D&trackingId=AFdynX92rIcv9Houi7WjKw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4315211910",
     "title": "Software Engineer- Android/Web development",
     "company": "Blackfig Technologies",
@@ -49072,6 +49853,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4300371443",
+    "title": "UX Engineer",
+    "company": "Corporate Tools",
+    "location": "Post Falls, ID",
+    "date": "2025-09-17",
+    "link": "https://www.linkedin.com/jobs/view/ux-engineer-at-corporate-tools-4300371443?position=3&pageNum=55&refId=n5HnH8j9Hf6E3X25pftJDg%3D%3D&trackingId=xYp9%2FQaqkng7gBVbc7uxpg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGKs0huV7z0bw/company-logo_100_100/B56Zt1yketLAAU-/0/1767207750323/corporatetools_logo?e=2147483647&v=beta&t=kbdDEL8-z_D17evwjygPEe04phmpIuhBImIUIRtNLaA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4300887332",
     "title": "Custom Software Engineer",
     "company": "Accenture in India",
@@ -49631,6 +50423,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF4HRgN-MYSIw/company-logo_100_100/B4DZZ6fKkBHIAQ-/0/1745811712558/hello_konovo_logo?e=2147483647&v=beta&t=ZXvhjZZPWruCHG-J8MG8EuQLFCW3nNYyFsIiGpdsLO0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4259461919",
+    "title": "Frontend Developer - North America PST",
+    "company": "Brix",
+    "location": "Simcoe, Ontario, Canada",
+    "date": "2025-06-30",
+    "link": "https://ca.linkedin.com/jobs/view/frontend-developer-north-america-pst-at-brix-4259461919?position=6&pageNum=55&refId=n5HnH8j9Hf6E3X25pftJDg%3D%3D&trackingId=7NBDnrxRTw0%2BxWu1GWDVsA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFcO6nbrNNEJA/company-logo_100_100/B56ZnTFzAGHQAQ-/0/1760183139441/joinbrix_logo?e=2147483647&v=beta&t=nmGiObxBwtFCjvuL-HfP2b7dWK6DdgNwZbjxZoQw3Zo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4259095685",
@@ -50366,6 +51169,17 @@
     "date": "2024-03-06",
     "link": "https://in.linkedin.com/jobs/view/senior-reactjs-developer-6%2B-years-experience-at-e-cosmos-india-private-limited-3848139777?position=1&pageNum=57&refId=8pAkNryGeujh6nUc5baLsA%3D%3D&trackingId=ImQcgIoCZjWjH9zctZx6fQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGvFXXA7Iac1A/company-logo_100_100/company-logo_100_100/0/1724839829330/ecosmos_solutions_uk_limited_logo?e=2147483647&v=beta&t=N9MTyPkJfeJNNyHEluqYRh_5GWukXUJOI-38KBFMo1I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:3837052731",
+    "title": "Senior Frontend Engineer",
+    "company": "DreamCraft Entertainment, Inc.",
+    "location": "Redwood City, CA",
+    "date": "2024-02-23",
+    "link": "https://www.linkedin.com/jobs/view/senior-frontend-engineer-at-dreamcraft-entertainment-inc-3837052731?position=10&pageNum=22&refId=rYKFSJNgAyQhIdxFoQ1RQg%3D%3D&trackingId=uZ4xdgB3%2FyCPgg4izgEOFw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEC6bcej1TI3A/company-logo_100_100/company-logo_100_100/0/1637163206616/dreamcraft_entertainment_inc_logo?e=2147483647&v=beta&t=R34EpacJhaZCkANVCBTO9pkwd30sVD6UAgOBtLE9dvg",
     "lat": 0,
     "lng": 0
   },
@@ -103053,5 +103867,305 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4431652404",
+    "title": "Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4431652404?position=5&pageNum=17&refId=kHhHyp3Vv5UoSxQUxa8CjA%3D%3D&trackingId=mpWzHvdG8DvNbYlF76UTTQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431679593",
+    "title": "Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4431679593?position=6&pageNum=17&refId=kHhHyp3Vv5UoSxQUxa8CjA%3D%3D&trackingId=zsaRCNYwYD8pkbHRISEnag%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431643463",
+    "title": "Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4431643463?position=9&pageNum=17&refId=kHhHyp3Vv5UoSxQUxa8CjA%3D%3D&trackingId=GdRcQkusRZnBkEmwtealqA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431638500",
+    "title": "Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4431638500?position=10&pageNum=17&refId=kHhHyp3Vv5UoSxQUxa8CjA%3D%3D&trackingId=44TI5rz%2BCy1hh5BVNMmhjw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430385177",
+    "title": "Javascript Developer",
+    "company": "Recro",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/javascript-developer-at-recro-4430385177?position=7&pageNum=20&refId=%2F6i7dqTUxX1xlrwphwFFlw%3D%3D&trackingId=iRlWo3Ml61ReMHUtfD1r%2Fg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH7GYOGBCj8Qg/company-logo_100_100/company-logo_100_100/0/1728907260215/recro_io_logo?e=2147483647&v=beta&t=898rSyj182aC0vqi5cZqbWQQIDumt_WpercCJsH_-TY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431660819",
+    "title": "Java ReactJS Fullstack Developer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/java-reactjs-fullstack-developer-at-capgemini-4431660819?position=1&pageNum=47&refId=kmA1HqrExkGAssEtusb21w%3D%3D&trackingId=pTRtD%2BGs4g5bJ5OWLBNd2A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430500014",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4430500014?position=2&pageNum=57&refId=jHhQum7W9SEtoOVfI7TByQ%3D%3D&trackingId=eVd2kdRtKYPRm6sBrcAfnQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4428950232",
+    "title": "Full Stack Engineer",
+    "company": "Digi9",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-digi9-4428950232?position=10&pageNum=70&refId=ohU9gsbLkcADn0Vo%2FPvWuw%3D%3D&trackingId=G4jNHZtZjwjuxkkzy6gElQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFZFd0VOi-Urw/company-logo_100_100/B56Zz7lbdSJMAQ-/0/1773747419421/voizpanda_logo?e=2147483647&v=beta&t=ih3mL3Ec53qX_5AnmJdpHqkH81zpHL1kUNEMpItn-D4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430394980",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru North, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4430394980?position=8&pageNum=97&refId=asP7GSTuAu46MeJHbONLGw%3D%3D&trackingId=mqASI%2Bfu5VoiM88L8AfCMQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430381866",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bangalore Rural, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4430381866?position=9&pageNum=12&refId=rJhe%2F%2FUUmynvtIy703WQYg%3D%3D&trackingId=0ygkqhs5FaA4XIz%2B%2BUCs%2Fw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430381865",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4430381865?position=10&pageNum=12&refId=rJhe%2F%2FUUmynvtIy703WQYg%3D%3D&trackingId=55CqwfNokEpgpAJEDgGTFg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430396759",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4430396759?position=1&pageNum=15&refId=PQ2s%2B%2FzmsuQhfSSoc8vkpw%3D%3D&trackingId=kDtkcD13yr71YFSca16JRw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430380874",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bangalore Urban district, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4430380874?position=10&pageNum=15&refId=PQ2s%2B%2FzmsuQhfSSoc8vkpw%3D%3D&trackingId=LtBuQodfOwEsxhElXnz8lg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4428597620",
+    "title": "Frontend Engineer",
+    "company": "Wordbricks",
+    "location": "San Francisco Bay Area",
+    "link": "https://www.linkedin.com/jobs/view/frontend-engineer-at-wordbricks-4428597620?position=9&pageNum=35&refId=6Ia37HxRCS3ChILQo7zQxg%3D%3D&trackingId=HY6V6Sb6dGeDBPESCQifKw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHZZjGCRZxQyA/company-logo_100_100/company-logo_100_100/0/1710566965892/wordbricks_logo?e=2147483647&v=beta&t=O-ZY8hBfy5g4-AflfY7Z4KP8nFOfUeRpS-ApBFTWOX8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4349651460",
+    "title": "Web Engineer",
+    "company": "Hightouch",
+    "location": "San Francisco Bay Area",
+    "link": "https://www.linkedin.com/jobs/view/web-engineer-at-hightouch-4349651460?position=9&pageNum=40&refId=NMxFgyLK2%2FJyYa6IQnYjjQ%3D%3D&trackingId=OyOP8dDxDL4VYZinzaG%2BFQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHI5_dz26qPmg/company-logo_100_100/B4EZ3XEjIrIgAU-/0/1777429787443/hightouchio_logo?e=2147483647&v=beta&t=RyWKq9bdq_UiZYhWCMSpJ9PZIL8JJWOmfkGFPtxtjZw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4428908863",
+    "title": "Senior Software Engineer (Front-end)- 7+ years",
+    "company": "Nielsen",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-front-end-7%2B-years-at-nielsen-4428908863?position=1&pageNum=45&refId=Nt0cbPlUQzZX3VLg5YA1CQ%3D%3D&trackingId=Rn9b%2FzYo9FrMCPvAoiwe3A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFKa_ObftR_8w/company-logo_100_100/company-logo_100_100/0/1634555714141/nielsen_logo?e=2147483647&v=beta&t=E8FbfWgplUSlMmYJz_9xfj8sY4p-sL9XTr3amAbK0jc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431661746",
+    "title": "Front End Engineer (Js, CSS)",
+    "company": "Sundayy",
+    "location": "British Columbia, Canada",
+    "link": "https://ca.linkedin.com/jobs/view/front-end-engineer-js-css-at-sundayy-4431661746?position=1&pageNum=57&refId=IqST9EY1%2B%2FHmpXIayD9ZZA%3D%3D&trackingId=IHuKCEVv7tgrhCa5G61C7A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQENO6LrY205eA/company-logo_100_100/B4DZ4g6f6tJUAI-/0/1778668666882/sundayyglobal_logo?e=2147483647&v=beta&t=GCEWH5IGeH33iRMZVookMxOGweSU_yluJHxUWrUEtGs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430394982",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bangalore Rural, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4430394982?position=3&pageNum=72&refId=19Auqi1hvnDygSCcuUjwdA%3D%3D&trackingId=T%2FPHQ1Cy0MQagD0z11fpLA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431643657",
+    "title": "Software Engineer",
+    "company": "Dassault Systèmes",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-dassault-syst%C3%A8mes-4431643657?position=6&pageNum=90&refId=Kik%2B%2BHk6iqBR659NBHT0fg%3D%3D&trackingId=q5p%2BlBa0PPwhZQJXuRk7yQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHroRzeNTva6Q/company-logo_100_100/company-logo_100_100/0/1631330934922?e=2147483647&v=beta&t=Y_LaLgUh3t_AY4PloiAtAbGGfEr2fGl7C4_RBhQ7Vok",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4361405144",
+    "title": "Software Engineer - AS400",
+    "company": "UST",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-as400-at-ust-4361405144?position=3&pageNum=95&refId=StvrKilYZmE3N0edytCCBw%3D%3D&trackingId=FPU26iCjeg43xiYRXOwDdA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEr-ib3Nn15Aw/company-logo_100_100/company-logo_100_100/0/1648787427825/ustglobal_logo?e=2147483647&v=beta&t=Mat5nuskL90W74qGXwwpHLg2mXn8Mfwf1z8oLxbk--c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431659223",
+    "title": "Frontend Developer",
+    "company": "Recrew AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-recrew-ai-4431659223?position=5&pageNum=12&refId=yDmJlhdm%2FsOJylaNU8LWeQ%3D%3D&trackingId=rcdKhro613I1SisfkfRyCg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGM70qm9MbWvA/company-logo_100_100/company-logo_100_100/0/1729664053436/recrew_ai_logo?e=2147483647&v=beta&t=RCofKskdvbsnkea0U_gPcjUIePQ7boxR7mGyf4nKjDU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430375879",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4430375879?position=1&pageNum=15&refId=6k3u0ijIhOzXaEHHAqVZVA%3D%3D&trackingId=C2DHB29hEhRtahZuA%2F8wEQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430384945",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4430384945?position=9&pageNum=70&refId=wteqUZdxnLP7CqCD219Wcg%3D%3D&trackingId=SRjR%2FCWDOYatk0MajOFeew%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430377994",
+    "title": "Communication and Collaboration Dev Ops Engineer",
+    "company": "Standard Chartered India",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/communication-and-collaboration-dev-ops-engineer-at-standard-chartered-india-4430377994?position=4&pageNum=90&refId=nooPVI%2FFXP3OrEAw2UqT2A%3D%3D&trackingId=psdNY%2FZHz2mEvOOygVKB0g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEXYV6p34CtPA/company-logo_100_100/B4DZjMehUuGgAc-/0/1755777210085/standard_chartered_india_logo?e=2147483647&v=beta&t=gxeH4hJTKe069a0UzLFYxW71KL4pW41yTiDx8Kp_wdg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431636572",
+    "title": "Senior Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-capgemini-4431636572?position=5&pageNum=95&refId=KtD%2F80dL%2BhaD0JMKehF%2Flw%3D%3D&trackingId=ajn99PTbE2y1GeTYAp8i1g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431647395",
+    "title": "Zeta Global - Lead Software Engineer, Generative Apps ( 0-0 yrs )",
+    "company": "ETCIO - Cloud Data Center",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/zeta-global-lead-software-engineer-generative-apps-0-0-yrs-at-etcio-cloud-data-center-4431647395?position=9&pageNum=97&refId=dmqtZ2HJ1QU3dzdBhl2eiA%3D%3D&trackingId=r3aLfhw0YiO%2BTf03aUcfsw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQF6o81OkrKWVA/company-logo_100_100/company-logo_100_100/0/1630651309984/et_cio_logo?e=2147483647&v=beta&t=YE7Cjo72saB4dOBsUrPWvtuhjRF74A50Uu7zTpzy2tE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430383909",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4430383909?position=3&pageNum=12&refId=iQu7T95m32x9LndXfFa9og%3D%3D&trackingId=%2FNG8pE%2FsgRgDP3nnxy8aGg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431679398",
+    "title": "Staff Software Engineer",
+    "company": "Procore Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-at-procore-technologies-4431679398?position=8&pageNum=22&refId=QiQVoUK96Eqc%2Fw9P7WBxWg%3D%3D&trackingId=F%2Bg9HAqta9Q3r71u206CyQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGniocgaFzu6g/company-logo_100_100/company-logo_100_100/0/1737481196088/procore_technologies_logo?e=2147483647&v=beta&t=4OVlWJ3oXtVm56TIS0p8PvV7V1WXkExFpX3XNhYVVW4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4431669504",
+    "title": "Software Engineer",
+    "company": "Renesas Electronics",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-renesas-electronics-4431669504?position=1&pageNum=40&refId=y7BEtnc76l8mij6k%2Faa%2BQQ%3D%3D&trackingId=OUPne%2FoLhB6KRGsfRPvelA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHlwp8hH_CdSg/company-logo_100_100/B56Zm7Sm_TIAAQ-/0/1759783842062/renesas_logo?e=2147483647&v=beta&t=IPyLH7X_M1aJkP81Og5r0dpxZkleQxB_cRImLz-lxVY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430394981",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru Rural District, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4430394981?position=3&pageNum=80&refId=DsequnTnnyhlqOKejXIMfg%3D%3D&trackingId=cuHbROrRNfsfiaHZcVzDsA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
   }
 ]
