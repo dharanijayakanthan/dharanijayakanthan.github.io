@@ -374,6 +374,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4433893662",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-26",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4433893662?position=9&pageNum=97&refId=KZS%2FHeiYr617sle2qNnqhQ%3D%3D&trackingId=4WbqktbkU9WPmCErFyTZFw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4433011664",
     "title": "Full Stack Engineer (Bangalore)",
     "company": "SellScale",
@@ -1197,6 +1208,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4430217003",
+    "title": "Full Stack Developer",
+    "company": "CricTracker",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-25",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-crictracker-4430217003?position=9&pageNum=40&refId=a6MxNadh2vMkj%2FSn4chwRg%3D%3D&trackingId=rR1BK67xxndCLY6ZmN3TfQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBxevSwtkeyw/company-logo_100_100/company-logo_100_100/0/1682682093298/crictracker_logo?e=2147483647&v=beta&t=HmV7KBhpSUbM_KZbJlvj9n3e1VrQnQERFZ0opQcOKsI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4430998404",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-25",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4430998404?position=4&pageNum=75&refId=L24j6M7VyZOWZMIgc6kXcA%3D%3D&trackingId=8yPIgtlkl36b6Vm4SsfdFg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4432592099",
@@ -2099,6 +2132,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGr_ri8s4gqgA/company-logo_100_100/company-logo_100_100/0/1720971830697/sellcord_logo?e=2147483647&v=beta&t=i4bULDduJOKUQVEzD7lmUrpebyNUxzAULkhA26KBBdQ",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4430633695",
+    "title": "Software Engineer",
+    "company": "Win Global PR",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-22",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-win-global-pr-4430633695?position=6&pageNum=92&refId=1CJTy68iJcOvaSBgZ5XFdA%3D%3D&trackingId=wyEhKGtCd8eklu3aqLRyNA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFQBOad2ojCwQ/company-logo_100_100/company-logo_100_100/0/1630616675391?e=2147483647&v=beta&t=bBngL5okQNM9wDVfOWLg9BPPp_VPwGRuSHtBV8h7zq8",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4431615233",
@@ -114395,5 +114439,85 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
     "lat": 12.9740345,
     "lng": 77.6174204
+  },
+  {
+    "id": "urn:li:jobPosting:4433638708",
+    "title": "Frontend Developer",
+    "company": "Acowale",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-acowale-4433638708?position=2&pageNum=5&refId=iMHSSXqWhdKHcfj5GlwxxQ%3D%3D&trackingId=uuDgx4TPAnsMYwTR8XlaIA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGSWuDbFIREBA/company-logo_100_100/B56Zqq3UsJJsAQ-/0/1763803222061/acowale_logo?e=2147483647&v=beta&t=vSFZd3MUB3HhcEg2AlDODSSydnNY4nD9rKys0IK4TbA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4434439736",
+    "title": "Software Engineer, Apps",
+    "company": "Headout",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-apps-at-headout-4434439736?position=4&pageNum=12&refId=3OO%2BrKPBncg1mGTCuV8Y4Q%3D%3D&trackingId=t%2FcNvWvMKC9Z0KkkOCzYxA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF36N2orKYsLg/company-logo_100_100/B56ZozJFPlHIAQ-/0/1761794611427/headout_com_logo?e=2147483647&v=beta&t=ltF9EC25VBx_srSLXLhL-agwG2ryXw85V3cFzV16ofY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4434441481",
+    "title": "Freelance Frontend Developer (Landing Pages & Websites)",
+    "company": "Mindrift",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/freelance-frontend-developer-landing-pages-websites-at-mindrift-4434441481?position=9&pageNum=12&refId=3OO%2BrKPBncg1mGTCuV8Y4Q%3D%3D&trackingId=7wZzdDsqPH1B9xG4BQtLpg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG9ySVGr5NQzQ/company-logo_100_100/company-logo_100_100/0/1725448348201/mindrift_ai_logo?e=2147483647&v=beta&t=QWIMS9k-I4kkSKVcx06uFCRLdHDZZ1w9E8dWeBmOHCk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4434295443",
+    "title": "Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4434295443?position=6&pageNum=10&refId=woEY2LZt5wdHF5Gqqsz%2BqA%3D%3D&trackingId=Wl3V3oNZGOoa%2FuGnDswV%2Bg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4433675324",
+    "title": "Software Engineer Frontend- E5",
+    "company": "Whatfix",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-frontend-e5-at-whatfix-4433675324?position=8&pageNum=10&refId=woEY2LZt5wdHF5Gqqsz%2BqA%3D%3D&trackingId=gfBTOzh%2FstklUMZYB6YwUg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH0N7kZ_mtRAw/company-logo_100_100/company-logo_100_100/0/1635276260298/whatfix_logo?e=2147483647&v=beta&t=uip_ZFG2zzlaEwtinOqdJ69lssFUyitqQrPv4ejDOzE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4433628408",
+    "title": "React Native developer",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-native-developer-at-infosys-4433628408?position=1&pageNum=37&refId=0%2BS7ZrDAf2TxyGOdr8vjjw%3D%3D&trackingId=Cm1G3RTHUb75IduL%2FsFUhA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4434440362",
+    "title": "Freelance Full-Stack Web App Developer",
+    "company": "Mindrift",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/freelance-full-stack-web-app-developer-at-mindrift-4434440362?position=3&pageNum=50&refId=yQm3gA%2BQN2ll2Ln0PrjRBg%3D%3D&trackingId=vRTsjheZQndlWqhhdLzDrw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG9ySVGr5NQzQ/company-logo_100_100/company-logo_100_100/0/1725448348201/mindrift_ai_logo?e=2147483647&v=beta&t=QWIMS9k-I4kkSKVcx06uFCRLdHDZZ1w9E8dWeBmOHCk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4434289646",
+    "title": "Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4434289646?position=2&pageNum=62&refId=agJ5xqxaRiYBtx%2Fhnf%2FE1g%3D%3D&trackingId=jl5pn5LHwsXm60NHoXPtow%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
   }
 ]
