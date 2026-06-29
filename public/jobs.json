@@ -341,6 +341,39 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4430614113",
+    "title": "Software Backend Engineer",
+    "company": "eBay",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-26",
+    "link": "https://in.linkedin.com/jobs/view/software-backend-engineer-at-ebay-4430614113?position=3&pageNum=87&refId=DWsSiYdZS8ARYFSm8eWPmw%3D%3D&trackingId=QoD5bZ2EmOdQvFZg7l6tEg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFfGj-Xuawo6A/company-logo_100_100/company-logo_100_100/0/1634568184469/ebay_logo?e=2147483647&v=beta&t=BEp-EQMNBexZVYGMcq6jeof_bX8QzuCCq4BEG6UCRdM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4432947480",
+    "title": "Senior Software Engineer",
+    "company": "Commonwealth Bank",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-06-26",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-commonwealth-bank-4432947480?position=2&pageNum=92&refId=Y0NnKANOUW3Hk9z1WeFzJQ%3D%3D&trackingId=H9SD%2BZOfs1ehNY%2F3cObGSQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGLodxq_N-mcA/company-logo_100_100/company-logo_100_100/0/1692243810359/commonwealthbank_logo?e=2147483647&v=beta&t=RQNStTO8TBpVHM_QuBlbbkubgbYkNVYMD9A62xn8frQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4433890896",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-26",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4433890896?position=10&pageNum=85&refId=1muWoASpBcb6uRYgTWnBig%3D%3D&trackingId=2i1WbnVZWqPxWoL3rhgNPA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4433011664",
     "title": "Full Stack Engineer (Bangalore)",
     "company": "SellScale",
@@ -114300,6 +114333,66 @@
     "location": "Bangalore Urban district, India",
     "link": "https://in.linkedin.com/jobs/view/front-end-developer-at-scoutit-4433605716?position=10&pageNum=12&refId=mJe4TcvC6hCsStvVCGc5Ng%3D%3D&trackingId=oSuq9T%2FkVllU3U9x41Uj6Q%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4434297341",
+    "title": "Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4434297341?position=2&pageNum=25&refId=gfFi1WM1R%2FuYLB8h6LPWTQ%3D%3D&trackingId=Fnf%2FtIolohWDlEI5faktzg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4434402585",
+    "title": "Frontend Engineer (SDE-2)",
+    "company": "iocombats",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-sde-2-at-iocombats-4434402585?position=9&pageNum=17&refId=NRXcqqu5%2BkIOBJozIENUOA%3D%3D&trackingId=edV5lpn%2Fpk%2BqQJCOmYv8jA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFluureyeD2gA/company-logo_100_100/company-logo_100_100/0/1720682871633?e=2147483647&v=beta&t=o5NmFZumG5kHC30uaIPWJ6-EEI3S4T4TXeUMuq67ars",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4434407500",
+    "title": "Angular Developer",
+    "company": "iocombats",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-at-iocombats-4434407500?position=3&pageNum=30&refId=fNVmnueqp9fQwjjqJIh07A%3D%3D&trackingId=K9EvkRt%2F%2F%2BRnRaFFW%2Ft6OQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFluureyeD2gA/company-logo_100_100/company-logo_100_100/0/1720682871633?e=2147483647&v=beta&t=o5NmFZumG5kHC30uaIPWJ6-EEI3S4T4TXeUMuq67ars",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4434401635",
+    "title": "Senior Software Engineer - Frontend UI",
+    "company": "iocombats",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-ui-at-iocombats-4434401635?position=2&pageNum=75&refId=J0gP7%2F1EARyxqQECQt0FHA%3D%3D&trackingId=1qqX%2F48xRHAzN6MjkNr4sw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFluureyeD2gA/company-logo_100_100/company-logo_100_100/0/1720682871633?e=2147483647&v=beta&t=o5NmFZumG5kHC30uaIPWJ6-EEI3S4T4TXeUMuq67ars",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4433491951",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru Rural District, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4433491951?position=2&pageNum=77&refId=xce9Eq%2BRosGN3hp2HvjYog%3D%3D&trackingId=q8qOZCEN0jDybDLTx88cwA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4434405188",
+    "title": "Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4434405188?position=6&pageNum=47&refId=vmRwZTgBZQc8lkhq0nvamA%3D%3D&trackingId=pirfgV0IE4xc6A0VWmcNjQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
     "lat": 0,
     "lng": 0
   }
