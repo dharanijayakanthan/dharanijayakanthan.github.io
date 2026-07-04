@@ -154,6 +154,28 @@
     "lng": 77.6868588
   },
   {
+    "id": "urn:li:jobPosting:4436320595",
+    "title": "Advanced Software Engr",
+    "company": "Honeywell Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-02",
+    "link": "https://in.linkedin.com/jobs/view/advanced-software-engr-at-honeywell-technologies-4436320595?position=10&pageNum=55&refId=%2F1XD2pgYfKHOrgg9X9cPrA%3D%3D&trackingId=AM3vKAjj%2BsOXtnNMmiPZcQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE0raKQ0HHHXQ/company-logo_100_100/B4EZ8SY0aJH8AM-/0/1782719924150/honeywell_logo?e=2147483647&v=beta&t=akNGC3_0nFpYKyV4oDlMpAeGqlsqvk1AGJK5SfBiRfo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4436142197",
+    "title": "Software Development Engineer, Everyday Essentials Experiences",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-02",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-everyday-essentials-experiences-at-amazon-4436142197?position=7&pageNum=57&refId=HOuahCDdVHjPXPByB4Nibg%3D%3D&trackingId=hP1MMuT9DZi7%2B6fLLW%2BgAQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4434379464",
     "title": "Software Engineer (AI) — Part-Time / Contract",
     "company": "NeuraCamp",
@@ -328,6 +350,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4435836763",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-01",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4435836763?position=9&pageNum=77&refId=ocsVF3nlWMWVwqh3t69ORg%3D%3D&trackingId=HBKBT7MwvqM7ohV6Ffzbnw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4434606486",
+    "title": "DX S2R_Full Stack Developer - React, Next.js, AWS Lambdas, Node.js, and TypeScript_FY27Q2",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-07-01",
+    "link": "https://in.linkedin.com/jobs/view/dx-s2r-full-stack-developer-react-next-js-aws-lambdas-node-js-and-typescript-fy27q2-at-infosys-4434606486?position=3&pageNum=87&refId=mQh5nrmRJx3jnhXK7Q1ecA%3D%3D&trackingId=gRAEueykZuFwC3NRqGVjkA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4431925912",
@@ -119103,5 +119147,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4435788258",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4435788258?position=2&pageNum=60&refId=Ua6yINrXuwuSRCa6b5jCsw%3D%3D&trackingId=empQcgn5Y%2BNigcLijkrJpA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4435782524",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru Rural District, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4435782524?position=3&pageNum=77&refId=ocsVF3nlWMWVwqh3t69ORg%3D%3D&trackingId=M9kKRxw0NxKTCWwNXJ3qxA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4435782523",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru North, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4435782523?position=6&pageNum=85&refId=q%2FGL%2FTSgZsmLRklQCnqh5g%3D%3D&trackingId=KpBu8JW7Ua4MmHepZ8FhMQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4436955313",
+    "title": "SDE II / III (Frontend)",
+    "company": "WizCommerce",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sde-ii-iii-frontend-at-wizcommerce-4436955313?position=3&pageNum=7&refId=xUXRJ3xewD%2FtJw1rJTEMtg%3D%3D&trackingId=0ngCjPlDZPTYNkhGAdnjfQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFbkErkZfxbHQ/company-logo_100_100/B56Zye.ES4I0AQ-/0/1772193597009/wizcommerce_logo?e=2147483647&v=beta&t=XQfx1VFNZ-yp680jAI2nKIAqYZrdTL-oNIMoM09vCZs",
+    "lat": 0,
+    "lng": 0
   }
 ]
