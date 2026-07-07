@@ -330,6 +330,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4436734038",
+    "title": "IN_Senior Associate_React_D&A_Advisory_Bangalore",
+    "company": "PwC India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-03",
+    "link": "https://in.linkedin.com/jobs/view/in-senior-associate-react-d-a-advisory-bangalore-at-pwc-india-4436734038?position=8&pageNum=42&refId=1IFw3guOZvZu%2FgfmTVygJA%3D%3D&trackingId=Pn5JazMZLOEvilAmGIkcSg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4436190097",
     "title": "Custom Software Engineer",
     "company": "Accenture in India",
@@ -120478,5 +120489,55 @@
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQF02PXllcZ8IQ/company-logo_100_100/company-logo_100_100/0/1630624010619/adessa_india_logo?e=2147483647&v=beta&t=fMJbDZxj3tNrHQfJ03u7wdVDiEbtaUvRkgGt-CaA_8U",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4437433733",
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-4437433733?position=1&pageNum=5&refId=eLHby7GyNBgP00FRQUvdjA%3D%3D&trackingId=Jws3van%2B4w7adOhkZGGnbQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4437175665",
+    "title": "Freelance Frontend Developer (Landing Pages & Websites)",
+    "company": "Mindrift",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/freelance-frontend-developer-landing-pages-websites-at-mindrift-4437175665?position=3&pageNum=12&refId=KcTPr8%2F3r06HFkA%2FkiV6Yw%3D%3D&trackingId=mHCrtpoLUqBskK6FDnd34A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG9ySVGr5NQzQ/company-logo_100_100/company-logo_100_100/0/1725448348201/mindrift_ai_logo?e=2147483647&v=beta&t=QWIMS9k-I4kkSKVcx06uFCRLdHDZZ1w9E8dWeBmOHCk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4436206919",
+    "title": "Frontend Developer Software Engineer Consultant I",
+    "company": "Allstate",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-software-engineer-consultant-i-at-allstate-4436206919?position=2&pageNum=25&refId=BSTb8Wb7TujWGRgKomShUg%3D%3D&trackingId=%2F52JnwLfacyjzZBwp9U9TA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGeCPin8jl-nA/company-logo_100_100/company-logo_100_100/0/1630652232048/allstate_logo?e=2147483647&v=beta&t=odHv2uEhqGzKKUje_wtGBBK91IKRXcHEr-bmZjh6saE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4437487243",
+    "title": "Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4437487243?position=4&pageNum=10&refId=aU7WBUpGAkU5v%2FmC%2Bb05Zw%3D%3D&trackingId=fT0NWPTc%2FG91tuPBNI1MVw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4436259204",
+    "title": "Software Engineer",
+    "company": "Thomson Reuters",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-thomson-reuters-4436259204?position=9&pageNum=27&refId=0gCUbfvmW3%2BZnB0AXQoteQ%3D%3D&trackingId=3RncGxet9Kwkvxn3suIE0w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHtf0NHyUa92g/company-logo_100_100/company-logo_100_100/0/1719933220460/thomson_reuters_logo?e=2147483647&v=beta&t=ML9NnTk2lfPONL3Ft_HeSGyq0tQPb7SrfP_LSYjC6c0",
+    "lat": 0,
+    "lng": 0
   }
 ]
