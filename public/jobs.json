@@ -66,6 +66,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4436094597",
+    "title": "Associate Software Engineer",
+    "company": "LSEG",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-06",
+    "link": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-lseg-4436094597?position=5&pageNum=87&refId=rbWai2cvDO3hCQYlpzhgQg%3D%3D&trackingId=emdo82mcVsNgy3SorGJ5TQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEfgZXAuQXg6w/company-logo_100_100/B56ZfK6LczHUAQ-/0/1751455938973/london_stock_exchange_group_logo?e=2147483647&v=beta&t=5ZFP4xHS24_BnpZHtT7ZbuN_opspJmRO698ZnXJSlOU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4437100474",
     "title": "Software Engineer",
     "company": "Infineon Technologies",
@@ -528,6 +539,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4436496458",
+    "title": "Technical Lead",
+    "company": "Novo",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-03",
+    "link": "https://in.linkedin.com/jobs/view/technical-lead-at-novo-4436496458?position=7&pageNum=82&refId=Cb6Tm8q3ZtK6GkdrSGtFuA%3D%3D&trackingId=4wPfE%2Bb43qaB%2FzqN65Yuqg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHfcoDky65c9w/company-logo_100_100/company-logo_100_100/0/1729104047341/novo_hq_logo?e=2147483647&v=beta&t=u3B9Z-foS2SoBiccg3ItRPJI35_t13RhrLLe46j8-1k",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4436190097",
     "title": "Custom Software Engineer",
     "company": "Accenture in India",
@@ -935,6 +957,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4433120895",
+    "title": "Application Software Engineer 2",
+    "company": "Oracle",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-02",
+    "link": "https://in.linkedin.com/jobs/view/application-software-engineer-2-at-oracle-4433120895?position=9&pageNum=90&refId=vbYTb5dPPo54MCMQ%2BlmLww%3D%3D&trackingId=B9at4VFoRZ6nktYXFNpltw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4436393128",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-02",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4436393128?position=7&pageNum=92&refId=eZb5%2F8fHxkA7%2BTtu0wkISA%3D%3D&trackingId=g5CKwt8qHCDlWXb41iE%2BnQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4434379464",
     "title": "Software Engineer (AI) — Part-Time / Contract",
     "company": "NeuraCamp",
@@ -1153,6 +1197,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHoNPNGRZYG-w/company-logo_100_100/company-logo_100_100/0/1630617454317/lowes_india_logo?e=2147483647&v=beta&t=V2blyxQNtBHHqgDqDg-WADh2r2MvLpg4fLsnuqmMICs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4435558680",
+    "title": "Software development engineer",
+    "company": "Weekday (YC W21)",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-01",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-at-weekday-yc-w21-4435558680?position=6&pageNum=97&refId=2OSO7b2Ui4yeHiDDpvQEvw%3D%3D&trackingId=253r4xcPATfQIPDvxSXayA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQE7jsHudoGH6A/company-logo_100_100/company-logo_100_100/0/1630638631345?e=2147483647&v=beta&t=UT3giUWv95mHvoQjRLVDFh2amph_dpk8FDUrs3_uuvo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4431925912",
@@ -3861,6 +3916,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4431111136",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-25",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4431111136?position=1&pageNum=22&refId=tad0rTk8hFz3Tmrki%2Bogmw%3D%3D&trackingId=JiN8ZHyeI05gh6%2FeKjZXEw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4305593191",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-25",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4305593191?position=1&pageNum=97&refId=2OSO7b2Ui4yeHiDDpvQEvw%3D%3D&trackingId=gUa7I3t%2B8U92NPsQUgL8IA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4432592099",
     "title": "Senior Software Engineer - Manual testing",
     "company": "NeST Digital",
@@ -4090,6 +4167,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
     "lat": 13.120648,
     "lng": 77.6114683
+  },
+  {
+    "id": "urn:li:jobPosting:4431819506",
+    "title": "Software Script Engineer - Level 2",
+    "company": "Applied Systems",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-24",
+    "link": "https://in.linkedin.com/jobs/view/software-script-engineer-level-2-at-applied-systems-4431819506?position=6&pageNum=95&refId=JFcbwiRA4AyznMDhYDKnLw%3D%3D&trackingId=TpO3zsupcyNdeO2MLLOxDw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH1OlYcejEeCg/company-logo_100_100/company-logo_100_100/0/1719932215284/applied_systems_logo?e=2147483647&v=beta&t=vSMASU_A_XJfS6T4zfrayYQYVxJ6affzYlYyA5xRmVo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4432098346",
@@ -121240,5 +121328,55 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
     "lat": 12.9730521,
     "lng": 77.7166929
+  },
+  {
+    "id": "urn:li:jobPosting:4437765442",
+    "title": "Software Engineer II - Typescript & React [T500-27417]",
+    "company": "Best Buy™ India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-typescript-react-t500-27417-at-best-buy%E2%84%A2-india-4437765442?position=1&pageNum=5&refId=Ba99lDGWTfPQX4aNgYhKgg%3D%3D&trackingId=I74qiK5b4QrwnClYNvdJ4Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG_G6aPYrZrpw/company-logo_100_100/B56ZXxu6uiGUAc-/0/1743517364873/bby_india_logo?e=2147483647&v=beta&t=viDv2IT05jNSlJvpUiVsEX4CKPNoJxFU5rjl1f7mLbE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4436527743",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bangalore Rural, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4436527743?position=5&pageNum=52&refId=coxEUvzt2mXu%2BPpp53RxaA%3D%3D&trackingId=Y8NizKU0YXRTuhO2LncXxg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4436538381",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4436538381?position=5&pageNum=60&refId=Q%2Bm5kkhZjQk2gL6MgzG%2Fsg%3D%3D&trackingId=bfYyp9JNfbToQCrqe%2Fea%2Bw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4436516402",
+    "title": "Technical Lead",
+    "company": "InfoVision Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/technical-lead-at-infovision-inc-4436516402?position=9&pageNum=65&refId=K1DOh3EV%2FYUalr9yQDnitg%3D%3D&trackingId=6UlVBt9fAOKuSJyZrjakAQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGUsWvr5LQ4Og/company-logo_100_100/company-logo_100_100/0/1661759233767/infovision_logo?e=2147483647&v=beta&t=lDL__UrYG2O__TqMTGHh7xsLMYZ5dGeL6J4MYa5dpmk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4437796108",
+    "title": "Software Engineer",
+    "company": "Fidelity Investments",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-fidelity-investments-4437796108?position=7&pageNum=95&refId=JFcbwiRA4AyznMDhYDKnLw%3D%3D&trackingId=wFplXgbCE3LJ%2B963pr311g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEuH501asNUIQ/company-logo_100_100/B4EZXtxo03G0AU-/0/1743450967859/fidelity_investments_logo?e=2147483647&v=beta&t=KyaswXYHURo34Y0GAgxyomTUHS2AT7gsD5nrw-IGG78",
+    "lat": 0,
+    "lng": 0
   }
 ]
