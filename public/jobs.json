@@ -165,6 +165,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4438594682",
+    "title": "Senior Software Engineer (Frontend/Full Stack)",
+    "company": "Cognite",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-09",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-full-stack-at-cognite-4438594682?position=1&pageNum=12&refId=omHc2Xo3N4sFQL8jjjBhUg%3D%3D&trackingId=ovYlvk%2FNjrpVxsBjdCIz0A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHDYandmEOXMg/company-logo_100_100/B56Z0GG.K2IMAQ-/0/1773923985074/cognitedata_logo?e=2147483647&v=beta&t=2l7dG0ofuW3uzoraa1a1J-zBUqoxF0Ed3Xy8UgAbp3A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4438615058",
     "title": "Software Dev Engineer I",
     "company": "Instamart",
@@ -418,6 +429,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4437894943",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-08",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4437894943?position=10&pageNum=97&refId=goOkYspZFNWTiUB9W3j7tQ%3D%3D&trackingId=S9qYNQxJEtr3mBrITNHf5w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4436517502",
     "title": "Full Stack Engineer",
     "company": "GreedyGame",
@@ -592,6 +614,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4436800383",
+    "title": "Senior Frontend Developer",
+    "company": "BayOne Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-07",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-developer-at-bayone-solutions-4436800383?position=1&pageNum=17&refId=c7x4BGde%2Byxv5NNfuFT8oQ%3D%3D&trackingId=jF1rLAplXFLeY7%2F8J4FUGw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFB2EacVt_3mw/company-logo_100_100/company-logo_100_100/0/1720628480768/bayone_solutions_logo?e=2147483647&v=beta&t=c_zZs1NIDcyTHiQf78pNZyUmZqegMbJouSiCDXH7AIs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4437480821",
+    "title": "Software Dev Engineer II",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-07",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-at-amazon-web-services-aws-4437480821?position=5&pageNum=97&refId=z%2Bsht5PFOLUxR5kjkR56pQ%3D%3D&trackingId=5H%2BPRlLWPAfYroTbmGfsDA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_100_100/B4EZgOay6gHEAY-/0/1752588562343/amazon_web_services_logo?e=2147483647&v=beta&t=813v--p_AS7bme1J7PlAyB2BEU4-c9ba9AUzyuGb5Wg",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4436075533",
@@ -4871,6 +4915,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4343139284",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-25",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4343139284?position=10&pageNum=97&refId=z%2Bsht5PFOLUxR5kjkR56pQ%3D%3D&trackingId=0l88AHHOV78%2FboB0kVtSNA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4432592099",
@@ -124288,5 +124343,105 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGN-x8gF_qX0g/company-logo_100_100/company-logo_100_100/0/1662457255087?e=2147483647&v=beta&t=DhZUTb00SWlctUMuAfTRwYaL9AoiPh0PJhugEJroAws",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4437993262",
+    "title": "Senior Frontend Developer",
+    "company": "gnani.ai",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-developer-at-gnani-ai-4437993262?position=3&pageNum=17&refId=c7x4BGde%2Byxv5NNfuFT8oQ%3D%3D&trackingId=Grvh7kY6fXzbpKF90PQQiw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF4h1oJx7xplQ/company-logo_100_100/B56Z7bj1L8IMAI-/0/1781800063990/gnani_ai_logo?e=2147483647&v=beta&t=N4oqtuq68TsXbVcke5qRyt0UjTon6K63mGicwlujiyM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4439537229",
+    "title": "UI Developer - Reactjs/Typescript",
+    "company": "Xebia",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ui-developer-reactjs-typescript-at-xebia-4439537229?position=5&pageNum=20&refId=ZRH%2FVPfKGD%2BMq7RFaD%2BWjg%3D%3D&trackingId=%2BATEAvTQBfJ4dvsip%2FBPGw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEGhfHCBLW8KA/company-logo_100_100/company-logo_100_100/0/1719836676623/xebia_logo?e=2147483647&v=beta&t=mIF0aFj-qDhmP1kMxLA46s4BZBzcQV1h8waDvGOKbzs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4436613033",
+    "title": "Software Engineer",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-deloitte-4436613033?position=5&pageNum=27&refId=aUmvP4uDHsphYUYDOsM%2B7A%3D%3D&trackingId=waXO8%2BV5TX2wl6NZKdPuLw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4439399964",
+    "title": "HireVeda",
+    "company": "HireVedaX",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/hireveda-at-hirevedax-4439399964?position=2&pageNum=60&refId=8RAeUPDBy0yfF3hrKAnt1Q%3D%3D&trackingId=6DSvLyV0WfD1JxPwCOpGHQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFF3e4ygmfqGg/company-logo_100_100/company-logo_100_100/0/1698045416153/hirevedax_logo?e=2147483647&v=beta&t=YrSNaiUV9n0eAMcyc0_ZcQNB1RRgkAjmhA-zcRci5XQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4435955804",
+    "title": "Full Stack Developer",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-deloitte-4435955804?position=1&pageNum=65&refId=DEQG9p10dgy5dI%2ByRMhnjw%3D%3D&trackingId=vSAEKm6IatVY5MPTL4vLDg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4439378159",
+    "title": "Software Engineer I",
+    "company": "Jobs Opportunity",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-at-jobs-opportunity-4439378159?position=5&pageNum=75&refId=opta9ghVbAfQhtU0WhnTLg%3D%3D&trackingId=lr6WTYZvuur72DDpUQuF4g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGsSnHUH6cabg/company-logo_100_100/company-logo_100_100/0/1674307019808?e=2147483647&v=beta&t=-3Fc24kbDvvWIIgLRmSrLghfvUI_3OHsOOfVXyRiEdE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4439369394",
+    "title": "Software Development Engineer I",
+    "company": "Jobs Opportunity",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-i-at-jobs-opportunity-4439369394?position=4&pageNum=77&refId=xnTzsApyqNxTI%2Bwhr9ASvw%3D%3D&trackingId=oSja066voNxp5jvbhWi7uw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGsSnHUH6cabg/company-logo_100_100/company-logo_100_100/0/1674307019808?e=2147483647&v=beta&t=-3Fc24kbDvvWIIgLRmSrLghfvUI_3OHsOOfVXyRiEdE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4438394336",
+    "title": "Frontend Development Engineer",
+    "company": "Zerodha Fund House",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-development-engineer-at-zerodha-fund-house-4438394336?position=1&pageNum=7&refId=dXEy5Ct3I4Bn3RBx41HQIQ%3D%3D&trackingId=QxGrnTSd9KEkDiEVzWJQ%2Fg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG9PE-JEHJrNA/company-logo_100_100/company-logo_100_100/0/1691670171492/zerodha_fund_house_logo?e=2147483647&v=beta&t=i4KzcAUilrMTpSrhYEdA7kgzirddgxCmPRiw__DyZMA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4438917239",
+    "title": "AI based Automation (n8n), React, ExpressJS - Full Stack Developer",
+    "company": "Purviv Labs",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ai-based-automation-n8n-react-expressjs-full-stack-developer-at-purviv-labs-4438917239?position=2&pageNum=77&refId=pzSqyS1DsjYRFfE%2B7no9zA%3D%3D&trackingId=YFqVUrYY8U2b2acvBAKXaQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHBqWFOvdJ0DQ/company-logo_100_100/company-logo_100_100/0/1719256531873/purviv_labs_logo?e=2147483647&v=beta&t=DQ4i2uSjWpMUGpXXLE26t-GFjB73dAG_QT-JTn6b0q0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4436630057",
+    "title": "Angular Ui Developer",
+    "company": "e2e Rosh IT solutions India Pvt Ltd",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/angular-ui-developer-at-e2e-rosh-it-solutions-india-pvt-ltd-4436630057?position=5&pageNum=12&refId=eGr8vkcivpyWQ8n0rOcQAQ%3D%3D&trackingId=ehp2YtcHDXmOE%2BQFquSGgA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGuYY3c-ZKUXw/company-logo_100_100/B56ZmAog3gKEAQ-/0/1758799728627/e2eroshitsolutionsindiprivatelimited_logo?e=2147483647&v=beta&t=_t9ykmdzmZdTF6KpUgmH4J0Z893QlbDfR6r6CRWUFGg",
+    "lat": 0,
+    "lng": 0
   }
 ]
