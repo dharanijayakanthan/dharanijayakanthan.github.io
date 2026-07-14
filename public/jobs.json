@@ -1298,6 +1298,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4437475691",
+    "title": "React JS Developer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-06",
+    "link": "https://in.linkedin.com/jobs/view/react-js-developer-at-capgemini-4437475691?position=3&pageNum=0&refId=0tkqRrp9qeOGN2LRKX8SBw%3D%3D&trackingId=68YO9GPxKnhvK5bzVls35A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4437100474",
     "title": "Software Engineer",
     "company": "Infineon Technologies",
@@ -126302,5 +126313,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG4fET5G1jx8w/company-logo_100_100/company-logo_100_100/0/1698053556150/amadeus_logo?e=2147483647&v=beta&t=9KQZUvxrvuBQU04wnuiW73aNaxlN6_8K2KMeIr3Tli4",
     "lat": 12.9416244,
     "lng": 77.6907988
+  },
+  {
+    "id": "urn:li:jobPosting:4440598843",
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-4440598843?position=2&pageNum=2&refId=%2Bb%2BjIWGV1FDPQUsxHoMAPQ%3D%3D&trackingId=IGr8IZT7KLjMzVt0FECptA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4440598518",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4440598518?position=8&pageNum=22&refId=dXWHR%2FoUfLeXwjeMmmedrA%3D%3D&trackingId=zGGoZUvIFTIG1BcV521JSQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4439846253",
+    "title": "Web Developer",
+    "company": "Acceldata",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-acceldata-4439846253?position=6&pageNum=35&refId=tdBtmUA8uW43cEpfeBwZ3g%3D%3D&trackingId=Tw4bs9R%2BG7OD5WsykMuzVw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEoVZhye7R4XA/company-logo_100_100/company-logo_100_100/0/1702977212939/acceldata_logo?e=2147483647&v=beta&t=A1fzbmFGpaXZm0LIYTf0pu1mOq0XB39uoUNHF5LMJvg",
+    "lat": 0,
+    "lng": 0
   }
 ]
