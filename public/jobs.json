@@ -44,6 +44,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4434051779",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-18",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4434051779?position=8&pageNum=95&refId=vNZWpuFLGyQOrTN1hybmhg%3D%3D&trackingId=ksGGygHIczH1LjCtBO4vmg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4441999392",
     "title": "Software Engineer",
     "company": "Deltek",
@@ -207,6 +218,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
     "lat": 12.982827,
     "lng": 77.6917293
+  },
+  {
+    "id": "urn:li:jobPosting:4439262144",
+    "title": "Software Engineer - Food",
+    "company": "Cargill",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-17",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-food-at-cargill-4439262144?position=7&pageNum=62&refId=g7qI%2F8ic1guMou1NWV%2B9Jg%3D%3D&trackingId=7fYJpy2UJsshg%2B%2FUeiiRCg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE-JavwZhEueQ/company-logo_100_100/B56ZVIHolwGoAQ-/0/1740671715990/cargill_logo?e=2147483647&v=beta&t=RPlPp82xXXkRoQDn4nzjP9Bwsl_J6fJiIf6-9ZmVxZo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4442107270",
+    "title": "Sr Software Engineer",
+    "company": "Deltek",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-17",
+    "link": "https://in.linkedin.com/jobs/view/sr-software-engineer-at-deltek-4442107270?position=1&pageNum=85&refId=PH7OuwY9NZqJ%2FpV27CjGkQ%3D%3D&trackingId=tdfQDaGmaZcTp9uk7xPpYg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHmb8Tvt02Pcw/company-logo_100_100/B4EZp2JOWBHgAQ-/0/1762918721175/deltek_logo?e=2147483647&v=beta&t=_1WPCeOsgOS0QiONvuyHIRRrBkeV6Sm5jaXL-kFtApM",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4441288615",
@@ -131318,6 +131351,56 @@
     "company": "Scoutit",
     "location": "Bangalore Rural, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/angular-developer-at-scoutit-4441773557?position=5&pageNum=92&refId=IdIRkPRIpHLZUgNdK5VE6A%3D%3D&trackingId=e0Z6CYa%2BHtSoSlhIIOET5g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4442538511",
+    "title": "Reactjs Developer",
+    "company": "Tata Consultancy Services",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/reactjs-developer-at-tata-consultancy-services-4442538511?position=10&pageNum=20&refId=oUulNUAgeHQBzhc5enHidw%3D%3D&trackingId=D7IpIk1fAbd8U41uo5BkDg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4439683217",
+    "title": "React Developer",
+    "company": "HexaKnox Innovation Labs",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-hexaknox-innovation-labs-4439683217?position=2&pageNum=27&refId=o8Ae5OY%2F9KnWgrJtGU5j2Q%3D%3D&trackingId=j0kmENFC1oZfZ4bat%2FlOdA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFzFdJ-yDgGNw/company-logo_100_100/B56Z2v2PphHQAQ-/0/1776771726656?e=2147483647&v=beta&t=fWI6s0SBWzsQtux4e6lOdeMgIEjlM8nj7nvXLflstzM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4441775453",
+    "title": "Angular Developer",
+    "company": "Scoutit",
+    "location": "Bangalore Urban district, India",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-at-scoutit-4441775453?position=3&pageNum=30&refId=nOzaEfEkwBomvfq1mnXERg%3D%3D&trackingId=%2Bs5v%2F8yo0W69ZcCqKkNz%2BQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4439640410",
+    "title": "Software Engineer",
+    "company": "Jobgenix",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-jobgenix-4439640410?position=6&pageNum=65&refId=sYKQvOgWw0vAAPHARHZYMw%3D%3D&trackingId=mnK1tEYRorBmdnGRGHjDBA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHZwmzDpuyfmw/company-logo_100_100/B4DZYJDhNMGkAQ-/0/1743908641917/successwithjobgenix_logo?e=2147483647&v=beta&t=tuY-eOPFzk_3vYDhTZFTPpVD7wtRGw_RllcvUgZ9u8w",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4441774474",
+    "title": "Angular Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-at-scoutit-4441774474?position=5&pageNum=52&refId=3mF9YGwF%2BpkCyPMUvdiWYA%3D%3D&trackingId=hMA5zG21a8qvm7M9oYWDNw%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
     "lat": 0,
     "lng": 0
