@@ -242,6 +242,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4441950988",
+    "title": "Software Engineer",
+    "company": "A.P. Moller - Maersk",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-17",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-a-p-moller-maersk-4441950988?position=2&pageNum=67&refId=1PxPQq43wT60L%2FG7v44W6Q%3D%3D&trackingId=qm8kyvmuvnuchqnQH0Gc%2FA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFxaOJ8VzplhA/company-logo_100_100/company-logo_100_100/0/1630463556967/maersk_group_logo?e=2147483647&v=beta&t=YrP30ynaVz8K1BQU2Ap7mlV4Hx_xpRFYBVrVAd03m5A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4441336783",
+    "title": "DX S2R_Full Stack Developer - React, Next.js, AWS Lambdas, Node.js, and TypeScript_FY27Q2",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-07-17",
+    "link": "https://in.linkedin.com/jobs/view/dx-s2r-full-stack-developer-react-next-js-aws-lambdas-node-js-and-typescript-fy27q2-at-infosys-4441336783?position=7&pageNum=97&refId=L%2FloLzu2Bk2lszqQhy1iPA%3D%3D&trackingId=ML9XgY%2FByoaHpxCCq7U7jg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4441288615",
     "title": "Custom Software Engineer",
     "company": "Accenture in India",
@@ -361,6 +383,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4438492308",
+    "title": "Software Integration Engineer",
+    "company": "Chevron",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-16",
+    "link": "https://in.linkedin.com/jobs/view/software-integration-engineer-at-chevron-4438492308?position=1&pageNum=95&refId=U9C7xgaFM%2BtAfx0VLyEo%2Bg%3D%3D&trackingId=dip%2B%2FSGR2bSUEQv2RGexPw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFIzPIYfEdWdw/company-logo_100_100/company-logo_100_100/0/1630597725146/chevron_logo?e=2147483647&v=beta&t=ZVIGV88Sf1j0bmiWYy84Vngy8AJ6I7KBbbvu845-jMo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4441459593",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-16",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4441459593?position=9&pageNum=97&refId=L%2FloLzu2Bk2lszqQhy1iPA%3D%3D&trackingId=Bb1CIRKjEIpmfZQKgRARVA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4438408689",
@@ -559,6 +603,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4440896752",
+    "title": "Software Engineer",
+    "company": "Radancy",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-15",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-radancy-4440896752?position=2&pageNum=92&refId=C7H0qxaWgMr8mhtPzGnJYw%3D%3D&trackingId=EVRo2Q9mzBu%2BsaJ7LGSOlA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH-1m3UoUkXcg/company-logo_100_100/company-logo_100_100/0/1630645309901?e=2147483647&v=beta&t=BB1HXgFKfi0ukHWhTpl0jWO6fGZ-UiM_CVSUGvfoL1c",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4437649539",
@@ -1758,6 +1813,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
     "lat": 12.982827,
     "lng": 77.6917293
+  },
+  {
+    "id": "urn:li:jobPosting:4439052205",
+    "title": "Lead Frontend Engineer [T500-25794]",
+    "company": "Neighborly®",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-10",
+    "link": "https://in.linkedin.com/jobs/view/lead-frontend-engineer-t500-25794-at-neighborly%C2%AE-4439052205?position=1&pageNum=55&refId=U02kKzx4P%2FIQINHuX757qQ%3D%3D&trackingId=4O5cdzZBbXffRwuiuflEsg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE2fUi2Nr_kDQ/company-logo_100_100/company-logo_100_100/0/1630563158807/nbly_logo?e=2147483647&v=beta&t=Z-VjIOd_uyuatz45Cz230FeIwKGglDtqF0GbtQYK7Eo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4438539381",
@@ -131404,5 +131470,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4442552620",
+    "title": "Senior Software Engineer - Frontend Development",
+    "company": "Zamp",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-development-at-zamp-4442552620?position=5&pageNum=32&refId=5nANQJv6lU3MT%2BnOUS7KpQ%3D%3D&trackingId=5QoRd7uIviVDQAEfQmu56Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG039SjWnVQng/company-logo_100_100/B56Zb8dQoCHgAU-/0/1747992251872/zampfintech_logo?e=2147483647&v=beta&t=Kb1Yfx15IdxF8pSvY6ie23-2m593U8feU0hPSKezzTE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4441770615",
+    "title": "Angular Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-at-scoutit-4441770615?position=10&pageNum=80&refId=JBqHQkBPEhTlKMBZ39PuaA%3D%3D&trackingId=YTT2gPM2DE98GBmRPeh8Jw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4442558106",
+    "title": "Frontend Developer (Angular)",
+    "company": "OMS Business Digitalisation Pvt Ltd",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-angular-at-oms-business-digitalisation-pvt-ltd-4442558106?position=6&pageNum=55&refId=iGhdb81cdA93xAOsDQq6ww%3D%3D&trackingId=GPv81J0Gqm6KVmZL%2BifCAw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHeURIEzqJlBw/company-logo_100_100/B56ZruSel4JwAQ-/0/1764934413682?e=2147483647&v=beta&t=9hKfpG23PWZde5YRGokWf6aAm0MC5fFwM72h2ty9Cxo",
+    "lat": 0,
+    "lng": 0
   }
 ]
