@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4441767738",
+    "title": "Angular Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru Rural District, Karnataka, India",
+    "date": "2026-07-19",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-at-scoutit-4441767738?position=5&pageNum=27&refId=jFmrLZb8rQdcMXt%2BNhUcAA%3D%3D&trackingId=YRy0IojX7VWL4xPINn71nw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4442189576",
     "title": "Custom Software Engineer",
     "company": "Accenture in India",
@@ -53,6 +64,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4424175318",
+    "title": "Software Engineer",
+    "company": "Motorola Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-18",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-motorola-solutions-4424175318?position=2&pageNum=95&refId=0YeO7waW6Aoq6%2BB%2BjnLk6Q%3D%3D&trackingId=pv6KwlO%2F5gWD4hWesvx3%2Bg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE4yt5Gz-3KGQ/company-logo_100_100/company-logo_100_100/0/1631305138860?e=2147483647&v=beta&t=RRA1iVnmnB5_JECLM4zN2qK8EQL6r0txMNwhmX5nMSc",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4441999392",
@@ -1826,6 +1848,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4439062645",
+    "title": "Software Engineer",
+    "company": "Cohesity",
+    "location": "Bangalore Rural, Karnataka, India",
+    "date": "2026-07-10",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cohesity-4439062645?position=1&pageNum=95&refId=l3nsTx1rRew7CnE%2BvX%2B%2Bww%3D%3D&trackingId=8A0ONL1IGKizML3nN7vZNA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFXZ2Hda_puGA/company-logo_100_100/B56ZXZqwVUHEAY-/0/1743113619242/cohesity_logo?e=2147483647&v=beta&t=Xm_ovt5DUQMGQETaHBrDcDmRzdMmFnvbVuEvG-Le9Bo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4438539381",
     "title": "Software Development Engineer - II",
     "company": "Amazon",
@@ -2176,6 +2209,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
     "lat": 12.9730521,
     "lng": 77.7166929
+  },
+  {
+    "id": "urn:li:jobPosting:4438594290",
+    "title": "Software Engineer II",
+    "company": "Akamai Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-09",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-akamai-technologies-4438594290?position=1&pageNum=60&refId=9dEpxZ71Xc9ZObi%2FC4zkNg%3D%3D&trackingId=vAfCA0YTenEq770GmjYyaA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHpsdQkVIn86g/company-logo_100_100/B4EZiajPQ8GUAY-/0/1754939585924/akamai_technologies_logo?e=2147483647&v=beta&t=WHeaHbxtgBmtwi9Yo1Pql0PFCURZ-m3YjA9c8t3rKtM",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4438615058",
@@ -131500,5 +131544,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHeURIEzqJlBw/company-logo_100_100/B56ZruSel4JwAQ-/0/1764934413682?e=2147483647&v=beta&t=9hKfpG23PWZde5YRGokWf6aAm0MC5fFwM72h2ty9Cxo",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4442011852",
+    "title": "Frontend Developer",
+    "company": "AVP VIGILANT TECHNOLOGY PVT LTD",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-avp-vigilant-technology-pvt-ltd-4442011852?position=2&pageNum=7&refId=3ClnToJ9NfPBdyKqmhq60A%3D%3D&trackingId=Ns0enzKyXFK51Q4QRSpgYQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFeEXRvIgVKVQ/company-logo_100_100/B56ZmEkGNrKMAU-/0/1758865685215?e=2147483647&v=beta&t=1d0_m24G52UOJRFYPCETlTK50_c3y_JUlOVbarCreWs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4442573728",
+    "title": "Freelance Frontend Developer (Landing Pages & Websites)",
+    "company": "Mindrift",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/freelance-frontend-developer-landing-pages-websites-at-mindrift-4442573728?position=2&pageNum=12&refId=guuz9NYf8m5gmoeOSZ1j2w%3D%3D&trackingId=kT0axk%2FylotnE6gJNt378g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG9ySVGr5NQzQ/company-logo_100_100/company-logo_100_100/0/1725448348201/mindrift_ai_logo?e=2147483647&v=beta&t=QWIMS9k-I4kkSKVcx06uFCRLdHDZZ1w9E8dWeBmOHCk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4442587240",
+    "title": "Software Engineer",
+    "company": "Mavenir",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-mavenir-4442587240?position=9&pageNum=45&refId=CRHNZruWFPMLluJmwkekvg%3D%3D&trackingId=a1GVzCRbmrUX%2FYWd6D7X2w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHsM9rNpYSvqA/company-logo_100_100/company-logo_100_100/0/1630622608771/mavenir_logo?e=2147483647&v=beta&t=q8HhhiBK2IhtFSASM941IXC0kFa1EEGyZEVCBJqkPdk",
+    "lat": 0,
+    "lng": 0
   }
 ]
