@@ -286,6 +286,17 @@
     "lng": 77.6776437
   },
   {
+    "id": "urn:li:jobPosting:4439227079",
+    "title": "Java Software Engineer",
+    "company": "Oracle",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-17",
+    "link": "https://in.linkedin.com/jobs/view/java-software-engineer-at-oracle-4439227079?position=2&pageNum=92&refId=NrP74kjL44TAiXvlo%2FUgYA%3D%3D&trackingId=W1YgCLstJeNvHXF5%2FWP%2FhQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4441288615",
     "title": "Custom Software Engineer",
     "company": "Accenture in India",
@@ -427,6 +438,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4441630408",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-16",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4441630408?position=8&pageNum=95&refId=lo71sMTsKqI3c8qgDhxLaw%3D%3D&trackingId=psqOVjUVJ3QU69XvVnIiyw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4441636208",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-16",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4441636208?position=8&pageNum=95&refId=rgDXJQ3iwIn4O%2Bz9TibP2w%3D%3D&trackingId=wG2IK7dSr%2BBWMSSk8ZVzIA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4438408689",
@@ -1087,6 +1120,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQEbJEYupH00RQ/company-logo_100_100/company-logo_100_100/0/1630665637248/dover_solutions_india_logo?e=2147483647&v=beta&t=iKPTau4ZCGyPJ7-vEj0FcvJC4YiE0dooV_1Txdf68ns",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4442580737",
+    "title": "Senior Web Developer",
+    "company": "Acceldata",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-14",
+    "link": "https://in.linkedin.com/jobs/view/senior-web-developer-at-acceldata-4442580737?position=7&pageNum=47&refId=29gZ%2FebcDaIzed5FxD6vSg%3D%3D&trackingId=aJuhfTCqrv0Xkhs3S4OwtQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEoVZhye7R4XA/company-logo_100_100/company-logo_100_100/0/1702977212939/acceldata_logo?e=2147483647&v=beta&t=A1fzbmFGpaXZm0LIYTf0pu1mOq0XB39uoUNHF5LMJvg",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4437247459",
@@ -2220,6 +2264,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHpsdQkVIn86g/company-logo_100_100/B4EZiajPQ8GUAY-/0/1754939585924/akamai_technologies_logo?e=2147483647&v=beta&t=WHeaHbxtgBmtwi9Yo1Pql0PFCURZ-m3YjA9c8t3rKtM",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4437557818",
+    "title": "Senior Software Engineer, Corp Eng",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-09",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-corp-eng-at-google-4437557818?position=3&pageNum=92&refId=qsKMXVOKqxJvmt5jVRMm6Q%3D%3D&trackingId=pibVGMNTKFnd8VgnCRrOrg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4438665805",
+    "title": "Senior Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-09",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-capgemini-4438665805?position=3&pageNum=95&refId=rgDXJQ3iwIn4O%2Bz9TibP2w%3D%3D&trackingId=1LJoKinFcjEg%2BktssWKLDw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4438615058",
@@ -4035,6 +4101,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEfgZXAuQXg6w/company-logo_100_100/B56ZfK6LczHUAQ-/0/1751455938973/london_stock_exchange_group_logo?e=2147483647&v=beta&t=5ZFP4xHS24_BnpZHtT7ZbuN_opspJmRO698ZnXJSlOU",
     "lat": 12.9936892,
     "lng": 77.6605061
+  },
+  {
+    "id": "urn:li:jobPosting:4427181887",
+    "title": "Staff Software Engineer - Frontend",
+    "company": "SentinelOne",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-02",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-frontend-at-sentinelone-4427181887?position=1&pageNum=22&refId=NMGf5B8bMf5Ff5vE7C%2Fi%2BA%3D%3D&trackingId=mDag2bEoh1wYS9wADNPuCQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHQDaLDJ31KBA/company-logo_100_100/B56ZYmt.3HH0AY-/0/1744406310677/sentinelone_logo?e=2147483647&v=beta&t=6UmXrWkvxWYrn0LE17iElW1p1MgUsBdSJsjT_miVSbE",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4434379464",
@@ -131574,5 +131651,15 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHsM9rNpYSvqA/company-logo_100_100/company-logo_100_100/0/1630622608771/mavenir_logo?e=2147483647&v=beta&t=q8HhhiBK2IhtFSASM941IXC0kFa1EEGyZEVCBJqkPdk",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4442029719",
+    "title": "Software Development Engineer 5",
+    "company": "Adobe",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-5-at-adobe-4442029719?position=9&pageNum=82&refId=dC1QEj9TX5UZtoahAb1amA%3D%3D&trackingId=zWZN5ZVe4%2Fu%2BsuT1Qk7xRw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHilaKdJueUVg/company-logo_100_100/B56ZodIp56HUAU-/0/1761425400481?e=2147483647&v=beta&t=5quwQkjoWPHt-cdv-cBmTVHls2M4cf6o-rcrCVz1-tE",
+    "lat": 0,
+    "lng": 0
   }
 ]
