@@ -352,6 +352,17 @@
     "lng": 77.7166929
   },
   {
+    "id": "urn:li:jobPosting:4441965562",
+    "title": "Senior Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-17",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-capgemini-4441965562?position=3&pageNum=95&refId=vlreJXYxKvxajxKAztMtKg%3D%3D&trackingId=pPvprYfrow7cguo90tbp6g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4441288615",
     "title": "Custom Software Engineer",
     "company": "Accenture in India",
@@ -515,6 +526,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4440754353",
+    "title": "CPU Software Engineer",
+    "company": "Qualcomm",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-16",
+    "link": "https://in.linkedin.com/jobs/view/cpu-software-engineer-at-qualcomm-4440754353?position=4&pageNum=82&refId=lox8oQYuDI3kQOznjmsHZw%3D%3D&trackingId=w8FGbnf84YHtNXgIqtvNOg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFOe36gT9mXIQ/company-logo_100_100/company-logo_100_100/0/1709233599959/qualcomm_logo?e=2147483647&v=beta&t=iGqgBDuzGG9XMxMrP62LF-NaNkyTgXbw1_Xp_Sghqdk",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4438408689",
@@ -5993,6 +6015,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4440413644",
+    "title": "Front End Engineer",
+    "company": "Lyzr AI",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-26",
+    "link": "https://in.linkedin.com/jobs/view/front-end-engineer-at-lyzr-ai-4440413644?position=5&pageNum=7&refId=SCYPpkZ%2BEJFdsJicNmyeqw%3D%3D&trackingId=JJo2mkpZXcAKlTm7Z87rLQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF9ZEadWf04qA/company-logo_100_100/B56Z06lHpUKsAQ-/0/1774804302851/lyzr_platform_logo?e=2147483647&v=beta&t=G7jpj15KHGbR0GnA3r7sT1i9Ha2iswhWBX0yBxQwwL0",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4433011664",
@@ -131990,5 +132023,115 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
     "lat": 13.120648,
     "lng": 77.6114683
+  },
+  {
+    "id": "urn:li:jobPosting:4443052249",
+    "title": "Software development Engineer",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-at-amazon-4443052249?position=3&pageNum=22&refId=dmsb4PiWR6XLqwooUzIM%2Bw%3D%3D&trackingId=ZA5qMoNPoYSBfhJ9Y%2Fo7qA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4442035476",
+    "title": "Angular Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-at-scoutit-4442035476?position=3&pageNum=32&refId=mzOg4WoMpKHTCe0mcoEpiw%3D%3D&trackingId=amM0SQ7nxs7Oo2Yme3ovYQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4443322154",
+    "title": "Freelance Full-Stack Web App Developer",
+    "company": "Mindrift",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/freelance-full-stack-web-app-developer-at-mindrift-4443322154?position=2&pageNum=65&refId=NkwZzqgFq9chN3yNbijVWw%3D%3D&trackingId=wuOxIrTsURFgp3FoKZDE%2FQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG9ySVGr5NQzQ/company-logo_100_100/company-logo_100_100/0/1725448348201/mindrift_ai_logo?e=2147483647&v=beta&t=QWIMS9k-I4kkSKVcx06uFCRLdHDZZ1w9E8dWeBmOHCk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4443039390",
+    "title": "Software Development Engineer",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-at-amazon-4443039390?position=9&pageNum=40&refId=wQ8BzdrQJggCXF4wRVz1Tw%3D%3D&trackingId=m7mZu9CO86AG68ic7lV74A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4443041564",
+    "title": "Software Dev Engineer 2",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-2-at-amazon-4443041564?position=3&pageNum=57&refId=YsvrFFchiu0FWGv%2Fqvdf4w%3D%3D&trackingId=gpw23Hv0i4SU3%2BIQU3O1Lw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4443042726",
+    "title": "Software Development Engineer",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-at-amazon-4443042726?position=6&pageNum=57&refId=YsvrFFchiu0FWGv%2Fqvdf4w%3D%3D&trackingId=UyMvquiG4ZWWmPqWK4Ur6A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4442096439",
+    "title": "Software Engineer",
+    "company": "Siemens",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-siemens-4442096439?position=4&pageNum=80&refId=qhVoxjK7i5K4CGMseXInVg%3D%3D&trackingId=J%2FPs9VusqLp9boFrtGAtdg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_100_100/company-logo_100_100/0/1719931174735/siemens_logo?e=2147483647&v=beta&t=iNZVOYYuYOnkz09IBCFrK9Ik8uTqP6ZDnhCEJjPouV4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4440152460",
+    "title": "Software Engineer - Confluent",
+    "company": "IBM",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-confluent-at-ibm-4440152460?position=1&pageNum=90&refId=VLgfig%2BZOiKfrjPwhE1Yuw%3D%3D&trackingId=MNkLffWnSrHy3V3ZaP0wag%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&v=beta&t=HPSmWLOCvdPkWO1nRWwjjmCNpaCqww20rSJ4E54QtxQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4442027785",
+    "title": "Angular Developer",
+    "company": "Scoutit",
+    "location": "Bangalore Rural, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-at-scoutit-4442027785?position=9&pageNum=27&refId=ve%2FniesXQcPBB278dXw7xQ%3D%3D&trackingId=%2FeNDThHUscymTNIDkK2f%2Fw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4442046064",
+    "title": "Angular Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru Rural District, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-at-scoutit-4442046064?position=4&pageNum=32&refId=sBPP%2ByD2%2BC5x1y6eS8i05A%3D%3D&trackingId=hzapa6apsEpeBfvRrz1f4Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4443099448",
+    "title": "Software Developer/Engineer",
+    "company": "Siemens",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-developer-engineer-at-siemens-4443099448?position=3&pageNum=35&refId=1%2FHzABywTfksM0712yf%2FBg%3D%3D&trackingId=kmCxtttt%2BfLp3RHQ9D7Zcw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_100_100/company-logo_100_100/0/1719931174735/siemens_logo?e=2147483647&v=beta&t=iNZVOYYuYOnkz09IBCFrK9Ik8uTqP6ZDnhCEJjPouV4",
+    "lat": 0,
+    "lng": 0
   }
 ]
