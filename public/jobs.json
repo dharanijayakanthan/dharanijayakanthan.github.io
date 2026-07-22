@@ -55,6 +55,28 @@
     "lng": 77.6114683
   },
   {
+    "id": "urn:li:jobPosting:4443022821",
+    "title": "Software Dev Engineer",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-21",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-at-amazon-4443022821?position=7&pageNum=75&refId=T8YNoA3yATwzsQHZys4HZw%3D%3D&trackingId=mN1sgXiQMVon3yxIgOQ%2B3A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4440197880",
+    "title": "Software Engineer",
+    "company": "BT Group",
+    "location": "Greater Bengaluru Area",
+    "date": "2026-07-21",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-bt-group-4440197880?position=4&pageNum=87&refId=w5GTMTW4GS0%2FUEOc4XHkKA%3D%3D&trackingId=7TJbO0JaePjfwiViLtZ0iw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEABgoerVJL3A/company-logo_100_100/B4EZ6maplTJkAI-/0/1780908464739/bt_logo?e=2147483647&v=beta&t=P-xWZVoeKNqXnYgJVG1hiF3Fj3HA-vtL8C8UONq31m8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4442090634",
     "title": "Software Engineer",
     "company": "Siemens",
@@ -2583,6 +2605,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEHLYyoneURig/company-logo_100_100/company-logo_100_100/0/1659966097286/imtf_logo?e=2147483647&v=beta&t=oMR4k4KxPbooi85j-qPhJ3VCJHCtMH1rBQaq0hn1gZg",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4435666276",
+    "title": "Software Engineer - Power Platform & Automation Engineer",
+    "company": "HARMAN India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-09",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-power-platform-automation-engineer-at-harman-india-4435666276?position=8&pageNum=97&refId=I7hAh7enDFO22cFyUrKD9Q%3D%3D&trackingId=lm6UVHqMjMGs3a%2FVtjI5nA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDKElnmeXZQg/company-logo_100_100/company-logo_100_100/0/1719928441230/harmanindia_logo?e=2147483647&v=beta&t=RcIRqRbij9ibXo-Mc9kJC4nhXdIBLCBwFIMdw9ugWG4",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4438615058",
@@ -132993,5 +133026,15 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4443507911",
+    "title": "Senior Software Engineer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-capgemini-4443507911?position=1&pageNum=82&refId=EbsNZhzJjZeO8VhPStbx3g%3D%3D&trackingId=oV8cUBp4z76LepLoOvRO%2FQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
   }
 ]
