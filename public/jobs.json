@@ -132,6 +132,72 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4443369927",
+    "title": "Senior Software Engineer (India)",
+    "company": "Hypersonix Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-21",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-india-at-hypersonix-inc-4443369927?position=5&pageNum=7&refId=Dmz1xwzTeO59LUpw9lwVrQ%3D%3D&trackingId=1KhnX9XajsOQ80A3Rrwfiw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQG7td5l-rrDww/company-logo_100_100/company-logo_100_100/0/1630642256234/hypersonix_ai_logo?e=2147483647&v=beta&t=msqapTSCRWSVQ7rhm6-OydNzVmXmcIVFHtDoCrsT4PA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4440445670",
+    "title": "Software Engineer/AI Developer",
+    "company": "ICSBit Labs",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-21",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ai-developer-at-icsbit-labs-4440445670?position=4&pageNum=27&refId=0QyjwMToXKTN6KwnQRqaNw%3D%3D&trackingId=w%2Flyv7ly0esUjDyvL64b9Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQELjp5Dfk4N4Q/company-logo_100_100/B56Z5x0ZOhIcAM-/0/1780026020961/icsbitlabs_logo?e=2147483647&v=beta&t=V3uWzxUEu8Tzcdq8C0cYk5QDYWjAxLcvfOcCYmxWR6w",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4443098938",
+    "title": "Software Engineer 3",
+    "company": "WorkIndia",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-21",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-3-at-workindia-4443098938?position=6&pageNum=27&refId=0QyjwMToXKTN6KwnQRqaNw%3D%3D&trackingId=WfTyjow%2FdyaPaqWAdzv4vg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFJikZJxiAYNA/company-logo_100_100/company-logo_100_100/0/1630669877970?e=2147483647&v=beta&t=_lJ3oFqM5VR7Vy-ZUY8jqKURqcWP-QqQ1Ry_dbWXxy8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4443389332",
+    "title": "Software Engineer",
+    "company": "Consuma",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-21",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-consuma-4443389332?position=10&pageNum=35&refId=ijMzw0ULMFEDGlRHRHduDA%3D%3D&trackingId=S%2F3X%2B5vUVQotfKBPtM%2FS9g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFW04-FBSIhUw/company-logo_100_100/B56Z3dZnuwH4AQ-/0/1777535974986/consuma_ai_logo?e=2147483647&v=beta&t=2gziTHZRXgsWU28bgs3wS7NzfoZZQMevYmfQWWmQXt8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4442606039",
+    "title": "Software Engineer (Backend)",
+    "company": "SHIELD",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-21",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-backend-at-shield-4442606039?position=6&pageNum=42&refId=jDC%2BslItYTAzcDABt14odw%3D%3D&trackingId=82N7zyzbUAK%2BQ706lisJ1Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFNWPbwXKkHjQ/company-logo_100_100/company-logo_100_100/0/1630639909659/shield_logo?e=2147483647&v=beta&t=ANbBrdvz5OVC3AnWZ6CntJo_xIP02vuEW-g3oRcz3Ds",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4442616102",
+    "title": "Fullstack Developer (Angular + Java)",
+    "company": "Tata Consultancy Services",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-21",
+    "link": "https://in.linkedin.com/jobs/view/fullstack-developer-angular-%2B-java-at-tata-consultancy-services-4442616102?position=9&pageNum=45&refId=%2FmPz9O%2BTtAsw%2FMEUTHSo0g%3D%3D&trackingId=t8JLT%2Ffm3I8q%2FCZGlCQMew%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4442090634",
     "title": "Software Engineer",
     "company": "Siemens",
@@ -264,6 +330,39 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4443034930",
+    "title": "Software Development Engineer, Sidewalk Cloud, Sidewalk Cloud",
+    "company": "Ring",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-20",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-sidewalk-cloud-sidewalk-cloud-at-ring-4443034930?position=3&pageNum=25&refId=s2fHzOuVQ7K9GEo8jPI%2F5g%3D%3D&trackingId=mqiAks1MRs7ROoCgU4kpCg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEMi2q0vql6HA/company-logo_100_100/B56ZYdKSHBGUAQ-/0/1744245957355/ring_labs_logo?e=2147483647&v=beta&t=tsGGg-aHMbOXk1t5PV3X-AYiLlzU1c5QZ2zvuCL-GTI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4442029573",
+    "title": "Software Development Engineer III",
+    "company": "Tesco Technology",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-20",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-iii-at-tesco-technology-4442029573?position=9&pageNum=25&refId=s2fHzOuVQ7K9GEo8jPI%2F5g%3D%3D&trackingId=01uFX7wTJkRS%2F%2Bo8bo%2F%2B2g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFJN5qXVxmIEw/company-logo_100_100/company-logo_100_100/0/1663681176949/tesco_technology_logo?e=2147483647&v=beta&t=xYJWJM2EZiX-0-NGZgWUx6gFsik8MXfFd0jmeopiSTc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4442034244",
+    "title": "Software Development Engineer II",
+    "company": "CommerceIQ",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-20",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-commerceiq-4442034244?position=2&pageNum=55&refId=nXKwK1TexGPWxe11DJb7Ag%3D%3D&trackingId=%2F1bwY7w8GHSqOUG2QdQ%2BdA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGqtn7odRfXdw/company-logo_100_100/B4DZjiw1r2GQAQ-/0/1756151110791/commerceiq_logo?e=2147483647&v=beta&t=gU2v7RFJhaGT5ODvI2-dxUQCjxv59h-1GQHauGxv8OI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4441767738",
     "title": "Angular Developer",
     "company": "Scoutit",
@@ -317,6 +416,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
     "lat": 12.9740345,
     "lng": 77.6174204
+  },
+  {
+    "id": "urn:li:jobPosting:4429031574",
+    "title": "Lead Software Engineer- Back-end Engineer - Chase UK",
+    "company": "hackajob",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-19",
+    "link": "https://in.linkedin.com/jobs/view/lead-software-engineer-back-end-engineer-chase-uk-at-hackajob-4429031574?position=7&pageNum=42&refId=jDC%2BslItYTAzcDABt14odw%3D%3D&trackingId=rd9pJxvBS4X3lFodtsQfPA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4442189576",
@@ -60266,6 +60376,17 @@
     "date": "2025-08-22",
     "link": "https://in.linkedin.com/jobs/view/tt-angular-js-at-tecnovos-4301173665?position=5&pageNum=55&refId=ZAjToWWYK4%2F9odl50s1QNA%3D%3D&trackingId=gxqGDxDr9hI7duvS6XSmig%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQHMs6_yLFT6Lg/company-logo_100_100/company-logo_100_100/0/1630616630084/tecnovos_llp_logo?e=2147483647&v=beta&t=l8IdjD0XrveEE90bx4MHzA2j77PHd1QXP10lJZ4K2a4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4288910383",
+    "title": "Software Engineer, Java Development",
+    "company": "PhaseZero.ai",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-08-20",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-java-development-at-phasezero-ai-4288910383?position=5&pageNum=45&refId=%2FmPz9O%2BTtAsw%2FMEUTHSo0g%3D%3D&trackingId=%2BVizbTsbiUZOfbXvw4ewYw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGqCMe-ti-l5Q/company-logo_100_100/B4DZeinbvSHkAQ-/0/1750779936096/phasezeroai_logo?e=2147483647&v=beta&t=6sFt1rdW4VMtBfRJiAhsF4iXc26P5GD-1p9hvGdvZXQ",
     "lat": 0,
     "lng": 0
   },
@@ -133538,5 +133659,15 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF44VAW2ygFJQ/company-logo_100_100/company-logo_100_100/0/1729158400860/lt_technology_services_limited_logo?e=2147483647&v=beta&t=tJgB-csuFJ-smAdeR08b9didgNs_DAOYlXp-NP4jgnA",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4443132191",
+    "title": "Angular Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-at-scoutit-4443132191?position=8&pageNum=27&refId=0QyjwMToXKTN6KwnQRqaNw%3D%3D&trackingId=eRVjAT%2F4Cx7MwbtBKfXlpg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
   }
 ]
