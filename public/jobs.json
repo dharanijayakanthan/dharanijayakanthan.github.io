@@ -4983,6 +4983,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4437898779",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-08",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4437898779?position=7&pageNum=92&refId=XKt1Wn%2BJDc5gkQJ17sKtpw%3D%3D&trackingId=93uAwNe6CSLDMkd5k%2FzPCQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4436517502",
     "title": "Full Stack Engineer",
     "company": "GreedyGame",
@@ -138093,5 +138104,85 @@
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQFwBvGQK2NyEA/company-logo_100_100/company-logo_100_100/0/1630620434106/societe_generale_global_solution_centre_logo?e=2147483647&v=beta&t=JLVeP7Wt4mveji2MHGGJKTK-7LZYVstKBki3yCG64XA",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4442848070",
+    "title": "Senior Frontend Developer",
+    "company": "Delhivery",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-developer-at-delhivery-4442848070?position=3&pageNum=17&refId=iTo2aDc1i2QV24CTurpSnA%3D%3D&trackingId=tmIQY6YR%2Fm0XfQ4gGnNc6A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFHOFbzc8eTug/company-logo_100_100/B56ZqQnVlMG0AQ-/0/1763362822878/delhivery_logo?e=2147483647&v=beta&t=dQcfSRYS9a6bB2sRa2RJoyMFoDxAKSK39epnKT4djZs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4442880742",
+    "title": "Application Software Engineer 2",
+    "company": "Oracle",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/application-software-engineer-2-at-oracle-4442880742?position=5&pageNum=55&refId=RkZSt1cQG%2BL6gFh2GeXc%2BA%3D%3D&trackingId=ih6JQ8Mu%2Fuj%2FQDwfwigT5A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4442894636",
+    "title": "Application Software Engineer 2",
+    "company": "Oracle",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/application-software-engineer-2-at-oracle-4442894636?position=10&pageNum=62&refId=Y6dgxJ8tZh5wI8QEGsWwBw%3D%3D&trackingId=GuHpp9IgdBu7g3ApJBTIPg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4445946253",
+    "title": "Freelance Frontend Developer (Landing Pages & Websites)",
+    "company": "Mindrift",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/freelance-frontend-developer-landing-pages-websites-at-mindrift-4445946253?position=7&pageNum=15&refId=7F3rsYNbVJ98z%2FFIfYJtEw%3D%3D&trackingId=qu%2Fh5aqz2ls9RczUhdBuFA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG9ySVGr5NQzQ/company-logo_100_100/company-logo_100_100/0/1725448348201/mindrift_ai_logo?e=2147483647&v=beta&t=QWIMS9k-I4kkSKVcx06uFCRLdHDZZ1w9E8dWeBmOHCk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4445464801",
+    "title": "Software Engineer",
+    "company": "Postman",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-postman-4445464801?position=4&pageNum=22&refId=C2OlGDL%2B7sx5DFa3bELkvQ%3D%3D&trackingId=q9nRcrunV6R4nInyusVLqA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFf8sH83foEVg/company-logo_100_100/company-logo_100_100/0/1654794308958/postman_platform_logo?e=2147483647&v=beta&t=vhUFiD_84RWtJWzqMFME4YJ9Jgnne9fH6DlCHgLCIEA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4443228203",
+    "title": "Angular Developer",
+    "company": "WillWare Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-at-willware-technologies-4443228203?position=5&pageNum=27&refId=NL%2FfK6b%2Fxngiwqjm5b3L9A%3D%3D&trackingId=s2LY1USbkLlnY75cLK49PA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG0h5Rnd_RDvg/company-logo_100_100/company-logo_100_100/0/1737558627138/willware_technologies_logo?e=2147483647&v=beta&t=K7yuc9Awez5en9kPeKGqsSQZhaDjTAE6DI33C7iTjRU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4443247181",
+    "title": "React + Java Developer",
+    "company": "Synechron",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-%2B-java-developer-at-synechron-4443247181?position=10&pageNum=40&refId=OyK0HoQw3H86AumD9VG%2BnQ%3D%3D&trackingId=nyLVxQzQNBZkFb%2BLZyWuYQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGU3XDmI-XtZg/company-logo_100_100/B4EZbozLqWHcAU-/0/1747662453848/synechron_logo?e=2147483647&v=beta&t=967JcOKqVUEfAxo-JLDXVLacACGsfj3Itpkbmqz1HrA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4443215753",
+    "title": "Senior Software Engineer",
+    "company": "Okta",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-okta-4443215753?position=4&pageNum=90&refId=Cq14pIdWzeQX9TQwcBbOMw%3D%3D&trackingId=e%2BguALqHZFWU26ZG2uG%2BVA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE0I9HrjbrEYQ/company-logo_100_100/company-logo_100_100/0/1667862034764/okta_inc__logo?e=2147483647&v=beta&t=jgTgxfuLfY5pp_Mk_6UMtjNHd2zQZVHPkh6QxrCWNCo",
+    "lat": 0,
+    "lng": 0
   }
 ]
