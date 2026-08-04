@@ -11,6 +11,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4448149285",
+    "title": "Python Developer",
+    "company": "TCS",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-03",
+    "link": "https://in.linkedin.com/jobs/view/python-developer-at-tcs-4448149285?position=3&pageNum=80&refId=jFnXH1%2B36ESp0Fxc4o%2FyVA%3D%3D&trackingId=XcuBwq3pHtQn4ZiNYZWfKQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv0z3fRg2gwA/company-logo_100_100/company-logo_100_100/0/1719256907484/calltcs_logo?e=2147483647&v=beta&t=DOCmbpZpWUsgcXf5usdb71bNnYJHBtd-KGNT0rTZkjE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4445869384",
+    "title": "Software Engineer",
+    "company": "Libre Wireless Technology",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-03",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-libre-wireless-technology-4445869384?position=7&pageNum=67&refId=Xe91hmIv7xcxoByrAydAGw%3D%3D&trackingId=Ensiwdg7PK9uz63WgxM2vQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFXOWs-SySAig/company-logo_100_100/company-logo_100_100/0/1630472373075?e=2147483647&v=beta&t=DehuUI-v6j05zUY1zyMmx9LnNkikvC2TubydvG5tlTY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4379627081",
     "title": "Software Engineer, Commerce Backend",
     "company": "Docusign",
@@ -273,6 +295,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQH50fy3vuruEQ/company-logo_100_100/B56ZVqsmMZHQAQ-/0/1741251831046/techblissdigital_logo?e=2147483647&v=beta&t=nt-WihiV1t2T887_EfWnk46Ayu9qSVMt7AdkS0e_cmA",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4428226079",
+    "title": "Senior Platform Software Engineer (Date Engineering)",
+    "company": "Oracle",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-31",
+    "link": "https://in.linkedin.com/jobs/view/senior-platform-software-engineer-date-engineering-at-oracle-4428226079?position=9&pageNum=85&refId=kraGIGJ2uMvyjhkyoFKGpA%3D%3D&trackingId=6Mu5DyXcX5ZDhEdUb3z4NA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4447271245",
+    "title": "Software Engineer",
+    "company": "Celstream Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-31",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-celstream-technologies-4447271245?position=3&pageNum=92&refId=MnzWMJyh7MTNn8lkKBacCg%3D%3D&trackingId=xTTKCzrmDfIBywsVFIM9iQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFgu_3fGqXbfA/company-logo_100_100/company-logo_100_100/0/1631340660511?e=2147483647&v=beta&t=FPRRbQwIY1ZvoK7Rpsu0U3XYMUxNr2FSXuYl9jtK5Co",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4446463310",
@@ -977,6 +1021,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
     "lat": 12.8461795,
     "lng": 77.6776437
+  },
+  {
+    "id": "urn:li:jobPosting:4446560880",
+    "title": "Staff Software Engineer",
+    "company": "Sandisk",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-29",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-at-sandisk-4446560880?position=10&pageNum=90&refId=goNpR3cWCXiWliSLOfE4Tw%3D%3D&trackingId=CEP8HQjjsfBX%2Ffm5Jp8EMA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFT3XpBw27MZQ/company-logo_100_100/B56Znem7iXIYAQ-/0/1760376371839/sandisk_logo?e=2147483647&v=beta&t=9jSi5C_S8tJzrynYB43fIOkJ3YOofaMfZ5PbugS2SEI",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4443228524",
@@ -2354,6 +2409,17 @@
     "lng": 0
   },
   {
+    "id": "urn:li:jobPosting:4435457203",
+    "title": "Senior Software Engineer, Cloud Migration",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-25",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-cloud-migration-at-google-4435457203?position=1&pageNum=85&refId=kraGIGJ2uMvyjhkyoFKGpA%3D%3D&trackingId=jTGyqO%2FUWfiXLMGBVj0grg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4441895058",
     "title": "Senior Frontend Developer (AI Enthusiast)",
     "company": "Bioksha",
@@ -3344,6 +3410,17 @@
     "lng": 0
   },
   {
+    "id": "urn:li:jobPosting:4443493092",
+    "title": "Full Stack Engineer",
+    "company": "Recro",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-23",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-recro-4443493092?position=6&pageNum=75&refId=SGjc86yB5PckowPyqUkc3A%3D%3D&trackingId=ODfV%2BzLwcFtTnzcbpxl5SQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH7GYOGBCj8Qg/company-logo_100_100/company-logo_100_100/0/1728907260215/recro_io_logo?e=2147483647&v=beta&t=898rSyj182aC0vqi5cZqbWQQIDumt_WpercCJsH_-TY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4431926580",
     "title": "Custom Software Engineer",
     "company": "Accenture in India",
@@ -3705,6 +3782,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4442700873",
+    "title": "Senior staff engineer",
+    "company": "SourcingXPress",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-22",
+    "link": "https://in.linkedin.com/jobs/view/senior-staff-engineer-at-sourcingxpress-4442700873?position=5&pageNum=32&refId=oayoKhSt0kI%2Fjc0Yr97mOQ%3D%3D&trackingId=3cm7lFc7jRFtfKYBPEb7oQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH8p15unSQuNg/company-logo_100_100/company-logo_100_100/0/1726488435665/sourcingxpress_logo?e=2147483647&v=beta&t=iFtAwYhOzhMZtNarkze-r6fDB-RFk6LFqh98zidvhgo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4443045015",
@@ -5786,6 +5874,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4441954821",
+    "title": "Software Engineer in Test",
+    "company": "Zluri",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-18",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-in-test-at-zluri-4441954821?position=7&pageNum=85&refId=kraGIGJ2uMvyjhkyoFKGpA%3D%3D&trackingId=vshXlaPGIl5GaPHP01Lhig%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEtkZBZBIHjzg/company-logo_100_100/B4DZq_UP0MIAAQ-/0/1764146347769/zluri_logo?e=2147483647&v=beta&t=sH5l_tNUopE5p10W941uLYMqyZTu5HKxgR_1x5T5XH8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4441999392",
     "title": "Software Engineer",
     "company": "Deltek",
@@ -7170,6 +7269,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHB31-jKO8jqA/company-logo_100_100/B56ZuyW.ZgHEAQ-/0/1768223926940/davincicommerce_logo?e=2147483647&v=beta&t=6QaKQ6gLAdJ1H86dcbDbYMurEfSt1031tTaN16J5Jqs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4440264395",
+    "title": "Software Test Engineer",
+    "company": "Trintech",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-15",
+    "link": "https://in.linkedin.com/jobs/view/software-test-engineer-at-trintech-4440264395?position=3&pageNum=80&refId=3rm5ukNYVPnsDE1fHB5Ohg%3D%3D&trackingId=hOed6bhutsdOsXbPLch%2FYw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFmne7Pgz8how/company-logo_100_100/B56ZfGg8m4HEAU-/0/1751382215448/trintech_logo?e=2147483647&v=beta&t=xSu-yf7Gu2eLlSQ-el1vt1NFt32iAY7Wv0-FG3_qKjM",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4437649539",
@@ -148236,5 +148346,755 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4448675455",
+    "title": "Elsevier Off Campus Hiring | Software Engineer – Fresher",
+    "company": "Fresher Jobs",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/elsevier-off-campus-hiring-software-engineer-%E2%80%93-fresher-at-fresher-jobs-4448675455?position=5&pageNum=27&refId=63kwSClNGDbetL%2F3I7fgUw%3D%3D&trackingId=tut1EOwKxb1%2FVT2mk5WYfA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE11QX7lQ0Y8Q/company-logo_100_100/B56Z4S3DyRHwAU-/0/1778432885256?e=2147483647&v=beta&t=oo-orevI88Tciabrf0swjOxggOa9sOBtOnAYIf1ZaMc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448171980",
+    "title": "SDE III",
+    "company": "Kapiva",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sde-iii-at-kapiva-4448171980?position=8&pageNum=32&refId=oayoKhSt0kI%2Fjc0Yr97mOQ%3D%3D&trackingId=kVhndD0YzMdHWn4llovl3Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFIoqzwelj7pw/company-logo_100_100/company-logo_100_100/0/1681797989246/kapivaayurveda_logo?e=2147483647&v=beta&t=U8PF3x0FQlDMHXZzpBITGTA5NIsvfIMWB54pFhTJ04E",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4446204116",
+    "title": "Software Engineer_101360",
+    "company": "MyCareernet",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-101360-at-mycareernet-4446204116?position=10&pageNum=35&refId=ccV%2BnEJVAP8kSirCwvPclg%3D%3D&trackingId=n7ujTDQ9EI0%2Bn97In60isA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHvY_a1mzADSg/company-logo_100_100/B56ZuNCAyJKcAQ-/0/1767597674101/mycareernet_logo?e=2147483647&v=beta&t=GcueUhUgoPcaBa9mhnxYfvsjd-bQsCjKbS8gA4nJwq8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448366477",
+    "title": "Web Developer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-accenture-in-india-4448366477?position=4&pageNum=15&refId=r9l%2B9CqFxhmPScbPGKYaQA%3D%3D&trackingId=%2FXkyADPg5oAw%2BdOofrgvvQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448383151",
+    "title": "Web Developer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-accenture-in-india-4448383151?position=10&pageNum=15&refId=r9l%2B9CqFxhmPScbPGKYaQA%3D%3D&trackingId=GdH68fqDgQzyMriQEzun2Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448632981",
+    "title": "Frontend Engineer",
+    "company": "AfterQuery Experts",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-at-afterquery-experts-4448632981?position=8&pageNum=42&refId=P8bleEQX4N6lQT9ui13dsg%3D%3D&trackingId=9TQlIqyN6mp5hvooW59Shw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHrMvnaJnxiVQ/company-logo_100_100/B4DZXt37yzGkAU-/0/1743452618201/afterquery_experts_logo?e=2147483647&v=beta&t=8E_2njv3_AeAkxSQ7YVLRNK_kQ5iON_UCOJ0Q8ZvmNI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448335214",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448335214?position=6&pageNum=47&refId=j2MZnnk6Gps5FF3TqPzDTQ%3D%3D&trackingId=pziW24pG7l1f45Q%2F1DToYQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448323415",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448323415?position=10&pageNum=47&refId=j2MZnnk6Gps5FF3TqPzDTQ%3D%3D&trackingId=dpAOAuF9benDHDbY7wRe5A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448832430",
+    "title": "Lead Reactjs Developer",
+    "company": "Trigent Software - Professional Services",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/lead-reactjs-developer-at-trigent-software-professional-services-4448832430?position=9&pageNum=55&refId=BEbMtMJ7vIct5K8r776MJA%3D%3D&trackingId=bOhRB8neubOsndiynRTVBg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEREsHenFUIIA/company-logo_100_100/B56ZsGZJ3.G4AU-/0/1765338816404/trigent_professional_services_logo?e=2147483647&v=beta&t=CY5QBiQJJ5O6Z7svhi-XUYX6U8mlZXBMym6EAf8pBl4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4446614273",
+    "title": "Mobile Engineer",
+    "company": "Triplespeed",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/mobile-engineer-at-triplespeed-4446614273?position=2&pageNum=57&refId=SsJtBRoSTqyj7I5N8Ar5EA%3D%3D&trackingId=3izs4bUgT5VyGasECgSWUw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG8W1G7vdh-Yw/company-logo_100_100/B4DZoafPnnH0AQ-/0/1761380990477/triplespeed_logo?e=2147483647&v=beta&t=PhEYYT_2HMuy6czFIbPDbN6jnO66bkiZST9c-kNWT4E",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4446604078",
+    "title": "Software Engineer",
+    "company": "Talentd",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-talentd-4446604078?position=9&pageNum=62&refId=4s8Zwdpqdb0692zuc8bh%2FA%3D%3D&trackingId=4Li45X2BM%2FMY%2FHiHXd2T3A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHf7MRL9jvcPA/company-logo_100_100/B4DZjNu1fRGsAU-/0/1755798264275/talentdin_logo?e=2147483647&v=beta&t=2SGfjNxODBTBjYde_0na3PNUlGUeYm2ifzq9gJpRLhU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448321547",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448321547?position=4&pageNum=67&refId=THNqAcKgJh7FbFkZTAAZHw%3D%3D&trackingId=5bwaz1JrbbTbXqH5KsdZWA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448368070",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448368070?position=5&pageNum=67&refId=THNqAcKgJh7FbFkZTAAZHw%3D%3D&trackingId=Yc4pFk3oQCyyWs5NpWSOCQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448364414",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448364414?position=6&pageNum=67&refId=THNqAcKgJh7FbFkZTAAZHw%3D%3D&trackingId=JAqdRO2qt8WXxjB%2BueFrjQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448360763",
+    "title": "Application Developer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/application-developer-at-accenture-in-india-4448360763?position=4&pageNum=70&refId=eUIgp7%2B6t0lvVlnDDa9A4A%3D%3D&trackingId=GfxXXM65vEfdlk%2BuGhM46g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448344455",
+    "title": "Application Developer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/application-developer-at-accenture-in-india-4448344455?position=5&pageNum=70&refId=eUIgp7%2B6t0lvVlnDDa9A4A%3D%3D&trackingId=FmU8aCpBuw3v09rI0%2FLFJQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448341921",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448341921?position=1&pageNum=72&refId=xePE%2FNiPmbmpW%2Fr3%2FJEOJQ%3D%3D&trackingId=2sX8AJud%2BPJF1TLZiCM1PA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448367156",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448367156?position=2&pageNum=77&refId=fSuvdCMmstruJo0owZe1Ow%3D%3D&trackingId=nxd1sWyqmHyLLuupfVSLOQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448375851",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448375851?position=3&pageNum=77&refId=fSuvdCMmstruJo0owZe1Ow%3D%3D&trackingId=%2BkaYx5Ajd8EpI3psUqq1Pg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448382652",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448382652?position=1&pageNum=82&refId=ZJYi3IiGjSEBa701qUjtLA%3D%3D&trackingId=8NvzWnRNhe3zuD23O%2BuLKg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448351695",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448351695?position=3&pageNum=82&refId=ZJYi3IiGjSEBa701qUjtLA%3D%3D&trackingId=fkSdbEg22mpFBDsufOWUJg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448387281",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448387281?position=4&pageNum=82&refId=ZJYi3IiGjSEBa701qUjtLA%3D%3D&trackingId=kKZpTso6az6pLe6vXANbFw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448387608",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448387608?position=8&pageNum=82&refId=ZJYi3IiGjSEBa701qUjtLA%3D%3D&trackingId=o5tgwyGVsHrdbjFw22rGjg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448385749",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448385749?position=5&pageNum=85&refId=kraGIGJ2uMvyjhkyoFKGpA%3D%3D&trackingId=u4%2FyEj4gSBJ%2FRJ9SDLpRvQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448376563",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448376563?position=8&pageNum=87&refId=9W%2FmrrLsfQm060GXjg6R7Q%3D%3D&trackingId=PHChqgl82LZrMqgs1rfb0g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448333254",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448333254?position=5&pageNum=90&refId=goNpR3cWCXiWliSLOfE4Tw%3D%3D&trackingId=%2BT4quXBa2UsQ4%2BDnYbFR3w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448353751",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448353751?position=6&pageNum=90&refId=goNpR3cWCXiWliSLOfE4Tw%3D%3D&trackingId=H8Syi9zjd%2FPvVbbEF%2BSS7w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448357673",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448357673?position=7&pageNum=90&refId=goNpR3cWCXiWliSLOfE4Tw%3D%3D&trackingId=ZvNfIjKJxv%2BUP37hCw8bhQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448357454",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448357454?position=1&pageNum=92&refId=MnzWMJyh7MTNn8lkKBacCg%3D%3D&trackingId=jvtqwfvDGVeqwq3rSUS7rw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448344834",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448344834?position=4&pageNum=92&refId=MnzWMJyh7MTNn8lkKBacCg%3D%3D&trackingId=q13MFTwjirjBOdAQ4SU5mQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448360338",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448360338?position=7&pageNum=92&refId=MnzWMJyh7MTNn8lkKBacCg%3D%3D&trackingId=jsey2jFLEH7jxzQ49NAJHQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448318738",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448318738?position=8&pageNum=92&refId=MnzWMJyh7MTNn8lkKBacCg%3D%3D&trackingId=EC1LvSwLC7DQ9uG70WuVmg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448344887",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448344887?position=4&pageNum=95&refId=eLeQvARWl7N%2BsZbUNzjLrA%3D%3D&trackingId=RanZesaS1ASVxNzeu9oxuw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448381101",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448381101?position=6&pageNum=95&refId=eLeQvARWl7N%2BsZbUNzjLrA%3D%3D&trackingId=jx4xz4xYjECZXqXj3dXFOg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448362112",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448362112?position=7&pageNum=95&refId=eLeQvARWl7N%2BsZbUNzjLrA%3D%3D&trackingId=btX%2FfacRni0NEr%2By7IDNpQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448379836",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448379836?position=8&pageNum=95&refId=eLeQvARWl7N%2BsZbUNzjLrA%3D%3D&trackingId=NjEPQAT6bdL1prRIt5HkYA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448348754",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448348754?position=9&pageNum=95&refId=eLeQvARWl7N%2BsZbUNzjLrA%3D%3D&trackingId=b9KDGF3eqB7hHY1tNkajdQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448357783",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448357783?position=10&pageNum=95&refId=eLeQvARWl7N%2BsZbUNzjLrA%3D%3D&trackingId=2lGrWdb05RNiYZD3zK5JXA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448344640",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448344640?position=1&pageNum=97&refId=TKVkPRqDFm29ycft%2Bpkbzg%3D%3D&trackingId=Riw%2BiNTkw308cTOD0vQJyw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448367629",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448367629?position=2&pageNum=97&refId=TKVkPRqDFm29ycft%2Bpkbzg%3D%3D&trackingId=rO4gncNXU7D5YkEA8kvONg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448355637",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448355637?position=3&pageNum=97&refId=TKVkPRqDFm29ycft%2Bpkbzg%3D%3D&trackingId=XWXAoS4vKTlC5m%2F5XcEGcg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448362461",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448362461?position=4&pageNum=97&refId=TKVkPRqDFm29ycft%2Bpkbzg%3D%3D&trackingId=8%2B%2BjuKM0fxgEe%2FcOjbD68A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448335291",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448335291?position=5&pageNum=97&refId=TKVkPRqDFm29ycft%2Bpkbzg%3D%3D&trackingId=PNm3OGCJM4jvhHUjYrylLg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448358405",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448358405?position=6&pageNum=97&refId=TKVkPRqDFm29ycft%2Bpkbzg%3D%3D&trackingId=bbnN2PhFxsSCKsALGR3Ugg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448356752",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448356752?position=7&pageNum=97&refId=TKVkPRqDFm29ycft%2Bpkbzg%3D%3D&trackingId=%2BZctFlopsjMuF2YuXiHJ1w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448371397",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448371397?position=8&pageNum=97&refId=TKVkPRqDFm29ycft%2Bpkbzg%3D%3D&trackingId=PCX2gD6OM9QFUZJ%2BGCuMgQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448353850",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448353850?position=9&pageNum=97&refId=TKVkPRqDFm29ycft%2Bpkbzg%3D%3D&trackingId=ShSmNksTmnFxLf1uy%2B9pMg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448382808",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448382808?position=10&pageNum=97&refId=TKVkPRqDFm29ycft%2Bpkbzg%3D%3D&trackingId=JFfqfiGjz46%2BeKW5HcEnow%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4446273381",
+    "title": "UI / UX Designer",
+    "company": "PolyVerb Ai",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ui-ux-designer-at-polyverb-ai-4446273381?position=5&pageNum=57&refId=EHjkD%2FcBfwBnSh%2FpUaMA7A%3D%3D&trackingId=MIwxyFwuaZxIgv9vZHwWQQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMrktqRv1FDw/company-logo_100_100/B56Z5JeVztGkAI-/0/1779349152244/polyverb_ai_logo?e=2147483647&v=beta&t=5-u-vs44mDurVgxbaxQs8KY2Lygor3IAQ48AZXTMTjg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4446260616",
+    "title": "Operations Executive",
+    "company": "PolyVerb Ai",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/operations-executive-at-polyverb-ai-4446260616?position=8&pageNum=57&refId=EHjkD%2FcBfwBnSh%2FpUaMA7A%3D%3D&trackingId=xnNQbULmMST1pWF%2Fdw%2BD7Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMrktqRv1FDw/company-logo_100_100/B56Z5JeVztGkAI-/0/1779349152244/polyverb_ai_logo?e=2147483647&v=beta&t=5-u-vs44mDurVgxbaxQs8KY2Lygor3IAQ48AZXTMTjg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448374586",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448374586?position=1&pageNum=65&refId=G7eHQnykNH4owPhHs7IEZg%3D%3D&trackingId=lQb3Sv8Jic2fWcGMdwp6bA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448326436",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448326436?position=2&pageNum=65&refId=G7eHQnykNH4owPhHs7IEZg%3D%3D&trackingId=ftB5otaxdX98RaMOXw6tBw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448372133",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448372133?position=3&pageNum=65&refId=G7eHQnykNH4owPhHs7IEZg%3D%3D&trackingId=vsCt17u8z7IYc4uj5EA8gw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448329308",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448329308?position=5&pageNum=65&refId=G7eHQnykNH4owPhHs7IEZg%3D%3D&trackingId=2pKPEtW9Q0FwneRxcmipKg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448355849",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448355849?position=9&pageNum=67&refId=Xe91hmIv7xcxoByrAydAGw%3D%3D&trackingId=JWVqMJRAm%2FYl8w0F0ylVzA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448669108",
+    "title": "Full Stack Engineer",
+    "company": "Activatr",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-activatr-4448669108?position=1&pageNum=75&refId=7694NZoVQsT7%2FPvlQy6ikg%3D%3D&trackingId=%2B32KIs4DMAdi%2FbeYH7ey1g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF4Jr4my3eh7A/company-logo_100_100/B56ZyaITKDIwAU-/0/1772112393276/activatr_worklabs_logo?e=2147483647&v=beta&t=Ejfv1UoLC1hYvXS2d8MiPC0O3_NnPBHzgSz_Lib4IN0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4446282478",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4446282478?position=7&pageNum=75&refId=7694NZoVQsT7%2FPvlQy6ikg%3D%3D&trackingId=m9Ryy%2FAVp9x645dJPPm4Ng%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448652975",
+    "title": "Mobile Engineer (Cross-Platform)",
+    "company": "Activatr",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/mobile-engineer-cross-platform-at-activatr-4448652975?position=10&pageNum=75&refId=7694NZoVQsT7%2FPvlQy6ikg%3D%3D&trackingId=Yi8Xl6Wafhj5vTWYMukknw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF4Jr4my3eh7A/company-logo_100_100/B56ZyaITKDIwAU-/0/1772112393276/activatr_worklabs_logo?e=2147483647&v=beta&t=Ejfv1UoLC1hYvXS2d8MiPC0O3_NnPBHzgSz_Lib4IN0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448360467",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448360467?position=1&pageNum=80&refId=3rm5ukNYVPnsDE1fHB5Ohg%3D%3D&trackingId=5uSc8B2DISxzHStPxPLEiw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448340881",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448340881?position=9&pageNum=80&refId=3rm5ukNYVPnsDE1fHB5Ohg%3D%3D&trackingId=t8M5kiUn%2FrCW6bVGlUlNzA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448340959",
+    "title": "Full Stack Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4448340959?position=1&pageNum=90&refId=GIkvlIwv0RpRTHLeWEy%2B%2FA%3D%3D&trackingId=JIjyhflqb07P5aw0OOFAcQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448336556",
+    "title": "Full Stack Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4448336556?position=2&pageNum=90&refId=GIkvlIwv0RpRTHLeWEy%2B%2FA%3D%3D&trackingId=WheJXcAn%2BgcI1KZIGsExXA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448363160",
+    "title": "Full Stack Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4448363160?position=3&pageNum=90&refId=GIkvlIwv0RpRTHLeWEy%2B%2FA%3D%3D&trackingId=6EJdLZMMd5sh7Sr7yWISgw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448355028",
+    "title": "Full Stack Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4448355028?position=5&pageNum=90&refId=GIkvlIwv0RpRTHLeWEy%2B%2FA%3D%3D&trackingId=tZmdT%2Bxyb%2BJ3rVVigcTlPg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448387161",
+    "title": "Full Stack Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4448387161?position=6&pageNum=90&refId=GIkvlIwv0RpRTHLeWEy%2B%2FA%3D%3D&trackingId=2QT3%2Facg%2BnhXjlwtbfgOlA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448324416",
+    "title": "Application Support Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/application-support-engineer-at-accenture-in-india-4448324416?position=7&pageNum=90&refId=GIkvlIwv0RpRTHLeWEy%2B%2FA%3D%3D&trackingId=1T4gOm5j30rLQCXoL9cyXA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448360220",
+    "title": "Application Support Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/application-support-engineer-at-accenture-in-india-4448360220?position=9&pageNum=90&refId=GIkvlIwv0RpRTHLeWEy%2B%2FA%3D%3D&trackingId=dp35mTJuCSpwxg%2BcWA8xyg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448343323",
+    "title": "Full Stack Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4448343323?position=10&pageNum=90&refId=GIkvlIwv0RpRTHLeWEy%2B%2FA%3D%3D&trackingId=dyQLxjua%2F4s4pZwsv4y%2Fxw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448351292",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448351292?position=3&pageNum=97&refId=T8G8iPYu2fKSB6ssty3BwQ%3D%3D&trackingId=b2dyGZxyLM3MxGcVvHqxew%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448352328",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448352328?position=4&pageNum=97&refId=T8G8iPYu2fKSB6ssty3BwQ%3D%3D&trackingId=DySs9AMaymU0Qf6BLLkRow%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448347667",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448347667?position=5&pageNum=97&refId=T8G8iPYu2fKSB6ssty3BwQ%3D%3D&trackingId=rvzMD329HhLd4L4PIbPSxA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448340568",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448340568?position=6&pageNum=97&refId=T8G8iPYu2fKSB6ssty3BwQ%3D%3D&trackingId=Ngy4fUy7TeTajfCqOSvH9A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448363587",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448363587?position=7&pageNum=97&refId=T8G8iPYu2fKSB6ssty3BwQ%3D%3D&trackingId=igxShRamffjufyaAPQ99wg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448347496",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448347496?position=9&pageNum=97&refId=T8G8iPYu2fKSB6ssty3BwQ%3D%3D&trackingId=CFbcpxdak0aOgnGveeprNg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448381401",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448381401?position=10&pageNum=97&refId=T8G8iPYu2fKSB6ssty3BwQ%3D%3D&trackingId=DPcWfT1TorK0nPb6bpuYJg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
   }
 ]
