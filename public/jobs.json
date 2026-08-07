@@ -11,6 +11,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4449369941",
+    "title": "Staff Frontend Developer",
+    "company": "Emergent",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-06",
+    "link": "https://in.linkedin.com/jobs/view/staff-frontend-developer-at-emergent-4449369941?position=1&pageNum=7&refId=WASLRVvWL%2Fi53CpUtYs1vA%3D%3D&trackingId=ft%2FqXbGSPxAFFf55LtbkKA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGDxavK__rQ_w/company-logo_100_100/B4DZZta760HIAU-/0/1745592500385/emergentlabs_logo?e=2147483647&v=beta&t=UpIEkeNMf3xRVGvtmNKV58TMPPL_L0kJXMU51XwzDrM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4449407606",
     "title": "Fullstack Engineer",
     "company": "Ati Robotics",
@@ -75,6 +86,39 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEXYV6p34CtPA/company-logo_100_100/B4DZjMehUuGgAc-/0/1755777210085/standard_chartered_india_logo?e=2147483647&v=beta&t=gxeH4hJTKe069a0UzLFYxW71KL4pW41yTiDx8Kp_wdg",
     "lat": 12.9853637,
     "lng": 77.7081623
+  },
+  {
+    "id": "urn:li:jobPosting:4449620792",
+    "title": "Full Stack Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-05",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4449620792?position=2&pageNum=17&refId=P9s%2F3h6zPzeUA4vSuQT3KQ%3D%3D&trackingId=HhObcfGJFz140x3svbE14Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448996542",
+    "title": "Lead UI Engineer",
+    "company": "Standard Chartered India",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-08-05",
+    "link": "https://in.linkedin.com/jobs/view/lead-ui-engineer-at-standard-chartered-india-4448996542?position=1&pageNum=27&refId=d8MT8Z25A3HHoRAUWDdehg%3D%3D&trackingId=zVVb0z%2Bk80Qm9Nc92uQyoA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEXYV6p34CtPA/company-logo_100_100/B4DZjMehUuGgAc-/0/1755777210085/standard_chartered_india_logo?e=2147483647&v=beta&t=gxeH4hJTKe069a0UzLFYxW71KL4pW41yTiDx8Kp_wdg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4449147307",
+    "title": "Lead, DCR Application Analyst _Frontend Developer",
+    "company": "Schneider Electric",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-05",
+    "link": "https://in.linkedin.com/jobs/view/lead-dcr-application-analyst-frontend-developer-at-schneider-electric-4449147307?position=2&pageNum=60&refId=Q%2FNOxtv6MCSaHaq10oOR%2Fw%3D%3D&trackingId=F6Oz3FcCyuaNaFAGeiulKQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNfeTPCu6Z-w/company-logo_100_100/company-logo_100_100/0/1631312208065?e=2147483647&v=beta&t=8l4ujbCZJ4yvad4MohinQR0wdJF3rSKs0J6a8w-Jk6Y",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4446276338",
@@ -2176,6 +2220,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4448392113",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-03",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448392113?position=8&pageNum=95&refId=XxEAE2Aj57exWu6gEEYYjQ%3D%3D&trackingId=oLs4cOK0q%2FskRbOCB4iqqg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4379627081",
@@ -4321,6 +4376,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGxiOMMsT2CQw/company-logo_100_100/B56Z61505qIgAM-/0/1781168295991/gnixar_logo?e=2147483647&v=beta&t=MY2qsc3eaDIzxQSyxw9TbLMa9J-8yafBl-TupWnDcm4",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4445108073",
+    "title": "Sr. Assoc, FrontEnd Eng, WRB Tech",
+    "company": "Standard Chartered India",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-07-27",
+    "link": "https://in.linkedin.com/jobs/view/sr-assoc-frontend-eng-wrb-tech-at-standard-chartered-india-4445108073?position=5&pageNum=10&refId=7WwONne0WP60GOZa6ddVBA%3D%3D&trackingId=zM9OPPa5hQCg01L5eYycBQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEXYV6p34CtPA/company-logo_100_100/B4DZjMehUuGgAc-/0/1755777210085/standard_chartered_india_logo?e=2147483647&v=beta&t=gxeH4hJTKe069a0UzLFYxW71KL4pW41yTiDx8Kp_wdg",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4444836198",
@@ -153708,6 +153774,196 @@
     "location": "Bengaluru South, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-artech-l-l-c-4449398189?position=9&pageNum=90&refId=f3zD1nOgFMzZJxrcwp1p8g%3D%3D&trackingId=%2FNTzPi4ZKyQ87dCSV%2FiPFg%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHhsbqTAAuwEw/company-logo_100_100/company-logo_100_100/0/1657134366069/artechllc_logo?e=2147483647&v=beta&t=wTSPfp9QA95QoqNTJsi27yw7xlYTeJda_hGoXR0mC5E",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4450087654",
+    "title": "Tech & Digital-Software Engineer-Frontend",
+    "company": "HDFC Bank",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/tech-digital-software-engineer-frontend-at-hdfc-bank-4450087654?position=9&pageNum=0&refId=Oj8%2Ft7%2F4fUvgD5GzpW3BOw%3D%3D&trackingId=h7xha1Y4nX9TiKaht145uA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQGqZH7vVbVzWw/company-logo_100_100/company-logo_100_100/0/1630606529683/hdfc_bank_logo?e=2147483647&v=beta&t=FNZLhtKr56P2lEpXe-dyWPwrBWwLix1IzAS2Bz6Tof4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448712772",
+    "title": "Frontend Developer",
+    "company": "HuntingCube",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-huntingcube-4448712772?position=2&pageNum=7&refId=WASLRVvWL%2Fi53CpUtYs1vA%3D%3D&trackingId=jiOPCF%2BThquVnRGcZu4gHg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIxS_H-2dx8g/company-logo_100_100/B56Z9AUvhhKEAI-/0/1783490607442/huntingcubeai_logo?e=2147483647&v=beta&t=3UxmDQpazRzithZkjHcNISR71_MbyJuofCSauGGObFA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448753569",
+    "title": "Senior Software Engineer",
+    "company": "Nextiva",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-nextiva-4448753569?position=4&pageNum=15&refId=S2M%2FiTNM2dS5GW3rh31nBA%3D%3D&trackingId=Wha1joY9mEJi8UcwvW1aBQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFufumPcr_vhA/company-logo_100_100/company-logo_100_100/0/1709925527924/nextiva_logo?e=2147483647&v=beta&t=R2u2x20YG5HsNUSlI7mgAuu_0iF62JR_k7ig7IGDzSY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448747213",
+    "title": "Senior Frontend Engineer (UI) — Observability & Data Visualization",
+    "company": "CodeXray | Agentic SRE | Full-Stack Observability | API Security",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-ui-%E2%80%94-observability-data-visualization-at-codexray-agentic-sre-full-stack-observability-api-security-4448747213?position=5&pageNum=15&refId=S2M%2FiTNM2dS5GW3rh31nBA%3D%3D&trackingId=UqbpkPDydxbR3JLY8l1quQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFcMtc_sxFyFQ/company-logo_100_100/B56Z.OJE3qG4AI-/0/1784796172275/codexray_logo?e=2147483647&v=beta&t=PXI3K7X5nKOsKe-XvyR9fMqyx78sxqJ4iYwUG-LDCMw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448773593",
+    "title": "Frontend Developer",
+    "company": "Zintlr",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-zintlr-4448773593?position=10&pageNum=30&refId=akMdgg3rf4XNuw3PpPAnwA%3D%3D&trackingId=2uafaHDFhzeQSU2PAs5aHg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGC3fiQkYOxEA/company-logo_100_100/company-logo_100_100/0/1727718101012/zintlr_logo?e=2147483647&v=beta&t=OtNXeWFRoEN3_8HWFr2SkpeELPnMrXuypUVFNGdEnjc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4450263306",
+    "title": "Systems Integration Specialist",
+    "company": "NTT DATA North America",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/systems-integration-specialist-at-ntt-data-north-america-4450263306?position=2&pageNum=35&refId=vgHLnLGejNAU0Yrwp0wthg%3D%3D&trackingId=GepXlXzmCf8tEPrtvzQ5lQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnoz2X-IxAuw/company-logo_100_100/company-logo_100_100/0/1719840778368/ntt_data_americas_logo?e=2147483647&v=beta&t=9lYr_fMUoCGiHovTPbfU6DBRyUAG-HtLUYziXPNmzcg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448414875",
+    "title": "Senior Web & Video Player Engineer - Remote",
+    "company": "Kake",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-web-video-player-engineer-remote-at-kake-4448414875?position=1&pageNum=37&refId=CNqLf8%2B2K2PHhJmEA2Hb3A%3D%3D&trackingId=wIFakKJwXzsgWySPtvXLbQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEXgc61_xEcfg/company-logo_100_100/company-logo_100_100/0/1698691340799/kake_logo?e=2147483647&v=beta&t=WrC-GoORmCan05OLbMKiDvnLDGJ76hie_1dYR8qfshs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4450268277",
+    "title": "Sr. Adobe Engineer",
+    "company": "Arrow Components",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-adobe-engineer-at-arrow-components-4450268277?position=4&pageNum=57&refId=IbL%2Fdq65swr8DgkM0OFANw%3D%3D&trackingId=%2F1Bp2o1bhzxPLNH%2FPWALPQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQExAFllrJp3jQ/company-logo_100_100/company-logo_100_100/0/1630610032231/arrow_electronics_digital_logo?e=2147483647&v=beta&t=clYv96g4442ZSyko0PLDFZWYZ9HxmRv-X1cjD4Iyd94",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4450079370",
+    "title": "Lead Reactjs Developer",
+    "company": "Trigent Software - Professional Services",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/lead-reactjs-developer-at-trigent-software-professional-services-4450079370?position=7&pageNum=57&refId=IbL%2Fdq65swr8DgkM0OFANw%3D%3D&trackingId=zZPSzd37qSE9AIZRav7iOA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEREsHenFUIIA/company-logo_100_100/B56ZsGZJ3.G4AU-/0/1765338816404/trigent_professional_services_logo?e=2147483647&v=beta&t=CY5QBiQJJ5O6Z7svhi-XUYX6U8mlZXBMym6EAf8pBl4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4450025149",
+    "title": "Senior WebGL/Three.js Developer",
+    "company": "Ctruh",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-webgl-three-js-developer-at-ctruh-4450025149?position=6&pageNum=60&refId=Q%2FNOxtv6MCSaHaq10oOR%2Fw%3D%3D&trackingId=s0gvJLtyBWVpizx0T5dsJA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGNBUX6MK52eg/company-logo_100_100/B56Z4gbuQsKUAQ-/0/1778660601342/ctruh_logo?e=2147483647&v=beta&t=b-vqHrti_UTabgRc1ZBb9ItS8Xy34dpoMjMR_TM4rok",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448769959",
+    "title": "Full Stack Developer",
+    "company": "AdmHire Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-admhire-inc-4448769959?position=2&pageNum=65&refId=qhLIESoIPo54J0N%2BCRs1kw%3D%3D&trackingId=XCBzMPhSDyRypTyB7CuJag%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFd3IWH4fdZzQ/company-logo_100_100/B56Z90vLdTKgAI-/0/1784369952839/admhire_inc_logo?e=2147483647&v=beta&t=UP2OkkVnLwEdLHL80i6Sox5cnv1VeqNBJCxs6st8H9g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448760348",
+    "title": "FULLSTACK DEVELOPER",
+    "company": "Unicorn Infotech Consulting Services",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/fullstack-developer-at-unicorn-infotech-consulting-services-4448760348?position=10&pageNum=65&refId=qhLIESoIPo54J0N%2BCRs1kw%3D%3D&trackingId=Uzb%2BcJ8aNyffM5KYdDT59g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFcqwfWW1ccdw/company-logo_100_100/B4DZWQh0K_GkAc-/0/1741886538867?e=2147483647&v=beta&t=oIj6amfC1uPdkuQHAwIzlwU2TnazVWyHkPG8mnAidnk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4450302589",
+    "title": "Mobile App Developer - Ataavi",
+    "company": "Zycus",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/mobile-app-developer-ataavi-at-zycus-4450302589?position=7&pageNum=67&refId=f4c2Yfr1TR6%2B9GUuLY%2FwXQ%3D%3D&trackingId=xEnsltYIGqToH%2FxS9vlEwg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF2xi0a3f_zEA/company-logo_100_100/B4DZT5KSRqG8AY-/0/1739347011220/zycus_logo?e=2147483647&v=beta&t=6Keq11CosE2K_49lAAcwvqeDWEDfIaeeUmrG2hTQIUY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448762834",
+    "title": "Full Stack Engineer",
+    "company": "HuntingCube",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-huntingcube-4448762834?position=9&pageNum=75&refId=5jXgwOV4zyQ2f6Bw0kvaZA%3D%3D&trackingId=F2%2BMR3F9E77BUuL5uEYckA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIxS_H-2dx8g/company-logo_100_100/B56Z9AUvhhKEAI-/0/1783490607442/huntingcubeai_logo?e=2147483647&v=beta&t=3UxmDQpazRzithZkjHcNISR71_MbyJuofCSauGGObFA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448778387",
+    "title": "Fullstack Engineer",
+    "company": "HuntingCube",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/fullstack-engineer-at-huntingcube-4448778387?position=7&pageNum=80&refId=y1vxbXFlsglJnwQxuByWnQ%3D%3D&trackingId=aah3R%2BGyXfLINZ6ymXwL4w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIxS_H-2dx8g/company-logo_100_100/B56Z9AUvhhKEAI-/0/1783490607442/huntingcubeai_logo?e=2147483647&v=beta&t=3UxmDQpazRzithZkjHcNISR71_MbyJuofCSauGGObFA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448734817",
+    "title": "Senior Application Developer",
+    "company": "Gigabox",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-application-developer-at-gigabox-4448734817?position=8&pageNum=82&refId=RasQa3PLcJW34lmhml7PZQ%3D%3D&trackingId=4lWLZ6n4787cMlS2D62rPg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH1k8iwgSv42g/company-logo_100_100/B56ZrJk0rfK0AQ-/0/1764318465663/gigabox365_logo?e=2147483647&v=beta&t=6yqdhnPM3A80rS_sXikT0BnUtLdHDs9Ye2RRG3LiVDE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448462393",
+    "title": "React JS Developer",
+    "company": "CGI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-js-developer-at-cgi-4448462393?position=3&pageNum=85&refId=U%2BOvst%2FOxxdPxV7xsQ5P6Q%3D%3D&trackingId=Otsqs9INV0Z0C9GJUhGegg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448422827",
+    "title": "MTS 1, Full Stack Software Engineer",
+    "company": "eBay",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/mts-1-full-stack-software-engineer-at-ebay-4448422827?position=8&pageNum=85&refId=U%2BOvst%2FOxxdPxV7xsQ5P6Q%3D%3D&trackingId=Jj34m1laxUTrV0g2mtrRiQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFfGj-Xuawo6A/company-logo_100_100/company-logo_100_100/0/1634568184469/ebay_logo?e=2147483647&v=beta&t=BEp-EQMNBexZVYGMcq6jeof_bX8QzuCCq4BEG6UCRdM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4450324480",
+    "title": "Principal Software Engineer",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/principal-software-engineer-at-microsoft-4450324480?position=9&pageNum=85&refId=U%2BOvst%2FOxxdPxV7xsQ5P6Q%3D%3D&trackingId=rlYjBDhxS%2FZavBQOd8WDjg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
     "lat": 0,
     "lng": 0
   }
