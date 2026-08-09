@@ -154318,5 +154318,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQFClwEoKF8HvQ/company-logo_100_100/company-logo_100_100/0/1660137336421/mcafeeenterprise_logo?e=2147483647&v=beta&t=ZPqt9dZKQTuNgmwLrjigENOPtr0X92Jghu9Hiz8oFWc",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4451306396",
+    "title": "Frontend Developer",
+    "company": "Intuitive Apps Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-intuitive-apps-inc-4451306396?position=1&pageNum=10&refId=5l%2BGpQHv5Mvw9MNbE9DGzA%3D%3D&trackingId=OvrXtbNCDvcrx9NZRyXU9A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHu5TbG0RvziA/company-logo_100_100/company-logo_100_100/0/1652334348284?e=2147483647&v=beta&t=Xn09DYgC18_jw3BXHbpVhn_6mXZdN9hNxEubiFJ5MYI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4449266008",
+    "title": "Software Engineer",
+    "company": "HCLTech",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-hcltech-4449266008?position=2&pageNum=37&refId=%2FmN8YzCBrk6LTKKhnVzEmw%3D%3D&trackingId=8t4s3HvFTqRkN%2B4XE1tTxg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF-RIoeeMTMKQ/company-logo_100_100/company-logo_100_100/0/1664197008220/hcltech_logo?e=2147483647&v=beta&t=xcyEJUPhrb87C_rsxS_BX3_2bZJF40KfbSVTJWSFdkU",
+    "lat": 0,
+    "lng": 0
   }
 ]
