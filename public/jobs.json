@@ -154486,5 +154486,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHYMUHEreyp-w/company-logo_100_100/B4DZo_ZCLVHsAQ-/0/1762000119056/bajajbroking_logo?e=2147483647&v=beta&t=gw-STTi1axFVH_DOBTb2NjxIP2HQBofhGD2R3kJuyD8",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4449285631",
+    "title": "Frontend Developer",
+    "company": "Duruper",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-duruper-4449285631?position=8&pageNum=10&refId=odKWtJslA6ukIskzKKC4og%3D%3D&trackingId=7oTcr12NmNrtvpIgtsVb0A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEMztmum6vDvw/company-logo_100_100/B56ZV_6RpJGQAQ-/0/1741607738959/duruper_logo?e=2147483647&v=beta&t=dvh0uNKK82XLakIs3KZWiBb3hWK5EE40NiUNjlVfoMY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4451337822",
+    "title": "React Native Developer",
+    "company": "HuntingCube",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-native-developer-at-huntingcube-4451337822?position=3&pageNum=90&refId=9aEU0b9pHNEZlhF%2F%2BXd%2BHg%3D%3D&trackingId=MQUg44Kqx03Q5A%2Fn0Faggg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIxS_H-2dx8g/company-logo_100_100/B56Z9AUvhhKEAI-/0/1783490607442/huntingcubeai_logo?e=2147483647&v=beta&t=3UxmDQpazRzithZkjHcNISR71_MbyJuofCSauGGObFA",
+    "lat": 0,
+    "lng": 0
   }
 ]
