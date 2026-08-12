@@ -55,6 +55,17 @@
     "lng": 77.6174204
   },
   {
+    "id": "urn:li:jobPosting:4451509525",
+    "title": "SDE - 3 - Frontend",
+    "company": "CloudSEK",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-10",
+    "link": "https://in.linkedin.com/jobs/view/sde-3-frontend-at-cloudsek-4451509525?position=9&pageNum=7&refId=qK%2BRVqDuI8k3FOF4kowAYg%3D%3D&trackingId=lIyRPdCXI%2B3rvtZZ3MTvwQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQEAbtKwW4ASsw/company-logo_100_100/company-logo_100_100/0/1630620809878/cloudsek_logo?e=2147483647&v=beta&t=r2IreKpQO7LPSYmsyLZkAy7thw-TTE008Rrx9MqTIOY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4451353052",
     "title": "React Developer",
     "company": "HuntingCube",
@@ -231,6 +242,17 @@
     "lng": 77.5997761
   },
   {
+    "id": "urn:li:jobPosting:4448488718",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-07",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448488718?position=10&pageNum=22&refId=R3w5OW9ZmlERAVHyHxEcAg%3D%3D&trackingId=AZoQAGb4M1Wvw5%2BuA10tgQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4448486819",
     "title": "Software Engineer (Success Engineering)",
     "company": "Deltek",
@@ -284,6 +306,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
     "lat": 12.9740345,
     "lng": 77.6174204
+  },
+  {
+    "id": "urn:li:jobPosting:4448478464",
+    "title": "Software Engineer II",
+    "company": "Cvent",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-06",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-cvent-4448478464?position=10&pageNum=10&refId=e3QkdlzIP%2BmVFvWlihOmqg%3D%3D&trackingId=sHFfcleDVf2BZL8SU4uFVg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHR0OoOyBDLQQ/company-logo_100_100/B4DZ9hBbNFJsAM-/0/1784039191596/cvent_logo?e=2147483647&v=beta&t=wMCgJtZgPCsUFtoe1h9glvuDUCxY2cwqc8w4WmYz9yQ",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4449407606",
@@ -155291,5 +155324,65 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG8Q8RVQ97row/company-logo_100_100/B4DZ8X4Z0dJsAI-/0/1782812089879/snapmintfinserv_logo?e=2147483647&v=beta&t=fd7RPN7u04FY9RSKxSpNRhwYSprTODViy5yKx_zSRTU",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4452329889",
+    "title": "React & WordPress Web Developer",
+    "company": "Brand Vantage",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-wordpress-web-developer-at-brand-vantage-4452329889?position=8&pageNum=40&refId=ILBJx3QlO0ce3gCT6jHLsQ%3D%3D&trackingId=DeqAJ6GsJYh7%2BXi6x50QSg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGO_EBz0UZdQQ/company-logo_100_100/B4EZwiAKVMGcAQ-/0/1770096994557/brand_vantage_marketing_logo?e=2147483647&v=beta&t=XTuE7C8Pav1qeU3LuLQXyGcFb5URqZFMfNnX5QIevNA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4451667922",
+    "title": "SDE I (Frontend)",
+    "company": "Navi",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sde-i-frontend-at-navi-4451667922?position=10&pageNum=0&refId=5o2eLjGWG4jqKdfPSZCXzQ%3D%3D&trackingId=644Iz4Wgd8txBhXp%2B7%2BVTg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG_L-WlmotmFw/company-logo_100_100/B4EZ.pG9poHkAI-/0/1785248603028/go_navi_logo?e=2147483647&v=beta&t=-InAfAMl6jfyFLVV72jxDwnE7QGgvEFVAOmQP9cSNkM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4452345969",
+    "title": "Web Developer",
+    "company": "Allegion India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-allegion-india-4452345969?position=10&pageNum=7&refId=qK%2BRVqDuI8k3FOF4kowAYg%3D%3D&trackingId=Ae38GmMS%2BHhouM1xGDZlOg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEHsTfYT7LNmg/company-logo_100_100/company-logo_100_100/0/1630647497956?e=2147483647&v=beta&t=Re8UW5Gj87tsJJ_lTG1vV16jnjQ5SNcoUWZa4-d5XQQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4452354518",
+    "title": "Full Stack Engineer",
+    "company": "Recro",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-recro-4452354518?position=9&pageNum=60&refId=lcdClx6XrPmvu0iSQxsEUw%3D%3D&trackingId=TdAmcKSaYvAQmV8WJpWdhA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH7GYOGBCj8Qg/company-logo_100_100/company-logo_100_100/0/1728907260215/recro_io_logo?e=2147483647&v=beta&t=898rSyj182aC0vqi5cZqbWQQIDumt_WpercCJsH_-TY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4439128848",
+    "title": "Full Stack Engineer",
+    "company": "Azim Premji Foundation",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-azim-premji-foundation-4439128848?position=9&pageNum=62&refId=9Zla85LDerlNKN0XcFrEcQ%3D%3D&trackingId=HdyEF1OgMaH8wZpQFfZu5w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFQQ-3wXzslMA/company-logo_100_100/company-logo_100_100/0/1631320358834?e=2147483647&v=beta&t=IT5JlHJTpJAo8Rmr0A45YO4RimJf-vrTHJMVVQX9pvE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4453061595",
+    "title": "Fullstack Engineer (AI)",
+    "company": "Mareana",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/fullstack-engineer-ai-at-mareana-4453061595?position=6&pageNum=82&refId=2iMLYvzRNG%2BUdqbV3PpPLw%3D%3D&trackingId=WPpASrds%2BH%2B%2BgGLdwRhINg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF-VgctdgoSHg/company-logo_100_100/B4EZXYNcRrHMAY-/0/1743089157542/mareana_logo?e=2147483647&v=beta&t=xNKqjHkD3NZ3FkHhPdQj-V6JtDoFTrkf6dQHHqlqSCA",
+    "lat": 0,
+    "lng": 0
   }
 ]
