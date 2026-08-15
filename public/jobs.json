@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4451256881",
+    "title": "Application Development Senior Analyst",
+    "company": "The Cigna Group",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-14",
+    "link": "https://in.linkedin.com/jobs/view/application-development-senior-analyst-at-the-cigna-group-4451256881?position=6&pageNum=12&refId=MBB3wYO8ANTOaopFB%2FRmmw%3D%3D&trackingId=krOYJAebp8dpnWcGJ1PufQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFfgPNsuMjJsA/company-logo_100_100/company-logo_100_100/0/1710443998442/the_cigna_group_logo?e=2147483647&v=beta&t=l7Jypmz7_q4kDzsmtKrw_yJBbRVsCBjERHGWkmXa1Mw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4453628714",
     "title": "Software Engineer III",
     "company": "JPMorganChase",
@@ -42,6 +53,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQETBZSIS5vqqw/company-logo_100_100/company-logo_100_100/0/1657569254292/empower_india_logo?e=2147483647&v=beta&t=9zSjkk6FyT7_5hKKz1NzqRuXBNZio4MR0dqLNcGDlHE",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4452790657",
+    "title": "Sr Web Developer",
+    "company": "Straatix Partners",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-13",
+    "link": "https://in.linkedin.com/jobs/view/sr-web-developer-at-straatix-partners-4452790657?position=3&pageNum=32&refId=scxHWKEPBv%2Bhy7LXg621GQ%3D%3D&trackingId=VCnI9mUlKEen3%2F73BIKnHQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEDYlwkqNuNDA/company-logo_100_100/company-logo_100_100/0/1709803086594/straatix_partners_logo?e=2147483647&v=beta&t=qfn7zRkKOsLwWQfj4GN9_sN4KepAk9HFxq7T6UjNqvg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4454097702",
+    "title": "Full Stack developer with AI",
+    "company": "CGI",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-13",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-with-ai-at-cgi-4454097702?position=7&pageNum=62&refId=9n81d6MeoqP5LnjuARV0iw%3D%3D&trackingId=5MQctnrohqJ%2FVM9Bsxm8uA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4452309039",
@@ -473,6 +506,17 @@
     "lng": 77.736776
   },
   {
+    "id": "urn:li:jobPosting:4451313341",
+    "title": "Salesforce nCino Engineer - Lightning Component Framework",
+    "company": "Venolin Technology",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-09",
+    "link": "https://in.linkedin.com/jobs/view/salesforce-ncino-engineer-lightning-component-framework-at-venolin-technology-4451313341?position=1&pageNum=62&refId=9n81d6MeoqP5LnjuARV0iw%3D%3D&trackingId=2C0F4%2FNXrO5tGOroCXBjAQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQETsRUoJbqEOg/company-logo_100_100/company-logo_100_100/0/1630586199014/venolintechnologyprivatelimited_logo?e=2147483647&v=beta&t=Hy1Cb-WS0UDd0454lZzYMHauPlr1lg5sck6KV8yLDQU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4450581998",
     "title": "Back End Developer - Next JS",
     "company": "Talentgigs",
@@ -878,6 +922,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFk6SZZqaFpFg/company-logo_100_100/B56ZqWrmgEJkAQ-/0/1763464604136/lokal_app_logo?e=2147483647&v=beta&t=76E5YQatJQ0EWxa0IhmA61ZMb8gu5jQOEGFqM61FDvs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4449377386",
+    "title": "Principal Engineer ( Frontend)",
+    "company": "Neo",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-06",
+    "link": "https://in.linkedin.com/jobs/view/principal-engineer-frontend-at-neo-4449377386?position=6&pageNum=17&refId=XRvv4zDg6NtSKDhiL2zcaw%3D%3D&trackingId=I2JT0YLvTvAO%2BqEotF9xxQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFAN-avUoeuxA/company-logo_100_100/B56Z67HXvNIQAI-/0/1781255732405/neoworkos_logo?e=2147483647&v=beta&t=7jLNBXl1skHzcYcK5jck2SSZJY1LdqHqCeKrvs_RcW0",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4449407606",
@@ -4420,6 +4475,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4445875919",
+    "title": "TTT - SAP Fiori - Senior",
+    "company": "EY",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-03",
+    "link": "https://in.linkedin.com/jobs/view/ttt-sap-fiori-senior-at-ey-4445875919?position=10&pageNum=62&refId=9n81d6MeoqP5LnjuARV0iw%3D%3D&trackingId=HtFYU8QiwZ03AxlK9dON6w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4379627081",
@@ -15400,6 +15466,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4429688991",
+    "title": "Sr. Full Stack Developer (React + Node.js + GraphQL) | 8+ Years | Any UST Location | Immediate Joiner",
+    "company": "UST",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-04",
+    "link": "https://in.linkedin.com/jobs/view/sr-full-stack-developer-react-%2B-node-js-%2B-graphql-8%2B-years-any-ust-location-immediate-joiner-at-ust-4429688991?position=5&pageNum=62&refId=9n81d6MeoqP5LnjuARV0iw%3D%3D&trackingId=CSOoiShdVOZnR%2BoVvwAdvg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEr-ib3Nn15Aw/company-logo_100_100/company-logo_100_100/0/1648787427825/ustglobal_logo?e=2147483647&v=beta&t=Mat5nuskL90W74qGXwwpHLg2mXn8Mfwf1z8oLxbk--c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4436444420",
     "title": "Custom Software Engineer",
     "company": "Accenture in India",
@@ -21250,6 +21327,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9W4lfcWc9dQ/company-logo_100_100/B4EZYPofEYHkAQ-/0/1744018993869/pearson_logo?e=2147483647&v=beta&t=tatnP8PCFOON7lKpbmG0JRCF4QYNwFaondEAOnunhUs",
     "lat": 12.9253494,
     "lng": 77.6746531
+  },
+  {
+    "id": "urn:li:jobPosting:4431170135",
+    "title": "SISA Information Security - Senior Software Engineer II - Full Stack Development",
+    "company": "SISA",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-20",
+    "link": "https://in.linkedin.com/jobs/view/sisa-information-security-senior-software-engineer-ii-full-stack-development-at-sisa-4431170135?position=3&pageNum=62&refId=9n81d6MeoqP5LnjuARV0iw%3D%3D&trackingId=M4f2tn%2FvubjKDGwLNStq8Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEhPOF2JE4unA/company-logo_100_100/B56Z0kCO46JgAQ-/0/1774426059592/sisainfosec_logo?e=2147483647&v=beta&t=mwSeaDVPo7SUIQPwBZkQWVtPVKw_ybBl-CvsyV3yapE",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4430958223",
@@ -158561,5 +158649,15 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEZZaTAw6wHnQ/company-logo_100_100/B56Zt.T8msGwAQ-/0/1767350717445/vayuz_technologies_logo?e=2147483647&v=beta&t=CPDP28O8Zt3E9gdkDJWU0c2HoraA6ejG2OtCdD6VSxA",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4454884835",
+    "title": "Frontend Developer_2569",
+    "company": "Tessolve",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-2569-at-tessolve-4454884835?position=9&pageNum=7&refId=qtYEJeRAITC%2Foa1tiMdyqw%3D%3D&trackingId=ecJlhgbOGa8pbhosn2JuaQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEQ-eJa9Kf_Yg/company-logo_100_100/company-logo_100_100/0/1687352557381/tessolve_services_pvt_ltd_logo?e=2147483647&v=beta&t=bNHPkQH_UWEr83SE2fonA1s-n3LHQyr4VFZMUPT9DPU",
+    "lat": 0,
+    "lng": 0
   }
 ]
