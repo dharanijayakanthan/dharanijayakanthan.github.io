@@ -158541,5 +158541,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGFGG74vL05LA/company-logo_100_100/B4DZ_5yTvbJAAI-/0/1786602142970/dar_al_handasah_logo?e=2147483647&v=beta&t=CcOBNXwnxhJpsNtPzksR3kUN0R0LJP4BbhGC9mK_f9M",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4453562122",
+    "title": "[Upcoming Roles] Developer Lead (Domain & Infrastructure Team Lead)",
+    "company": "Google Operations Center",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/upcoming-roles-developer-lead-domain-infrastructure-team-lead-at-google-operations-center-4453562122?position=7&pageNum=50&refId=94U9pP5b4gP2H8%2FCyHfqfQ%3D%3D&trackingId=XJsN5GEZ6mEDilkGz3B0SA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQH5E4NHWLdFBA/company-logo_100_100/company-logo_100_100/0/1630625543037?e=2147483647&v=beta&t=WoyZE-MpdxxsnVHvYupE2lfeS4gPP3OafFRIBAp_4N8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4454826936",
+    "title": "Senior Staff Engineer - Full Stack Development",
+    "company": "VAYUZ Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-staff-engineer-full-stack-development-at-vayuz-technologies-4454826936?position=7&pageNum=62&refId=Xjls6%2Bk3ZOcf3cti%2F28nXQ%3D%3D&trackingId=0Td9pJSPG%2Bw3eAY%2Fwrevmw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEZZaTAw6wHnQ/company-logo_100_100/B56Zt.T8msGwAQ-/0/1767350717445/vayuz_technologies_logo?e=2147483647&v=beta&t=CPDP28O8Zt3E9gdkDJWU0c2HoraA6ejG2OtCdD6VSxA",
+    "lat": 0,
+    "lng": 0
   }
 ]
