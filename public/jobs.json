@@ -748,6 +748,28 @@
     "lng": 0
   },
   {
+    "id": "urn:li:jobPosting:4430228550",
+    "title": "Lead I - Enterprise Solutions",
+    "company": "UST",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-07",
+    "link": "https://in.linkedin.com/jobs/view/lead-i-enterprise-solutions-at-ust-4430228550?position=5&pageNum=82&refId=rK63ij1p0t%2BEe5dODZ0xKg%3D%3D&trackingId=moK01pzs4dHvyouTv9LEdQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEr-ib3Nn15Aw/company-logo_100_100/company-logo_100_100/0/1648787427825/ustglobal_logo?e=2147483647&v=beta&t=Mat5nuskL90W74qGXwwpHLg2mXn8Mfwf1z8oLxbk--c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4450093804",
+    "title": "Senior Software Engineer (Angular,C#,AWS, SQL)",
+    "company": "Eurofins",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-07",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-angular-c%23-aws-sql-at-eurofins-4450093804?position=10&pageNum=95&refId=wPkFFRduDkKcTtCXgOcs3A%3D%3D&trackingId=o87L3JX7fvbh5QMv3OuSOQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFnNOoDrwfW6A/company-logo_100_100/company-logo_100_100/0/1630540114523/eurofins_logo?e=2147483647&v=beta&t=YmAUdo_wjfnFDQerIYzNSukvGQH0MB4fgGIuolHWNc8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4448486819",
     "title": "Software Engineer (Success Engineering)",
     "company": "Deltek",
@@ -4772,6 +4794,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
     "lat": 12.9833194,
     "lng": 77.736776
+  },
+  {
+    "id": "urn:li:jobPosting:4447133460",
+    "title": "Staff Software Engineer, GeminiApp Growth and Discovery, DeepMind",
+    "company": "Google DeepMind",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-31",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-geminiapp-growth-and-discovery-deepmind-at-google-deepmind-4447133460?position=6&pageNum=82&refId=rK63ij1p0t%2BEe5dODZ0xKg%3D%3D&trackingId=vb19MnR72sVfpZPgFSAVmA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_100_100/company-logo_100_100/0/1692960425188/googledeepmind_logo?e=2147483647&v=beta&t=xqxyHXYuH5iFMPxyvTkS1Mb55GQ4U83jUJHJt0NQao8",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4446463310",
@@ -63201,6 +63234,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNfeTPCu6Z-w/company-logo_100_100/company-logo_100_100/0/1631312208065?e=2147483647&v=beta&t=8l4ujbCZJ4yvad4MohinQR0wdJF3rSKs0J6a8w-Jk6Y",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4369518160",
+    "title": "Senior, Software Engineer, OLM Portal Liferay",
+    "company": "Schneider Electric",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-02-06",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-olm-portal-liferay-at-schneider-electric-4369518160?position=8&pageNum=95&refId=wPkFFRduDkKcTtCXgOcs3A%3D%3D&trackingId=IAlV6ALF7UiFW5xU9ju2fg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNfeTPCu6Z-w/company-logo_100_100/company-logo_100_100/0/1631312208065?e=2147483647&v=beta&t=8l4ujbCZJ4yvad4MohinQR0wdJF3rSKs0J6a8w-Jk6Y",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4370958817",
@@ -158467,5 +158511,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEi8GHJrQT9pg/company-logo_100_100/company-logo_100_100/0/1630544020158/synchrony_financial_logo?e=2147483647&v=beta&t=4MMxUzXsaQZRabhC685BUYFYe096b3J09xHhr2NY70I",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4453579179",
+    "title": "Software Engineer II - AI",
+    "company": "Goldcast",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-ai-at-goldcast-4453579179?position=3&pageNum=30&refId=zSGaLlZqlptYId477wyOpA%3D%3D&trackingId=8FHCDbWjMwFW%2Fgcpl%2FUeyA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHJjbU6xPhZ9A/company-logo_100_100/B4EZ.PP0cwJgAI-/0/1784814717017/goldcast_logo?e=2147483647&v=beta&t=c0YQGghPcTpQwM8_AA9NKBjbawPXg1Wi9aopdw-ocH0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4451202019",
+    "title": "TECHNICAL LEAD - ReactJS",
+    "company": "Happiest Minds Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/technical-lead-reactjs-at-happiest-minds-technologies-4451202019?position=3&pageNum=47&refId=6rL8p7%2BonuVcDXEuL7cN0A%3D%3D&trackingId=0kZxCXNed%2F0209eXjxVGzg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHrStoH8fGuxw/company-logo_100_100/B56ZwiMfPGHcAQ-/0/1770100227699/happiest_minds_technologies_logo?e=2147483647&v=beta&t=-auObn_ZxRe-m2VVRutsYcb0xcVM2r8vqzrPLt78JV0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4454500540",
+    "title": "Senior GIS Full-Stack Developer",
+    "company": "Dar",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-gis-full-stack-developer-at-dar-4454500540?position=8&pageNum=82&refId=rK63ij1p0t%2BEe5dODZ0xKg%3D%3D&trackingId=n%2BHYABN63YrXfHkF88ProQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGFGG74vL05LA/company-logo_100_100/B4DZ_5yTvbJAAI-/0/1786602142970/dar_al_handasah_logo?e=2147483647&v=beta&t=CcOBNXwnxhJpsNtPzksR3kUN0R0LJP4BbhGC9mK_f9M",
+    "lat": 0,
+    "lng": 0
   }
 ]
