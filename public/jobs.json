@@ -55,6 +55,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4451208198",
+    "title": "Frontend Developer",
+    "company": "JENOPTIK",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-14",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-jenoptik-4451208198?position=6&pageNum=2&refId=6X9N4XJ%2FmJ4At3ns73NEww%3D%3D&trackingId=xO%2F0%2FNmYW1%2BhAiOcoGQT1w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEoPIsbhrJCFw/company-logo_100_100/company-logo_100_100/0/1630542222477/jenoptik_logo?e=2147483647&v=beta&t=OA3goOz4JZm1dkqNs7Wg9ujVxB1IAERZbAM43B2Swcs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4453628714",
     "title": "Software Engineer III",
     "company": "JPMorganChase",
@@ -4717,6 +4728,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4448354916",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-03",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448354916?position=1&pageNum=97&refId=O6w70P5EaIlXaT5MyGiLsA%3D%3D&trackingId=mV5n02%2BhEFl7BhqsGc%2FyIA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448344522",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-03",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448344522?position=2&pageNum=97&refId=O6w70P5EaIlXaT5MyGiLsA%3D%3D&trackingId=6%2FQVuKS6PFdbDgoFZr5j5Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4379627081",
