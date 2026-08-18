@@ -22,6 +22,28 @@
     "lng": 0
   },
   {
+    "id": "urn:li:jobPosting:4455239496",
+    "title": "IT Engineer II",
+    "company": "Honeywell Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-17",
+    "link": "https://in.linkedin.com/jobs/view/it-engineer-ii-at-honeywell-technologies-4455239496?position=10&pageNum=27&refId=a9BvzfxgM6Iza6YUqOvnAQ%3D%3D&trackingId=E7UJAfi1O38fQRDu7SrhyQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE0raKQ0HHHXQ/company-logo_100_100/B4EZ8SY0aJH8AM-/0/1782719924150/honeywell_logo?e=2147483647&v=beta&t=akNGC3_0nFpYKyV4oDlMpAeGqlsqvk1AGJK5SfBiRfo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4444605416",
+    "title": ".Net full stack developer with Angular",
+    "company": "Cognizant",
+    "location": "Bangalore Urban, Karnataka, India",
+    "date": "2026-08-15",
+    "link": "https://in.linkedin.com/jobs/view/net-full-stack-developer-with-angular-at-cognizant-4444605416?position=7&pageNum=55&refId=%2FrjEP17RC14tozGCsoR98Q%3D%3D&trackingId=7R7KO0dCaLUbmGiZ7mM53g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_100_100/B4EZk_EfNgHgAU-/0/1757699778309/cognizant_logo?e=2147483647&v=beta&t=pEIgD9-D_EFoL3rsreK0H2EZEcsXWdZSN64-dV7VrSU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4451256881",
     "title": "Application Development Senior Analyst",
     "company": "The Cigna Group",
@@ -4882,6 +4904,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHgFGAMNmfraQ/company-logo_100_100/company-logo_100_100/0/1738129787517/evam_labs_logo?e=2147483647&v=beta&t=b7yjeSvGbb9vhT6y-vZawPiktrp-foSxggvyg3MJQUY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4448359765",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-03",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448359765?position=9&pageNum=97&refId=zdiOsDimOM15MsLuW66G%2BA%3D%3D&trackingId=vG1ZfaPhfDEu75jr%2Bkf0Hw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4379627081",
@@ -159478,6 +159511,36 @@
     "location": "Bengaluru East, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/senior-fullstack-engineer-at-huntingcube-4455336475?position=10&pageNum=70&refId=gWhWX4TKEVcqGtKfZMZZRw%3D%3D&trackingId=wxfEVPAIGkpKoWcCJGhmHA%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIxS_H-2dx8g/company-logo_100_100/B56Z9AUvhhKEAI-/0/1783490607442/huntingcubeai_logo?e=2147483647&v=beta&t=3UxmDQpazRzithZkjHcNISR71_MbyJuofCSauGGObFA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4454266216",
+    "title": "ReactJS Developer ( 2–3 Years )",
+    "company": "Magneton Technologies Pvt Ltd",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/reactjs-developer-2%E2%80%933-years-at-magneton-technologies-pvt-ltd-4454266216?position=8&pageNum=12&refId=bCEwghfMn5btwPZTB5gbTQ%3D%3D&trackingId=YSYLY%2F1sPTQZetppgmTpCg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGmwSUKpDnksQ/company-logo_100_100/company-logo_100_100/0/1630648691771?e=2147483647&v=beta&t=97oCci5Z4kFlzA9iyVUvtsTgHV6vuNncS57xv8r76Dc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4455285616",
+    "title": "AEM Front end + Backend",
+    "company": "NTT DATA North America",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/aem-front-end-%2B-backend-at-ntt-data-north-america-4455285616?position=8&pageNum=37&refId=HQjNSwPxt27Tx3IfE2%2F4qA%3D%3D&trackingId=EzL6457rabZ78T2I5G3w7A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnoz2X-IxAuw/company-logo_100_100/company-logo_100_100/0/1719840778368/ntt_data_americas_logo?e=2147483647&v=beta&t=9lYr_fMUoCGiHovTPbfU6DBRyUAG-HtLUYziXPNmzcg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4455235812",
+    "title": "AEM Front end + Backend",
+    "company": "NTT DATA North America",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/aem-front-end-%2B-backend-at-ntt-data-north-america-4455235812?position=4&pageNum=45&refId=2lsFC6yuZuUL%2FmNwFoa8cw%3D%3D&trackingId=8jmlymbjvn1bHCvlhYL%2FHg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnoz2X-IxAuw/company-logo_100_100/company-logo_100_100/0/1719840778368/ntt_data_americas_logo?e=2147483647&v=beta&t=9lYr_fMUoCGiHovTPbfU6DBRyUAG-HtLUYziXPNmzcg",
     "lat": 0,
     "lng": 0
   }
