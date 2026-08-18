@@ -4917,6 +4917,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4446236977",
+    "title": "Flutter Developer",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-03",
+    "link": "https://in.linkedin.com/jobs/view/flutter-developer-at-deloitte-4446236977?position=10&pageNum=37&refId=fvTDIfz%2BnrIDK6Qcw0548Q%3D%3D&trackingId=4QxFMM0%2BEGAObS4xcMdiMQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4379627081",
     "title": "Software Engineer, Commerce Backend",
     "company": "Docusign",
@@ -159613,5 +159624,75 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQFt7caN4REyvQ/company-logo_100_100/company-logo_100_100/0/1630642218519/allstateindia_logo?e=2147483647&v=beta&t=D9ICodu7TbYDD6wyDaY5lN8RLBmK6ZoZDPqyhMv7i-0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4455760044",
+    "title": "Frontend Engineer, Vision",
+    "company": "Sarvam",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-vision-at-sarvam-4455760044?position=3&pageNum=0&refId=yzQbalQih8%2FX2tsg8V%2FkKw%3D%3D&trackingId=39uuiIcNoTgBvy43W%2F4AcA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGjyPkXGTdDAA/company-logo_100_100/B56ZxL8VkkJoAU-/0/1770800634834/sarvam_ai_logo?e=2147483647&v=beta&t=ROksQQLwZ-MrdpFLnM1dHOdIj0tel7umXmvN5QyiFGQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4455904039",
+    "title": "Software Dev Engineer II, Amazon Now (Tez)",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-amazon-now-tez-at-amazon-4455904039?position=4&pageNum=30&refId=TZs9o5gNRXQZqf0bcHklnQ%3D%3D&trackingId=RAawLPDezOtbavAV0WurDA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4455710165",
+    "title": "Frontend Developer",
+    "company": "Comviva",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-comviva-4455710165?position=5&pageNum=5&refId=EpmK5vvTtz7BVSZ2parR4w%3D%3D&trackingId=5AqyVCq5WumBCDQCTEFw3w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQE3CVOcLuBxYQ/company-logo_100_100/company-logo_100_100/0/1630583573410/mahindra_comviva_logo?e=2147483647&v=beta&t=uPwc1gYj0wbw7ovHPAPx7HqSxOe082zfq0llalzITT8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4454751750",
+    "title": "Full Stack Engineer",
+    "company": "MAHTO",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-mahto-4454751750?position=2&pageNum=50&refId=5NSGuuGLKnTJE9SV1aqqLg%3D%3D&trackingId=KU9FdJRVzn0MnPd0eK3HGA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE9mteJVkhHyg/company-logo_100_100/B4DZptTkEnGgAQ-/0/1762770436854?e=2147483647&v=beta&t=_JaIg-QplFnk3ggt6hmEAABUcFJIrJHXVtIKNrMKhX8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4454499436",
+    "title": "Software Engineer (Frontend)",
+    "company": "Wise - Tutor Management Software",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-frontend-at-wise-tutor-management-software-4454499436?position=6&pageNum=5&refId=%2BqpYOY%2FJjmCpL1rBMcDirA%3D%3D&trackingId=bUlDVwh49ZLZ3%2BcFWLpPeA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEdzIYZoDDsfw/company-logo_100_100/company-logo_100_100/0/1647952601998/wiseapplive_logo?e=2147483647&v=beta&t=oG6d2RscEwJ0-vrhoKSslUfdFpNrKc3u46NgkfBCXcs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4452574166",
+    "title": "Software Engineering Professional",
+    "company": "BT Group",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/software-engineering-professional-at-bt-group-4452574166?position=2&pageNum=12&refId=hFR0xTTSwLZsT8dkAGe21w%3D%3D&trackingId=8sEv18JIpnSB4Fpxy5HG%2BA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEABgoerVJL3A/company-logo_100_100/B4EZ6maplTJkAI-/0/1780908464739/bt_logo?e=2147483647&v=beta&t=P-xWZVoeKNqXnYgJVG1hiF3Fj3HA-vtL8C8UONq31m8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4454411641",
+    "title": "Ralph Lauren Senior Digital Technology Front End Developer, Commerce Platform",
+    "company": "BoF Careers",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ralph-lauren-senior-digital-technology-front-end-developer-commerce-platform-at-bof-careers-4454411641?position=7&pageNum=15&refId=u7Ah0yQ1mI4dzlMOqjH6sQ%3D%3D&trackingId=lWb%2BOgxK4UheRx4S7eyD%2Fg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEwE9aqX78QqA/company-logo_100_100/B4DZcXLyCvGkAQ-/0/1748440654383/bof_careers_logo?e=2147483647&v=beta&t=_Yzb-zW4NlNggepfv0oGTxxZ33n8iQucHDIWgYKqV9I",
+    "lat": 0,
+    "lng": 0
   }
 ]
