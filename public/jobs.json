@@ -33,6 +33,83 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4455313539",
+    "title": "ServiceNow Developer with Angular JS)",
+    "company": "Tata Consultancy Services",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-17",
+    "link": "https://in.linkedin.com/jobs/view/servicenow-developer-with-angular-js-at-tata-consultancy-services-4455313539?position=8&pageNum=20&refId=XJZkJLQAEMpt8pAZzn5mUA%3D%3D&trackingId=L%2FYHlju3GK7EU8J%2FpVhYBw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4455345367",
+    "title": "Full - Stack Engineer - WEB",
+    "company": "HuntingCube",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-08-17",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-web-at-huntingcube-4455345367?position=8&pageNum=35&refId=dwwTwLoRLjo0wMMw%2FyY0ig%3D%3D&trackingId=vhIf93n2g3XRYXD%2BroxosA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIxS_H-2dx8g/company-logo_100_100/B56Z9AUvhhKEAI-/0/1783490607442/huntingcubeai_logo?e=2147483647&v=beta&t=3UxmDQpazRzithZkjHcNISR71_MbyJuofCSauGGObFA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4452224060",
+    "title": "Staff Full-Stack Engineer",
+    "company": "Okta",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-17",
+    "link": "https://in.linkedin.com/jobs/view/staff-full-stack-engineer-at-okta-4452224060?position=6&pageNum=45&refId=FrWnaUqDvbMWHrr1ilbuPg%3D%3D&trackingId=5uOBG%2F24G08PYqwVPtldZQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEU2zmNRniylg/company-logo_100_100/B4EZ_SBqb8JEAI-/0/1785935079432/okta_inc__logo?e=2147483647&v=beta&t=cfsyoAwsZ3zWgGgji9LFunbniLtSHjbVpkY11B2tgrI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4455348364",
+    "title": "Full Stack Engineer - WEB",
+    "company": "HuntingCube",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-08-17",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-web-at-huntingcube-4455348364?position=4&pageNum=47&refId=3JbJgB94j3ihyTFeycuyHw%3D%3D&trackingId=AAIF1h2stlWSOf92TmuoWw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIxS_H-2dx8g/company-logo_100_100/B56Z9AUvhhKEAI-/0/1783490607442/huntingcubeai_logo?e=2147483647&v=beta&t=3UxmDQpazRzithZkjHcNISR71_MbyJuofCSauGGObFA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4452264332",
+    "title": "Shopify Developer",
+    "company": "Brandshark",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-17",
+    "link": "https://in.linkedin.com/jobs/view/shopify-developer-at-brandshark-4452264332?position=4&pageNum=25&refId=N2%2BEH1%2F0qKhLOiL%2FzefZig%3D%3D&trackingId=rAVmBjVISIFKsnX3KYWmHQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHWPEGxCtqEJg/company-logo_100_100/company-logo_100_100/0/1677047116895/designbrandshark_logo?e=2147483647&v=beta&t=4h3zB64V8DdmRTeddWqXk-k5ThfE4JcMKA0EgecGU28",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4444865529",
+    "title": "SAP UI5/FIORI CONSULTANT",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-08-17",
+    "link": "https://in.linkedin.com/jobs/view/sap-ui5-fiori-consultant-at-infosys-4444865529?position=5&pageNum=70&refId=7a9ELPA8Ll5FxDIBDiZEGw%3D%3D&trackingId=r9qB4OoaoV7tyunJeHfCOA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4454416573",
+    "title": "Ralph Lauren Senior Digital Technology Developer, Full Stack Clienteling",
+    "company": "BoF Careers",
+    "location": "Bangalore Urban, Karnataka, India",
+    "date": "2026-08-17",
+    "link": "https://in.linkedin.com/jobs/view/ralph-lauren-senior-digital-technology-developer-full-stack-clienteling-at-bof-careers-4454416573?position=6&pageNum=75&refId=mfYiVeG5%2FXIU5kPRKVTeMw%3D%3D&trackingId=%2BiB7J4xgKXnWfQdrKZCE%2BA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEwE9aqX78QqA/company-logo_100_100/B4DZcXLyCvGkAQ-/0/1748440654383/bof_careers_logo?e=2147483647&v=beta&t=_Yzb-zW4NlNggepfv0oGTxxZ33n8iQucHDIWgYKqV9I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4444605416",
     "title": ".Net full stack developer with Angular",
     "company": "Cognizant",
@@ -42,6 +119,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_100_100/B4EZk_EfNgHgAU-/0/1757699778309/cognizant_logo?e=2147483647&v=beta&t=pEIgD9-D_EFoL3rsreK0H2EZEcsXWdZSN64-dV7VrSU",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4453930005",
+    "title": "Senior Software Engineer",
+    "company": "Epsilon",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-15",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-epsilon-4453930005?position=9&pageNum=75&refId=mfYiVeG5%2FXIU5kPRKVTeMw%3D%3D&trackingId=WVZwxM1gLJTzRXd6xN8LMQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF3oH_cjmKIVA/company-logo_100_100/B56Z_TeUPDJ0AI-/0/1785959367818/epsilon_logo?e=2147483647&v=beta&t=EuhWgLGa2dcVrRnMN8EvxYWxOlPF-cVyFN0-cymZOoY",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4451256881",
@@ -108,6 +196,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEoPIsbhrJCFw/company-logo_100_100/company-logo_100_100/0/1630542222477/jenoptik_logo?e=2147483647&v=beta&t=OA3goOz4JZm1dkqNs7Wg9ujVxB1IAERZbAM43B2Swcs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4455745014",
+    "title": "Senior Full Stack Developer",
+    "company": "Reveal HealthTech",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-14",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-at-reveal-healthtech-4455745014?position=4&pageNum=40&refId=t83FqGpag%2Flvd3%2FGxWufbw%3D%3D&trackingId=%2FcuqeHQHDByawBkvxflrCA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHWvd6Il2o-aQ/company-logo_100_100/B4EZZYxfA7GYAQ-/0/1745246090026/reveal_healthtech_logo?e=2147483647&v=beta&t=fLv2G6XQEqVI5Ljl8rMKcCgoPkyIpJgR5-yRaqEg2dY",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4453628714",
@@ -207,6 +306,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQEfarrizdqGIw/company-logo_100_100/company-logo_100_100/0/1630663237356?e=2147483647&v=beta&t=EMgA4AF6qqndPjDoQI-vpf7PwMmJcKtHsqPnpW3spbg",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4443188654",
+    "title": ".Net+Angular Developer",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-08-13",
+    "link": "https://in.linkedin.com/jobs/view/net%2Bangular-developer-at-infosys-4443188654?position=9&pageNum=45&refId=FrWnaUqDvbMWHrr1ilbuPg%3D%3D&trackingId=5sLqngyxxrCSP4nycEmMrQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4452309039",
@@ -5322,6 +5432,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_100_100/company-logo_100_100/0/1692960425188/googledeepmind_logo?e=2147483647&v=beta&t=xqxyHXYuH5iFMPxyvTkS1Mb55GQ4U83jUJHJt0NQao8",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4447195131",
+    "title": "Angular Develeper",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-07-31",
+    "link": "https://in.linkedin.com/jobs/view/angular-develeper-at-infosys-4447195131?position=7&pageNum=45&refId=FrWnaUqDvbMWHrr1ilbuPg%3D%3D&trackingId=ijmfiSUExL%2FIsXsM9FaU3A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4446463310",
@@ -42821,6 +42942,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFngBrnKpnqMA/company-logo_100_100/company-logo_100_100/0/1719257272385/palletretialsolutions_logo?e=2147483647&v=beta&t=N69YP9Qb59wwzYA4ZlH37PiYlo4b-UhCZ2tWBAdjOf8",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4414416718",
+    "title": "Sr Mendix Developer",
+    "company": "Thoucentric",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-04-19",
+    "link": "https://in.linkedin.com/jobs/view/sr-mendix-developer-at-thoucentric-4414416718?position=5&pageNum=75&refId=mfYiVeG5%2FXIU5kPRKVTeMw%3D%3D&trackingId=jtibcKJTyyIBDJA7eaYyRA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEpshuwk7SRGw/company-logo_100_100/B56Z864m7dHUAQ-/0/1783399346099/thoucentric_logo?e=2147483647&v=beta&t=U49WNKPYNBVu_VIFhhEIzj_4Ccs7rXa_dbkLi8xU2QA",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4401215232",
@@ -159694,5 +159826,75 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEwE9aqX78QqA/company-logo_100_100/B4DZcXLyCvGkAQ-/0/1748440654383/bof_careers_logo?e=2147483647&v=beta&t=_Yzb-zW4NlNggepfv0oGTxxZ33n8iQucHDIWgYKqV9I",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4455756693",
+    "title": "Software Engineer – Frontend Developer (Angular)",
+    "company": "Renesas Electronics",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-%E2%80%93-frontend-developer-angular-at-renesas-electronics-4455756693?position=10&pageNum=2&refId=VO5bXZxxrqzsfRjqeBAVNg%3D%3D&trackingId=MvgzQqoSgD%2BlYAk1cGvoHw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHlwp8hH_CdSg/company-logo_100_100/B56Zm7Sm_TIAAQ-/0/1759783842062/renesas_logo?e=2147483647&v=beta&t=IPyLH7X_M1aJkP81Og5r0dpxZkleQxB_cRImLz-lxVY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4454704292",
+    "title": "Software Engineer II - Full Stack",
+    "company": "Abnormal AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-full-stack-at-abnormal-ai-4454704292?position=6&pageNum=15&refId=cUBU4LgGYF12uypsMy8V1g%3D%3D&trackingId=BwUU70b6nWgC9a5ePTKDEw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG-KFcaVYoAvg/company-logo_100_100/B56ZZJwWRtGoAQ-/0/1744994133503/abnormal_ai_logo?e=2147483647&v=beta&t=W2fUCpmD6kdSbxpuOwqpWS4kJAJZwpLOHAt2FzhWqbk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4454900548",
+    "title": "React JS",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-js-at-infosys-4454900548?position=5&pageNum=20&refId=XJZkJLQAEMpt8pAZzn5mUA%3D%3D&trackingId=D26ZdNUaa4UUl7LrZy9Hfg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4452853487",
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-netapp-4452853487?position=7&pageNum=32&refId=Thp5wOGfHtdBpnyDHTVT5A%3D%3D&trackingId=iD1I%2BFD19JWn%2F4Zjl%2FPGXA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHBBBHJ60EHpQ/company-logo_100_100/B4EZ2x0ZwfJ0AQ-/0/1776804798059/netapp_logo?e=2147483647&v=beta&t=npLtq7DSM81VB_rppmxI4M5hEbEfmslWCkCOYG7Fy8c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4455990443",
+    "title": "Fullstack Engineer",
+    "company": "Ati Robotics",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/fullstack-engineer-at-ati-robotics-4455990443?position=4&pageNum=67&refId=Ky44Ku89lvK7nmENr4k5Hg%3D%3D&trackingId=MqF%2BvDmEeBLa%2BPDXKs6wdw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHVXdSvva5Tyw/company-logo_100_100/B56Z8jorqkIUAI-/0/1783009296006?e=2147483647&v=beta&t=kvEUrFhR87j6hQQ42PsLoKv-L3QcAu_MaP_zqbMZM8E",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4455911389",
+    "title": "Design Technologist I, Design & Brand Innovation Lab",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/design-technologist-i-design-brand-innovation-lab-at-amazon-4455911389?position=3&pageNum=15&refId=U%2BrrqYhkiHc5wL0YJmgmZQ%3D%3D&trackingId=aVsLCWNbnyZ10UGae2X8pA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4455972366",
+    "title": "Software Engineer II",
+    "company": "Barracuda",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-barracuda-4455972366?position=6&pageNum=87&refId=544A9eAJSD6cOm6Th3IM5A%3D%3D&trackingId=oX21suSXWl5omMg9UQ%2FxsQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEUa2aE1sjj7w/company-logo_100_100/company-logo_100_100/0/1630608025093/barracuda_networks_logo?e=2147483647&v=beta&t=lB_OKttgTXcN5dVd-nfMkFaANxzLz7_SPn1VKC26KGM",
+    "lat": 0,
+    "lng": 0
   }
 ]
