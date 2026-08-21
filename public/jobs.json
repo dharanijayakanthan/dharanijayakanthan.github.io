@@ -74966,6 +74966,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4270619815",
+    "title": "WordPress Developer",
+    "company": "Foiwe Info Global Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-07-21",
+    "link": "https://in.linkedin.com/jobs/view/wordpress-developer-at-foiwe-info-global-solutions-4270619815?position=7&pageNum=40&refId=DBTosHOmpUzss2nIo7Nf5A%3D%3D&trackingId=wwuc%2BPkGwjb%2FjpJsibzzyw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE-Hd75Lw_Gdw/company-logo_100_100/B56ZXweKRhHEAU-/0/1743496194741/foiwe_logo?e=2147483647&v=beta&t=UagtnpEpwrTRmFNoBicprmaoPmojkrE9t30IFmNVsYE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4264571059",
     "title": "Custom Software Engineer",
     "company": "Accenture in India",
@@ -161641,5 +161652,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4457373624",
+    "title": "UI Engineer - Apps Team",
+    "company": "Forward",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ui-engineer-apps-team-at-forward-4457373624?position=7&pageNum=2&refId=Xf0z%2FBfug%2FfTifEjru%2BmVg%3D%3D&trackingId=ovES8fnR4o06yjLdEkxVWg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHPtRcU377SLA/company-logo_100_100/B56Z5GW3ioKwAI-/0/1779296860630/forward_networks_logo?e=2147483647&v=beta&t=rCzV4pyBrWkRvd8G-62PmrAMfeAZBh2q3cnREeG09jU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4454633635",
+    "title": "Sr Analyst React Developer",
+    "company": "Cardinal Health",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-analyst-react-developer-at-cardinal-health-4454633635?position=9&pageNum=55&refId=%2BFwfl%2B6GbVUu4unE%2BVMimA%3D%3D&trackingId=PpjuvztH6Xp3XIbk5ii6kg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHseggiBegb7A/company-logo_100_100/company-logo_100_100/0/1719772831840/cardinal_health_logo?e=2147483647&v=beta&t=tBty3VPZQtB9YLng5ahCYYoofIX2Y3ApRnlDZwAMn0s",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4456218723",
+    "title": "Frontend Engineer (React) – Full-Stack Capabilities",
+    "company": "Mindflix AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-react-%E2%80%93-full-stack-capabilities-at-mindflix-ai-4456218723?position=1&pageNum=12&refId=yrOV%2BLWYC0IcZb0N79gGAA%3D%3D&trackingId=eIBDl6%2F45mPdlNGEHzwnOw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHFY_JCtCHC1g/company-logo_100_100/company-logo_100_100/0/1732094200035/mindflix_ai_logo?e=2147483647&v=beta&t=bRuC8WDL9CTfW4sLf3-umhGUmZs5IuNj5jFwb3U5o6c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4456219765",
+    "title": "Full Stack Engineer",
+    "company": "Param Consulting Services, Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-param-consulting-services-inc-4456219765?position=6&pageNum=35&refId=8OEElkAUvkuKUEOui9eDpg%3D%3D&trackingId=X2GBoR1dG68A9tO%2BESPc7A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGXcCGX5sS1qA/company-logo_100_100/company-logo_100_100/0/1662482353619/param_consulting_services_inc_logo?e=2147483647&v=beta&t=6-w-JfVQ3zHJkOaZL23CGcGQa2NbatpBPcnSVlLpEZ0",
+    "lat": 0,
+    "lng": 0
   }
 ]
