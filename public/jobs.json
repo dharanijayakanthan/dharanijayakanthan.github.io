@@ -1,5 +1,38 @@
 [
   {
+    "id": "urn:li:jobPosting:4454635168",
+    "title": "Frontend Developer",
+    "company": "Nubra",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-21",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-nubra-4454635168?position=9&pageNum=12&refId=1JEwFl%2Bvf1CJrQxBqSVdvA%3D%3D&trackingId=DF2uEtjCR1zoNPRyW8I9Xw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHH6-7x5zbttg/company-logo_100_100/company-logo_100_100/0/1737007302879/nubra_logo?e=2147483647&v=beta&t=UeQ3oVcgdx0tMtNoQa2cCBYKCYIT-fdRURt3iQWjWms",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4457094796",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-21",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4457094796?position=10&pageNum=47&refId=Cl1KINag263AKHHETKiIoA%3D%3D&trackingId=mP1eP3DOgdzF3pTQlnn%2BLQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4457080991",
+    "title": "Full stack Developer (Angular/Python)",
+    "company": "CGI",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-21",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-angular-python-at-cgi-4457080991?position=10&pageNum=55&refId=A2Gcnd4JRHyR836XV%2FryrQ%3D%3D&trackingId=kBp2De0uQXIFGoncvkJAAw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4455687447",
     "title": "Shopify Web Developer – Sr Associate",
     "company": "Intent Farm - Performance Marketing Agency",
@@ -1837,6 +1870,17 @@
     "lng": 77.6776437
   },
   {
+    "id": "urn:li:jobPosting:4449363883",
+    "title": "Core .NET Technologies with React js",
+    "company": "Tata Consultancy Services",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-06",
+    "link": "https://in.linkedin.com/jobs/view/core-net-technologies-with-react-js-at-tata-consultancy-services-4449363883?position=4&pageNum=87&refId=l33mUvx5qKQf%2Fgk3TbLI4w%3D%3D&trackingId=GKaEQj9E%2Bd9ti6ZIDAlDAg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4449407606",
     "title": "Fullstack Engineer",
     "company": "Ati Robotics",
@@ -2539,6 +2583,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4448285150",
+    "title": "Full Stack Engineer",
+    "company": "InfoVision Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-04",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-infovision-inc-4448285150?position=2&pageNum=85&refId=G8e3Kk34qNm0MGW17B5t8w%3D%3D&trackingId=VY6OM695DHdXFCBPzy1XRQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGUsWvr5LQ4Og/company-logo_100_100/company-logo_100_100/0/1661759233767/infovision_logo?e=2147483647&v=beta&t=lDL__UrYG2O__TqMTGHh7xsLMYZ5dGeL6J4MYa5dpmk",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4448609612",
@@ -5665,6 +5720,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4445878655",
+    "title": "Software Engineering Intern",
+    "company": "Flam",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-03",
+    "link": "https://in.linkedin.com/jobs/view/software-engineering-intern-at-flam-4445878655?position=6&pageNum=85&refId=G8e3Kk34qNm0MGW17B5t8w%3D%3D&trackingId=EW4b%2F2lA9IH76VjlCp66UQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE0O8tfmoKddA/company-logo_100_100/B56ZwtqEwMH0AQ-/0/1770292530687/flamappofficial_logo?e=2147483647&v=beta&t=JGoLEBpNuTzZ5qjZ9lSqtD3FuuSWzxGPBZRhuMYOz5Q",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4379627081",
     "title": "Software Engineer, Commerce Backend",
     "company": "Docusign",
@@ -6081,6 +6147,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
     "lat": 12.8461795,
     "lng": 77.6776437
+  },
+  {
+    "id": "urn:li:jobPosting:4447596107",
+    "title": "Python React full stack developer",
+    "company": "CGI",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-31",
+    "link": "https://in.linkedin.com/jobs/view/python-react-full-stack-developer-at-cgi-4447596107?position=1&pageNum=85&refId=G8e3Kk34qNm0MGW17B5t8w%3D%3D&trackingId=FuySNAqj0t3F8q2m0Q6k5A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4446463310",
@@ -161965,5 +162042,25 @@
     "logo": "https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4455026730",
+    "title": "Senior React.js Frontend Engineer",
+    "company": "Enterprise Bot",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-react-js-frontend-engineer-at-enterprise-bot-4455026730?position=8&pageNum=0&refId=RQhQD6M%2FdaQK6yJ9140JIw%3D%3D&trackingId=xc8eUEjxmARxQrSf1idtIg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGylzNdebnlPg/company-logo_100_100/B56ZecH_SLG0AQ-/0/1750671029820/enterprise_bot_logo?e=2147483647&v=beta&t=lbkSymo32hnuVoo8c9nphdDwU_AonwEA-0V1rd9kGs8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4455032057",
+    "title": "Apply only if you're Currently in Bangalore | Senior Full Stack Developer | Up to ₹10 LPA [NON-Negotiable] | 4 - 7 Years of Experience | JP Nagar, Bengaluru | Immediate Joiners Only",
+    "company": "Hello Mentor",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/apply-only-if-you-re-currently-in-bangalore-senior-full-stack-developer-up-to-%E2%82%B910-lpa-non-negotiable-4-7-years-of-experience-jp-nagar-bengaluru-immediate-joiners-only-at-hello-mentor-4455032057?position=9&pageNum=87&refId=l33mUvx5qKQf%2Fgk3TbLI4w%3D%3D&trackingId=O7CO%2B4CDSaz9A2L86H5Vxw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQH7tVWQmUV0MA/company-logo_100_100/company-logo_100_100/0/1646659669551/exzellenz_career_shapers_pvt_ltd_logo?e=2147483647&v=beta&t=H-KjS5VcHj7YMrrxnfpRTm0JMHCEliqo1QnesAAQKhM",
+    "lat": 0,
+    "lng": 0
   }
 ]
