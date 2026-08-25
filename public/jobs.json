@@ -341,6 +341,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4456467783",
+    "title": "Software Engineer II",
+    "company": "Ping Identity",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-20",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-ping-identity-4456467783?position=1&pageNum=5&refId=6MghF1qgcctEPzZiBTUlwg%3D%3D&trackingId=%2BGAbGFLBZOkcLD6HAt1ALA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHFDxRAmb6wgA/company-logo_100_100/B56Z8eBpI_HcAI-/0/1782915175316/ping_identity_logo?e=2147483647&v=beta&t=lIL31Ydro54ZOdKx-j2NXumggsUJbqdeu3J1-_ya3rg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4454956256",
     "title": "Principal AEM, EDS, Consultant",
     "company": "Infosys",
@@ -647,6 +658,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGEDpoSWVx7Sg/company-logo_100_100/B56ZfByjWNHUAQ-/0/1751302944443/guidewire_software_logo?e=2147483647&v=beta&t=oK-O46LN6LQqKZ88OmMVz5BboBXacH2mYKm8IqNep0s",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4452809223",
+    "title": "Senior Software Engineer (Node.js & React.js)",
+    "company": "Okta",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-18",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-node-js-react-js-at-okta-4452809223?position=7&pageNum=87&refId=vsZNdvSUgJj9OOhjvD1nPQ%3D%3D&trackingId=FhJaFHhJcx76ku7LoEaB%2Bg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEU2zmNRniylg/company-logo_100_100/B4EZ_SBqb8JEAI-/0/1785935079432/okta_inc__logo?e=2147483647&v=beta&t=cfsyoAwsZ3zWgGgji9LFunbniLtSHjbVpkY11B2tgrI",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4455218442",
@@ -6246,6 +6268,39 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4448339913",
+    "title": "AI / ML Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-03",
+    "link": "https://in.linkedin.com/jobs/view/ai-ml-engineer-at-accenture-in-india-4448339913?position=3&pageNum=87&refId=vsZNdvSUgJj9OOhjvD1nPQ%3D%3D&trackingId=v9UYzhDxuK7Ej8BRTEcl4A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448344404",
+    "title": "AI / ML Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-03",
+    "link": "https://in.linkedin.com/jobs/view/ai-ml-engineer-at-accenture-in-india-4448344404?position=4&pageNum=87&refId=vsZNdvSUgJj9OOhjvD1nPQ%3D%3D&trackingId=cTlJcc30xY1jvCr6ijHl7A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448348164",
+    "title": "AI / ML Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-03",
+    "link": "https://in.linkedin.com/jobs/view/ai-ml-engineer-at-accenture-in-india-4448348164?position=5&pageNum=87&refId=vsZNdvSUgJj9OOhjvD1nPQ%3D%3D&trackingId=WkUL8BDWoKfnudzyTnWqFg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4379627081",
@@ -162955,5 +163010,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQEEytOEph7Mcw/company-logo_100_100/company-logo_100_100/0/1630647912132/epicor_software_corp_logo?e=2147483647&v=beta&t=vg7kVED4yi7IU_by8Sr0mGbUepZdeATtki-khlj5brs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4458187685",
+    "title": "Full Stack Engineer",
+    "company": "Applicantz",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-applicantz-4458187685?position=10&pageNum=62&refId=NzfO1K88CQZTixXtDAYiXQ%3D%3D&trackingId=KjVxK6Aj3%2FD%2FYJJF4q5jRQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFylbfs5CK2fg/company-logo_100_100/company-logo_100_100/0/1630566893916/applicantz_ai_logo?e=2147483647&v=beta&t=4uiMboLU2wwOm5bqTkpWxlcFvp_xyjvwooqUN0cKlR4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4458209848",
+    "title": "Full Stack Software Development Engineer II",
+    "company": "Sigmoid",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-software-development-engineer-ii-at-sigmoid-4458209848?position=6&pageNum=67&refId=LYqY12yYwAH670ZGZNGMzg%3D%3D&trackingId=q6ADIRqnNxVny33ky1SfiA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQHCjinIyrml3g/company-logo_100_100/company-logo_100_100/0/1630608391617/sigmoid_analytics_logo?e=2147483647&v=beta&t=VE8kSj9dgCzrqoy9Yqsz35_3fBTohIR87PQt1MpLIB8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4458169199",
+    "title": "Sr Advanced Software Engr",
+    "company": "Honeywell Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-advanced-software-engr-at-honeywell-technologies-4458169199?position=3&pageNum=70&refId=rBY3i%2B2Y%2Fjdf2FiOsPwf1Q%3D%3D&trackingId=Em9GOkfbmCJ2pL4oyGvxyw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE0raKQ0HHHXQ/company-logo_100_100/B4EZ8SY0aJH8AM-/0/1782719924150/honeywell_logo?e=2147483647&v=beta&t=akNGC3_0nFpYKyV4oDlMpAeGqlsqvk1AGJK5SfBiRfo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4458193505",
+    "title": "Software Engineer - JavaScript",
+    "company": "Dassault Systèmes",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-javascript-at-dassault-syst%C3%A8mes-4458193505?position=1&pageNum=20&refId=MstzhYK9x5mLNS5ak5r2Sw%3D%3D&trackingId=4S2lHi1e3jdA%2Fla01Yl3CA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHroRzeNTva6Q/company-logo_100_100/company-logo_100_100/0/1631330934922?e=2147483647&v=beta&t=Y_LaLgUh3t_AY4PloiAtAbGGfEr2fGl7C4_RBhQ7Vok",
+    "lat": 0,
+    "lng": 0
   }
 ]
