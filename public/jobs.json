@@ -163050,5 +163050,65 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHroRzeNTva6Q/company-logo_100_100/company-logo_100_100/0/1631330934922?e=2147483647&v=beta&t=Y_LaLgUh3t_AY4PloiAtAbGGfEr2fGl7C4_RBhQ7Vok",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4457462043",
+    "title": "Frontend Developer",
+    "company": "EdgeVerve",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-edgeverve-4457462043?position=7&pageNum=5&refId=ZEigb%2BZ33gDsRAmoVbYhQw%3D%3D&trackingId=iRGRW%2Fzeh1VqWwa4iRSeWg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGhDeuxmBCRzQ/company-logo_100_100/company-logo_100_100/0/1719811447166/edgeverve_logo?e=2147483647&v=beta&t=ZHmKbtoL1apOgUAaK_S5uN8nLEZmsyTGyOA0SncwEKM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4458595200",
+    "title": "AEM UI Senior Developer",
+    "company": "Teamware Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/aem-ui-senior-developer-at-teamware-solutions-4458595200?position=1&pageNum=35&refId=FFMwau%2FHrmM4kW4rQNF4bQ%3D%3D&trackingId=jbShOeT9pABHtoggkZBtdw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGTmsLAkTTGww/company-logo_100_100/company-logo_100_100/0/1722576449607/teamware_solutions_logo?e=2147483647&v=beta&t=QIDeTszOkwzAnnawMWT3qa9iPNzIuSXvAHSI6E-3FcA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4455849487",
+    "title": "Lead I - Software Engineering",
+    "company": "UST",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/lead-i-software-engineering-at-ust-4455849487?position=10&pageNum=17&refId=AUyKB6I5z93RP2hy0DGiqA%3D%3D&trackingId=4kPw2Ujkj8MPDR1BwOFuUQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEr-ib3Nn15Aw/company-logo_100_100/company-logo_100_100/0/1648787427825/ustglobal_logo?e=2147483647&v=beta&t=Mat5nuskL90W74qGXwwpHLg2mXn8Mfwf1z8oLxbk--c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4455016632",
+    "title": "Frontend Developer",
+    "company": "Duruper",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-duruper-4455016632?position=1&pageNum=10&refId=O%2BPOrxTbkCmUEryanJGuxA%3D%3D&trackingId=L2FfbqGZ3dNUSvXSv422Sw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEMztmum6vDvw/company-logo_100_100/B56ZV_6RpJGQAQ-/0/1741607738959/duruper_logo?e=2147483647&v=beta&t=dvh0uNKK82XLakIs3KZWiBb3hWK5EE40NiUNjlVfoMY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4457406981",
+    "title": "Software Engineer",
+    "company": "Provenir",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-provenir-4457406981?position=9&pageNum=30&refId=7jqUAEPRn%2FSUttZmXWjqfA%3D%3D&trackingId=saZcJDM1Z8j%2B%2B7HbxQFAWA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHHPUZAfKnRtg/company-logo_100_100/company-logo_100_100/0/1708112570873/provenir_global_logo?e=2147483647&v=beta&t=2cn2d-5LA_icrwgfx0AHH04geeP6nANjv0IJ5smfm-s",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4458596800",
+    "title": "Senior Software Engineer - SharePoint",
+    "company": "H&M",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-sharepoint-at-h-m-4458596800?position=6&pageNum=65&refId=nkcbVCMOEzOFcMGDXUj1SA%3D%3D&trackingId=USmPawJTyRlmflkqcNoQBA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHq33akTF76eA/company-logo_100_100/company-logo_100_100/0/1679061166847/hm_logo?e=2147483647&v=beta&t=EJEWNoFmNEh77Ma_WEkty8xBK6yX37uTMl7HVNRiP0U",
+    "lat": 0,
+    "lng": 0
   }
 ]
