@@ -21,14 +21,22 @@ async function fetchJobs() {
         console.log('Starting job fetch cycle...');
 
         let allJobs = [];
+        const EXPIRATION_DAYS = 30;
+        const now = new Date();
 
         // Attempt to load existing jobs to preserve data
         if (fs.existsSync(OUTPUT_FILE)) {
             try {
                 const existingData = JSON.parse(fs.readFileSync(OUTPUT_FILE, 'utf8'));
                 if (Array.isArray(existingData)) {
-                    allJobs = existingData;
-                    console.log(`Loaded ${allJobs.length} existing jobs.`);
+                    allJobs = existingData.filter(job => {
+                        if (!job.date) return true;
+                        const jobDate = new Date(job.date);
+                        const diffInDays = (now - jobDate) / (1000 * 60 * 60 * 24);
+                        return diffInDays <= EXPIRATION_DAYS;
+                    });
+                    const expiredCount = existingData.length - allJobs.length;
+                    console.log(`Loaded ${allJobs.length} existing active jobs (Removed ${expiredCount} expired jobs).`);
                 }
             } catch (e) {
                 console.warn("Could not read existing jobs file, starting fresh.");
@@ -126,7 +134,22 @@ async function fetchJobs() {
             }
         }
 
-        console.log(`\nTotal jobs now: ${allJobs.length} (New: ${newJobsCount})`);
+        console.log(`\nTotal jobs fetched: ${allJobs.length} (New: ${newJobsCount})`);
+
+        // Filter out any newly fetched jobs that are also expired
+        const initialCount = allJobs.length;
+        allJobs = allJobs.filter(job => {
+            if (!job.date) return true;
+            const jobDate = new Date(job.date);
+            const diffInDays = (now - jobDate) / (1000 * 60 * 60 * 24);
+            return diffInDays <= EXPIRATION_DAYS;
+        });
+
+        if (initialCount > allJobs.length) {
+            console.log(`Removed ${initialCount - allJobs.length} expired jobs from the newly fetched list.`);
+        }
+
+        console.log(`\nFinal active jobs: ${allJobs.length}`);
 
         // cleaning up: Sort by date
         allJobs.sort((a, b) => {
