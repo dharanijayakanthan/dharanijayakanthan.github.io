@@ -165,6 +165,50 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4459804652",
+    "title": "IN_Senior Associate_React, Node_D&A_Advisory_Bangalore",
+    "company": "PwC India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-27",
+    "link": "https://in.linkedin.com/jobs/view/in-senior-associate-react-node-d-a-advisory-bangalore-at-pwc-india-4459804652?position=9&pageNum=35&refId=rJOeMNg5m6c1k%2FL50XbmZA%3D%3D&trackingId=F%2FKROnz9nanlGomFvRbqoQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4459699804",
+    "title": "Software Engineer",
+    "company": "Viceroy Engineering",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-27",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-viceroy-engineering-4459699804?position=8&pageNum=77&refId=vQNeAVijk5R1sUCsaP3epw%3D%3D&trackingId=ghehgvyw4J3%2Bjyk%2BDLOQEQ%3D%3D",
+    "logo": "https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4458614791",
+    "title": "Software Technologist I",
+    "company": "Philips",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-27",
+    "link": "https://in.linkedin.com/jobs/view/software-technologist-i-at-philips-4458614791?position=6&pageNum=85&refId=oxwdngAMXfNzzrDo8VjZqQ%3D%3D&trackingId=G4SfiFFurOfNcQmNGwLAkg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFpB8fd3m9G0w/company-logo_100_100/company-logo_100_100/0/1737552865359/philips_logo?e=2147483647&v=beta&t=ofVCClHfl44rpskSlerFBlKtFP0YcncuUIJWOVhOttk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4458632975",
+    "title": "Software Engineer",
+    "company": "KimohaTech",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-27",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-kimohatech-4458632975?position=9&pageNum=87&refId=bn4Zlng0QcML4gam3wvRyw%3D%3D&trackingId=dQuhI2j6OQZNJ26v2UICCg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGAhAchNUZQhw/company-logo_100_100/company-logo_100_100/0/1705083331144/kimoha_tech_logo?e=2147483647&v=beta&t=KD6A3bTWMV5Nh4BuojDMYGL2s7Qj3riug0lpyfizmes",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4457251519",
     "title": "React JS Developer-SDE 2",
     "company": "Truemeds",
@@ -339,6 +383,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQGsx5-gxRKvzg/company-logo_100_100/company-logo_100_100/0/1631341905914?e=2147483647&v=beta&t=vU1tDio94bsd3jIWBEdRq_GJNlEVkHwuqE_WOT58SE0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4459040791",
+    "title": "Software Engineer - AI Hub",
+    "company": "Linde@India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-25",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ai-hub-at-linde%40india-4459040791?position=6&pageNum=77&refId=vQNeAVijk5R1sUCsaP3epw%3D%3D&trackingId=dxXKsolu5FZSa7w5Znf1Jw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGfYVd5rlDR4A/company-logo_100_100/company-logo_100_100/0/1707365399344/linde_india_ltd_logo?e=2147483647&v=beta&t=eGZoWAG6SMztp1AGMRUm6DjmbvDdatwP0Bz2pu3I8UU",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4456848899",
@@ -6961,6 +7016,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFe5jvohsKslQ/company-logo_100_100/B56ZxHgQS6JIAQ-/0/1770726165836?e=2147483647&v=beta&t=Cy8O49r1OhUr3HEJZA7g6nhhBvCeHSXHMGiDWB7lVAo",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4457691664",
+    "title": "Shopify Web Developer – Sr Associate",
+    "company": "Intent Farm - Performance Marketing Agency",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-01",
+    "link": "https://in.linkedin.com/jobs/view/shopify-web-developer-%E2%80%93-sr-associate-at-intent-farm-performance-marketing-agency-4457691664?position=7&pageNum=67&refId=7CPE3mvDqCt%2B%2F%2FxmeI9LCA%3D%3D&trackingId=55v1Y%2BrPegT50YObrtKOFg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQH_HcZxyCYPrg/company-logo_100_100/company-logo_100_100/0/1630654980047?e=2147483647&v=beta&t=AinBXmUds8gGXeGuT-ZvHS7R0i0YylIsKubKMeHzrwo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4437940372",
@@ -164722,5 +164788,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFExrh__n07qg/company-logo_100_100/company-logo_100_100/0/1728533375851/bceglobaltech_logo?e=2147483647&v=beta&t=zkDleb8hfT1F28GUvQPeY800KMGlUIfPzTlUjMXp7Is",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4458465539",
+    "title": "React Native Developer",
+    "company": "Real Jobs Consulting Services",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/react-native-developer-at-real-jobs-consulting-services-4458465539?position=6&pageNum=37&refId=M5rAo7cOf3vw08%2Bk3I2DcA%3D%3D&trackingId=aFw9SACNrbt4mNdpUU8sgA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEYjJuek9e1eA/company-logo_100_100/company-logo_100_100/0/1686343741797?e=2147483647&v=beta&t=4O2JzOZGlFjuqs5NNEaEfwhZF6XYQTAB9zZgXXtgJcI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4459474402",
+    "title": "Back End Developer - Next JS",
+    "company": "Talentgigs",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/back-end-developer-next-js-at-talentgigs-4459474402?position=4&pageNum=60&refId=kAqFJ13R%2Fem8X8AfSb7r7w%3D%3D&trackingId=EqqqGdZyn5mPYIRrvd1j9A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHxgXm8-8vd3Q/company-logo_100_100/B56ZdefgpDGoAQ-/0/1749637008713/talentgigs_logo?e=2147483647&v=beta&t=pVEYTwLSt2ts2MopgyppYk6-Yg7o_HJzVg_Q2tdJR5A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4458474266",
+    "title": "Web Developer",
+    "company": "Xcel HR Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-xcel-hr-solutions-4458474266?position=3&pageNum=87&refId=bn4Zlng0QcML4gam3wvRyw%3D%3D&trackingId=yA%2FCpQhnp4ARNflc3RAEMQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEZERMrrAlXVw/company-logo_100_100/company-logo_100_100/0/1719255372149?e=2147483647&v=beta&t=xPTdHQ--pty-y61nn_XWKqWnxitr7FZEfJQ90prl75M",
+    "lat": 0,
+    "lng": 0
   }
 ]
