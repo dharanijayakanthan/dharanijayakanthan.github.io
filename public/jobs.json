@@ -1,5 +1,27 @@
 [
   {
+    "id": "urn:li:jobPosting:4460327578",
+    "title": "Frontend Web Developer",
+    "company": "Aditi Consulting",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-28",
+    "link": "https://in.linkedin.com/jobs/view/frontend-web-developer-at-aditi-consulting-4460327578?position=3&pageNum=90&refId=xiFerlBrYtd0gqt0BLPg%2Fw%3D%3D&trackingId=2AmsduJzKosugcjp3co2Cw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFhSuWL16cn7A/company-logo_100_100/company-logo_100_100/0/1655498607143/aditiconsulting_logo?e=2147483647&v=beta&t=It4-tJV5B__QI2CpigNjluWwi6a7TieFq3intjkuAoA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4458697802",
+    "title": "React AI Lead",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-08-28",
+    "link": "https://in.linkedin.com/jobs/view/react-ai-lead-at-infosys-4458697802?position=9&pageNum=92&refId=oOaMlD0kGCFphnBfk1lk3w%3D%3D&trackingId=6h9WRzT0L1EesUWr73ineQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4458373589",
     "title": "Communication and Collaboration Dev Ops Engineer",
     "company": "Standard Chartered India",
@@ -75,6 +97,72 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHPGAMgqJMBZQ/company-logo_100_100/company-logo_100_100/0/1630579606103/abb_logo?e=2147483647&v=beta&t=UOAvwz5s6liS099z91BNomM-lOY3CC7ClOAVlUTpdR8",
     "lat": 12.9875595,
     "lng": 77.7082193
+  },
+  {
+    "id": "urn:li:jobPosting:4459872156",
+    "title": "Tech Lead - Sr. Full Stack Developer-Product development",
+    "company": "ABB",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-08-27",
+    "link": "https://in.linkedin.com/jobs/view/tech-lead-sr-full-stack-developer-product-development-at-abb-4459872156?position=1&pageNum=67&refId=R%2FLs3ZZy2K9u%2Fn5%2FCiEIsA%3D%3D&trackingId=7cXbQ2pefhiUNXG5hGPSvA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHPGAMgqJMBZQ/company-logo_100_100/company-logo_100_100/0/1630579606103/abb_logo?e=2147483647&v=beta&t=UOAvwz5s6liS099z91BNomM-lOY3CC7ClOAVlUTpdR8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4458391234",
+    "title": "Full Stack Developer",
+    "company": "Be a Catalyst",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-27",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-be-a-catalyst-4458391234?position=2&pageNum=85&refId=xMHJKYwGuJtQd8wc%2BdGKyA%3D%3D&trackingId=z0hTOmDhdexeMwKvNc4MnA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF5zg7yCjpv8Q/company-logo_100_100/B56ZmUTI.0I4AU-/0/1759129670095/be_a_catalyst_logo?e=2147483647&v=beta&t=RAnacjjZCEPmTJTCaRCBDlUcga-7TBTLz37678FoYnw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4457745644",
+    "title": "R&D Specialist - Full Stack",
+    "company": "Nokia",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-27",
+    "link": "https://in.linkedin.com/jobs/view/r-d-specialist-full-stack-at-nokia-4457745644?position=3&pageNum=85&refId=xMHJKYwGuJtQd8wc%2BdGKyA%3D%3D&trackingId=vIsijuCDjoanzL0Xhwl1uA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE_ff-lEcAC5w/company-logo_100_100/B4EZqby_U_HgAQ-/0/1763550426950/nokia_logo?e=2147483647&v=beta&t=qxtoTn57D4TyVa7Or6EcSCx-lBK1o3cVYD71ukfu5Q0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4458375922",
+    "title": "Full Stack Development, - Microsoft",
+    "company": "Quest Global",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-27",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-development-microsoft-at-quest-global-4458375922?position=6&pageNum=90&refId=xiFerlBrYtd0gqt0BLPg%2Fw%3D%3D&trackingId=FAMiDfiBcvoFOWqt2npubw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFqsywUQl7okA/company-logo_100_100/company-logo_100_100/0/1650955890222/quest_global_logo?e=2147483647&v=beta&t=1iJwdF4wJntsh5TikN51Pj4Xl4TrY1duYOT8WP8ifFU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4459678678",
+    "title": "Software Engineer I - React, Node, AWS",
+    "company": "Ellucian",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-27",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-react-node-aws-at-ellucian-4459678678?position=2&pageNum=92&refId=oOaMlD0kGCFphnBfk1lk3w%3D%3D&trackingId=nwstUGdTwM9RVlTynYD5kw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQElPzZQ7Vr-lg/company-logo_100_100/B4EZYHOlrbHYAQ-/0/1743877987308/ellucian_logo?e=2147483647&v=beta&t=ku8I9Id8jWtC6eFPnas-5BYEiXsJa00ssu-KwmDnFME",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4459686658",
+    "title": "Senior Full Stack Developer-Python+React",
+    "company": "Mott MacDonald",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-27",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-python%2Breact-at-mott-macdonald-4459686658?position=8&pageNum=97&refId=xw2udrGdpOFIzneOMeNl6g%3D%3D&trackingId=AS6w6ugGIYycIy%2FQa1xPPw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHquBl_sJE0lw/company-logo_100_100/B4EZp26jIsJ0AQ-/0/1762931651526/mott_macdonald_logo?e=2147483647&v=beta&t=5sCy1ta-Kny0QUEf8sm95nEqLFaElZFTs9m07SfdWS8",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4457251519",
@@ -185,6 +273,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGMcJoGte_lxg/company-logo_100_100/B4DZg3B_.YHwAQ-/0/1753269928292/innovaesi_logo?e=2147483647&v=beta&t=DrckmG9JaXyZ5BndMENCsAIAarE1-ti4IGsc8K6WXag",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4457945107",
+    "title": "Full Stack Engineer",
+    "company": "MeshDefend",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-26",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-meshdefend-4457945107?position=10&pageNum=62&refId=TwL%2Bmnfp5yWo1Of40aqynA%3D%3D&trackingId=5H0ue8ihEGVstnahK0%2BdXA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGpc0ZWy0hLIA/company-logo_100_100/B56ZTwi0B5HoAQ-/0/1739202445925/meshdefend_logo?e=2147483647&v=beta&t=RrU3BJovPcsWFpFDAXzs4i3TyKpgnRySFzDt1DZwywA",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4458705674",
@@ -1254,6 +1353,17 @@
     "lng": 77.6776437
   },
   {
+    "id": "urn:li:jobPosting:4452227898",
+    "title": "Frontend Engineer (Remote | $65–$120/hr)",
+    "company": "Synthires",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-17",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-remote-%2465%E2%80%93%24120-hr-at-synthires-4452227898?position=10&pageNum=85&refId=xMHJKYwGuJtQd8wc%2BdGKyA%3D%3D&trackingId=4zy%2BSOlL9x3yHLYSxrXK1g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHJRBYpxXyThQ/company-logo_100_100/B56Z1NLMNgIIAQ-/0/1775116277170/synthires_logo?e=2147483647&v=beta&t=3nAIOo8_zrrycfW-aQ0HXp3P5jfgF98YNv-SCu0IOQs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4096553975",
     "title": "Senior Consultant - SAP",
     "company": "Bristlecone",
@@ -1571,6 +1681,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF83D-v6H_udQ/company-logo_100_100/B4EZfBOVapGcAU-/0/1751293450613/greshamtech_logo?e=2147483647&v=beta&t=JjpPnvnkrbu6XWivVq8ARYsJtEGPjMXPKamBpSOWicc",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4443497158",
+    "title": "Full Stack Engineer",
+    "company": "Axi",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-13",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-axi-4443497158?position=8&pageNum=85&refId=xMHJKYwGuJtQd8wc%2BdGKyA%3D%3D&trackingId=ggc1c5NAE%2F9gnV355sytgA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFrKkXBXNHVVg/company-logo_100_100/B56aAkKuoXKcAQ-/0/1787313187589?e=2147483647&v=beta&t=V28beo3y_HabXHcpMZrL-ya5P6wWzcUmcAlrGkd4ll0",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4452309039",
@@ -164591,5 +164712,15 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQF3mYS3WqCB3g/company-logo_100_100/company-logo_100_100/0/1688575708630/snowflake_computing_logo?e=2147483647&v=beta&t=R_pYaCE7YEAGMVV51a5YGr9L60KM56sxCoIGCUqAlmg",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4459497289",
+    "title": "Junior Fullstack Developer",
+    "company": "BCE Global Tech - A Bell Canada Company",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/junior-fullstack-developer-at-bce-global-tech-a-bell-canada-company-4459497289?position=1&pageNum=20&refId=3ifJNAd6Xx1h4OW0Web1OA%3D%3D&trackingId=3kuasi%2FV21%2FKD2lTi9qNsQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFExrh__n07qg/company-logo_100_100/company-logo_100_100/0/1728533375851/bceglobaltech_logo?e=2147483647&v=beta&t=zkDleb8hfT1F28GUvQPeY800KMGlUIfPzTlUjMXp7Is",
+    "lat": 0,
+    "lng": 0
   }
 ]
