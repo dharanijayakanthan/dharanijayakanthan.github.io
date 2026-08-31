@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4459494081",
+    "title": "Apply only if you're Currently in Bangalore | Senior Full Stack Developer | Onsite | JP Nagar | Upto 10 LPA | Immediate Joiners Only",
+    "company": "Hello Mentor",
+    "location": "Greater Bengaluru Area",
+    "date": "2026-08-29",
+    "link": "https://in.linkedin.com/jobs/view/apply-only-if-you-re-currently-in-bangalore-senior-full-stack-developer-onsite-jp-nagar-upto-10-lpa-immediate-joiners-only-at-hello-mentor-4459494081?position=1&pageNum=80&refId=eE3J%2BtIdpMiFX9pnLTZrCQ%3D%3D&trackingId=oEuXrhMWHwdejIEpwvL%2FHw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQH7tVWQmUV0MA/company-logo_100_100/company-logo_100_100/0/1646659669551/exzellenz_career_shapers_pvt_ltd_logo?e=2147483647&v=beta&t=H-KjS5VcHj7YMrrxnfpRTm0JMHCEliqo1QnesAAQKhM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4460327578",
     "title": "Frontend Web Developer",
     "company": "Aditi Consulting",
@@ -31,6 +42,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF1Pd-hFPzhZQ/company-logo_100_100/B4EZ_H9uu1KcAM-/0/1785766276234/mouser_electronics_logo?e=2147483647&v=beta&t=-2VkiXxOSl2kk0Dyaja9ZlJdNLnaxN5jphGyfPQyMlQ",
     "lat": 12.9736232,
     "lng": 77.6167885
+  },
+  {
+    "id": "urn:li:jobPosting:4458406397",
+    "title": "Full Stack Developer",
+    "company": "Siemens",
+    "location": "Bangalore Urban, Karnataka, India",
+    "date": "2026-08-28",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-siemens-4458406397?position=10&pageNum=75&refId=tzxD6B4dbWh4O9g1CGCaHA%3D%3D&trackingId=9T9pgI35sgE6HcF4gQU52w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_100_100/company-logo_100_100/0/1719931174735/siemens_logo?e=2147483647&v=beta&t=iNZVOYYuYOnkz09IBCFrK9Ik8uTqP6ZDnhCEJjPouV4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4458919981",
+    "title": "Senior Software Engineer",
+    "company": "Chargebee",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-28",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-chargebee-4458919981?position=8&pageNum=90&refId=sAyJpTeY6RhQ%2B3KGF%2FxHgA%3D%3D&trackingId=OCYsFb6SQAwDYtYQ11sdww%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFXxcdJAHLTAw/company-logo_100_100/company-logo_100_100/0/1686828247179/chargebee_logo?e=2147483647&v=beta&t=JNxZMo6820vdledsPtaG5SNJNdvzOjsXfTL0oa89Kto",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4458373589",
@@ -242,6 +275,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4440205555",
+    "title": "Sr. Full Stack Engineer",
+    "company": "Applied Systems",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-27",
+    "link": "https://in.linkedin.com/jobs/view/sr-full-stack-engineer-at-applied-systems-4440205555?position=7&pageNum=92&refId=EIAANNrK8Mn9MjIX0NgFbg%3D%3D&trackingId=SnQeWLkJiBuCxOb7SdsbEA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH1OlYcejEeCg/company-logo_100_100/company-logo_100_100/0/1719932215284/applied_systems_logo?e=2147483647&v=beta&t=vSMASU_A_XJfS6T4zfrayYQYVxJ6affzYlYyA5xRmVo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4459687788",
+    "title": "IN_Senior Associate_React, Node_D&A_Advisory_Bangalore",
+    "company": "PwC India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-27",
+    "link": "https://in.linkedin.com/jobs/view/in-senior-associate-react-node-d-a-advisory-bangalore-at-pwc-india-4459687788?position=10&pageNum=35&refId=PSqLPu6c11MBXrcXe%2BkUVg%3D%3D&trackingId=ql3a%2BNm45PROxGNHAi3nGQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4457251519",
     "title": "React JS Developer-SDE 2",
     "company": "Truemeds",
@@ -361,6 +416,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGpc0ZWy0hLIA/company-logo_100_100/B56ZTwi0B5HoAQ-/0/1739202445925/meshdefend_logo?e=2147483647&v=beta&t=RrU3BJovPcsWFpFDAXzs4i3TyKpgnRySFzDt1DZwywA",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4457263798",
+    "title": "Application Developer-AWS Cloud FullStack",
+    "company": "IBM",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-26",
+    "link": "https://in.linkedin.com/jobs/view/application-developer-aws-cloud-fullstack-at-ibm-4457263798?position=10&pageNum=97&refId=SaBj%2FNpNSZCZyCzGUH%2F8Dw%3D%3D&trackingId=mJkI2ZKfJhV9wYTZtroUzA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&v=beta&t=HPSmWLOCvdPkWO1nRWwjjmCNpaCqww20rSJ4E54QtxQ",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4458705674",
@@ -537,6 +603,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEU2zmNRniylg/company-logo_100_100/B4EZ_SBqb8JEAI-/0/1785935079432/okta_inc__logo?e=2147483647&v=beta&t=cfsyoAwsZ3zWgGgji9LFunbniLtSHjbVpkY11B2tgrI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4456847342",
+    "title": "Java React Fullstack Developer with AWS",
+    "company": "Tata Consultancy Services",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-24",
+    "link": "https://in.linkedin.com/jobs/view/java-react-fullstack-developer-with-aws-at-tata-consultancy-services-4456847342?position=2&pageNum=97&refId=SaBj%2FNpNSZCZyCzGUH%2F8Dw%3D%3D&trackingId=pCKahBPk8Cx6ZVFw%2FyZFQw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4457876578",
@@ -1045,6 +1122,17 @@
     "lng": 77.6114683
   },
   {
+    "id": "urn:li:jobPosting:4455417597",
+    "title": "Senior IT Solutions Developer",
+    "company": "SBM Offshore",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-19",
+    "link": "https://in.linkedin.com/jobs/view/senior-it-solutions-developer-at-sbm-offshore-4455417597?position=3&pageNum=92&refId=EIAANNrK8Mn9MjIX0NgFbg%3D%3D&trackingId=7mAuWkNB3SR3sfWNBGes5A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHU_y0s5H5HWg/company-logo_100_100/company-logo_100_100/0/1676540255533/sbmoffshore_logo?e=2147483647&v=beta&t=gOy5oU8j01k5_gGcVqCfcMt5HAdLogquL_ntsIaemHI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4454781524",
     "title": "Full Stack Engineer",
     "company": "EdgeVerve",
@@ -1483,6 +1571,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHJRBYpxXyThQ/company-logo_100_100/B56Z1NLMNgIIAQ-/0/1775116277170/synthires_logo?e=2147483647&v=beta&t=3nAIOo8_zrrycfW-aQ0HXp3P5jfgF98YNv-SCu0IOQs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4436070976",
+    "title": "Senior Full-stack Engineer - (Cloud, AI)",
+    "company": "TechGrove by Banyan Software",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-17",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-cloud-ai-at-techgrove-by-banyan-software-4436070976?position=8&pageNum=92&refId=EIAANNrK8Mn9MjIX0NgFbg%3D%3D&trackingId=z17lHl5odvT2opkYirO9SQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFFrSTLFe5WvA/company-logo_100_100/B56Zq3ZVHlIcAQ-/0/1764013462306?e=2147483647&v=beta&t=AWpGRuTgyQJ9YLfzMAzPEPMmxqq5y5y4W2CIjcM17eQ",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4096553975",
@@ -3782,6 +3881,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHCIWqt1FVZ1A/company-logo_100_100/company-logo_100_100/0/1658445209964/illumina_logo?e=2147483647&v=beta&t=R8C_zB0O8NPYHDqYl4EBZ18PcVMnUy2NGHXoCpodVo0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4446623788",
+    "title": "Java Software Engineer",
+    "company": "Synechron Technologies Pvt. Ltd.",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-04",
+    "link": "https://in.linkedin.com/jobs/view/java-software-engineer-at-synechron-technologies-pvt-ltd-4446623788?position=5&pageNum=92&refId=EIAANNrK8Mn9MjIX0NgFbg%3D%3D&trackingId=4dYrin4PAVhuEuEODJAiPQ%3D%3D",
+    "logo": "https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4448609612",
@@ -9471,6 +9581,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4445931007",
+    "title": "AI SDE 3 - Full Stack",
+    "company": "Hiver",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-27",
+    "link": "https://in.linkedin.com/jobs/view/ai-sde-3-full-stack-at-hiver-4445931007?position=6&pageNum=92&refId=EIAANNrK8Mn9MjIX0NgFbg%3D%3D&trackingId=Tojx2%2BN1%2FhAgs4qnQSEFLQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGHqQMT0dV_Jw/company-logo_100_100/B56ZYfuzuWGsAQ-/0/1744289086924/hiverhq_logo?e=2147483647&v=beta&t=g8EhNyAtSgPK0BP_ZoA43oPV_5-kBj8o7FmTJ2iD5nI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4444836198",
     "title": "Software Engineer",
     "company": "Scoutit",
@@ -11438,6 +11559,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQE-xhp5ddgxXA/company-logo_100_100/B56Zuigi1YGsAQ-/0/1767957999851/creative_synergies_group_logo?e=2147483647&v=beta&t=WOsleaoXpsCnwaUQlpyByNfeZW32eHIm9ACUaBP58IY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4442945108",
+    "title": "Senior Full Stack Software Developer",
+    "company": "BCE Global Tech - A Bell Canada Company",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-22",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-software-developer-at-bce-global-tech-a-bell-canada-company-4442945108?position=2&pageNum=92&refId=EIAANNrK8Mn9MjIX0NgFbg%3D%3D&trackingId=224L%2FuRA356naxsCStfdUg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFExrh__n07qg/company-logo_100_100/company-logo_100_100/0/1728533375851/bceglobaltech_logo?e=2147483647&v=beta&t=zkDleb8hfT1F28GUvQPeY800KMGlUIfPzTlUjMXp7Is",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4443045015",
@@ -18368,6 +18500,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQHhM4Y_PEKZFQ/company-logo_100_100/company-logo_100_100/0/1630583782191?e=2147483647&v=beta&t=FIRtTLA3eKYwsqV4JUvMt6Zg7rOnGcGeuNZvj2mus1M",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4436949518",
+    "title": "SDE III - Fullstack",
+    "company": "AiDASH",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-04",
+    "link": "https://in.linkedin.com/jobs/view/sde-iii-fullstack-at-aidash-4436949518?position=1&pageNum=92&refId=EIAANNrK8Mn9MjIX0NgFbg%3D%3D&trackingId=Jz%2BhE%2FfD%2FAk07KwyDQOC6Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHgcm-PIafqeA/company-logo_100_100/company-logo_100_100/0/1729179627637/aidash_logo?e=2147483647&v=beta&t=V0CKKZdaBdAvsRRTEYHg-8M5phkJJbtafkszMQbzmBs",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4436444420",
@@ -164944,5 +165087,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQG3QfxBHwxrcw/company-logo_100_100/company-logo_100_100/0/1645606558821/onmetahq_logo?e=2147483647&v=beta&t=6jNAGdYoz7bWWMEAXWnC4njApn-4yh2gyskfWWyTPlY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4459749398",
+    "title": "Full Stack Engineer",
+    "company": "Zenalyst.AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-zenalyst-ai-4459749398?position=10&pageNum=50&refId=648mGLc4pzDzLgYWcFJsFA%3D%3D&trackingId=96wqY1vutofiRNqk%2Fwij1A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHdGvAZVb6JcQ/company-logo_100_100/B56Z5p3lRdIsAM-/0/1779892639048/zenalyst__ai_logo?e=2147483647&v=beta&t=PRDOFTBWHVFcXyAa4DSYb8aLD-qpSjYFQEUmY5Om-Aw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4459731539",
+    "title": "Senior Full Stack Developer / Application Lead",
+    "company": "Zenalyst.AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-application-lead-at-zenalyst-ai-4459731539?position=10&pageNum=90&refId=sAyJpTeY6RhQ%2B3KGF%2FxHgA%3D%3D&trackingId=%2B28Tk8a%2BGAS6KaG6lTBkKg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHdGvAZVb6JcQ/company-logo_100_100/B56Z5p3lRdIsAM-/0/1779892639048/zenalyst__ai_logo?e=2147483647&v=beta&t=PRDOFTBWHVFcXyAa4DSYb8aLD-qpSjYFQEUmY5Om-Aw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4459764093",
+    "title": "React JS",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-js-at-infosys-4459764093?position=1&pageNum=47&refId=75Wqd5GPkyuUXZrGejVa5A%3D%3D&trackingId=iurnPOIFawUJ1BnKb2C0Hw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4455058189",
+    "title": "React Native Developer",
+    "company": "InterviewDo",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-native-developer-at-interviewdo-4455058189?position=3&pageNum=50&refId=jIj26cB0n2Nv5tOWNpTvZg%3D%3D&trackingId=GPC1C43BWlIOYH4PAzV0cw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFudGCNdwAtww/company-logo_100_100/B4DaAnuULCJIAI-/0/1787372848105?e=2147483647&v=beta&t=qM3kLzq5s_ro1sEFTIL1kzfZPVUKNrnQ1bVMflhdNUE",
+    "lat": 0,
+    "lng": 0
   }
 ]
