@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4458858040",
+    "title": "Technical Specialist",
+    "company": "Dover India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-30",
+    "link": "https://in.linkedin.com/jobs/view/technical-specialist-at-dover-india-4458858040?position=5&pageNum=30&refId=tzlulGyMslpu61QZ94Km%2FQ%3D%3D&trackingId=%2BVbisred%2B4YaxeKnl9ObPA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEbJEYupH00RQ/company-logo_100_100/company-logo_100_100/0/1630665637248/dover_solutions_india_logo?e=2147483647&v=beta&t=iKPTau4ZCGyPJ7-vEj0FcvJC4YiE0dooV_1Txdf68ns",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4459494081",
     "title": "Apply only if you're Currently in Bangalore | Senior Full Stack Developer | Onsite | JP Nagar | Upto 10 LPA | Immediate Joiners Only",
     "company": "Hello Mentor",
@@ -429,6 +440,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4457954031",
+    "title": "Full Stack Developer",
+    "company": "Ingersoll Rand Compressor Systems & Services",
+    "location": "Bangalore Urban, Karnataka, India",
+    "date": "2026-08-26",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-ingersoll-rand-compressor-systems-services-4457954031?position=1&pageNum=60&refId=4nh5W1qJ1PgEJYK9Ykgr5g%3D%3D&trackingId=nRqOj9JiQFG3koFMo0aP2w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHGagcmyg0qvA/company-logo_100_100/company-logo_100_100/0/1631329715926?e=2147483647&v=beta&t=WIrxDFWuq52VemWm8E9jlucOsUuaASMseTHLxWsMJaU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4458705674",
     "title": "Senior Software Engineer",
     "company": "AMETEK",
@@ -625,6 +647,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
     "lat": 12.9833194,
     "lng": 77.736776
+  },
+  {
+    "id": "urn:li:jobPosting:4456885857",
+    "title": "Fullstack Developer (React Heavy + Java)",
+    "company": "Wissen Technology",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-24",
+    "link": "https://in.linkedin.com/jobs/view/fullstack-developer-react-heavy-%2B-java-at-wissen-technology-4456885857?position=6&pageNum=67&refId=k8UKfOJA%2FBPrH1hobWEWvw%3D%3D&trackingId=FxCxHAt2j%2B1y%2Fq0ZKQXZ3Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEUGPCnR9sT7g/company-logo_100_100/company-logo_100_100/0/1736152842225/wissen_technology_logo?e=2147483647&v=beta&t=-Xik1h_R143EsfZeR39aL0CjAoS0Ib1p9pxQHG1iigo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4457876578",
@@ -2099,6 +2132,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG3fXAI-jYu5A/company-logo_100_100/company-logo_100_100/0/1681910638687/gevernova_logo?e=2147483647&v=beta&t=wxmEC0JI8pdfZCuf9nRT8XLaNDFKjVAOQ3tB3dU6wTk",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4453146199",
+    "title": "Principal Specialist - .NET & Angular",
+    "company": "Pratt & Whitney",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-12",
+    "link": "https://in.linkedin.com/jobs/view/principal-specialist-net-angular-at-pratt-whitney-4453146199?position=8&pageNum=40&refId=fbaYd%2FEAb9OEnpTuFHNhbg%3D%3D&trackingId=CPBo9ZkSMDljHbLaF%2BlvxA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEgMINglVU8IQ/company-logo_100_100/company-logo_100_100/0/1709297500868/pratt__whitney_logo?e=2147483647&v=beta&t=N-XWBPZeFYmFeI2x8qh5cXFHVQKwQMz5IGVjb-ocYK8",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4452419721",
@@ -165330,5 +165374,145 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnoz2X-IxAuw/company-logo_100_100/company-logo_100_100/0/1719840778368/ntt_data_americas_logo?e=2147483647&v=beta&t=9lYr_fMUoCGiHovTPbfU6DBRyUAG-HtLUYziXPNmzcg",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4460049390",
+    "title": "Frontend Developer",
+    "company": "Sloka IT Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-sloka-it-solutions-4460049390?position=3&pageNum=15&refId=wvHvEP7ohu4ktTgiOtLG4A%3D%3D&trackingId=JUlUNo%2BuT8NkAz1nXG2FHw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHdyLUfgOENJQ/company-logo_100_100/company-logo_100_100/0/1630574287522/sloka_it_solutions_logo?e=2147483647&v=beta&t=kY25Faree4zTEuN2zVHwp4tFAd000nFo4N2eyzQKXZ4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4461095780",
+    "title": "Senior Software Engineer-FullStack",
+    "company": "Volvo Cars",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-volvo-cars-4461095780?position=5&pageNum=15&refId=wvHvEP7ohu4ktTgiOtLG4A%3D%3D&trackingId=oBmHx3mLlj7sqA8hpqIGhw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEUDcnVHrKFFA/company-logo_100_100/company-logo_100_100/0/1632477881582/volvocars_logo?e=2147483647&v=beta&t=zbzeBwudpyAnVsNk84LNHGhcFRJRdJNFRb5AKrDSAFA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4460009970",
+    "title": "Software Engineer",
+    "company": "Epsilon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-epsilon-4460009970?position=9&pageNum=25&refId=TDDpLtfBCAemy%2B%2Bk3oj1qw%3D%3D&trackingId=AY%2F6y9Bub8BuiI3WpSz4Kw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF3oH_cjmKIVA/company-logo_100_100/B56Z_TeUPDJ0AI-/0/1785959367818/epsilon_logo?e=2147483647&v=beta&t=EuhWgLGa2dcVrRnMN8EvxYWxOlPF-cVyFN0-cymZOoY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4459203137",
+    "title": "Web Developer",
+    "company": "Zyntrix Software Solutions Pvt Ltd",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-zyntrix-software-solutions-pvt-ltd-4459203137?position=1&pageNum=32&refId=TTqLGwBn%2FN3BXCV0%2FYIhWQ%3D%3D&trackingId=4GezHTd1HntEJdEiJS7aAA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGSumFD6PKtKA/company-logo_100_100/B4DZxsxl5WHcAQ-/0/1771351466006/zyntrix_software_solutions_pvt_ltd_logo?e=2147483647&v=beta&t=Jmm7fiYkAp5in3AdjwZH_j7EgW69NyaPt0GZaPY2BHA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4460036025",
+    "title": "Software Engineer Consultant II",
+    "company": "Allstate India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-consultant-ii-at-allstate-india-4460036025?position=9&pageNum=37&refId=izy%2Fk68gXI3X1ZlhJvUl%2Bw%3D%3D&trackingId=XA5Ol1Fmw2yxUXEUIFzAUQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFt7caN4REyvQ/company-logo_100_100/company-logo_100_100/0/1630642218519/allstateindia_logo?e=2147483647&v=beta&t=D9ICodu7TbYDD6wyDaY5lN8RLBmK6ZoZDPqyhMv7i-0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4460008007",
+    "title": "Shopify Web Developer – Sr Associate",
+    "company": "Intent Farm - Performance Marketing Agency",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/shopify-web-developer-%E2%80%93-sr-associate-at-intent-farm-performance-marketing-agency-4460008007?position=6&pageNum=45&refId=yfZv4Kq4g053Q0Hcqta3mQ%3D%3D&trackingId=YBUApErNTJ41chgsxKXB%2FQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQH_HcZxyCYPrg/company-logo_100_100/company-logo_100_100/0/1630654980047?e=2147483647&v=beta&t=AinBXmUds8gGXeGuT-ZvHS7R0i0YylIsKubKMeHzrwo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4461227356",
+    "title": "Software Engineer - Sharepoint Developer",
+    "company": "Moody's Corporation",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-sharepoint-developer-at-moody-s-corporation-4461227356?position=8&pageNum=52&refId=D1Xy9VqySDlOz3rdgkhHyQ%3D%3D&trackingId=w2pdU2f6xeFBk7SCGpW4gQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEkIGr8N7NFEQ/company-logo_100_100/company-logo_100_100/0/1709738075471/moodys_corporation_logo?e=2147483647&v=beta&t=76mKsmPm-q5VgeKdC0J5GXavGIszf40OHkQePuJCDwQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4461210013",
+    "title": "senior front end engineer",
+    "company": "Weekday AI (YC W21)",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-front-end-engineer-at-weekday-ai-yc-w21-4461210013?position=4&pageNum=7&refId=mxlTyhwnaNHwV7p1KgCvbw%3D%3D&trackingId=gWlg9Hd7%2BC9zb5mRL9SGuw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMGKC-EvAWpg/company-logo_100_100/company-logo_100_100/0/1737539347361/weekdayjobs_logo?e=2147483647&v=beta&t=ieIgvB8kFgzbxY41wBcAR7jpNOrDOqFB53OKC5vWkuQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4460023082",
+    "title": "TTT - Fiori Plus UI5 Plus Full Stack - Staff",
+    "company": "EY",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ttt-fiori-plus-ui5-plus-full-stack-staff-at-ey-4460023082?position=9&pageNum=27&refId=jN6KDqtMSZIl5CLz2zfS3w%3D%3D&trackingId=nFKDWiHuSIdZ3%2BYanJHduA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4460055187",
+    "title": "Assoc, FrontEnd Eng, WRB Tech",
+    "company": "Standard Chartered India",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/assoc-frontend-eng-wrb-tech-at-standard-chartered-india-4460055187?position=6&pageNum=17&refId=T9RNfuyBV%2FF%2Fy58VmjL6NA%3D%3D&trackingId=5bi191bOr3NizU4XN0eZBg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEXYV6p34CtPA/company-logo_100_100/B4DZjMehUuGgAc-/0/1755777210085/standard_chartered_india_logo?e=2147483647&v=beta&t=gxeH4hJTKe069a0UzLFYxW71KL4pW41yTiDx8Kp_wdg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4461078425",
+    "title": "React Developer",
+    "company": "Arrow Electronics",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-arrow-electronics-4461078425?position=10&pageNum=5&refId=QdKuf7xFGew67ZSL67TgkQ%3D%3D&trackingId=rQWb1KILmy1917SF2Xa3bQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE9izZrjummQQ/company-logo_100_100/company-logo_100_100/0/1679065099095/arrow_electronics_logo?e=2147483647&v=beta&t=aCLdUZmZHqYTGNJIcseqzJqQ1RstDpse2F7T-11v5zU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4461089936",
+    "title": "React Developer",
+    "company": "Arrow Components",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-arrow-components-4461089936?position=3&pageNum=50&refId=pZ%2BmpP7iWYhuVmIaejIjSQ%3D%3D&trackingId=xqbRM29M0Fvi0nUBeuvKMQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQExAFllrJp3jQ/company-logo_100_100/company-logo_100_100/0/1630610032231/arrow_electronics_digital_logo?e=2147483647&v=beta&t=clYv96g4442ZSyko0PLDFZWYZ9HxmRv-X1cjD4Iyd94",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4459213376",
+    "title": "Full Stack Engineer",
+    "company": "Phyllo",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-phyllo-4459213376?position=7&pageNum=62&refId=AgPEnGfe%2Fi%2Be7ylhYY0X4w%3D%3D&trackingId=vBp8XlYpz0H0lP%2BYHT3GNg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGXO5hg0OdoLg/company-logo_100_100/B56ZgSQz3vG4AQ-/0/1752653054804/getphyllo_logo?e=2147483647&v=beta&t=SsOoVIEmV8pp-CVbtyHYKxUl6VHAjLCxJgK4w9F5p_k",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4459777797",
+    "title": "Full Stack Engineer",
+    "company": "Zimmer Biomet",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-zimmer-biomet-4459777797?position=4&pageNum=65&refId=3zrN2BQ7YSYqJvevnsHiOA%3D%3D&trackingId=WH8hmK7PsAYR7PYCBsTbCA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE9HKTQGstdZw/company-logo_100_100/company-logo_100_100/0/1631307257331?e=2147483647&v=beta&t=L4y061iz-52iIuP9v-q5SFoRR4KyI0puM93_MixgD-0",
+    "lat": 0,
+    "lng": 0
   }
 ]
