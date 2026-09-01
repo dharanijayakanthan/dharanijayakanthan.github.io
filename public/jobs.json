@@ -165619,5 +165619,85 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQFYnXRZomIaNQ/company-logo_100_100/company-logo_100_100/0/1630664946745?e=2147483647&v=beta&t=Fzz7qcgk9U4JycxxHM6JLp-RCJxt4gtIJHgE9mV658A",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4461562353",
+    "title": "Web Developer",
+    "company": "MaxVal Group, Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-maxval-group-inc-4461562353?position=3&pageNum=15&refId=3FmqozLqLXhPpNPzEkDfIQ%3D%3D&trackingId=ltSlmSxYHW6R%2FU5Ndelaew%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQESfWCv3dsNlQ/company-logo_100_100/company-logo_100_100/0/1693466449019/maxval_group_inc_logo?e=2147483647&v=beta&t=gyYtEFNlSbhJ4ux9D0nNlWUta2WpyaYyfOG6RqylMUM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4460022273",
+    "title": "Frontend Software Developer",
+    "company": "Bharat Startup Yatra",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-software-developer-at-bharat-startup-yatra-4460022273?position=2&pageNum=27&refId=TV3gB8Yw6Yocy%2FFexW5pEw%3D%3D&trackingId=G7NKtS75JQtKIxdpvK13FQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGtdec_IisiuA/company-logo_100_100/company-logo_100_100/0/1711010007875/bharat_startup_yatra_logo?e=2147483647&v=beta&t=XKtTpfL7swIBPUNlnLLxl2jzzq6kLpEMgqhzvB9UES8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4460256462",
+    "title": "React Developer | 4 - 8 Years | Bangalore | Immediate Joiner",
+    "company": "Antal International",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-4-8-years-bangalore-immediate-joiner-at-antal-international-4460256462?position=2&pageNum=30&refId=%2BLgWuy5VyL644hWS8fDCVw%3D%3D&trackingId=uOrwDoehDA%2BAqp7sD1pYpA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHhwGkJoW6mEw/company-logo_100_100/company-logo_100_100/0/1666775032739/antal_international_logo?e=2147483647&v=beta&t=_SCO8O3DXj9RRhU6BHC-lu5KhQd9N5Fj4YH9mr0t-0M",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4460223214",
+    "title": "Senior BigCommerce Front-End Engineer",
+    "company": "EPAM Systems",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-bigcommerce-front-end-engineer-at-epam-systems-4460223214?position=8&pageNum=30&refId=%2BLgWuy5VyL644hWS8fDCVw%3D%3D&trackingId=A2PcIMCJqJOFs1G1mlZmIA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGd7yeYsBtfzw/company-logo_100_100/B4DZuc0QBQH4AQ-/0/1767862501956/epam_systems_logo?e=2147483647&v=beta&t=O5sjtI74L0dCvWMsQqvR2y4087x4W5L5zpgJ1-bTACM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4459292253",
+    "title": "Frontend Developer",
+    "company": "CodeChavo",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-codechavo-4459292253?position=5&pageNum=2&refId=yMo8hAKpgybwlYf%2FA4QSdw%3D%3D&trackingId=5WRpPljwaEQVukzVNkAE5g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHHlvZI7ftJug/company-logo_100_100/B56Z2VY9OrGoAQ-/0/1776327843201/codechavo_global_logo?e=2147483647&v=beta&t=32XdH6q5GW0tZbPGhgSWmcesiZkro_QE5wflfXc5u-A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4459515093",
+    "title": "Software engineering Senior professional",
+    "company": "Takeda",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineering-senior-professional-at-takeda-4459515093?position=5&pageNum=37&refId=MV6uYfiuVY8k39C3pilz5Q%3D%3D&trackingId=dYrpOmaVBFlxlb7duCrRyg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHj9QL10Kbhrg/company-logo_100_100/B4EZ8eXxZMJMAM-/0/1782920976161/takeda_pharmaceuticals_logo?e=2147483647&v=beta&t=Sbu6zG4NY0xNLxjHrK_hG0b_xIwbLJmR9zy18kpvbck",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4460256544",
+    "title": "Software Engineer",
+    "company": "Bandhan Technologies",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-bandhan-technologies-4460256544?position=7&pageNum=15&refId=MMPU9EcdSaGIrflKziZcRw%3D%3D&trackingId=Lw4VmPKcJM9gtsXh%2B0kaFA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFSIpjXPGSLDQ/company-logo_100_100/B56Z6rJJVzIUAI-/0/1780987762492?e=2147483647&v=beta&t=7KxV_HRAVplFFVMftV2oZrAbnMdWvk5toMANOlFq0PQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4460228822",
+    "title": "React Native Developer",
+    "company": "Recro",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-native-developer-at-recro-4460228822?position=3&pageNum=60&refId=Y9zSt01en2sbpJSwqicUJQ%3D%3D&trackingId=sA0bBgE4o%2F6jkbrJcEKKQQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH7GYOGBCj8Qg/company-logo_100_100/company-logo_100_100/0/1728907260215/recro_io_logo?e=2147483647&v=beta&t=898rSyj182aC0vqi5cZqbWQQIDumt_WpercCJsH_-TY",
+    "lat": 0,
+    "lng": 0
   }
 ]
