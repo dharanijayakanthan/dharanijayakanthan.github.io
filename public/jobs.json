@@ -33,6 +33,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4460007412",
+    "title": "Oracle CX Technical Consultant - Redwood UI Specialist",
+    "company": "Viraaj HR Solutions Private Limited",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-31",
+    "link": "https://in.linkedin.com/jobs/view/oracle-cx-technical-consultant-redwood-ui-specialist-at-viraaj-hr-solutions-private-limited-4460007412?position=8&pageNum=35&refId=cf9vKn2qArJwRUl%2Bz1KLeg%3D%3D&trackingId=Oo9jikI0a5k1b1mZZV9xzw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHXDEsRESQoCw/company-logo_100_100/company-logo_100_100/0/1685433794380/viraajsoftware_logo?e=2147483647&v=beta&t=0QeSMzZ1nzjZEDwOJShlLgpN-iqYA8DdX377bZF4aOM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4461239961",
+    "title": "IN_Senior Associate_Vue JS + Node developer _Emerging Business_Advisory_Bangalore",
+    "company": "PwC India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-31",
+    "link": "https://in.linkedin.com/jobs/view/in-senior-associate-vue-js-%2B-node-developer-emerging-business-advisory-bangalore-at-pwc-india-4461239961?position=9&pageNum=35&refId=cf9vKn2qArJwRUl%2Bz1KLeg%3D%3D&trackingId=sRiqqueiEbg%2F6yfpTfOruA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4458858040",
     "title": "Technical Specialist",
     "company": "Dover India",
@@ -165882,5 +165904,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4461794611",
+    "title": "Member of Technical Staff 4 - UI developer",
+    "company": "Nutanix Indonesia",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/member-of-technical-staff-4-ui-developer-at-nutanix-indonesia-4461794611?position=7&pageNum=10&refId=6uYTKSsOyOU9PlPkCOb5dg%3D%3D&trackingId=YxOBN8X1MOmf%2F7oewp3r8A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEaq41o0By8cQ/company-logo_100_100/company-logo_100_100/0/1680577132241/nutanixindonesia_logo?e=2147483647&v=beta&t=wl_mjQ142OIJoLRQRxJe2B_PA2a1tT4M-ux2PnUagwQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4461790871",
+    "title": "Software Engr I",
+    "company": "Honeywell Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engr-i-at-honeywell-technologies-4461790871?position=4&pageNum=17&refId=sSbROupsnsWak0rozD5JHw%3D%3D&trackingId=5JONRVuLFymhgMngmJRLHw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE0raKQ0HHHXQ/company-logo_100_100/B4EZ8SY0aJH8AM-/0/1782719924150/honeywell_logo?e=2147483647&v=beta&t=akNGC3_0nFpYKyV4oDlMpAeGqlsqvk1AGJK5SfBiRfo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4460603860",
+    "title": "Flutter Engineer",
+    "company": "Scapia",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/flutter-engineer-at-scapia-4460603860?position=10&pageNum=55&refId=mKtHVKSx0c4ddvfOzOB3yw%3D%3D&trackingId=wi5m0RRDdBFBmTEpjIvMOw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHVr-jhZQJ1Ug/company-logo_100_100/company-logo_100_100/0/1686491560754?e=2147483647&v=beta&t=y05cRt44jViLOM4n4mfGVJnJ11E91tFNoMr301GqSEo",
+    "lat": 0,
+    "lng": 0
   }
 ]
