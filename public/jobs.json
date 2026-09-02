@@ -55,6 +55,39 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4460943934",
+    "title": "SENIOR .NET + REACTJS DEVELOPER",
+    "company": "VRINDA INTERNATIONAL",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-01",
+    "link": "https://in.linkedin.com/jobs/view/senior-net-%2B-reactjs-developer-at-vrinda-international-4460943934?position=10&pageNum=67&refId=3xZDH5qgG38K3M7VEPh6kQ%3D%3D&trackingId=moY3D3f547fLmgkszn58Lw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFIpcpqykygTg/company-logo_100_100/B4DZ.XygbwIIAI-/0/1784958027716/vrindainternational_logo?e=2147483647&v=beta&t=jpQ_w0NgXKYiSubJXlS6lOgx-QZ5qeF_wPxsqvib94w",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4461340384",
+    "title": "Senior Software Engineer (FullStack)",
+    "company": "WeWork India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-01",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-wework-india-4461340384?position=6&pageNum=75&refId=dqbVDBdnCs5ufUgVx61E9g%3D%3D&trackingId=eyhCD%2FckuesZ3lDXcS9VcA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE--VpQb1JQ_g/company-logo_100_100/B4EZc0LdscH8AQ-/0/1748927111015?e=2147483647&v=beta&t=eeNkLSfkgE79ZJT1CZGTBPVaZbY3pxmLso71uRJASMY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4459291630",
+    "title": "Application Developer-AWS Cloud FullStack",
+    "company": "IBM",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-01",
+    "link": "https://in.linkedin.com/jobs/view/application-developer-aws-cloud-fullstack-at-ibm-4459291630?position=9&pageNum=97&refId=p0Ax8WjBK4RWIheNM1gl9Q%3D%3D&trackingId=VwzWZ8FmSvCXI70Al1gnHQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&v=beta&t=HPSmWLOCvdPkWO1nRWwjjmCNpaCqww20rSJ4E54QtxQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4459770454",
     "title": "Shopify plus developers",
     "company": "NowWiN International",
@@ -1384,6 +1417,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHU_y0s5H5HWg/company-logo_100_100/company-logo_100_100/0/1676540255533/sbmoffshore_logo?e=2147483647&v=beta&t=gOy5oU8j01k5_gGcVqCfcMt5HAdLogquL_ntsIaemHI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4443698676",
+    "title": "Computer Scientist I ( Full Stack - Frontend Heavy )",
+    "company": "Adobe",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-08-19",
+    "link": "https://in.linkedin.com/jobs/view/computer-scientist-i-full-stack-frontend-heavy-at-adobe-4443698676?position=1&pageNum=77&refId=nSpu%2FGTK8Gkl1hG59gUKFA%3D%3D&trackingId=AXQhV02fe4uWdld3ec9qCw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHilaKdJueUVg/company-logo_100_100/B56ZodIp56HUAU-/0/1761425400481?e=2147483647&v=beta&t=5quwQkjoWPHt-cdv-cBmTVHls2M4cf6o-rcrCVz1-tE",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4454781524",
@@ -166304,5 +166348,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE9QzwAT2Zjiw/company-logo_100_100/B4DZ.yjvRyJ8AM-/0/1785407141200/weekdayworks_logo?e=2147483647&v=beta&t=HUFLIXcdj8PiWjKMzmfFsV6tWi_2joSUvOjslzsPMIs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4462421599",
+    "title": "SAP Fiori / SAPUI5 Developer",
+    "company": "A.P. Moller - Maersk",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sap-fiori-sapui5-developer-at-a-p-moller-maersk-4462421599?position=10&pageNum=52&refId=l6MkOlunHKDGlnqZDOHGEA%3D%3D&trackingId=I1vlHRAFCndzxuJUyN5Idw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFxaOJ8VzplhA/company-logo_100_100/company-logo_100_100/0/1630463556967/maersk_group_logo?e=2147483647&v=beta&t=YrP30ynaVz8K1BQU2Ap7mlV4Hx_xpRFYBVrVAd03m5A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4459939643",
+    "title": "Full Stack Engineer",
+    "company": "Straive",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-straive-4459939643?position=3&pageNum=57&refId=TgoVjUA%2BnRNEP0IRAK%2FMLQ%3D%3D&trackingId=qkcTNBbJwjfcDPULKW00Yw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEE4yM1kDzBUg/company-logo_100_100/B56ZV_9eMKHsAQ-/0/1741608576280/straive__logo?e=2147483647&v=beta&t=raxZ8LOt50tgSGMFKSCBrOOhnDIduDnkSZWTXpiMVyw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4462175789",
+    "title": ".NET Angular Developer",
+    "company": "Synectics APAC",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/net-angular-developer-at-synectics-apac-4462175789?position=5&pageNum=57&refId=TgoVjUA%2BnRNEP0IRAK%2FMLQ%3D%3D&trackingId=YWzJPc3sWDJnefYCzMUvcw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEvwkysE8FhSw/company-logo_100_100/B4EZgJaOnYHoAU-/0/1752504527869/synectics_apac_logo?e=2147483647&v=beta&t=93YQzQVj3x7-e2gNAf5Nc3DDIk5-2Uwgcdk7aVgVENI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4460955565",
+    "title": "Full Stack Senior Engineer (React+Python)",
+    "company": "Fractal",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-senior-engineer-react%2Bpython-at-fractal-4460955565?position=5&pageNum=97&refId=p0Ax8WjBK4RWIheNM1gl9Q%3D%3D&trackingId=%2Fg%2BVu%2Fctk%2BLESrhldelZaA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH2-GwoVW3FSA/company-logo_100_100/B4DZxLXQzVJIAQ-/0/1770790915742/fractal_analytics_logo?e=2147483647&v=beta&t=3pGwh8vIz0gfC9bo8IKbVI_5Sg6KepgUYWHtmTACWqo",
+    "lat": 0,
+    "lng": 0
   }
 ]
