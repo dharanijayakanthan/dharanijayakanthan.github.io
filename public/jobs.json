@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4462152921",
+    "title": "Java with Angular Full stack developer",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-02",
+    "link": "https://in.linkedin.com/jobs/view/java-with-angular-full-stack-developer-at-capgemini-4462152921?position=10&pageNum=87&refId=96CLLXGnz9j%2FO5EZxbzy%2BQ%3D%3D&trackingId=OV3UdoZ9d%2FjNVpFCwMkSUA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4459502055",
     "title": "Lead I - Software Engineering",
     "company": "UST",
@@ -167065,5 +167076,75 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE1wyZ0gd_P_w/company-logo_100_100/B4DZmf03PuJMAY-/0/1759323061531/virtusa_logo?e=2147483647&v=beta&t=BX2oukfWW-ynMINuDRbCIlfgg5xRn0BoZf9Mk-TS1t4",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4461343479",
+    "title": "Wordpress Developer",
+    "company": "IInfotanks",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/wordpress-developer-at-iinfotanks-4461343479?position=3&pageNum=50&refId=zVxY72QmFZCPOHXDVS7rug%3D%3D&trackingId=MHAamqe6xxDZ9PXeU5Zs2A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFywXmKV7BNIw/company-logo_100_100/company-logo_100_100/0/1701333308036/iinfotanks_logo?e=2147483647&v=beta&t=_SFdKbmes9yrvexS_vwK8b62C74wb6gdEKEQ_R89tKE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4462805639",
+    "title": "Senior Engineer Software - React Native [T500-29126]",
+    "company": "Albertsons Companies India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-engineer-software-react-native-t500-29126-at-albertsons-companies-india-4462805639?position=6&pageNum=37&refId=bnyBbvItUuuwsnKh8MAslQ%3D%3D&trackingId=ObHvxikf%2BaLu2n6kANkDoQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEyBWPU29c96g/company-logo_100_100/B56Za2zTbsGUAQ-/0/1746823624863?e=2147483647&v=beta&t=gy5o8LNL-bS3QCbE3qLyfk6eSymTOQwf9_-XLhzxQdI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4461660852",
+    "title": "Full Stack Developer - AI Best Practices - Remote",
+    "company": "McFadyen Digital",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-ai-best-practices-remote-at-mcfadyen-digital-4461660852?position=9&pageNum=37&refId=bnyBbvItUuuwsnKh8MAslQ%3D%3D&trackingId=pszwwMsgJQ0fJ4G5JQHtjg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEIxIopB6gC9Q/company-logo_100_100/company-logo_100_100/0/1724794060379/mcfadyendigital_logo?e=2147483647&v=beta&t=fb1Ds_JVY3X_kouPz20Y34dY5x1QtGGEoSVDjtZD7A8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4462882436",
+    "title": ".Net Angular Developer",
+    "company": "Eurofins",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/net-angular-developer-at-eurofins-4462882436?position=2&pageNum=72&refId=Xlxkbp74JQYzg6mYIFmTIg%3D%3D&trackingId=YEiOlQpWC8jtRSfqZhsqAg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFnNOoDrwfW6A/company-logo_100_100/company-logo_100_100/0/1630540114523/eurofins_logo?e=2147483647&v=beta&t=YmAUdo_wjfnFDQerIYzNSukvGQH0MB4fgGIuolHWNc8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4460496410",
+    "title": "Consultant",
+    "company": "Virtusa",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/consultant-at-virtusa-4460496410?position=7&pageNum=77&refId=560P8RIliREGOqkrSQ4zpQ%3D%3D&trackingId=gEPhCTwEyZpuEIUQI%2BEnnA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE1wyZ0gd_P_w/company-logo_100_100/B4DZmf03PuJMAY-/0/1759323061531/virtusa_logo?e=2147483647&v=beta&t=BX2oukfWW-ynMINuDRbCIlfgg5xRn0BoZf9Mk-TS1t4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4461666429",
+    "title": "Junior Web Developer",
+    "company": "Thomson Reuters",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/junior-web-developer-at-thomson-reuters-4461666429?position=9&pageNum=40&refId=puAQLJDhu5WCXi90pOwVoA%3D%3D&trackingId=aZb2UlkNm%2B8XardVvgqqwA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHtf0NHyUa92g/company-logo_100_100/company-logo_100_100/0/1719933220460/thomson_reuters_logo?e=2147483647&v=beta&t=ML9NnTk2lfPONL3Ft_HeSGyq0tQPb7SrfP_LSYjC6c0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4462859304",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4462859304?position=10&pageNum=50&refId=ThkN%2FPxEWD2amxlno7BQag%3D%3D&trackingId=1RlKj6%2FCRf1WjGeXequcrg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
   }
 ]
