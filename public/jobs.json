@@ -22,6 +22,39 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4461398214",
+    "title": "SAP UI5/Fiori consultant L",
+    "company": "Zorba AI",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-03",
+    "link": "https://in.linkedin.com/jobs/view/sap-ui5-fiori-consultant-l-at-zorba-ai-4461398214?position=3&pageNum=27&refId=jXniuGWVyWi3czG%2BRsL3jQ%3D%3D&trackingId=7W5M1wXOeqeMRS%2B%2BjyCLlw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGv6qB-clcL4g/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630645401463/zorba_consulting_india_logo?e=2147483647&v=beta&t=N6ghaLy5WpI7lwpif5eksPmkZw_sBbnVw-1pc8j_kss",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4461661973",
+    "title": "Associate-Digital Transformation",
+    "company": "Tesco Business Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-03",
+    "link": "https://in.linkedin.com/jobs/view/associate-digital-transformation-at-tesco-business-solutions-4461661973?position=9&pageNum=35&refId=1F%2Fp2vjwtB0ebizEoS2Cvg%3D%3D&trackingId=t5%2BfLYoKX2LYvoSE56o8Fw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdMA0R-Dglvw/company-logo_100_100/company-logo_100_100/0/1688367529998/tesco_business_solutions_logo?e=2147483647&v=beta&t=T3xziTCOS1IsKtWD7hi0MpxcnjETCj64z8rpyD4P63Y",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4462808214",
+    "title": "Software Engineer",
+    "company": "GIVA",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-03",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-giva-4462808214?position=4&pageNum=32&refId=J59Vm5UCj8s4QbvO0hSP1g%3D%3D&trackingId=3PHdsDvWIo9kifnRsIjkyA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHVncFuko9Hpw/company-logo_100_100/B56ZcflITYHoAQ-/0/1748581517704/giva_co_logo?e=2147483647&v=beta&t=RpFgnB3H-_SPrY-YNalfV0KEq9_WvcIsYHSKGgxg2TQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4462152921",
     "title": "Java with Angular Full stack developer",
     "company": "Capgemini",
@@ -284,6 +317,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG2I4b6RVexFg/company-logo_100_100/company-logo_100_100/0/1695040265658/state_street_logo?e=2147483647&v=beta&t=Ub0oPMS_tj_W9kGjLa872fLM4oluGO4xV84-AjisJbo",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4460071790",
+    "title": "Software Development Engineer 3",
+    "company": "IQVIA",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-31",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-3-at-iqvia-4460071790?position=4&pageNum=85&refId=%2FBl2QlUhbjgerxicDy9HHw%3D%3D&trackingId=uVbuOjO6PcSCImx8HxmIMA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFW8oSPns4-Cw/company-logo_100_100/company-logo_100_100/0/1678802429367/iqvia_logo?e=2147483647&v=beta&t=QOXo3llXq86V8X_W17HYn3FC5VtElAP1K_rAxCkyhIs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4461284057",
+    "title": "React + Node.js Developer(6-9Y)",
+    "company": "CGI",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-31",
+    "link": "https://in.linkedin.com/jobs/view/react-%2B-node-js-developer-6-9y-at-cgi-4461284057?position=5&pageNum=85&refId=%2FBl2QlUhbjgerxicDy9HHw%3D%3D&trackingId=twksiUaKUFKdduIQzxGUPw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4458858040",
@@ -636,6 +691,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4437713290",
+    "title": "Software Development Engineer III, Bangalore",
+    "company": "Broccoli AI",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-27",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-iii-bangalore-at-broccoli-ai-4437713290?position=7&pageNum=85&refId=%2FBl2QlUhbjgerxicDy9HHw%3D%3D&trackingId=ntshVSKVtsx95TlPkFTzNw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGFzt9_M7vAwQ/company-logo_100_100/B56Z6_Gt7sKMAI-/0/1781322669999/broccoli_com_logo?e=2147483647&v=beta&t=SwlTeJ4BlS8HHHdfGNzmrxAIAiNPz61G54tUXbxzS-E",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4457251519",
@@ -167477,5 +167543,65 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHScKuaJ_0-WA/company-logo_100_100/company-logo_100_100/0/1712695425017/the_walt_disney_company_logo?e=2147483647&v=beta&t=RNCX8SOfIyb101EpcMeT_VYVIEv4nLPFUGLsBZ8WEjg",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4463394717",
+    "title": "Frontend Software Engineer - Process Management",
+    "company": "Corporater",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-software-engineer-process-management-at-corporater-4463394717?position=4&pageNum=0&refId=lN%2Bz1Tumannl9di%2FWWJvag%3D%3D&trackingId=CpM61LgB1IL%2BpyHedYfXJA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGw4ST262Jj4g/company-logo_100_100/company-logo_100_100/0/1644931218476/corporater_logo?e=2147483647&v=beta&t=SGgvl-knTE9HLdZk-CompsoZa1Jmu1QlqVcYul4FcRQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4463608036",
+    "title": "Frontend Software Engineer - Notifications",
+    "company": "Corporater",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-software-engineer-notifications-at-corporater-4463608036?position=5&pageNum=0&refId=lN%2Bz1Tumannl9di%2FWWJvag%3D%3D&trackingId=9ShhM%2B0tqVT82SlTxittXw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGw4ST262Jj4g/company-logo_100_100/company-logo_100_100/0/1644931218476/corporater_logo?e=2147483647&v=beta&t=SGgvl-knTE9HLdZk-CompsoZa1Jmu1QlqVcYul4FcRQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4463390485",
+    "title": "Software Engineer - 6+yrs - React.js/Angular/Java",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-6%2Byrs-react-js-angular-java-at-cisco-4463390485?position=1&pageNum=37&refId=MBt5xfcd9rgXw%2F%2Bzmcm8Qw%3D%3D&trackingId=3j3Hhv1qBohNjLxPLDwKNg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4461173089",
+    "title": "Full Stack Developer",
+    "company": "BlueOptima",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-blueoptima-4461173089?position=3&pageNum=37&refId=MBt5xfcd9rgXw%2F%2Bzmcm8Qw%3D%3D&trackingId=JctgfreyfxABMT5hDwF1Ww%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHp_kTqJJ940Q/company-logo_100_100/B4EZf4oK6CHsAQ-/0/1752222969847/blueoptima_logo?e=2147483647&v=beta&t=gHJEkErAi5xIIDB6mvmGTB5R7ciHXMoSbIYfLCXgSts",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4463628068",
+    "title": "Angular 14+, Typescript/JavaScript, Spring boot, Microservices - Full Stack Developer",
+    "company": "NTT DATA North America",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/angular-14%2B-typescript-javascript-spring-boot-microservices-full-stack-developer-at-ntt-data-north-america-4463628068?position=1&pageNum=45&refId=cNeHG%2BvqVp21%2Fx2kiHAWTg%3D%3D&trackingId=dZK7n4XFilY894OyPe7c8A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnoz2X-IxAuw/company-logo_100_100/company-logo_100_100/0/1719840778368/ntt_data_americas_logo?e=2147483647&v=beta&t=9lYr_fMUoCGiHovTPbfU6DBRyUAG-HtLUYziXPNmzcg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4461176911",
+    "title": "Frontend Agentic Engineer",
+    "company": "InCommon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-agentic-engineer-at-incommon-4461176911?position=2&pageNum=5&refId=hLCAr%2Fhr%2BoON7R3E7cmamA%3D%3D&trackingId=myf%2BsWBH1T9xRlB58mlkwg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF3uJGJfCnNHQ/company-logo_100_100/B4DZ_IQkVxKkAI-/0/1785771214419/incommonhq_logo?e=2147483647&v=beta&t=yb1eQxL8xqRxuF9a3vacgLjIJ_8_dA32SCkTGGKaIX0",
+    "lat": 0,
+    "lng": 0
   }
 ]
