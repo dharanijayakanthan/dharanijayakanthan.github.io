@@ -55,6 +55,39 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4462849785",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-03",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4462849785?position=1&pageNum=47&refId=dg53fBB0dNxHan3f0qy5Gw%3D%3D&trackingId=I%2FfCLLEmxhGE0a%2BQEvMm2Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4462856692",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-03",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4462856692?position=10&pageNum=72&refId=QilMzoEErw9XWmEq3QKZYw%3D%3D&trackingId=rZf3khmn7aD1TicT5HYeKA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4462868187",
+    "title": "Senior Software Engineer",
+    "company": "Procore Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-03",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-procore-technologies-4462868187?position=9&pageNum=85&refId=tOtdzohQ8ieFfVXVCkp7eA%3D%3D&trackingId=W9sd0Q5RVOBH1V%2FI0%2FKs0A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGniocgaFzu6g/company-logo_100_100/company-logo_100_100/0/1737481196088/procore_technologies_logo?e=2147483647&v=beta&t=4OVlWJ3oXtVm56TIS0p8PvV7V1WXkExFpX3XNhYVVW4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4462152921",
     "title": "Java with Angular Full stack developer",
     "company": "Capgemini",
@@ -999,6 +1032,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHquBl_sJE0lw/company-logo_100_100/B4EZp26jIsJ0AQ-/0/1762931651526/mott_macdonald_logo?e=2147483647&v=beta&t=5sCy1ta-Kny0QUEf8sm95nEqLFaElZFTs9m07SfdWS8",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4446634215",
+    "title": "Senior Full Stack Developer – Cloud Automation Platforms",
+    "company": "Analog Devices",
+    "location": "Greater Bengaluru Area",
+    "date": "2026-08-25",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-%E2%80%93-cloud-automation-platforms-at-analog-devices-4446634215?position=8&pageNum=92&refId=R92XHQpnvtxGBx9TeBwYAw%3D%3D&trackingId=awiDE%2FgE%2F8wdNtzkWJJjRA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFIPofjzp1AXA/company-logo_100_100/company-logo_100_100/0/1639584615887/analog_devices_logo?e=2147483647&v=beta&t=bZQxkGOzeJS9pxUXfTNodZxtiX1mfW0JP5NP_60ixZQ",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4456848899",
@@ -167603,5 +167647,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF3uJGJfCnNHQ/company-logo_100_100/B4DZ_IQkVxKkAI-/0/1785771214419/incommonhq_logo?e=2147483647&v=beta&t=yb1eQxL8xqRxuF9a3vacgLjIJ_8_dA32SCkTGGKaIX0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4463643850",
+    "title": "Software Development Engineer (WebApps)",
+    "company": "Fox Corporation",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-webapps-at-fox-corporation-4463643850?position=7&pageNum=5&refId=c22YxnVxd0Obl7Xm9LBS9Q%3D%3D&trackingId=snJs7x0ubZu%2BICwzDPqeIw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGOh0NK_f3phg/company-logo_100_100/company-logo_100_100/0/1630486618930/fox_corporation_logo?e=2147483647&v=beta&t=BQYtzeWCinbABeI4KihKLcI6XzEja7QoEz4PqJeEiXc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4463323804",
+    "title": "Frontend Developer (React JS, Next JS)",
+    "company": "Kavintech Corporation",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-react-js-next-js-at-kavintech-corporation-4463323804?position=7&pageNum=12&refId=gAHxii8gkwC44a5grt5skQ%3D%3D&trackingId=c1QAmXiNhkYCVL%2F%2FcHyO%2Fw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHtrFF7y-dHZQ/company-logo_100_100/company-logo_100_100/0/1674831143880/kavintech_corporation_logo?e=2147483647&v=beta&t=VKaTElfqIANa3TVX1YY7ORmF6-5NNbgtiPfF3Z4CWdo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4461430035",
+    "title": "Engineer Software - Java Full Stack",
+    "company": "Empower India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/engineer-software-java-full-stack-at-empower-india-4461430035?position=10&pageNum=97&refId=WgZzzWDtuDZVf7wkJm35Mw%3D%3D&trackingId=ZBsrcoA2bgeQbgPf5JlanQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQETBZSIS5vqqw/company-logo_100_100/company-logo_100_100/0/1657569254292/empower_india_logo?e=2147483647&v=beta&t=9zSjkk6FyT7_5hKKz1NzqRuXBNZio4MR0dqLNcGDlHE",
+    "lat": 0,
+    "lng": 0
   }
 ]
