@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4461425116",
+    "title": "Engineer Software - Java Full Stack",
+    "company": "Empower India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-05",
+    "link": "https://in.linkedin.com/jobs/view/engineer-software-java-full-stack-at-empower-india-4461425116?position=9&pageNum=97&refId=sd%2BktHdinhqdyJd2gO8j3A%3D%3D&trackingId=99JnFsP31vz0V3puGowKmQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQETBZSIS5vqqw/company-logo_100_100/company-logo_100_100/0/1657569254292/empower_india_logo?e=2147483647&v=beta&t=9zSjkk6FyT7_5hKKz1NzqRuXBNZio4MR0dqLNcGDlHE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4460795095",
     "title": "Senior Engineer",
     "company": "American Express Global Business Travel",
@@ -1296,6 +1307,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFIPofjzp1AXA/company-logo_100_100/company-logo_100_100/0/1639584615887/analog_devices_logo?e=2147483647&v=beta&t=bZQxkGOzeJS9pxUXfTNodZxtiX1mfW0JP5NP_60ixZQ",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4458747533",
+    "title": "Lead Engineer",
+    "company": "Prodapt",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-25",
+    "link": "https://in.linkedin.com/jobs/view/lead-engineer-at-prodapt-4458747533?position=6&pageNum=92&refId=DvI41%2BvMixjvRtopjbpcfQ%3D%3D&trackingId=ey%2F2ESmzQ2zXKes9d%2BZPkw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEGFa205fsaUQ/company-logo_100_100/B56ZWJiidQGUAY-/0/1741769288172/prodapt_logo?e=2147483647&v=beta&t=02xw54RB8Jrl4JII30yUxLZ330o-2vkb2WbUcG1NGDo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4456848899",
@@ -168078,5 +168100,15 @@
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQGqZH7vVbVzWw/company-logo_100_100/company-logo_100_100/0/1630606529683/hdfc_bank_logo?e=2147483647&v=beta&t=FNZLhtKr56P2lEpXe-dyWPwrBWwLix1IzAS2Bz6Tof4",
     "lat": 12.9068787,
     "lng": 77.5997761
+  },
+  {
+    "id": "urn:li:jobPosting:4461485621",
+    "title": "Software Engineer 1",
+    "company": "UiPath",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-1-at-uipath-4461485621?position=2&pageNum=35&refId=dw2Z9DMsybP4e28o2wDreg%3D%3D&trackingId=3eR2Zs3enigpnAU3vgT7XA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEoLEGmmZUTsg/company-logo_100_100/B4DZfP43PmHMAU-/0/1751539479900/uipath_logo?e=2147483647&v=beta&t=h7IF4PNnjW6qucpXaSu1E3Jt6rd596ZWc5hk40XKDVg",
+    "lat": 0,
+    "lng": 0
   }
 ]
