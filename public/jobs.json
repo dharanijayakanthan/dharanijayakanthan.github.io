@@ -168570,5 +168570,85 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFA8y--Xlpu9Q/company-logo_100_100/B4DZ7u90NrJcAM-/0/1782125642917/trisminc_logo?e=2147483647&v=beta&t=mY3l78D5LFUEc8dQzmhhYKV1SgszaBz3diwIIN1zk34",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4464344323",
+    "title": "Frontend Engineer",
+    "company": "Weekday AI (YC W21)",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-at-weekday-ai-yc-w21-4464344323?position=3&pageNum=5&refId=fYhcrdYCQKHaHesiR4%2Fe%2Fg%3D%3D&trackingId=k41i9%2BlbaNHxdsq7U9QN%2BQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMGKC-EvAWpg/company-logo_100_100/company-logo_100_100/0/1737539347361/weekdayjobs_logo?e=2147483647&v=beta&t=ieIgvB8kFgzbxY41wBcAR7jpNOrDOqFB53OKC5vWkuQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464350404",
+    "title": "SDE 1",
+    "company": "Newton School",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sde-1-at-newton-school-4464350404?position=6&pageNum=30&refId=%2B%2F%2FHRmYoYFJLsvVa6V0u4g%3D%3D&trackingId=rEfTZQOLEunokREJr5BB3w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEqnJG6gd1FhA/company-logo_100_100/B56ZtuuqihGwAQ-/0/1767089285839/newtonschool_logo?e=2147483647&v=beta&t=_f7xXlpiLFqR9Vw5LZi4w4v6hZOgbbIb3qfMCUXCfhs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4462925627",
+    "title": ". Net FSE Angular Developer",
+    "company": "Cognizant",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/net-fse-angular-developer-at-cognizant-4462925627?position=9&pageNum=32&refId=hiKKV%2ByCIGijksBZDwOe%2Fg%3D%3D&trackingId=7AYwfQf29hNOkoa69nkIaw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_100_100/B4EZk_EfNgHgAU-/0/1757699778309/cognizant_logo?e=2147483647&v=beta&t=pEIgD9-D_EFoL3rsreK0H2EZEcsXWdZSN64-dV7VrSU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4462927950",
+    "title": "User Interface Architect",
+    "company": "Zensar Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/user-interface-architect-at-zensar-technologies-4462927950?position=2&pageNum=35&refId=FDrbMWXjMn96z0Qpt6mPqw%3D%3D&trackingId=kGlTzLymKoWbKE2AX12XBw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFls229vaDjDg/company-logo_100_100/company-logo_100_100/0/1657181507521/zensar_logo?e=2147483647&v=beta&t=kugFIZKCnsTkWEQoJIw35rN_6OA92cyHTuCOOZd7bR4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464301187",
+    "title": "Software Development Engineer",
+    "company": "Intuitive",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-at-intuitive-4464301187?position=6&pageNum=52&refId=Pm%2FlZRTld4xRSLEMFgOlSQ%3D%3D&trackingId=btt1uiY68Ox13abcOu2KwQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQE2wfXIjiCzWA/company-logo_100_100/company-logo_100_100/0/1630649619968/intuitivesurgical_logo?e=2147483647&v=beta&t=2JGvU0JKglMWXX6_lcMHK-vhAGYlN4ojUhUNav6vyyo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4462932448",
+    "title": "Fullstack Developer (React and Nodejs)",
+    "company": "Metasys Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/fullstack-developer-react-and-nodejs-at-metasys-technologies-4462932448?position=2&pageNum=57&refId=ubQR7r0Lqj4tJRvM2LYjkA%3D%3D&trackingId=9KrnTlSVNM2MyxOotmYenA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE7f6AXh10oBA/company-logo_100_100/company-logo_100_100/0/1729270686771/metasys_tech_logo?e=2147483647&v=beta&t=cdkxWpj8P_5pCJ4w6JOssDU7QW4DZcCNS3AxpnQrl7g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464310459",
+    "title": "Senior Software Development Engineer",
+    "company": "Zscaler",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-development-engineer-at-zscaler-4464310459?position=6&pageNum=60&refId=Y3rNtfK2IdTLRhOXyPaJpA%3D%3D&trackingId=Nr9Ud9RuDNMJJchCNviNNA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHswWh4VGNL3A/company-logo_100_100/B56Za2TSlsGoAU-/0/1746815232721/zscaler_logo?e=2147483647&v=beta&t=gv_C-RT17Wc3oLJxwyhI_zPbl25Fqaij10h8zQeiUzA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4462904855",
+    "title": "Senior Software Engineer - Full Stack",
+    "company": "upGrad",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-upgrad-4462904855?position=5&pageNum=57&refId=%2B6g67YlHoo0z9qjDK1sgHQ%3D%3D&trackingId=ca3vHClOrLzne0%2FygvcIpw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHeJ-2mFiqcmQ/company-logo_100_100/company-logo_100_100/0/1732599862731?e=2147483647&v=beta&t=mYl439jm90VLHHuttGPR3EFdZHM0Z02P9gusx0mwWrM",
+    "lat": 0,
+    "lng": 0
   }
 ]
