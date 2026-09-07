@@ -121,6 +121,17 @@
     "lng": 77.7084168
   },
   {
+    "id": "urn:li:jobPosting:4461183844",
+    "title": "Front End Developer Lead",
+    "company": "Movado Group, Inc",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-04",
+    "link": "https://in.linkedin.com/jobs/view/front-end-developer-lead-at-movado-group-inc-4461183844?position=10&pageNum=27&refId=JLZOUu8ZaELIHTTVyykA%2Fw%3D%3D&trackingId=76SWVjnkL%2FbndSIyd8biEQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE-ipu5p3qMAQ/company-logo_100_100/company-logo_100_100/0/1630602937100/movado_group_inc_logo?e=2147483647&v=beta&t=sbi-1fIcLvhy0fQRK-LUJzverjiZutBBd5wbBaJazlw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4462768846",
     "title": "Senior Software Engineer - Fullstack",
     "company": "SaaS Labs",
@@ -240,6 +251,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHBHCBuzHcgfw/company-logo_100_100/company-logo_100_100/0/1631324856014?e=2147483647&v=beta&t=vrMBSi7-LmQ2KeOYtYmz0dLIx1Ky7jhN5qebwMXhBvo",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4462801686",
+    "title": "Advanced Engineer Software - Java and React [T500-29124]",
+    "company": "Albertsons Companies India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-03",
+    "link": "https://in.linkedin.com/jobs/view/advanced-engineer-software-java-and-react-t500-29124-at-albertsons-companies-india-4462801686?position=10&pageNum=85&refId=d276AEI1JIvrwjxUP10Jpg%3D%3D&trackingId=0x9oYZSmXlSZy55tLOVtzQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEyBWPU29c96g/company-logo_100_100/B56Za2zTbsGUAQ-/0/1746823624863?e=2147483647&v=beta&t=gy5o8LNL-bS3QCbE3qLyfk6eSymTOQwf9_-XLhzxQdI",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4462152921",
@@ -724,6 +746,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQG6KMZp1zAiTA/company-logo_100_100/company-logo_100_100/0/1630605289074/weareuplers_logo?e=2147483647&v=beta&t=8ec1IPpKhoAr3aPORgJamp0Y2X8727Oqs_lSTjjrzgY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4458965754",
+    "title": "Angular Develeper",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-08-28",
+    "link": "https://in.linkedin.com/jobs/view/angular-develeper-at-infosys-4458965754?position=10&pageNum=70&refId=fPHA5RXjpKnq1JP03dxGxg%3D%3D&trackingId=vqJyt5VKa9yfrhdLSPW2DA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4458373589",
@@ -168236,5 +168269,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEzeHuSVZe8jQ/img-crop_100/B56Z8iq5OSHIAI-/0/1782993097810?e=2147483647&v=beta&t=8ix7A4HUsUsPTcpIzwXIcwBTNRACntXt-b3xsQBSiow",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4462660845",
+    "title": "Senior Full Stack Developer.",
+    "company": "ZEISS India",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-at-zeiss-india-4462660845?position=10&pageNum=50&refId=UC4ZplpQ6KEXBu7eOdADkg%3D%3D&trackingId=XOSituSImDpfxNInICmH0g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFRD3LWcuXsjQ/company-logo_100_100/company-logo_100_100/0/1722921741148/carl_zeiss_india_czi_logo?e=2147483647&v=beta&t=KDgC9AhNYP6JPaNeNda0Pkbv_DPid4jXG-g-3R8LZ9g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464027997",
+    "title": "Software Engineer 1",
+    "company": "EngRadar",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-1-at-engradar-4464027997?position=4&pageNum=75&refId=k5RmV2JIiUZGuEkFVQh1uw%3D%3D&trackingId=MG3HoAAo6g113%2BG8VfUUFw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFQRKVu_1JBaA/company-logo_100_100/B4DZ8ONFFpKsAI-/0/1782649737797?e=2147483647&v=beta&t=f8QzxnTm1rMx8aaozTfxXsYYRGKzRs2oDOfSor9tfA4",
+    "lat": 0,
+    "lng": 0
   }
 ]
