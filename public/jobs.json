@@ -517,6 +517,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4448343408",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-01",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448343408?position=10&pageNum=97&refId=TOK%2Fic6b311XSuFLDoKhJg%3D%3D&trackingId=YAz8CubSssOcyQBeckyoyA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4459770454",
     "title": "Shopify plus developers",
     "company": "NowWiN International",
@@ -168721,5 +168732,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFpB8fd3m9G0w/company-logo_100_100/company-logo_100_100/0/1737552865359/philips_logo?e=2147483647&v=beta&t=ofVCClHfl44rpskSlerFBlKtFP0YcncuUIJWOVhOttk",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4464368847",
+    "title": "Sr. Software Engineer (UI Developer)",
+    "company": "GE HealthCare",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-software-engineer-ui-developer-at-ge-healthcare-4464368847?position=5&pageNum=15&refId=pfmSYaLGIKZrH9lK0V0TtQ%3D%3D&trackingId=50nhtKjXegqY%2FHrpGm0YVA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG30MejU_UygQ/company-logo_100_100/B56ZlzFxy6I0AQ-/0/1758572519588/gehealthcare_logo?e=2147483647&v=beta&t=nY-wpTVABSqcsPg_WG65-jSQQsWCROwqEEKlxai4V6g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464314512",
+    "title": "Senior Shopify Developer",
+    "company": "Innova ESI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-shopify-developer-at-innova-esi-4464314512?position=9&pageNum=30&refId=O%2B%2BlKN90KVXTHjMqdwvrkg%3D%3D&trackingId=kFVgoOtKxL6YtHCLnPDkyQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGMcJoGte_lxg/company-logo_100_100/B4DZg3B_.YHwAQ-/0/1753269928292/innovaesi_logo?e=2147483647&v=beta&t=DrckmG9JaXyZ5BndMENCsAIAarE1-ti4IGsc8K6WXag",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4463201003",
+    "title": "Full Stack Engineer",
+    "company": "ClearGrid",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-cleargrid-4463201003?position=4&pageNum=52&refId=pdxhzsW%2BmxYc1ppMQITpLQ%3D%3D&trackingId=XXhJEVYRYsDTkh96V735Sw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEt0Sq12sJTJg/company-logo_100_100/company-logo_100_100/0/1731424891893/cleargrid_ai_logo?e=2147483647&v=beta&t=PBuuMswczvWoDzoG22uG_QhhJ43fxLpVWmX-dYlmvHk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464356725",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4464356725?position=9&pageNum=92&refId=Xv%2BUXdPX0KnM0P2zFbSCWw%3D%3D&trackingId=PMeVEHHi2H9nzwYzsqvs9g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
   }
 ]
