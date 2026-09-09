@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4462296190",
+    "title": "Full Stack Developer",
+    "company": "AutoRABIT",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-09-08",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-autorabit-4462296190?position=10&pageNum=57&refId=FlYIK%2BKS624TORNnV6SCNA%3D%3D&trackingId=eek%2Fbv2zIKo0khSVnQSOVg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH0O2RGFLR6BQ/company-logo_100_100/B4EZeA5dVBGwAQ-/0/1750214235776/autorabit_logo?e=2147483647&v=beta&t=SvocZbTFPlNizg8jtsOfGDs_p8L4ungxa-UjlFOK9jE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4462289312",
     "title": "Senior Frontend Developer",
     "company": "Devops Expert India",
@@ -20,6 +31,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE9QzwAT2Zjiw/company-logo_100_100/B4DZ.yjvRyJ8AM-/0/1785407141200/weekdayworks_logo?e=2147483647&v=beta&t=HUFLIXcdj8PiWjKMzmfFsV6tWi_2joSUvOjslzsPMIs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4462200319",
+    "title": "Senior Technology Consultant IT - SAP Fiori_103085",
+    "company": "MyCareernet",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-07",
+    "link": "https://in.linkedin.com/jobs/view/senior-technology-consultant-it-sap-fiori-103085-at-mycareernet-4462200319?position=9&pageNum=67&refId=XFsGFax2xUo7h554v3NsmA%3D%3D&trackingId=aLJvLoSDw8PggMs4jejKpQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHvY_a1mzADSg/company-logo_100_100/B56ZuNCAyJKcAQ-/0/1767597674101/mycareernet_logo?e=2147483647&v=beta&t=GcueUhUgoPcaBa9mhnxYfvsjd-bQsCjKbS8gA4nJwq8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4462973966",
+    "title": "Website Developer",
+    "company": "Webbirth®",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-07",
+    "link": "https://in.linkedin.com/jobs/view/website-developer-at-webbirth%C2%AE-4462973966?position=2&pageNum=55&refId=7JurZw1cx1DlX%2FiGCWcvuQ%3D%3D&trackingId=1tM%2By1yVd%2Bsu6xzb81hokg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEg-rA4eHCavg/company-logo_100_100/company-logo_100_100/0/1688567082877/webbirth_logo?e=2147483647&v=beta&t=PfpuWhhQ0CGMbTLjn242NIPYcZxjM0SoVaLgtjUwZPc",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4463771872",
@@ -169221,5 +169254,95 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEXYV6p34CtPA/company-logo_100_100/B4DZjMehUuGgAc-/0/1755777210085/standard_chartered_india_logo?e=2147483647&v=beta&t=gxeH4hJTKe069a0UzLFYxW71KL4pW41yTiDx8Kp_wdg",
     "lat": 12.9853637,
     "lng": 77.7081623
+  },
+  {
+    "id": "urn:li:jobPosting:4464689262",
+    "title": "Sr. Software Engineer - UI",
+    "company": "Spectro Cloud",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-software-engineer-ui-at-spectro-cloud-4464689262?position=4&pageNum=27&refId=1x68vFYQZSKfjCwvDb%2FITg%3D%3D&trackingId=rDGrM96UU%2F6TXCAISQkScg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFmSTriysutFw/company-logo_100_100/B4DZ2Xp6m3I4AQ-/0/1776365841237/spectro_cloud_logo?e=2147483647&v=beta&t=UoD8I4Khj9I8xBJTBYI_u7eItbx6DXhSveCGDi10Vcw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4463243151",
+    "title": "Computer Scientist I (Full Stack Growth Engineer)",
+    "company": "Adobe",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/computer-scientist-i-full-stack-growth-engineer-at-adobe-4463243151?position=5&pageNum=65&refId=pLqWXAiJ3ub2LHThyLv43Q%3D%3D&trackingId=97XqB%2FtB4kQZ49A5HzeOLw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHilaKdJueUVg/company-logo_100_100/B56ZodIp56HUAU-/0/1761425400481?e=2147483647&v=beta&t=5quwQkjoWPHt-cdv-cBmTVHls2M4cf6o-rcrCVz1-tE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4462262926",
+    "title": "Web Development Associate / Web Developer",
+    "company": "Tricog Health",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-development-associate-web-developer-at-tricog-health-4462262926?position=1&pageNum=32&refId=r%2Bii%2BO8GR1mlceGsWGpepw%3D%3D&trackingId=eGkrkw%2FyIdH0pAEJkWaxVA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGymMKYF28uUQ/company-logo_100_100/company-logo_100_100/0/1664353312398/tricog_health_logo?e=2147483647&v=beta&t=81Bu2fm3o1qRSn03qTMWCCuJmWPlVnqBz2JH-_C_YQE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4463533781",
+    "title": "Liquid Shopify Developer",
+    "company": "Cube",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/liquid-shopify-developer-at-cube-4463533781?position=1&pageNum=35&refId=OGSNWjs%2BaNOZi2a4NhHQqg%3D%3D&trackingId=8pn4k7JjObIk1uujS%2B9dYw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEFxnAtWsRLUA/company-logo_100_100/company-logo_100_100/0/1685645305527/cubehqai_logo?e=2147483647&v=beta&t=M-0hV_6w8PpfWzLDN8aeG6OEEFq2ErdS6gAoSsjaUPg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464694407",
+    "title": "Specialist Software Engineer",
+    "company": "Societe Generale Global Solution Centre",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/specialist-software-engineer-at-societe-generale-global-solution-centre-4464694407?position=2&pageNum=37&refId=5uaM7DcbJCFvFKYH8wgMPA%3D%3D&trackingId=BG79FksV2WlgqSeDkkrYBw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQFwBvGQK2NyEA/company-logo_100_100/company-logo_100_100/0/1630620434106/societe_generale_global_solution_centre_logo?e=2147483647&v=beta&t=JLVeP7Wt4mveji2MHGGJKTK-7LZYVstKBki3yCG64XA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4463249437",
+    "title": "Specialist Executive Manager - Full Stack Web Developer - Brand, Marketing & Communication - Hyderabad/Bengaluru",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/specialist-executive-manager-full-stack-web-developer-brand-marketing-communication-hyderabad-bengaluru-at-deloitte-4463249437?position=9&pageNum=70&refId=E4zBjfwgUbLSqoz0H20Sag%3D%3D&trackingId=2fwhmniAYmozrhNRzz2tLQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464475216",
+    "title": "AEM UI Backend Developer",
+    "company": "Teamware Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/aem-ui-backend-developer-at-teamware-solutions-4464475216?position=9&pageNum=17&refId=lwDoeel%2BeTXkEyLK8iVq3Q%3D%3D&trackingId=%2BygHkN9D4ygUPafwyMuAww%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGTmsLAkTTGww/company-logo_100_100/company-logo_100_100/0/1722576449607/teamware_solutions_logo?e=2147483647&v=beta&t=QIDeTszOkwzAnnawMWT3qa9iPNzIuSXvAHSI6E-3FcA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464694428",
+    "title": "Specialist Software Engineer - Angular",
+    "company": "Societe Generale Global Solution Centre",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/specialist-software-engineer-angular-at-societe-generale-global-solution-centre-4464694428?position=3&pageNum=12&refId=rchnScVOZ3sAGvWf3qj6UQ%3D%3D&trackingId=ysn8TXJoG2wZLvkwUONIGg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQFwBvGQK2NyEA/company-logo_100_100/company-logo_100_100/0/1630620434106/societe_generale_global_solution_centre_logo?e=2147483647&v=beta&t=JLVeP7Wt4mveji2MHGGJKTK-7LZYVstKBki3yCG64XA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4463259180",
+    "title": "Back End Developer - Next JS",
+    "company": "Talentgigs",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/back-end-developer-next-js-at-talentgigs-4463259180?position=7&pageNum=57&refId=FlYIK%2BKS624TORNnV6SCNA%3D%3D&trackingId=xCY6v1jTKS0clWSK62iIRw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHxgXm8-8vd3Q/company-logo_100_100/B56ZdefgpDGoAQ-/0/1749637008713/talentgigs_logo?e=2147483647&v=beta&t=pVEYTwLSt2ts2MopgyppYk6-Yg7o_HJzVg_Q2tdJR5A",
+    "lat": 0,
+    "lng": 0
   }
 ]
