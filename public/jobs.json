@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4463078744",
+    "title": "Senior Engineer Software - Java Full Stack",
+    "company": "Empower India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-10",
+    "link": "https://in.linkedin.com/jobs/view/senior-engineer-software-java-full-stack-at-empower-india-4463078744?position=10&pageNum=95&refId=F5089eKpy%2BP7oAjpicDisQ%3D%3D&trackingId=COv53SF%2FPU1%2BfQa1p18UGQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQETBZSIS5vqqw/company-logo_100_100/company-logo_100_100/0/1657569254292/empower_india_logo?e=2147483647&v=beta&t=9zSjkk6FyT7_5hKKz1NzqRuXBNZio4MR0dqLNcGDlHE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4463055047",
     "title": "Full Stack Developer",
     "company": "AutoRABIT",
@@ -64,6 +75,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHWPEGxCtqEJg/company-logo_100_100/company-logo_100_100/0/1677047116895/designbrandshark_logo?e=2147483647&v=beta&t=4h3zB64V8DdmRTeddWqXk-k5ThfE4JcMKA0EgecGU28",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4463899755",
+    "title": "Front End Engineer",
+    "company": "American Express",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-09",
+    "link": "https://in.linkedin.com/jobs/view/front-end-engineer-at-american-express-4463899755?position=6&pageNum=12&refId=EqOL4bfP5BuUsT5Z0QhssQ%3D%3D&trackingId=rozn29yfCbAFK7W2Mvi75A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGRhsociEn4gQ/company-logo_100_100/company-logo_100_100/0/1631367875582?e=2147483647&v=beta&t=bk_i8KnJwZyUrbBXvWK0NMb6W3nPq64rupEGTrKvxYU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4463865121",
+    "title": "Software Engineer I",
+    "company": "American Express",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-09",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-at-american-express-4463865121?position=7&pageNum=17&refId=QRGU8CRZaNv3J6jMKH42aw%3D%3D&trackingId=rOliQOOS0v%2Fc4V1vGcNV2Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGRhsociEn4gQ/company-logo_100_100/company-logo_100_100/0/1631367875582?e=2147483647&v=beta&t=bk_i8KnJwZyUrbBXvWK0NMb6W3nPq64rupEGTrKvxYU",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4462296190",
@@ -172,6 +205,17 @@
     "date": "2026-09-08",
     "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-i-at-videojet-technologies-4455708803?position=1&pageNum=92&refId=PPHSSaAIfZYkwmwOvfpz8w%3D%3D&trackingId=8XOBDbahpCIHZbUX79VLBg%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF-PMlocsXFNw/company-logo_100_100/company-logo_100_100/0/1727276168786/videojet_logo?e=2147483647&v=beta&t=DrhQI85il0JAvFXOgs4kECtHawrM6XZWoGenXnbolnE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4463242383",
+    "title": "Java Full Stack Developers (React.js)",
+    "company": "ACL Digital",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-08",
+    "link": "https://in.linkedin.com/jobs/view/java-full-stack-developers-react-js-at-acl-digital-4463242383?position=9&pageNum=90&refId=rW2QGVPOznqtU5smqOCzlQ%3D%3D&trackingId=DHkEqPvWUsRo1mZ9pw66Xw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFYnXRZomIaNQ/company-logo_100_100/company-logo_100_100/0/1630664946745?e=2147483647&v=beta&t=Fzz7qcgk9U4JycxxHM6JLp-RCJxt4gtIJHgE9mV658A",
     "lat": 0,
     "lng": 0
   },
@@ -504,6 +548,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4463184864",
+    "title": "Java React Full Stack Developer",
+    "company": "Umanist NA",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-04",
+    "link": "https://in.linkedin.com/jobs/view/java-react-full-stack-developer-at-umanist-na-4463184864?position=9&pageNum=82&refId=P48wjvg6tZASg%2Bf%2B7RqoyQ%3D%3D&trackingId=LVmGPSn0Cru2Qg3R2Wf1aw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE9p98tVKf_tg/company-logo_100_100/B56ZgQKq3xGUAQ-/0/1752617890200/cryptomark_logo?e=2147483647&v=beta&t=IUbKaP9XoFf8068zWdR75qBgEcNs_AAUE-ebBymwcqk",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4462768846",
@@ -900,6 +955,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4448348233",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-01",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448348233?position=7&pageNum=47&refId=Az8D4SWOMcBB20t4YrDryQ%3D%3D&trackingId=h80xbijLC9NijVJWtzmahw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4451183749",
+    "title": "Senior Software Engineer",
+    "company": "Thomson Reuters",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-01",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-thomson-reuters-4451183749?position=5&pageNum=90&refId=rW2QGVPOznqtU5smqOCzlQ%3D%3D&trackingId=Q4yEudIyJcK8vsjvz3TbAw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHtf0NHyUa92g/company-logo_100_100/company-logo_100_100/0/1719933220460/thomson_reuters_logo?e=2147483647&v=beta&t=ML9NnTk2lfPONL3Ft_HeSGyq0tQPb7SrfP_LSYjC6c0",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4459770454",
@@ -170315,5 +170392,75 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGMcJoGte_lxg/company-logo_100_100/B4DZg3B_.YHwAQ-/0/1753269928292/innovaesi_logo?e=2147483647&v=beta&t=DrckmG9JaXyZ5BndMENCsAIAarE1-ti4IGsc8K6WXag",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4464559834",
+    "title": "Liquid Shopify Developer",
+    "company": "Cube",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/liquid-shopify-developer-at-cube-4464559834?position=10&pageNum=47&refId=Az8D4SWOMcBB20t4YrDryQ%3D%3D&trackingId=rL2%2FZCsYQ9pQgX1PTZcpjg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEFxnAtWsRLUA/company-logo_100_100/company-logo_100_100/0/1685645305527/cubehqai_logo?e=2147483647&v=beta&t=M-0hV_6w8PpfWzLDN8aeG6OEEFq2ErdS6gAoSsjaUPg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464509163",
+    "title": "React Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4464509163?position=8&pageNum=10&refId=m7zSlL2YSnUYEa1B%2B%2FfNQw%3D%3D&trackingId=gHkcpxCZY20ACtIijI6mGQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4463928053",
+    "title": "UI Developer (Angular)",
+    "company": "SITA",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ui-developer-angular-at-sita-4463928053?position=10&pageNum=25&refId=NKey8ywv7dLBZafUKCexvQ%3D%3D&trackingId=xi5lgH3%2B4dgp%2FPbJYuwN0g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEct2bplOS3Uw/company-logo_100_100/company-logo_100_100/0/1713242143215/sita_logo?e=2147483647&v=beta&t=-LX3bXxbUr6yY93vt-_FgHfTZvIJ4FCWggo6WjTR1Yg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465642567",
+    "title": "Senior Associate, Creative Technology",
+    "company": "Stagwell",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-associate-creative-technology-at-stagwell-4465642567?position=10&pageNum=27&refId=k0QATYUYN6vYXNibKBW1Iw%3D%3D&trackingId=GZulRfWkV4EmMR%2FiEt9vIg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQNJOhkVP2Rg/company-logo_100_100/B4EZvpqrrEJAAU-/0/1769151842487?e=2147483647&v=beta&t=TphdCaW8VKsHO4IM4SJvpdsCxLIT7ARdSB6vuNpjO9c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464185620",
+    "title": "SDE III",
+    "company": "AlmaBetter",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sde-iii-at-almabetter-4464185620?position=10&pageNum=82&refId=P48wjvg6tZASg%2Bf%2B7RqoyQ%3D%3D&trackingId=TKBTIRnYFHhXMv9pL0A8hg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQELN71l0Md_HQ/company-logo_100_100/company-logo_100_100/0/1681992257852/almabetter_logo?e=2147483647&v=beta&t=OVtKv2BpcXICXtMFE9Kh1Qn8LSB7UTVVeS4x-M3Axp0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465808781",
+    "title": "Senior Fullstack Engineer (Java + React.js)",
+    "company": "EngRadar",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-fullstack-engineer-java-%2B-react-js-at-engradar-4465808781?position=10&pageNum=85&refId=FNXkeNeZJepqi9Wv8NzmQQ%3D%3D&trackingId=FulHO6Gx2BnPdNn1ufVhgA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFQRKVu_1JBaA/company-logo_100_100/B4DZ8ONFFpKsAI-/0/1782649737797?e=2147483647&v=beta&t=f8QzxnTm1rMx8aaozTfxXsYYRGKzRs2oDOfSor9tfA4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465813457",
+    "title": "Specialist Software Engineer - Angular Front End",
+    "company": "Societe Generale Global Solution Centre",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/specialist-software-engineer-angular-front-end-at-societe-generale-global-solution-centre-4465813457?position=8&pageNum=17&refId=QRGU8CRZaNv3J6jMKH42aw%3D%3D&trackingId=mWZT3ecej1Dg8e4Ya5akGA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQFwBvGQK2NyEA/company-logo_100_100/company-logo_100_100/0/1630620434106/societe_generale_global_solution_centre_logo?e=2147483647&v=beta&t=JLVeP7Wt4mveji2MHGGJKTK-7LZYVstKBki3yCG64XA",
+    "lat": 0,
+    "lng": 0
   }
 ]
