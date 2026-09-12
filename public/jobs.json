@@ -539,6 +539,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4464094452",
+    "title": "Frontend Developer",
+    "company": "Recrew AI",
+    "location": "Bangalore Urban, Karnataka, India",
+    "date": "2026-09-07",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-recrew-ai-4464094452?position=10&pageNum=0&refId=Jm7JRmmxp5H1B5VDZ0NVZQ%3D%3D&trackingId=gjzIWzOq0bqFaSFz7%2BAxrw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGM70qm9MbWvA/company-logo_100_100/company-logo_100_100/0/1729664053436/recrew_ai_logo?e=2147483647&v=beta&t=RCofKskdvbsnkea0U_gPcjUIePQ7boxR7mGyf4nKjDU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4463771872",
     "title": "Front-End Engineer II",
     "company": "Amazon",
@@ -171160,5 +171171,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFF3e4ygmfqGg/company-logo_100_100/company-logo_100_100/0/1698045416153/hirevedax_logo?e=2147483647&v=beta&t=YrSNaiUV9n0eAMcyc0_ZcQNB1RRgkAjmhA-zcRci5XQ",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4465412709",
+    "title": "Sr. Software Engineer B2",
+    "company": "Cognizant",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-software-engineer-b2-at-cognizant-4465412709?position=1&pageNum=37&refId=wfFfVMgHbWK3NX1i8B%2FxHQ%3D%3D&trackingId=uL89Nz75W1baUoCoIyNWqQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_100_100/B4EZk_EfNgHgAU-/0/1757699778309/cognizant_logo?e=2147483647&v=beta&t=pEIgD9-D_EFoL3rsreK0H2EZEcsXWdZSN64-dV7VrSU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464287074",
+    "title": "Sr. Staff Engineer - Web Developer",
+    "company": "Thermo Fisher Scientific",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-staff-engineer-web-developer-at-thermo-fisher-scientific-4464287074?position=10&pageNum=60&refId=by%2FsNXiiDrzadQuv04EQJw%3D%3D&trackingId=3k8dG9Xs1dybFG3kAoW%2FjA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGe2HQP4zwTlA/company-logo_100_100/company-logo_100_100/0/1688649979581/thermo_fisher_scientific_logo?e=2147483647&v=beta&t=iwXfVsVoN3N55AbBLzgcXs3SjpF3H5asLBOKd8LqV3o",
+    "lat": 0,
+    "lng": 0
   }
 ]
