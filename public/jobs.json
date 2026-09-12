@@ -66,6 +66,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4463477773",
+    "title": "MTS 2, Software Engineer - FullStack",
+    "company": "eBay",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-10",
+    "link": "https://in.linkedin.com/jobs/view/mts-2-software-engineer-fullstack-at-ebay-4463477773?position=3&pageNum=92&refId=FvGz6yUx%2BVdmAgdabkasjQ%3D%3D&trackingId=8MAl5NhXDKM2MPfznFp%2BSw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFfGj-Xuawo6A/company-logo_100_100/company-logo_100_100/0/1634568184469/ebay_logo?e=2147483647&v=beta&t=BEp-EQMNBexZVYGMcq6jeof_bX8QzuCCq4BEG6UCRdM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4463911656",
+    "title": "Senior Software Engineer - Full Stack",
+    "company": "ChargePoint",
+    "location": "Bangalore Urban, Karnataka, India",
+    "date": "2026-09-10",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-chargepoint-4463911656?position=5&pageNum=92&refId=FvGz6yUx%2BVdmAgdabkasjQ%3D%3D&trackingId=XmwpBVqGe5YsXpBRDzdlnQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFSoFbNcX7Eiw/company-logo_100_100/company-logo_100_100/0/1631404235186?e=2147483647&v=beta&t=-o_vbREH2zf998D7ldIuMe_uXM1SCv6sCc4tAk5La1w",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4463055047",
     "title": "Full Stack Developer",
     "company": "AutoRABIT",
@@ -1848,6 +1870,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4458642235",
+    "title": "AI Engineer_Full Stack Generative AI",
+    "company": "Burns & McDonnell India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-27",
+    "link": "https://in.linkedin.com/jobs/view/ai-engineer-full-stack-generative-ai-at-burns-mcdonnell-india-4458642235?position=2&pageNum=92&refId=FvGz6yUx%2BVdmAgdabkasjQ%3D%3D&trackingId=DX7Zw9bVX%2FhUZNSXNQb2Cw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYFEWQi4yx8Q/company-logo_100_100/company-logo_100_100/0/1734719618120/burns_mcdonnell_india_logo?e=2147483647&v=beta&t=t309OG6l6LXTSPa1GzttsIbGM8ajmVEKtEf9z0uhCho",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4457251519",
     "title": "React JS Developer-SDE 2",
     "company": "Truemeds",
@@ -2460,6 +2493,17 @@
     "date": "2026-08-24",
     "link": "https://in.linkedin.com/jobs/view/ux-design-engineer-senior-associate-at-pwc-acceleration-center-india-4455854704?position=8&pageNum=95&refId=Pon2Y3CTaoIkN6K1vrL%2FgA%3D%3D&trackingId=GUf4yNbTxymyJklHPdOJXQ%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHuQqdWGsFM9Q/company-logo_100_100/B56ZaB.PV5HgAQ-/0/1745937299380/pwc_acs_in_india_logo?e=2147483647&v=beta&t=P9D-9QhC9uzOr1Kg4yRseC0uvYNXmxHvqWDvGrqTriY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4457114485",
+    "title": "Senior Full Stack Engineer",
+    "company": "MetAntz",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-24",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-at-metantz-4457114485?position=4&pageNum=92&refId=FvGz6yUx%2BVdmAgdabkasjQ%3D%3D&trackingId=LnINonvNg47RgG2HyTx3Aw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHg1eg6HD_2gg/company-logo_100_100/B4DZVLPnSPHAAQ-/0/1740724140174/metantz_logo?e=2147483647&v=beta&t=YC2uPyCHWwhg1VDoL5mTh0P8YFI4keh_ftLBggbEQrs",
     "lat": 0,
     "lng": 0
   },
@@ -171066,5 +171110,55 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEZERMrrAlXVw/company-logo_100_100/company-logo_100_100/0/1719255372149?e=2147483647&v=beta&t=xPTdHQ--pty-y61nn_XWKqWnxitr7FZEfJQ90prl75M",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4465402460",
+    "title": "React Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4465402460?position=9&pageNum=10&refId=cTT9cpn85N7xid54K6Oqmg%3D%3D&trackingId=x5dn3Q%2BpiYLZhPbtNOAb%2BA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466483729",
+    "title": "Senior product design engineer",
+    "company": "JobCrexa",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-product-design-engineer-at-jobcrexa-4466483729?position=3&pageNum=30&refId=Y5KqY4wiDUBVfBlgj6sNjg%3D%3D&trackingId=1b4dzLLlHjzDe4xHp355%2BQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG4V6RTMlIngA/company-logo_100_100/B56Z712HNAIUAI-/0/1782241064009?e=2147483647&v=beta&t=d9WsGBlgq_rJ83F88qYKn27IXktCdS5h0tsvbkoKZfw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465184940",
+    "title": "Assoc, FrontEnd Eng - Android, WRB Tech",
+    "company": "Standard Chartered India",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/assoc-frontend-eng-android-wrb-tech-at-standard-chartered-india-4465184940?position=1&pageNum=42&refId=7iSdRV1V7oMvSdOsoSc4uA%3D%3D&trackingId=erEGlAjxg0raJYWuImTnuw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEXYV6p34CtPA/company-logo_100_100/B4DZjMehUuGgAc-/0/1755777210085/standard_chartered_india_logo?e=2147483647&v=beta&t=gxeH4hJTKe069a0UzLFYxW71KL4pW41yTiDx8Kp_wdg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465418567",
+    "title": "MERN Stack Developer",
+    "company": "InnovKaro Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/mern-stack-developer-at-innovkaro-solutions-4465418567?position=5&pageNum=77&refId=y6rzzhDbQMtB8meSAoHMBQ%3D%3D&trackingId=3m950OSz6ZqD8x2I7VmLsw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFhengLsqfYgQ/img-crop_100/B56Zm64ForKAAM-/0/1759776890250?e=2147483647&v=beta&t=rs5EPktedBPdLHa3eEBNr-W6BsIE7d5vrqCTnCGV2sY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466322394",
+    "title": "HireVeda",
+    "company": "HireVedaX",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/hireveda-at-hirevedax-4466322394?position=1&pageNum=50&refId=ISoTs2VfqFHt0y%2F%2B7koTvA%3D%3D&trackingId=v3aZb4JgGop87WLj%2FsC9%2BQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFF3e4ygmfqGg/company-logo_100_100/company-logo_100_100/0/1698045416153/hirevedax_logo?e=2147483647&v=beta&t=YrSNaiUV9n0eAMcyc0_ZcQNB1RRgkAjmhA-zcRci5XQ",
+    "lat": 0,
+    "lng": 0
   }
 ]
