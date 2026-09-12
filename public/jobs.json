@@ -836,6 +836,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4462765184",
+    "title": "Full Stack Engineer",
+    "company": "Aon",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-03",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-aon-4462765184?position=2&pageNum=92&refId=PE9eP2mXMc4DO3PQZwDh2A%3D%3D&trackingId=Ft%2FSB3wIptrWHntGXOAbxA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHnBv2iwG-YJQ/company-logo_100_100/B56Z9c920BKcAI-/0/1783971147236/aon_logo?e=2147483647&v=beta&t=0j7zW5q3S_zWRgNF3r7HRX3SPH-VopQreGnqyU6f9YU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4462152921",
     "title": "Java with Angular Full stack developer",
     "company": "Capgemini",
@@ -11570,6 +11581,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGHqQMT0dV_Jw/company-logo_100_100/B56ZYfuzuWGsAQ-/0/1744289086924/hiverhq_logo?e=2147483647&v=beta&t=g8EhNyAtSgPK0BP_ZoA43oPV_5-kBj8o7FmTJ2iD5nI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4442842136",
+    "title": "Software Engineer (5+ Years in DotNet+C#+React+Typescript+Azure+SQL Server)",
+    "company": "Assurant",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-07-27",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-5%2B-years-in-dotnet%2Bc%23%2Breact%2Btypescript%2Bazure%2Bsql-server-at-assurant-4442842136?position=4&pageNum=92&refId=PE9eP2mXMc4DO3PQZwDh2A%3D%3D&trackingId=%2BuN6fnhzxCnVKyM5TXIFAQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHqvnn3k0YLhg/company-logo_100_100/company-logo_100_100/0/1631301175789?e=2147483647&v=beta&t=2S7jHBkg9_zGUigiam6aC74vBcTHwLBD3-GRTb7R2Ps",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4444836198",
@@ -170822,5 +170844,75 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFn5nr3URYZeA/company-logo_100_100/B56ZbVlX8sHUAY-/0/1747340067181/hinge_health_logo?e=2147483647&v=beta&t=e2Azp2I57UWZmsUb8iEk8MO-oBrlnaZf18o0nBM3aew",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4466393668",
+    "title": "Frontend developer",
+    "company": "JobCrexa",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-jobcrexa-4466393668?position=4&pageNum=0&refId=m5%2FMVg13vhzo25J%2BjM5zkA%3D%3D&trackingId=SaPbioy40BQGjPzelhTJTQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG4V6RTMlIngA/company-logo_100_100/B56Z712HNAIUAI-/0/1782241064009?e=2147483647&v=beta&t=d9WsGBlgq_rJ83F88qYKn27IXktCdS5h0tsvbkoKZfw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466392605",
+    "title": "Web developer",
+    "company": "JobCrexa",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-jobcrexa-4466392605?position=10&pageNum=22&refId=syCSRsdQBQNttKPAb%2BOfmw%3D%3D&trackingId=ZPkfpBId3RqxIsSUnVYVKQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG4V6RTMlIngA/company-logo_100_100/B56Z712HNAIUAI-/0/1782241064009?e=2147483647&v=beta&t=d9WsGBlgq_rJ83F88qYKn27IXktCdS5h0tsvbkoKZfw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466063747",
+    "title": "Advanced Engineer Software - Java & React [T500-29345]",
+    "company": "Albertsons Companies India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/advanced-engineer-software-java-react-t500-29345-at-albertsons-companies-india-4466063747?position=8&pageNum=77&refId=rDeAPuxS5%2BLs3iXVEbfyEA%3D%3D&trackingId=6GvVdsHe9UkaYgtxhRLlBg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEyBWPU29c96g/company-logo_100_100/B56Za2zTbsGUAQ-/0/1746823624863?e=2147483647&v=beta&t=gy5o8LNL-bS3QCbE3qLyfk6eSymTOQwf9_-XLhzxQdI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4446078677",
+    "title": "Senior Software Engineer",
+    "company": "Thomson Reuters",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-thomson-reuters-4446078677?position=9&pageNum=90&refId=1XvELpLGasQYpb5cZt60tA%3D%3D&trackingId=PVgvl4HILnLWjOZslyV9kQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHtf0NHyUa92g/company-logo_100_100/company-logo_100_100/0/1719933220460/thomson_reuters_logo?e=2147483647&v=beta&t=ML9NnTk2lfPONL3Ft_HeSGyq0tQPb7SrfP_LSYjC6c0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466406566",
+    "title": "Senior frontend developer",
+    "company": "JobCrexa",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-developer-at-jobcrexa-4466406566?position=2&pageNum=25&refId=17pKauLgN7Ewa%2BJKmGHGFA%3D%3D&trackingId=TahWGQkVF4FsJT3lCkfcFQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG4V6RTMlIngA/company-logo_100_100/B56Z712HNAIUAI-/0/1782241064009?e=2147483647&v=beta&t=d9WsGBlgq_rJ83F88qYKn27IXktCdS5h0tsvbkoKZfw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465161647",
+    "title": "React Developer",
+    "company": "Idea Infinity IT Solution Pvt Ltd",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-idea-infinity-it-solution-pvt-ltd-4465161647?position=4&pageNum=25&refId=17pKauLgN7Ewa%2BJKmGHGFA%3D%3D&trackingId=8JWebygQVVHyQ%2FYxtklgnA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE1zxxiMTyIRg/company-logo_100_100/company-logo_100_100/0/1695803601112/idea_infinity_it_solutions_private_limited_logo?e=2147483647&v=beta&t=-KNXxM8bJ30Da4u4yoQVkU6K3cAxpbmsUY8gT0avcu4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466406576",
+    "title": "Frontend developer",
+    "company": "JobCrexa",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-jobcrexa-4466406576?position=3&pageNum=45&refId=Dpc1RSsKO5arfZDM88Qbpg%3D%3D&trackingId=VEMiUwN70gsbrzeiFFJjDg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG4V6RTMlIngA/company-logo_100_100/B56Z712HNAIUAI-/0/1782241064009?e=2147483647&v=beta&t=d9WsGBlgq_rJ83F88qYKn27IXktCdS5h0tsvbkoKZfw",
+    "lat": 0,
+    "lng": 0
   }
 ]
