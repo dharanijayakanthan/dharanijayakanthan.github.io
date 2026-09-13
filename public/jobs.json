@@ -1,5 +1,71 @@
 [
   {
+    "id": "urn:li:jobPosting:4465412046",
+    "title": "Back End Developer - Next JS",
+    "company": "Talentgigs",
+    "location": "Greater Bengaluru Area",
+    "date": "2026-09-12",
+    "link": "https://in.linkedin.com/jobs/view/back-end-developer-next-js-at-talentgigs-4465412046?position=6&pageNum=30&refId=7gqff6PUZu7%2BaN2fccvG4A%3D%3D&trackingId=WZ5CgAKmxi5qU3jiYP41kA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHxgXm8-8vd3Q/company-logo_100_100/B56ZdefgpDGoAQ-/0/1749637008713/talentgigs_logo?e=2147483647&v=beta&t=pVEYTwLSt2ts2MopgyppYk6-Yg7o_HJzVg_Q2tdJR5A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465411178",
+    "title": ".Net Fullstack - React JS",
+    "company": "Tata Consultancy Services",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-12",
+    "link": "https://in.linkedin.com/jobs/view/net-fullstack-react-js-at-tata-consultancy-services-4465411178?position=5&pageNum=77&refId=pxa5EMUwG%2BM8d1URWEEB7g%3D%3D&trackingId=VO0qgUprNFuepJtPC5CZNA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464873908",
+    "title": "Senior Staff Engineer React Native Mobile App Developer",
+    "company": "Nagarro",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-11",
+    "link": "https://in.linkedin.com/jobs/view/senior-staff-engineer-react-native-mobile-app-developer-at-nagarro-4464873908?position=9&pageNum=27&refId=1r%2Fxbzg6B%2FrkwsHrhojpcg%3D%3D&trackingId=VWyac96yfWNEKnwTeJGVkA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHu-RIXbSi0fw/company-logo_100_100/company-logo_100_100/0/1688362226392/nagarro_logo?e=2147483647&v=beta&t=UfpX2jt95as2GeMzFnOXw90x9x816A-lFoVN9nw5kTM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466058160",
+    "title": "Shopify Developer",
+    "company": "Innova ESI",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-11",
+    "link": "https://in.linkedin.com/jobs/view/shopify-developer-at-innova-esi-4466058160?position=10&pageNum=30&refId=7gqff6PUZu7%2BaN2fccvG4A%3D%3D&trackingId=1V3Hbj5A7rdMcmVJlhFeLw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGMcJoGte_lxg/company-logo_100_100/B4DZg3B_.YHwAQ-/0/1753269928292/innovaesi_logo?e=2147483647&v=beta&t=DrckmG9JaXyZ5BndMENCsAIAarE1-ti4IGsc8K6WXag",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466062472",
+    "title": "AVP, Principal Software Engineer (Front-End)",
+    "company": "WhiteCrow Research",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-11",
+    "link": "https://in.linkedin.com/jobs/view/avp-principal-software-engineer-front-end-at-whitecrow-research-4466062472?position=10&pageNum=32&refId=IEuFhwZXk5%2BQZ26DjmN8hA%3D%3D&trackingId=CVWA84dNVpQqHb%2FnEiMglQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEoSz9pZhQqGg/company-logo_100_100/company-logo_100_100/0/1662383026369/whitecrow_research_pvt__ltd_logo?e=2147483647&v=beta&t=LLuERJhCuamy4IORxSNrb5sBO6nWI78j-NNLaCzvsD0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466088024",
+    "title": "Senior Engineer Software - Java & React [T500-29346]",
+    "company": "Albertsons Companies India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-11",
+    "link": "https://in.linkedin.com/jobs/view/senior-engineer-software-java-react-t500-29346-at-albertsons-companies-india-4466088024?position=6&pageNum=92&refId=PQC0PZ5%2BLUvbOli71G2Wpw%3D%3D&trackingId=CvEZ6ia17twoBirVM3FXIQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEyBWPU29c96g/company-logo_100_100/B56Za2zTbsGUAQ-/0/1746823624863?e=2147483647&v=beta&t=gy5o8LNL-bS3QCbE3qLyfk6eSymTOQwf9_-XLhzxQdI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4463078744",
     "title": "Senior Engineer Software - Java Full Stack",
     "company": "Empower India",
@@ -548,6 +614,39 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGM70qm9MbWvA/company-logo_100_100/company-logo_100_100/0/1729664053436/recrew_ai_logo?e=2147483647&v=beta&t=RCofKskdvbsnkea0U_gPcjUIePQ7boxR7mGyf4nKjDU",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4462950815",
+    "title": "Senior Software Engineer",
+    "company": "symplr",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-07",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-symplr-4462950815?position=2&pageNum=92&refId=PQC0PZ5%2BLUvbOli71G2Wpw%3D%3D&trackingId=CbpetOk4tsDe39ugCTxMXw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEugoRcwd_QtA/company-logo_100_100/B4EZUErGI3HMAQ-/0/1739540161402/symplr_logo?e=2147483647&v=beta&t=T0t_f9PeOdwb9O4u5EwWYoGrCVKJyAgK7xrlE1UJjnc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464351249",
+    "title": "Senior Engineer Software - Java & React [T500-29191]",
+    "company": "Albertsons Companies India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-07",
+    "link": "https://in.linkedin.com/jobs/view/senior-engineer-software-java-react-t500-29191-at-albertsons-companies-india-4464351249?position=8&pageNum=92&refId=PQC0PZ5%2BLUvbOli71G2Wpw%3D%3D&trackingId=D1hfUrsUb0uVdSkNkTgGQg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEyBWPU29c96g/company-logo_100_100/B56Za2zTbsGUAQ-/0/1746823624863?e=2147483647&v=beta&t=gy5o8LNL-bS3QCbE3qLyfk6eSymTOQwf9_-XLhzxQdI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4462932889",
+    "title": "Full Stack Engineer",
+    "company": "ACL Digital",
+    "location": "Greater Bengaluru Area",
+    "date": "2026-09-07",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-acl-digital-4462932889?position=10&pageNum=97&refId=vFEy01yAH%2B8zE0INHS6Vjg%3D%3D&trackingId=liI1Xs7A1f3wkqR%2ByR%2F3yw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFYnXRZomIaNQ/company-logo_100_100/company-logo_100_100/0/1630664946745?e=2147483647&v=beta&t=Fzz7qcgk9U4JycxxHM6JLp-RCJxt4gtIJHgE9mV658A",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4463771872",
@@ -171221,5 +171320,55 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
     "lat": 13.120648,
     "lng": 77.6114683
+  },
+  {
+    "id": "urn:li:jobPosting:4465458725",
+    "title": "React Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4465458725?position=5&pageNum=10&refId=u54nuBvHeggV6Sfl0ILwpA%3D%3D&trackingId=EHY%2Bx7DTNiwV1VhqmQ%2F2Pw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465474195",
+    "title": "Senior Frontend Engineer — Fintech Payment Gateways & Trading Terminals",
+    "company": "HYrEzy Tech Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-%E2%80%94-fintech-payment-gateways-trading-terminals-at-hyrezy-tech-solutions-4465474195?position=10&pageNum=10&refId=u54nuBvHeggV6Sfl0ILwpA%3D%3D&trackingId=GNrdpLqWbk3U4joeXn5Byg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGSBB7cXutjAQ/company-logo_100_100/company-logo_100_100/0/1738214390481?e=2147483647&v=beta&t=ezpTilBzfrL-PrViHNLbLJsnD_allTYnr25EEBSpkmA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4457238155",
+    "title": "2-MONTH TRAINING → 100% JOB OPPORTUNITY(Website & App Developer)",
+    "company": "PrimePro Technologies AI LLC",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/2-month-training-%E2%86%92-100%25-job-opportunity-website-app-developer-at-primepro-technologies-ai-llc-4457238155?position=8&pageNum=35&refId=TqtTNAfjCUfNohg%2F85cYbQ%3D%3D&trackingId=7q2YBt2tm1S03Sn6m1z%2FkQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEVrRUeOut0hg/company-logo_100_100/B4DZ8XJR78GkAQ-/0/1782799737003?e=2147483647&v=beta&t=v9V3vm6RV4gO4XtrgSay2MIaUAQl3OoF7xHRzTkQIJc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465469246",
+    "title": "Full Stack Product Engineer – React, .NET, Azure",
+    "company": "Reor Consulting Private Limited",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-product-engineer-%E2%80%93-react-net-azure-at-reor-consulting-private-limited-4465469246?position=5&pageNum=67&refId=SEgUN%2Fg6q3lv48X1Oax%2FSA%3D%3D&trackingId=Ow16yPPVg0rjw9mRw7yE%2Bw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQHLhBYcQxqffA/company-logo_100_100/company-logo_100_100/0/1630595514366?e=2147483647&v=beta&t=JI_K62OGiDXUGMBnFUgZ5Szg-fJbdYiOg7xmEHBjC_M",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466777552",
+    "title": "Software Engineer",
+    "company": "LeadSquared",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-leadsquared-4466777552?position=1&pageNum=50&refId=IAzeriIKRUAySxMdeLKQLg%3D%3D&trackingId=BSdvKKkbP8KO8XF1GBcUHA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEq_5uuMKfl1A/company-logo_100_100/B56ZuM.8ljHsAQ-/0/1767596870510/leadsquared_logo?e=2147483647&v=beta&t=Zzf8_XIcE5JG_dOj2SWQoZqcPzycFPiirAznap9TUMg",
+    "lat": 0,
+    "lng": 0
   }
 ]
