@@ -66,6 +66,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4466078478",
+    "title": "MEAN STACK DEVELOPER",
+    "company": "Solus Security Systems Pvt. Ltd.",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-11",
+    "link": "https://in.linkedin.com/jobs/view/mean-stack-developer-at-solus-security-systems-pvt-ltd-4466078478?position=5&pageNum=50&refId=QFuPQn1gTRFeprroPtVvmw%3D%3D&trackingId=UC%2FLPC1GdwLFW8MLyqZ6Zw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQEDM5P3jbYLCg/company-logo_100_100/company-logo_100_100/0/1631368340787?e=2147483647&v=beta&t=RmhnThcQ8oD3FUlMX7jPQwdiA7Knt6tqhkbW8UjF4Zs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4463078744",
     "title": "Senior Engineer Software - Java Full Stack",
     "company": "Empower India",
@@ -438,6 +449,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEzKxnZvGN1Dw/company-logo_100_100/company-logo_100_100/0/1676529268930/nous_infosystems_logo?e=2147483647&v=beta&t=CP8ITf8Ra_SkZSVEbJdRG75PpeD6PnGEWPDmImTcG-I",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4464667299",
+    "title": "Senior Full Stack Engineer – Golang & React",
+    "company": "ShimentoX Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-08",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-%E2%80%93-golang-react-at-shimentox-technologies-4464667299?position=1&pageNum=92&refId=zrXcDNyP4k00W3Q%2FhEYf1Q%3D%3D&trackingId=2KpziOfsoyYALnNof33%2BfQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGjcYDvlGHgJA/company-logo_100_100/B56ZYOkOFQH0AQ-/0/1744001098492/shimento_inc_logo?e=2147483647&v=beta&t=-G2frhBgDmMNKYd2L-S5vMPa5-qP10PPhNM9dMtfUAM",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4462289312",
@@ -2453,6 +2475,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4458744596",
+    "title": "Advanced Software Engr",
+    "company": "Honeywell Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-25",
+    "link": "https://in.linkedin.com/jobs/view/advanced-software-engr-at-honeywell-technologies-4458744596?position=1&pageNum=92&refId=KaVnoFShv5t5mMYtFVjuew%3D%3D&trackingId=zsW4PjSCf2qn447VVfTWNw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE0raKQ0HHHXQ/company-logo_100_100/B4EZ8SY0aJH8AM-/0/1782719924150/honeywell_logo?e=2147483647&v=beta&t=akNGC3_0nFpYKyV4oDlMpAeGqlsqvk1AGJK5SfBiRfo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4456848899",
     "title": "Full Stack Engineer",
     "company": "Recro",
@@ -3221,6 +3254,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF8L0yk2jHoWQ/company-logo_100_100/company-logo_100_100/0/1630506969606/productive_mobile_logo?e=2147483647&v=beta&t=4G8iU6ntgeVavsPoX8UgioGM3EFmNKCyiHSXHBE76Jk",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4453438129",
+    "title": "Senior Full Stack Developer",
+    "company": "Kots",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-19",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-at-kots-4453438129?position=2&pageNum=92&refId=zrXcDNyP4k00W3Q%2FhEYf1Q%3D%3D&trackingId=G%2BePVV8mcSLuSE5tms9VmQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEHAsJ7APXDTg/company-logo_100_100/company-logo_100_100/0/1630632577516/kots_logo?e=2147483647&v=beta&t=6b0bkMctSB81TEWU9Nqrc6Zb-KUTp0K7H2rMcuv-Btw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4454781524",
@@ -171370,5 +171414,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEq_5uuMKfl1A/company-logo_100_100/B56ZuM.8ljHsAQ-/0/1767596870510/leadsquared_logo?e=2147483647&v=beta&t=Zzf8_XIcE5JG_dOj2SWQoZqcPzycFPiirAznap9TUMg",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4466762559",
+    "title": "Lead UI Engineer",
+    "company": "JobCrexa",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/lead-ui-engineer-at-jobcrexa-4466762559?position=3&pageNum=50&refId=QFuPQn1gTRFeprroPtVvmw%3D%3D&trackingId=7bGW25m2zx6G3Q5hajyimg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG4V6RTMlIngA/company-logo_100_100/B56Z712HNAIUAI-/0/1782241064009?e=2147483647&v=beta&t=d9WsGBlgq_rJ83F88qYKn27IXktCdS5h0tsvbkoKZfw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464729819",
+    "title": "Consultant",
+    "company": "SCIENTIFIC GAMES",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/consultant-at-scientific-games-4464729819?position=2&pageNum=40&refId=teu62W37ag3%2FcjAq9pdIyQ%3D%3D&trackingId=7mCsyUeabcabWjjYAJ2fNg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEvVkPFwId5EA/company-logo_100_100/B4EZwp875fGoAQ-/0/1770230366173/scientific_games_lottery_logo?e=2147483647&v=beta&t=yly2QcuCZvix-VuJCOZIYqfNg4S2T5wTR4_kzkyIKXM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466762572",
+    "title": "Volunteer Web Designer and Developer to Help Ashoka Fellows Strengthen and Grow their Work with Ashoka",
+    "company": "Ashoka",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/volunteer-web-designer-and-developer-to-help-ashoka-fellows-strengthen-and-grow-their-work-with-ashoka-at-ashoka-4466762572?position=1&pageNum=85&refId=DOUJ3t%2F9%2B%2Fs7XhJ90gDw9Q%3D%3D&trackingId=21lEbYhbVo76EvMytYAz4Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGP9sWJUURIQg/company-logo_100_100/B4DZxsjL4tI8AQ-/0/1771347689457/ashoka_logo?e=2147483647&v=beta&t=yZ3H3heFstJ4WpLg-l2lQGV1ULNXThtssWeroaVk4hc",
+    "lat": 0,
+    "lng": 0
   }
 ]
