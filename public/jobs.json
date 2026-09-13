@@ -171191,5 +171191,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGe2HQP4zwTlA/company-logo_100_100/company-logo_100_100/0/1688649979581/thermo_fisher_scientific_logo?e=2147483647&v=beta&t=iwXfVsVoN3N55AbBLzgcXs3SjpF3H5asLBOKd8LqV3o",
     "lat": 0,
     "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466743059",
+    "title": "Frontend-sde 3",
+    "company": "JobCrexa",
+    "location": "Bagalur, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-sde-3-at-jobcrexa-4466743059?position=2&pageNum=0&refId=Y9C0EqqlUMR4o0aIHbHk%2FA%3D%3D&trackingId=KtqNyTylV%2FuWRjuTIky%2FHQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG4V6RTMlIngA/company-logo_100_100/B56Z712HNAIUAI-/0/1782241064009?e=2147483647&v=beta&t=d9WsGBlgq_rJ83F88qYKn27IXktCdS5h0tsvbkoKZfw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466721413",
+    "title": "Software Engineer II",
+    "company": "Nextiva",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-nextiva-4466721413?position=6&pageNum=5&refId=EAeCp4NFOB4BqDtyzAOQyQ%3D%3D&trackingId=IQJ6chMDXRbm76%2BT6GQwfA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFufumPcr_vhA/company-logo_100_100/company-logo_100_100/0/1709925527924/nextiva_logo?e=2147483647&v=beta&t=R2u2x20YG5HsNUSlI7mgAuu_0iF62JR_k7ig7IGDzSY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466703049",
+    "title": "Software Development Engineer II, Amazon Now",
+    "company": "Amazon",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-now-at-amazon-4466703049?position=10&pageNum=65&refId=G4vy4YJUAGT%2FNnJ0BM%2FMbA%3D%3D&trackingId=WZ4Zr7fnTTRWyqV0j5BIsw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+    "lat": 0,
+    "lng": 0
   }
 ]
