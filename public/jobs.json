@@ -171657,5 +171657,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQFG44YoQsjgdQ/company-logo_100_100/company-logo_100_100/0/1631439503106?e=2147483647&v=beta&t=mI7blzC3HiWkfWIDiInrbH9ACqgQylw1rJsewnJzm9A",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4467081094",
+    "title": "React Native Developer/Lead Mobile Engineer",
+    "company": "Innova ESI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-native-developer-lead-mobile-engineer-at-innova-esi-4467081094?position=6&pageNum=37&refId=nTReWo1azIc%2FqCfCO8uGSQ%3D%3D&trackingId=lkT58nsFY7CnJ4tW9SRpUQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGMcJoGte_lxg/company-logo_100_100/B4DZg3B_.YHwAQ-/0/1753269928292/innovaesi_logo?e=2147483647&v=beta&t=DrckmG9JaXyZ5BndMENCsAIAarE1-ti4IGsc8K6WXag",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465221270",
+    "title": "Freelance Webflow Developer",
+    "company": "Social Sherpa",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/freelance-webflow-developer-at-social-sherpa-4465221270?position=5&pageNum=65&refId=0shsIkkA6EZ2BFmVenj8tw%3D%3D&trackingId=F52PLQF7MHPM%2Bjy7kRUv4w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFsY2YO31em9g/company-logo_100_100/B4DZdOboulGYAQ-/0/1749367557485/sherpa_social_logo?e=2147483647&v=beta&t=HWZFaxurvapt9P8iSQa5FkoTwdK-E6zwP0Fq-QL3jMc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4467082831",
+    "title": "Software Engineer - Fullstack",
+    "company": "LinkedIn",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-fullstack-at-linkedin-4467082831?position=3&pageNum=75&refId=ljgOiSkRBZysuwEuRt9Qqg%3D%3D&trackingId=3Zqh%2BflZ5SC4%2BFh0aNQvBw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=_PvUQac1LcQjfzQ33gtxFqjvIxBbtsM9ZqIxLs5QcFI",
+    "lat": 0,
+    "lng": 0
   }
 ]
