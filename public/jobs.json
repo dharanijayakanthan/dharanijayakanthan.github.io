@@ -385,6 +385,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4465024676",
+    "title": "Senior Fullstack Engineer",
+    "company": "Navan",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-09",
+    "link": "https://in.linkedin.com/jobs/view/senior-fullstack-engineer-at-navan-4465024676?position=10&pageNum=92&refId=2q2LW2BnHSpv9AUahYWPXA%3D%3D&trackingId=dwXm1eOiAmzyDC9XvUNefw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXb48lNAuFTg/company-logo_100_100/B4EZ5Fa04qH0AI-/0/1779281121029/navan_logo?e=2147483647&v=beta&t=FcWTcfEvxcnqiMpjbja3XGs9jmZxy6HMWPIGkj3yguo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4462296190",
     "title": "Full Stack Developer",
     "company": "AutoRABIT",
@@ -735,6 +746,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQFYnXRZomIaNQ/company-logo_100_100/company-logo_100_100/0/1630664946745?e=2147483647&v=beta&t=Fzz7qcgk9U4JycxxHM6JLp-RCJxt4gtIJHgE9mV658A",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4464332651",
+    "title": "IN_Senior Associate_Java Full Stack Developer_GCC_Advisory_Bangalore",
+    "company": "PwC India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-07",
+    "link": "https://in.linkedin.com/jobs/view/in-senior-associate-java-full-stack-developer-gcc-advisory-bangalore-at-pwc-india-4464332651?position=8&pageNum=97&refId=9wPCVzIvlRI4TCxexTk2kw%3D%3D&trackingId=HWRxzykIx2etZWDXrawrbg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4463771872",
@@ -1142,6 +1164,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEyBWPU29c96g/company-logo_100_100/B56Za2zTbsGUAQ-/0/1746823624863?e=2147483647&v=beta&t=gy5o8LNL-bS3QCbE3qLyfk6eSymTOQwf9_-XLhzxQdI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4462888041",
+    "title": "Dot Net Fullstack Developer (Angular)",
+    "company": "Eurofins",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-03",
+    "link": "https://in.linkedin.com/jobs/view/dot-net-fullstack-developer-angular-at-eurofins-4462888041?position=3&pageNum=97&refId=9wPCVzIvlRI4TCxexTk2kw%3D%3D&trackingId=ncZjdfwltGW2PjXtNG0l2g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFnNOoDrwfW6A/company-logo_100_100/company-logo_100_100/0/1630540114523/eurofins_logo?e=2147483647&v=beta&t=YmAUdo_wjfnFDQerIYzNSukvGQH0MB4fgGIuolHWNc8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4460726145",
+    "title": "Java Plus Angular FS-Bgl",
+    "company": "EY",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-03",
+    "link": "https://in.linkedin.com/jobs/view/java-plus-angular-fs-bgl-at-ey-4460726145?position=4&pageNum=97&refId=9wPCVzIvlRI4TCxexTk2kw%3D%3D&trackingId=3jJc48%2BK2T5q%2BbRZCAp2bw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4462152921",
@@ -171573,5 +171617,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQG4V6RTMlIngA/company-logo_100_100/B56Z712HNAIUAI-/0/1782241064009?e=2147483647&v=beta&t=d9WsGBlgq_rJ83F88qYKn27IXktCdS5h0tsvbkoKZfw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4465719710",
+    "title": "React Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4465719710?position=2&pageNum=10&refId=qJIAhSNiXG%2Fn4gclQSPpcQ%3D%3D&trackingId=bcZ97OtmHa6yCl8v%2Bdw%2BHg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465724637",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4465724637?position=4&pageNum=20&refId=vEpD7RjQacTAgP%2BnQGy3ng%3D%3D&trackingId=QUwFK1ibVFVuHTgmEQeQcw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465725041",
+    "title": "Back End Developer - Next JS",
+    "company": "Talentgigs",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/back-end-developer-next-js-at-talentgigs-4465725041?position=2&pageNum=30&refId=ahHzCe1wQX5jrKW%2BCBcl1A%3D%3D&trackingId=QPEAy7Kr1vXZcP1KmDAhMw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHxgXm8-8vd3Q/company-logo_100_100/B56ZdefgpDGoAQ-/0/1749637008713/talentgigs_logo?e=2147483647&v=beta&t=pVEYTwLSt2ts2MopgyppYk6-Yg7o_HJzVg_Q2tdJR5A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4464745131",
+    "title": "AEM Front End Developer",
+    "company": "Bridgestone Americas",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/aem-front-end-developer-at-bridgestone-americas-4464745131?position=9&pageNum=10&refId=TkwwbMm5XQV%2BXx2HJ5x6sQ%3D%3D&trackingId=RU%2FND1bTqmMTrIU%2FF8q58A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQFG44YoQsjgdQ/company-logo_100_100/company-logo_100_100/0/1631439503106?e=2147483647&v=beta&t=mI7blzC3HiWkfWIDiInrbH9ACqgQylw1rJsewnJzm9A",
+    "lat": 0,
+    "lng": 0
   }
 ]
