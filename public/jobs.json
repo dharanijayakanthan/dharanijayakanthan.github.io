@@ -1342,6 +1342,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4459589447",
+    "title": "Senior Full Stack Software Engineer",
+    "company": "Pravah",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-02",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-pravah-4459589447?position=2&pageNum=55&refId=L6dw8FXem0feBLeN9VKeDg%3D%3D&trackingId=isD3bJz%2FPB%2BQ6Dfet4DnbQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGOr4Wh35JZnA/company-logo_100_100/B56Z_Ap8p2HUAM-/0/1785643649971/pravah_ai_energy_logo?e=2147483647&v=beta&t=DYV7_DaRIr6PFLukSLy4fFf5EZkxD_K1fOibAGvOCeY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4459502055",
     "title": "Lead I - Software Engineering",
     "company": "UST",
@@ -172064,5 +172075,105 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHfmTZN1vFPkg/company-logo_100_100/company-logo_100_100/0/1631357551426?e=2147483647&v=beta&t=VYMq08G700-KrrPTYBrquClzGP8pUFZ6aWcmrzHHJ-4",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4465567252",
+    "title": "Angular Developer – 2 to 5 yrs – Bangalore IRC302396",
+    "company": "GlobalLogic",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-%E2%80%93-2-to-5-yrs-%E2%80%93-bangalore-irc302396-at-globallogic-4465567252?position=7&pageNum=12&refId=qLFUGs%2F90EQKnOzpHdZFoA%3D%3D&trackingId=UyVFXEl5BfsL%2BLWTdtjGUg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEcwaYik2791g/company-logo_100_100/B56ZV9kVCfHoAQ-/0/1741568430537/globallogic_logo?e=2147483647&v=beta&t=4LO6qEOIgOruo8vJ4DKFoixZKrXNVHovZl8mJi0XUQ8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4467731215",
+    "title": "Shopify Developer",
+    "company": "Innova ESI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/shopify-developer-at-innova-esi-4467731215?position=8&pageNum=30&refId=3wHwir21FY%2F9V9z7giERYw%3D%3D&trackingId=cM1C0oh13cd9qBO7xYCuQQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGMcJoGte_lxg/company-logo_100_100/B4DZg3B_.YHwAQ-/0/1753269928292/innovaesi_logo?e=2147483647&v=beta&t=DrckmG9JaXyZ5BndMENCsAIAarE1-ti4IGsc8K6WXag",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4467728605",
+    "title": "IN_Manager_ Full Stack Developer - React_GCC_Advisory_Bangalore",
+    "company": "PwC India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/in-manager-full-stack-developer-react-gcc-advisory-bangalore-at-pwc-india-4467728605?position=6&pageNum=32&refId=7qICqsni%2Fnlw8POdlniD%2Fw%3D%3D&trackingId=WQCmj3wY18%2FgsGKRFviUkA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465553684",
+    "title": "Senior Full Stack Developer",
+    "company": "Siemens",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-at-siemens-4465553684?position=4&pageNum=40&refId=gdQgQh%2FqN5z3QBuqIPKUyg%3D%3D&trackingId=DXwzjER7e5ujiXlxcqH76A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_100_100/company-logo_100_100/0/1719931174735/siemens_logo?e=2147483647&v=beta&t=iNZVOYYuYOnkz09IBCFrK9Ik8uTqP6ZDnhCEJjPouV4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466512668",
+    "title": "Full stack Engineer",
+    "company": "Phigital Care",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-phigital-care-4466512668?position=6&pageNum=50&refId=6v77dtc6MLiT3vGgO3hLYg%3D%3D&trackingId=LSbZqipRh9LDTUzFHzrKzw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHca2sGIQKiKQ/company-logo_100_100/company-logo_100_100/0/1719255941191/phigital_care_pvt_ltd_logo?e=2147483647&v=beta&t=ypACYnGtX2eYliSV-f5KLpuH1awWNwJ0OuM8Jl9yGlc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4467735429",
+    "title": "Design Engineer, Web & AI",
+    "company": "Basenine",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/design-engineer-web-ai-at-basenine-4467735429?position=7&pageNum=55&refId=L6dw8FXem0feBLeN9VKeDg%3D%3D&trackingId=zbGsUBnk%2BzUsem3vuxHO5w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEZjQK3g-_R5A/company-logo_100_100/B4DaA8hnmKKYAI-/0/1787721841417/basenine_logo?e=2147483647&v=beta&t=WQKhozBptmoDsvlwgWkSKqedpU8ITtgRN7g_CGFZGK0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4467723274",
+    "title": "Senior Software Engineer - Frontend/Fullstack, UI Platform",
+    "company": "Rippling",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-fullstack-ui-platform-at-rippling-4467723274?position=5&pageNum=17&refId=tArQV%2BjJrQ%2BrKGmbRuqnAg%3D%3D&trackingId=6MP4Qnb18xBHkuuO4fsh6A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGVw6UsjqtXGw/company-logo_100_100/B4EZlN73QeHIAQ-/0/1757949162831/rippling_logo?e=2147483647&v=beta&t=_-PZ3E8XmdCyc89UhLvip3soyI97bY1FRM89cZYXEiQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466509447",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4466509447?position=2&pageNum=20&refId=U%2B5CAeUYQSjNAxyOftAEIQ%3D%3D&trackingId=cI05PSCJPZYNEKLECQ8yqw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4467731704",
+    "title": "Software Engineer II",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-microsoft-4467731704?position=2&pageNum=87&refId=EGP0OkbGV0mW%2FEirziz0lQ%3D%3D&trackingId=t5w6OUgVTWkcF0rFD80wpw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466517920",
+    "title": "Software Engineer - 4 to 8yrs - Java/Springboot, React/Angular, CI/CD",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-4-to-8yrs-java-springboot-react-angular-ci-cd-at-cisco-4466517920?position=4&pageNum=75&refId=Gs3p5wGOxloR%2FyoS%2FmoskQ%3D%3D&trackingId=xmDmEDPL5cCh%2Bot1yfRSCQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
   }
 ]
