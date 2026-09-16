@@ -253,6 +253,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4467957837",
+    "title": "Senior Associate, Creative Technology",
+    "company": "Stagwell",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-10",
+    "link": "https://in.linkedin.com/jobs/view/senior-associate-creative-technology-at-stagwell-4467957837?position=2&pageNum=27&refId=b1rn6ycU5HW5MyXaCwgcvg%3D%3D&trackingId=G02Dv%2BlZuzGRdO1jU2uVFA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHQNJOhkVP2Rg/company-logo_100_100/B4EZvpqrrEJAAU-/0/1769151842487?e=2147483647&v=beta&t=TphdCaW8VKsHO4IM4SJvpdsCxLIT7ARdSB6vuNpjO9c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4463055047",
     "title": "Full Stack Developer",
     "company": "AutoRABIT",
@@ -172236,5 +172247,65 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFhengLsqfYgQ/img-crop_100/B56Zm64ForKAAM-/0/1759776890250?e=2147483647&v=beta&t=rs5EPktedBPdLHa3eEBNr-W6BsIE7d5vrqCTnCGV2sY",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4465973428",
+    "title": "Frontend/UI Developer",
+    "company": "Andromeda Security",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-ui-developer-at-andromeda-security-4465973428?position=5&pageNum=10&refId=SMEiuINnZ350LD6QZtUT7A%3D%3D&trackingId=n4gqru3J4JgVaDFWsHvcwA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGC7qclzEMdTQ/company-logo_100_100/company-logo_100_100/0/1714972995499/andromeda_security_logo?e=2147483647&v=beta&t=zU4p0AsseeiY58QTi3XRCMqR6yTrLHxzwPOPOFZ0nyA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466822838",
+    "title": "Frontend Developer",
+    "company": "Insight Global",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-insight-global-4466822838?position=7&pageNum=20&refId=5uNBiCyAhlPloaAkOyfyCQ%3D%3D&trackingId=2yfCGV8UXhtLfwM2M1bTqw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEXh1MsUSE84A/company-logo_100_100/B56Z7gEpI_G8AI-/0/1781875775095/insight_global_logo?e=2147483647&v=beta&t=Mq_BES0HEexOQ0py27tS-I_-qTx85WgAMjFxJAbJONU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465971248",
+    "title": "Engineer 2",
+    "company": "Styli",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/engineer-2-at-styli-4465971248?position=3&pageNum=60&refId=YDJ3a0CtCcJbNdqVSeUvOQ%3D%3D&trackingId=VEzWdgE8yoRfOvoPOH70DQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFLNmu4GvgosQ/company-logo_100_100/company-logo_100_100/0/1632817892652/styli_logo?e=2147483647&v=beta&t=PaIQ_3CewsFca8SDRPvefsG0zDDUQ0YcmEGHsIXY_mM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466838207",
+    "title": "Full Stack Developer – AI/LLM Applications",
+    "company": "Troopd",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-ai-llm-applications-at-troopd-4466838207?position=2&pageNum=80&refId=hl4luaWv64HbEcUw6XAm5w%3D%3D&trackingId=Axy85EWApAFUjH1qnvPLcQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFp24pA1CDo3Q/company-logo_100_100/B56Z.oOBcsIoAI-/0/1785233676334/troopd_logo?e=2147483647&v=beta&t=sdL7DgjhLQhG5A1Qkx9HuMKvHMaS__P0m6VtcWWw8ts",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4467959304",
+    "title": "Sr Software engineer",
+    "company": "PayPal",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-software-engineer-at-paypal-4467959304?position=4&pageNum=90&refId=ZxOVPIsG6DOq9Pi%2BiogMTQ%3D%3D&trackingId=EkblSLTDlj4EtR6RqrPvGQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGlX0cKdGRk-w/company-logo_100_100/company-logo_100_100/0/1725506319701?e=2147483647&v=beta&t=EfHoqyaVYveWMzdT_6PpJbGNGS1P4dUk3ZryqIQRhjc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4467953716",
+    "title": "Full Stack Engineer",
+    "company": "Andor Tech",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-andor-tech-4467953716?position=5&pageNum=97&refId=mhqenFDwxKsyg5J6p%2By5ew%3D%3D&trackingId=GpvY0GN9%2BjF8UmuLplMJPA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHfmTZN1vFPkg/company-logo_100_100/company-logo_100_100/0/1631357551426?e=2147483647&v=beta&t=VYMq08G700-KrrPTYBrquClzGP8pUFZ6aWcmrzHHJ-4",
+    "lat": 0,
+    "lng": 0
   }
 ]
