@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4467741847",
+    "title": "Software Engineer, Apps",
+    "company": "Headout",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-15",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-apps-at-headout-4467741847?position=6&pageNum=32&refId=XhuGMkNBHGmSPmPbM3KMrg%3D%3D&trackingId=HNHQ0zK%2FKUnRXXzODP6eCg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF36N2orKYsLg/company-logo_100_100/B56ZozJFPlHIAQ-/0/1761794611427/headout_com_logo?e=2147483647&v=beta&t=ltF9EC25VBx_srSLXLhL-agwG2ryXw85V3cFzV16ofY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4465412046",
     "title": "Back End Developer - Next JS",
     "company": "Talentgigs",
@@ -172487,5 +172498,105 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
     "lat": 12.8461795,
     "lng": 77.6776437
+  },
+  {
+    "id": "urn:li:jobPosting:4467958893",
+    "title": "Shopify Developer",
+    "company": "WillWare Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/shopify-developer-at-willware-technologies-4467958893?position=7&pageNum=32&refId=XhuGMkNBHGmSPmPbM3KMrg%3D%3D&trackingId=NRSb3wcgIYugxsfbfWZKBg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG0h5Rnd_RDvg/company-logo_100_100/company-logo_100_100/0/1737558627138/willware_technologies_logo?e=2147483647&v=beta&t=K7yuc9Awez5en9kPeKGqsSQZhaDjTAE6DI33C7iTjRU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468240735",
+    "title": "Software Development Engineer 3",
+    "company": "WEX",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-3-at-wex-4468240735?position=1&pageNum=35&refId=FPfM4xr7bxXwfy4XFllpFQ%3D%3D&trackingId=Ob6QHo%2BQHP5cNTh3xPIZWA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEqDSQp6mtoSw/company-logo_100_100/B56Zx8YMCPJUAU-/0/1771613242228/wexinc_logo?e=2147483647&v=beta&t=HD3q48Iqn9MJQl0QhO15ssrmACKKsAMvG481SGeVebg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466862480",
+    "title": "React Native Engineer",
+    "company": "Qrata",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-native-engineer-at-qrata-4466862480?position=8&pageNum=35&refId=FPfM4xr7bxXwfy4XFllpFQ%3D%3D&trackingId=RZCIJ%2FZHrtHJn50mQeMIUg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHzC38soKDihQ/company-logo_100_100/company-logo_100_100/0/1630579079505/qrata_logo?e=2147483647&v=beta&t=XvOT7Uka9VOzR8a4eKLsaSSTyTsX_unXSMnjNKq8aFg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4467984148",
+    "title": "React Native Developer || 7+ Yrs || Pan India || Retail / E-commerce / Quick Commerce Domain",
+    "company": "Innova ESI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-native-developer-7%2B-yrs-pan-india-retail-e-commerce-quick-commerce-domain-at-innova-esi-4467984148?position=6&pageNum=37&refId=FcdVQNeATI7qjH3f11b8Mw%3D%3D&trackingId=alMNqMhW4d6EutpD3HLozg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGMcJoGte_lxg/company-logo_100_100/B4DZg3B_.YHwAQ-/0/1753269928292/innovaesi_logo?e=2147483647&v=beta&t=DrckmG9JaXyZ5BndMENCsAIAarE1-ti4IGsc8K6WXag",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468222392",
+    "title": "Flutter Developer",
+    "company": "L&T Finance",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/flutter-developer-at-l-t-finance-4468222392?position=4&pageNum=40&refId=TKLG0bBiBxjTnluGv1JweA%3D%3D&trackingId=7i6wFG7VrvBZL2NJMiJ3dg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH5eKgl0AWf8g/company-logo_100_100/company-logo_100_100/0/1735911765356/lntfinance_logo?e=2147483647&v=beta&t=hC_T-vM-82690K4pU0M2qM11oaRj2Elv1Z2wnrrBDvk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465975285",
+    "title": "Lead Engineer - R01571024",
+    "company": "Brillio",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/lead-engineer-r01571024-at-brillio-4465975285?position=5&pageNum=40&refId=TKLG0bBiBxjTnluGv1JweA%3D%3D&trackingId=h3hUd%2BcYBnkAluo%2BSz0QCw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEh2CAtwBx5vA/company-logo_100_100/company-logo_100_100/0/1657805094143/brillio_logo?e=2147483647&v=beta&t=1GgeVoLym2hnX-2Ta6rZvxmcAk8O9FzahH9JqCEVR6U",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468241202",
+    "title": "Frontend Developer with Azure Databricks",
+    "company": "Capgemini Engineering",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-with-azure-databricks-at-capgemini-engineering-4468241202?position=2&pageNum=30&refId=FZXcB9CNbDmRib7ksAhF7A%3D%3D&trackingId=PKqP9Npl50WLLG2LO6arcQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF65j53YY6XWA/company-logo_100_100/B4EZqB8jt5GUAQ-/0/1763116728049/capgemini_engineering_logo?e=2147483647&v=beta&t=mL00_jBY2TJhTyB4Ge-jt1Ln1UO7kKZyip6Ro_t8JiM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4467100467",
+    "title": "Liquid Shopify Developer",
+    "company": "Cube",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/liquid-shopify-developer-at-cube-4467100467?position=4&pageNum=32&refId=h4R4ex7r%2BCUCiv4ubpmDPA%3D%3D&trackingId=AYEsksJDnoLRQKKxpH61Zw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEFxnAtWsRLUA/company-logo_100_100/company-logo_100_100/0/1685645305527/cubehqai_logo?e=2147483647&v=beta&t=M-0hV_6w8PpfWzLDN8aeG6OEEFq2ErdS6gAoSsjaUPg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468242934",
+    "title": ".Net Angular Developer",
+    "company": "Eurofins",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/net-angular-developer-at-eurofins-4468242934?position=9&pageNum=70&refId=VE1MvPwGE3jvQ2AofL14mA%3D%3D&trackingId=LGX%2B9IOgSlVVAfVmdIsM2A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFnNOoDrwfW6A/company-logo_100_100/company-logo_100_100/0/1630540114523/eurofins_logo?e=2147483647&v=beta&t=YmAUdo_wjfnFDQerIYzNSukvGQH0MB4fgGIuolHWNc8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4467101302",
+    "title": "Java Plus Angular FS-Bgl",
+    "company": "EY",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/java-plus-angular-fs-bgl-at-ey-4467101302?position=6&pageNum=82&refId=Vmp3AYpyHmdlRsC7ekXmkA%3D%3D&trackingId=gq8syqZZfkSxW3HbZmI3mg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo",
+    "lat": 0,
+    "lng": 0
   }
 ]
