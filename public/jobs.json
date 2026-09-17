@@ -172885,5 +172885,75 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQGpvWtEtj9oTQ/company-logo_100_100/company-logo_100_100/0/1630663244736/intel_corporation_logo?e=2147483647&v=beta&t=ossYk2TZYS8UvUN3s4WS7ZaXqgKph-ue7DFGNXO4-0U",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4466246710",
+    "title": "UI Developer for Agentic AI",
+    "company": "peopleHum",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ui-developer-for-agentic-ai-at-peoplehum-4466246710?position=8&pageNum=5&refId=T1BGKbJCRDxupVUC5raZoA%3D%3D&trackingId=q%2Bhdc53GyHaTlISik7ckLg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEjr2YjNjPKog/company-logo_100_100/company-logo_100_100/0/1630668445030/peoplehum_logo?e=2147483647&v=beta&t=fK4Ypy0g-Wc_AATGth_WwJAODEYDBpgU-jzCQ8gcN3E",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468641960",
+    "title": "Frontend Developer",
+    "company": "Comviva",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-comviva-4468641960?position=10&pageNum=7&refId=4o8avxHs1CJYi2cJ2NKBXQ%3D%3D&trackingId=M69jgCyijiVBTasepq1upQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQE3CVOcLuBxYQ/company-logo_100_100/company-logo_100_100/0/1630583573410/mahindra_comviva_logo?e=2147483647&v=beta&t=uPwc1gYj0wbw7ovHPAPx7HqSxOe082zfq0llalzITT8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468613359",
+    "title": "Senior Consultant-Angular",
+    "company": "NTT DATA Business Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-consultant-angular-at-ntt-data-business-solutions-4468613359?position=1&pageNum=20&refId=ic5IS6A3EAaZcUKvbruSVg%3D%3D&trackingId=FjFZgmBfCyB3vKs1hy90Rg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHjfONO-FlnMQ/company-logo_100_100/B4EZfEneHoHsAQ-/0/1751350371288/ntt_data_business_solutions_logo?e=2147483647&v=beta&t=WKqfBv9WO255B97ga_S7qqv0fQUiFt6GGWSV0gz-L9Y",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468609893",
+    "title": "ReactJS Associate Architect",
+    "company": "Valtech",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/reactjs-associate-architect-at-valtech-4468609893?position=6&pageNum=20&refId=ic5IS6A3EAaZcUKvbruSVg%3D%3D&trackingId=tNlhRMPQCq%2BXnXckFwgCTQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFSPsCKDQ-lvQ/company-logo_100_100/company-logo_100_100/0/1697789289882/valtech_logo?e=2147483647&v=beta&t=sVjAKV5na8TLAMAdhu7_8zt7h95vjVInUpM06QiteXg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468333948",
+    "title": "Software Engineer III",
+    "company": "JPMorganChase",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-jpmorganchase-4468333948?position=3&pageNum=30&refId=qS3u7zEyvbU%2F%2BsRrXzSTwg%3D%3D&trackingId=ZxGY35cLQ%2BBJsmPKPHZbJA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468611290",
+    "title": "Sr UI Engineer",
+    "company": "Deepwatch",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-ui-engineer-at-deepwatch-4468611290?position=1&pageNum=10&refId=QOBIMJHUzf7yXTnmoLpo5g%3D%3D&trackingId=TaOshqls3IPUaEcX8yILkw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHV2wYI1vLH0w/company-logo_100_100/B4EaCQq5K5IcAI-/0/1789133558726/deepwatchsec_logo?e=2147483647&v=beta&t=Ko2TMqb6eXwg-5Gdqqi9-VVIQKoRG44s37Ku6O_wilo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468381102",
+    "title": "UI/ UX Engineer",
+    "company": "ICSBit Labs",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ui-ux-engineer-at-icsbit-labs-4468381102?position=3&pageNum=20&refId=Vo3E%2BuIooR1DwV92q69iCw%3D%3D&trackingId=0CYfUekf6v5g%2BkgM85eRxw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQELjp5Dfk4N4Q/company-logo_100_100/B56Z5x0ZOhIcAM-/0/1780026020961/icsbitlabs_logo?e=2147483647&v=beta&t=V3uWzxUEu8Tzcdq8C0cYk5QDYWjAxLcvfOcCYmxWR6w",
+    "lat": 0,
+    "lng": 0
   }
 ]
