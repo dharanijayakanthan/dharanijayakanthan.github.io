@@ -173117,5 +173117,55 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4468899620",
+    "title": "UI Engineer",
+    "company": "Teamware Solutions",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/ui-engineer-at-teamware-solutions-4468899620?position=5&pageNum=10&refId=mtAeryEUSUZZoFmCuWoDIQ%3D%3D&trackingId=DYtWSm7n5GZJefT7NWzHLw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGTmsLAkTTGww/company-logo_100_100/company-logo_100_100/0/1722576449607/teamware_solutions_logo?e=2147483647&v=beta&t=QIDeTszOkwzAnnawMWT3qa9iPNzIuSXvAHSI6E-3FcA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4467829911",
+    "title": "Shopify Developer",
+    "company": "Brandshark",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/shopify-developer-at-brandshark-4467829911?position=6&pageNum=20&refId=j9UGzkuF580sdynmrnznAg%3D%3D&trackingId=z38wxmOfWbiCLQzliSTrcQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHWPEGxCtqEJg/company-logo_100_100/company-logo_100_100/0/1677047116895/designbrandshark_logo?e=2147483647&v=beta&t=4h3zB64V8DdmRTeddWqXk-k5ThfE4JcMKA0EgecGU28",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466656694",
+    "title": ".Net + Angular developer",
+    "company": "MNC",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/net-%2B-angular-developer-at-mnc-4466656694?position=5&pageNum=55&refId=JXRyoI0U0%2BNEfXBn3GY%2FRw%3D%3D&trackingId=7TXnBFSoe4m4JOISJjPQcA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFQ6QXuY5qRZg/company-logo_100_100/B56ZaOWM2SGUAQ-/0/1746144907740/matt_noyce_consulting_logo?e=2147483647&v=beta&t=b6H7t2RtH7vfkKVLWyA0VGIOsx8kZ_uADySdys6LkfA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466651508",
+    "title": "Sr. Staff Engineer - Web Developer",
+    "company": "Bioksha",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-staff-engineer-web-developer-at-bioksha-4466651508?position=7&pageNum=55&refId=JXRyoI0U0%2BNEfXBn3GY%2FRw%3D%3D&trackingId=YoC4%2FhdbeNm5m2h6mN1UgQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEn0wDjXpauXQ/company-logo_100_100/B56Z21PwswIUAQ-/0/1776862301755/bioksha_logo?e=2147483647&v=beta&t=datAgNaolBFuu2T029neb2Y1GAUxdmXkoCHhgs_4YSU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466660691",
+    "title": "Web Developer",
+    "company": "Candescent",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-candescent-4466660691?position=2&pageNum=57&refId=7hsrxXOpvOu91X2uNo1mNg%3D%3D&trackingId=uS0HClWOwNgBzibxgnnh%2BQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQESlJ8pUH3JJA/company-logo_100_100/B4EZ6X2F5oGQAQ-/0/1780664000329/candescent_tech_logo?e=2147483647&v=beta&t=o36dUCibyLe8v47z-b2y2D56FAi_YDMWxkDGSqqWJaY",
+    "lat": 0,
+    "lng": 0
   }
 ]
