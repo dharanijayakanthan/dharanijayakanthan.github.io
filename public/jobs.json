@@ -1067,6 +1067,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4464319379",
+    "title": "Java Fullstack Developer with Angular/React",
+    "company": "Capgemini",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-07",
+    "link": "https://in.linkedin.com/jobs/view/java-fullstack-developer-with-angular-react-at-capgemini-4464319379?position=9&pageNum=67&refId=V%2F7TF9A9BcUQ%2BGiXUaO7QA%3D%3D&trackingId=tl6mZdZvN1gym84BesmNjw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4463771872",
     "title": "Front-End Engineer II",
     "company": "Amazon",
@@ -173509,5 +173520,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmEZS6aYl2lg/company-logo_100_100/B56Z7tuiNlKUAI-/0/1782104859898/abstrabit_logo?e=2147483647&v=beta&t=Fqf8umtx2GDBOZxafAcWOPAsUFvWjO8srFqh5gEWPnc",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4467839804",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4467839804?position=1&pageNum=7&refId=sb1kCX8A3AbAzlEufvMRJQ%3D%3D&trackingId=cTb0LXUvX5IiVzfHd9pXHQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466682644",
+    "title": "Flutter Engineer - SDE 3",
+    "company": "Bytebeam",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/flutter-engineer-sde-3-at-bytebeam-4466682644?position=9&pageNum=57&refId=1P5elv%2BmcnPoW%2BUihPXK4Q%3D%3D&trackingId=XOEKRXmQjJ2uuNZz4f%2Flkw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFSupsuRsNJ7A/company-logo_100_100/company-logo_100_100/0/1663757306216/bytebeam_logo?e=2147483647&v=beta&t=AjrXNkbVQMbCsQR5BQ0QA7PMRlL1sv9m4hqgHBcVB-g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4469188594",
+    "title": "Senior Full Stack Engineer - Java and React",
+    "company": "Optum India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-java-and-react-at-optum-india-4469188594?position=9&pageNum=80&refId=0vKL1U4SO2%2BGSrxjfQApnA%3D%3D&trackingId=psMZteJIJokeQSBttwSzWg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHbWyXuihLpaQ/company-logo_100_100/B56Zf0TcSoHoAU-/0/1752150427206?e=2147483647&v=beta&t=FHvnqfJ8XDO3yLmOzfXyoqQ4DDQ36MFsFxFrFiHB3_o",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4469122928",
+    "title": "Software Engineer I (SDE1)",
+    "company": "Abstrabit Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-i-sde1-at-abstrabit-technologies-4469122928?position=8&pageNum=82&refId=0HvV%2Fg6b6LmF7nyOxd5uZQ%3D%3D&trackingId=KzVoXmj%2FrOma%2FLX7vzcSqw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmEZS6aYl2lg/company-logo_100_100/B56Z7tuiNlKUAI-/0/1782104859898/abstrabit_logo?e=2147483647&v=beta&t=Fqf8umtx2GDBOZxafAcWOPAsUFvWjO8srFqh5gEWPnc",
+    "lat": 0,
+    "lng": 0
   }
 ]
