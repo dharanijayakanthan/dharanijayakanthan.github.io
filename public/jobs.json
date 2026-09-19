@@ -55,6 +55,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4468604831",
+    "title": "IN_Senior Associate_MERN Developer_GCC_Advisory_Bangalore",
+    "company": "PwC India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-17",
+    "link": "https://in.linkedin.com/jobs/view/in-senior-associate-mern-developer-gcc-advisory-bangalore-at-pwc-india-4468604831?position=10&pageNum=32&refId=DqYuptOoYqnOcVnw2nMVdA%3D%3D&trackingId=FwSzp0hd02a%2F%2BsrUywcQCA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4466231056",
     "title": "Software Engineer",
     "company": "BT Group",
@@ -119,6 +130,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF65j53YY6XWA/company-logo_100_100/B4EZqB8jt5GUAQ-/0/1763116728049/capgemini_engineering_logo?e=2147483647&v=beta&t=mL00_jBY2TJhTyB4Ge-jt1Ln1UO7kKZyip6Ro_t8JiM",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4465955375",
+    "title": "Web Tech Developer",
+    "company": "ITC Infotech",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-16",
+    "link": "https://in.linkedin.com/jobs/view/web-tech-developer-at-itc-infotech-4465955375?position=8&pageNum=35&refId=W83qXZi26FCT8U%2BRgmsU3w%3D%3D&trackingId=KELFWKExF4wx9UvlvenvLw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHChIp3T3c83w/company-logo_100_100/company-logo_100_100/0/1631308626797?e=2147483647&v=beta&t=Po9fXPgP_N5efB__rO40nhwzcA_QC8X892N-dvfo7uw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4467741847",
@@ -173560,5 +173582,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmEZS6aYl2lg/company-logo_100_100/B56Z7tuiNlKUAI-/0/1782104859898/abstrabit_logo?e=2147483647&v=beta&t=Fqf8umtx2GDBOZxafAcWOPAsUFvWjO8srFqh5gEWPnc",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4469509406",
+    "title": "TECHNICAL LEAD - ReactJS",
+    "company": "Happiest Minds Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/technical-lead-reactjs-at-happiest-minds-technologies-4469509406?position=6&pageNum=25&refId=Ac1sYTDeMtCFU07d2rH%2BIQ%3D%3D&trackingId=BUDGpQyACEUsFN47bDyPTQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHrStoH8fGuxw/company-logo_100_100/B56ZwiMfPGHcAQ-/0/1770100227699/happiest_minds_technologies_logo?e=2147483647&v=beta&t=-auObn_ZxRe-m2VVRutsYcb0xcVM2r8vqzrPLt78JV0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4469293302",
+    "title": "Angular Developer with Android and iOS applications using Flutter",
+    "company": "GC Technologies Pvt Ltd",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/angular-developer-with-android-and-ios-applications-using-flutter-at-gc-technologies-pvt-ltd-4469293302?position=2&pageNum=32&refId=DqYuptOoYqnOcVnw2nMVdA%3D%3D&trackingId=pWDpg0LqBHEc0rrwmS4PDA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQESTCNj3MS4oQ/company-logo_100_100/B56ZfUnBcNH8AU-/0/1751618689602?e=2147483647&v=beta&t=l-n8zUpGdPgoUd0KFRSZlx2g8_WVHSVtENDiigL3qbM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466950668",
+    "title": "Technical Lead",
+    "company": "Incresco",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/technical-lead-at-incresco-4466950668?position=6&pageNum=77&refId=rFwnijM2x8pJ%2FHxjjIFjlQ%3D%3D&trackingId=DKcy%2F2kaEOkKgFTCRI1XMQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQF9fdDcaY7CQQ/company-logo_100_100/company-logo_100_100/0/1738048386952/incresco_technology_logo?e=2147483647&v=beta&t=Qj4x__YXVNOQJw1TEzXXX8eJOpuMYq1rgH07Qqqyzm8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466682428",
+    "title": ".Net JS Developer - Senior Associate - Operate - ICA",
+    "company": "PwC Acceleration Center India",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/net-js-developer-senior-associate-operate-ica-at-pwc-acceleration-center-india-4466682428?position=3&pageNum=95&refId=GWyPJ%2FlYT7WrWb%2F6E1FGbg%3D%3D&trackingId=Jpp1lV7pYQ493ViESIr6jw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHuQqdWGsFM9Q/company-logo_100_100/B56ZaB.PV5HgAQ-/0/1745937299380/pwc_acs_in_india_logo?e=2147483647&v=beta&t=P9D-9QhC9uzOr1Kg4yRseC0uvYNXmxHvqWDvGrqTriY",
+    "lat": 0,
+    "lng": 0
   }
 ]
