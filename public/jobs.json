@@ -174227,5 +174227,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQE2S3O4jDpz7A/company-logo_100_100/B56Z0AdXgCGgAQ-/0/1773829192161/technology_ia_logo?e=2147483647&v=beta&t=YSKIp2Yq3bWxsXqir87GmOWIGXwM3umTTS4uREAlcUI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4468127719",
+    "title": "Frontend Engineer: ReactJs",
+    "company": "HuntingCube",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-reactjs-at-huntingcube-4468127719?position=1&pageNum=0&refId=VGdAKUOGULBzJvEEV0IP5Q%3D%3D&trackingId=PbTV%2B4nRJnZI4QhCoTTeVg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIxS_H-2dx8g/company-logo_100_100/B56Z9AUvhhKEAI-/0/1783490607442/huntingcubeai_logo?e=2147483647&v=beta&t=3UxmDQpazRzithZkjHcNISR71_MbyJuofCSauGGObFA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4469931848",
+    "title": "React Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4469931848?position=4&pageNum=10&refId=XI1KsElyAv9SSY36zaurYQ%3D%3D&trackingId=FyTjXLETSulfEE0%2B%2F5GQaQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
   }
 ]
