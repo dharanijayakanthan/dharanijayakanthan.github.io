@@ -33,6 +33,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4469200444",
+    "title": "Full Stack Developer",
+    "company": "TekWissen India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-18",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-tekwissen-india-4469200444?position=9&pageNum=82&refId=ksBlyKrq3HP40ggS150Dfw%3D%3D&trackingId=dy99R4gbdnhUOBMVYHnWWw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHo1e1dk_56Pg/company-logo_100_100/company-logo_100_100/0/1699651809502?e=2147483647&v=beta&t=_aOpmYEhtoGohPFwFpHUIpAIdD7c8z19Anx4jWK5YEs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4469206115",
+    "title": "Software Engineer",
+    "company": "WEX",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-18",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-wex-4469206115?position=9&pageNum=90&refId=tYCz%2FpaidfI0mIFhOAS28A%3D%3D&trackingId=CbkF94vJ5zV00vs0teIrNA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEqDSQp6mtoSw/company-logo_100_100/B56Zx8YMCPJUAU-/0/1771613242228/wexinc_logo?e=2147483647&v=beta&t=HD3q48Iqn9MJQl0QhO15ssrmACKKsAMvG481SGeVebg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4467549541",
     "title": "React + MFE",
     "company": "Ascendion",
@@ -108,6 +130,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG2I4b6RVexFg/company-logo_100_100/company-logo_100_100/0/1695040265658/state_street_logo?e=2147483647&v=beta&t=Ub0oPMS_tj_W9kGjLa872fLM4oluGO4xV84-AjisJbo",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4467864034",
+    "title": "Full Stack Developer",
+    "company": "GalaxEye",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-17",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-galaxeye-4467864034?position=10&pageNum=87&refId=GWL468CcsaokNo8n8vSn6g%3D%3D&trackingId=r7bGzkGA3jCk8MtP2HE3CQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQES0J6j0smbOA/company-logo_100_100/B4DZijy8cZH4AQ-/0/1755094698305/galaxeye_logo?e=2147483647&v=beta&t=K9j0xDIccKdHoi3FMYjXFLFwNzOupL_ur-CzhU3Zi8A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4448305402",
+    "title": "Sr Software Engineer II (IND)",
+    "company": "Carelon Global Solutions India",
+    "location": "Bengaluru South, Karnataka, India",
+    "date": "2026-09-17",
+    "link": "https://in.linkedin.com/jobs/view/sr-software-engineer-ii-ind-at-carelon-global-solutions-india-4448305402?position=7&pageNum=90&refId=tYCz%2FpaidfI0mIFhOAS28A%3D%3D&trackingId=vKoCfqmsUgc7NfQkxhqtEQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFew950LxA_Sg/company-logo_100_100/company-logo_100_100/0/1726687065239/carelon_global_solutions_in_logo?e=2147483647&v=beta&t=FfqfkyF11BJOQoxymHS9PUhI1gcrcojA_A029n98Vww",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4466231056",
@@ -173778,5 +173822,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQFf8sH83foEVg/company-logo_100_100/company-logo_100_100/0/1654794308958/postman_platform_logo?e=2147483647&v=beta&t=vhUFiD_84RWtJWzqMFME4YJ9Jgnne9fH6DlCHgLCIEA",
     "lat": 12.9738312,
     "lng": 77.6444042
+  },
+  {
+    "id": "urn:li:jobPosting:4468461352",
+    "title": "Frontend Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4468461352?position=1&pageNum=7&refId=t1hRxgoFrhUi9QY%2B5huGFQ%3D%3D&trackingId=PGK8T0geujAmIq%2B%2BPqBl%2BQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468450548",
+    "title": "React Developer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4468450548?position=2&pageNum=10&refId=8vzRYeUsrgnYQEFpcUyc0A%3D%3D&trackingId=kKGsKFu4ybN1j6Y3J0nfTw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468463238",
+    "title": "Software Engineer",
+    "company": "Scoutit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-scoutit-4468463238?position=9&pageNum=85&refId=ynJxbSldUOmK7dYqmyYkIQ%3D%3D&trackingId=rW1m8ssazZ6vEEnuekR%2FXg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
+    "lat": 0,
+    "lng": 0
   }
 ]
