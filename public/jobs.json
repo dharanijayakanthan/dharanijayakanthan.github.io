@@ -1,5 +1,27 @@
 [
   {
+    "id": "urn:li:jobPosting:4469859616",
+    "title": "Shopify Engineer",
+    "company": "AppsForBharat",
+    "location": "Greater Bengaluru Area",
+    "date": "2026-09-21",
+    "link": "https://in.linkedin.com/jobs/view/shopify-engineer-at-appsforbharat-4469859616?position=8&pageNum=15&refId=XTxTy0F5QiV2k5pG2kHmZw%3D%3D&trackingId=1AkvbV0aLI%2FpoWsxEv0OEw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGaQEoRI8-dFw/company-logo_100_100/company-logo_100_100/0/1630655211617/appsforbharat_logo?e=2147483647&v=beta&t=qnZoeHS74tTv5kn1A_FAVaMpOR-BGk30xhY6XdNejPw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466972789",
+    "title": "Lead Engineer Software UI",
+    "company": "Empower India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-19",
+    "link": "https://in.linkedin.com/jobs/view/lead-engineer-software-ui-at-empower-india-4466972789?position=10&pageNum=15&refId=XTxTy0F5QiV2k5pG2kHmZw%3D%3D&trackingId=pJ3sxWmBpd3NLKCiit9Vzw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQETBZSIS5vqqw/company-logo_100_100/company-logo_100_100/0/1657569254292/empower_india_logo?e=2147483647&v=beta&t=9zSjkk6FyT7_5hKKz1NzqRuXBNZio4MR0dqLNcGDlHE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4467852123",
     "title": "Full Stack Developer+AI -Bengaluru - GO/JC/4630/2026",
     "company": "Golden Opportunities",
@@ -30303,6 +30325,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=2147483647&v=beta&t=eLjukYsixVQJyGQQ7asxFiNOUNa3RVdnAMESgTWs_AQ",
     "lat": 12.9185763,
     "lng": 77.6707864
+  },
+  {
+    "id": "urn:li:jobPosting:4429616593",
+    "title": "SAP FIORI Consultant",
+    "company": "Thoucentric",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-06-12",
+    "link": "https://in.linkedin.com/jobs/view/sap-fiori-consultant-at-thoucentric-4429616593?position=9&pageNum=92&refId=B12pQe%2B1Xj%2FD87VO8up1CQ%3D%3D&trackingId=bv4CloxMllgNqOrp4qqDrQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEpshuwk7SRGw/company-logo_100_100/B56Z864m7dHUAQ-/0/1783399346099/thoucentric_logo?e=2147483647&v=beta&t=U49WNKPYNBVu_VIFhhEIzj_4Ccs7rXa_dbkLi8xU2QA",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4427534864",
@@ -78265,6 +78298,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4336110793",
+    "title": "Full Stack Developer.NET - Senior Engineer/Lead Engineer",
+    "company": "ISG (Information Services Group)",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2025-11-14",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-net-senior-engineer-lead-engineer-at-isg-information-services-group-4336110793?position=10&pageNum=97&refId=xIp5lK6fE0OHVQGeDNREVQ%3D%3D&trackingId=TyJ9KTpoZfNiqlgmj1hzpQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQENeK0wwe8OeA/company-logo_100_100/company-logo_100_100/0/1630563832694/information_services_group_logo?e=2147483647&v=beta&t=ti9rhI7lz4a36x5VydvtKOL1XnE0oB-vLQOoX1EtZws",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4322331500",
@@ -174310,5 +174354,115 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHa7kowBO7CeQ/company-logo_100_100/company-logo_100_100/0/1631319537543?e=2147483647&v=beta&t=ACgjUcaJK0JmvbVK4mQyK3L-Z2sQzj_vOh_jh3UJaEw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4468728115",
+    "title": "Software Engineer - Frontend",
+    "company": "Superleap AI CRM",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-frontend-at-superleap-ai-crm-4468728115?position=10&pageNum=2&refId=m9JoHLd4C31zuGQ71uHoMw%3D%3D&trackingId=%2BWB%2Flio6WtVGFFXtf4Bsiw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFS5I7qtjwplw/company-logo_100_100/B56Zavkd._GUAQ-/0/1746702296301/superleapai_logo?e=2147483647&v=beta&t=irDQMXSzia7SA3sNAxmqy621900uxwWbB8e7uEjClWE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468563161",
+    "title": "Software Engineering",
+    "company": "Omnissa",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineering-at-omnissa-4468563161?position=3&pageNum=10&refId=EZTIuU9QVsY5JGvRcNAEcw%3D%3D&trackingId=z189iJMnUMuI7SWvUMq8%2Bg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF96zYm6_LfxQ/company-logo_100_100/company-logo_100_100/0/1719854751707/endusercomputing_logo?e=2147483647&v=beta&t=PfnO8RbBmkf1drrRbC_l7JY7ivYNhyNY9n9NACkGs74",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470414054",
+    "title": "Software Engineer II",
+    "company": "UiPath",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-uipath-4470414054?position=1&pageNum=17&refId=xiij24A5xOzVmEJoyd1W7g%3D%3D&trackingId=BVPxWJdHleRKNI9FfKVbmw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEoLEGmmZUTsg/company-logo_100_100/B4DZfP43PmHMAU-/0/1751539479900/uipath_logo?e=2147483647&v=beta&t=h7IF4PNnjW6qucpXaSu1E3Jt6rd596ZWc5hk40XKDVg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470296735",
+    "title": "Shopify Developer",
+    "company": "Brandshark",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/shopify-developer-at-brandshark-4470296735?position=2&pageNum=20&refId=q2zmMEdEOvgiZe3CdmhZ%2BA%3D%3D&trackingId=%2BUwzaZdBqnDdN7dsKQl0iQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHWPEGxCtqEJg/company-logo_100_100/company-logo_100_100/0/1677047116895/designbrandshark_logo?e=2147483647&v=beta&t=4h3zB64V8DdmRTeddWqXk-k5ThfE4JcMKA0EgecGU28",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470253509",
+    "title": "Cloud Engineer - Frontend-leaning (Remote, Full-Time) [AS315]",
+    "company": "Smart Working",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/cloud-engineer-frontend-leaning-remote-full-time-as315-at-smart-working-4470253509?position=1&pageNum=25&refId=T6QKFkLvJ9JtYCuAC%2FX6CQ%3D%3D&trackingId=DYkBbYm58TjZ6k6Z7kktew%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHUxd8kYUsTaQ/company-logo_100_100/company-logo_100_100/0/1725018611800/smartworkingsolutions_logo?e=2147483647&v=beta&t=pMU3zeIFuRDS9xLbKRRKsWlJRsLNCi19iR_bn12AYxM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468520429",
+    "title": "Staff Software Engineer",
+    "company": "Okta",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-at-okta-4468520429?position=7&pageNum=35&refId=OdhYI7Bp19mPIgDzPFmbkg%3D%3D&trackingId=%2BWi%2BlG4lgGvqzcGqpTMOzQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEU2zmNRniylg/company-logo_100_100/B4EZ_SBqb8JEAI-/0/1785935079432/okta_inc__logo?e=2147483647&v=beta&t=cfsyoAwsZ3zWgGgji9LFunbniLtSHjbVpkY11B2tgrI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468537061",
+    "title": "Reactjs",
+    "company": "Tata Consultancy Services",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/reactjs-at-tata-consultancy-services-4468537061?position=5&pageNum=45&refId=a99ctsxaQnzU0cdffLthsg%3D%3D&trackingId=qCFFX9vnNXrwXkJH%2Fct6pQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470294241",
+    "title": "Fullstack Developer (Angular + Java)",
+    "company": "Tata Consultancy Services",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/fullstack-developer-angular-%2B-java-at-tata-consultancy-services-4470294241?position=9&pageNum=45&refId=a99ctsxaQnzU0cdffLthsg%3D%3D&trackingId=4rXtm3yFrk35%2FVA9CqPgMw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468585028",
+    "title": "Senior Full-Stack Developer (React,Java)",
+    "company": "Miratech",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-react-java-at-miratech-4468585028?position=5&pageNum=55&refId=TbxbQc9oAY22xAeIWVDF%2Fg%3D%3D&trackingId=1vs1qH6GB0dnW6TTLfA8%2Fg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFZ2nH7NHhJuA/company-logo_100_100/B56ZUjoIcGGoAU-/0/1740059478100/miratech_logo?e=2147483647&v=beta&t=_k-2ao3VB7CF9K_Wg8i16AJZnLiijiQIhjcQHfig2Fo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468538716",
+    "title": "Java Microservices + ReactJS Full Stack Developer",
+    "company": "TCS Private Limited",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/java-microservices-%2B-reactjs-full-stack-developer-at-tcs-private-limited-4468538716?position=3&pageNum=87&refId=f38EL1V9%2FnSrGxlOk%2Fh6Xg%3D%3D&trackingId=sffoVZlvNOYxh4CMdyfrgA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGHitRroymymg/company-logo_100_100/B4DZ2v9E9fHIAQ-/0/1776773522747/tcs_private_limited_logo?e=2147483647&v=beta&t=vSLJ4zWTFa9HRU7P-nxKBcte2Z960Bl9m4qPOBSMwe4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468562126",
+    "title": "Dot net full stack+ React JS (Weekend Walk-in Drive)",
+    "company": "Tata Consultancy Services",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/dot-net-full-stack%2B-react-js-weekend-walk-in-drive-at-tata-consultancy-services-4468562126?position=3&pageNum=95&refId=wbzP3urVlEBPYcXpp1uTjw%3D%3D&trackingId=1x7IZiBmt%2Bd8U0SdljZSKA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
+    "lat": 0,
+    "lng": 0
   }
 ]
