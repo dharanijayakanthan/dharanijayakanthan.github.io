@@ -495,6 +495,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4456924129",
+    "title": "Senior Software Engineer",
+    "company": "IDBS",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-09-15",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-idbs-4456924129?position=10&pageNum=92&refId=yG%2BIPcLZsRrosmYumxWDBw%3D%3D&trackingId=umvtdv8WRcIiVB9eaq%2BdOQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFua4yNlU-Q3w/company-logo_100_100/company-logo_100_100/0/1656935972749/idbs_logo?e=2147483647&v=beta&t=LjYjhfLEIv5L2dhISQmefp6UfsPkVFfLwF7Je5AaIPU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4465412046",
     "title": "Back End Developer - Next JS",
     "company": "Talentgigs",
@@ -559,6 +570,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
     "lat": 13.120648,
     "lng": 77.6114683
+  },
+  {
+    "id": "urn:li:jobPosting:4464270347",
+    "title": "AI Engineer – Senior Associate",
+    "company": "PwC Acceleration Center India",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-09-12",
+    "link": "https://in.linkedin.com/jobs/view/ai-engineer-%E2%80%93-senior-associate-at-pwc-acceleration-center-india-4464270347?position=1&pageNum=97&refId=5qPGg0P2kySl%2BhqqvgZOcw%3D%3D&trackingId=s4TW%2BkcRjAJiSEUEN%2B115A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHuQqdWGsFM9Q/company-logo_100_100/B56ZaB.PV5HgAQ-/0/1745937299380/pwc_acs_in_india_logo?e=2147483647&v=beta&t=P9D-9QhC9uzOr1Kg4yRseC0uvYNXmxHvqWDvGrqTriY",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4464873908",
@@ -3089,6 +3111,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&v=beta&t=HPSmWLOCvdPkWO1nRWwjjmCNpaCqww20rSJ4E54QtxQ",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4469596520",
+    "title": "Full Stack Developer",
+    "company": "Virallens",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-26",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-virallens-4469596520?position=1&pageNum=82&refId=dVeEC2jgsxnoUSJMJ0Mr5A%3D%3D&trackingId=e2VIvb55DNa2v%2BEgswDfiA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGCqlIi_Kf_zQ/company-logo_100_100/company-logo_100_100/0/1631389306788?e=2147483647&v=beta&t=2nArPnLtQ3QO5N6wEM1lqVZzBxgMekazjY2unSkbUZw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4458705674",
@@ -174247,5 +174280,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4470240171",
+    "title": "Senior Full Stack Developer (Java + React/Angular) - Sr. Consultant",
+    "company": "Thinkwires",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-java-%2B-react-angular-sr-consultant-at-thinkwires-4470240171?position=7&pageNum=57&refId=E%2BPra41bXewuSGtIfvdlxA%3D%3D&trackingId=x5eb3%2Bx5aGKdiApNu%2Bn0vw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFSuVUTnlZhVA/company-logo_100_100/B4DaC_LWBvGUAI-/0/1789913817458/thinkwires_technology_logo?e=2147483647&v=beta&t=9L5IK1ulLyV5RSsn0Qn9qxTZaFxEI6Ic4jYgaxTaYY0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468122877",
+    "title": "Staff Software Engineer, GeminiApp Growth and Discovery, DeepMind",
+    "company": "Google DeepMind",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-geminiapp-growth-and-discovery-deepmind-at-google-deepmind-4468122877?position=7&pageNum=62&refId=jpWaweRaikLMUhjQfZT%2BWA%3D%3D&trackingId=uCCwuf%2BPXfZnUbkNJ4LUNg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_100_100/company-logo_100_100/0/1692960425188/googledeepmind_logo?e=2147483647&v=beta&t=xqxyHXYuH5iFMPxyvTkS1Mb55GQ4U83jUJHJt0NQao8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4469987371",
+    "title": "Staff Engineer - Full Stack",
+    "company": "Stryker",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/staff-engineer-full-stack-at-stryker-4469987371?position=5&pageNum=80&refId=sOqRTR1%2FDfTb6tqsKKW9Vw%3D%3D&trackingId=%2FCbGmP4UeMSMemmeQ9cEBQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHa7kowBO7CeQ/company-logo_100_100/company-logo_100_100/0/1631319537543?e=2147483647&v=beta&t=ACgjUcaJK0JmvbVK4mQyK3L-Z2sQzj_vOh_jh3UJaEw",
+    "lat": 0,
+    "lng": 0
   }
 ]
