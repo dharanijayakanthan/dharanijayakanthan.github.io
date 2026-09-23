@@ -66,6 +66,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4468564999",
+    "title": "ServiceNow Portal UI Developer",
+    "company": "TEKsystems",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-22",
+    "link": "https://in.linkedin.com/jobs/view/servicenow-portal-ui-developer-at-teksystems-4468564999?position=10&pageNum=17&refId=P78ycfNrwKQ3d2Ux7UTJVA%3D%3D&trackingId=pyDFaxiIDoThtZovf6mNCA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFhhXeUOC4-iQ/company-logo_100_100/B56Z5v00MaJgAI-/0/1779992577001/teksystems_logo?e=2147483647&v=beta&t=oLUqqosZEpJ_vmGOTA2aN6Jfqb2zKzq_1wfliS3VmlM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4469859616",
     "title": "Shopify Engineer",
     "company": "AppsForBharat",
@@ -218,6 +229,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFnNOoDrwfW6A/company-logo_100_100/company-logo_100_100/0/1630540114523/eurofins_logo?e=2147483647&v=beta&t=YmAUdo_wjfnFDQerIYzNSukvGQH0MB4fgGIuolHWNc8",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4467847224",
+    "title": "Frontend Developer",
+    "company": "Talento HR",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-18",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-talento-hr-4467847224?position=3&pageNum=15&refId=VXJpQ8E%2B27sAtMSPX%2BIcYQ%3D%3D&trackingId=h10HWdXTrRZkvlnlpdBDVQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHozYKglpn6MA/company-logo_100_100/B56ZxIFRd4HYAU-/0/1770735868230/talento_hr_logo?e=2147483647&v=beta&t=yj4qlqbHn7qhFFLGkszbzyFFH5bd_JYtkGua5pQ7c3Q",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4469229397",
+    "title": "Staff UI Engineer",
+    "company": "Ping Identity",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-18",
+    "link": "https://in.linkedin.com/jobs/view/staff-ui-engineer-at-ping-identity-4469229397?position=6&pageNum=15&refId=VXJpQ8E%2B27sAtMSPX%2BIcYQ%3D%3D&trackingId=XSAnKK6N8ntnBJGyqf4mnw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHFDxRAmb6wgA/company-logo_100_100/B56Z8eBpI_HcAI-/0/1782915175316/ping_identity_logo?e=2147483647&v=beta&t=lIL31Ydro54ZOdKx-j2NXumggsUJbqdeu3J1-_ya3rg",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4467549541",
@@ -482,6 +515,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFnNOoDrwfW6A/company-logo_100_100/company-logo_100_100/0/1630540114523/eurofins_logo?e=2147483647&v=beta&t=YmAUdo_wjfnFDQerIYzNSukvGQH0MB4fgGIuolHWNc8",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4468233541",
+    "title": "Principal Frontend Software Engineer",
+    "company": "Atlassian",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-16",
+    "link": "https://in.linkedin.com/jobs/view/principal-frontend-software-engineer-at-atlassian-4468233541?position=9&pageNum=5&refId=9xg1ni8%2FsSgOgQOrZkYEvA%3D%3D&trackingId=o8df6zH9FT6mG0qMJCBfQA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGeyLL6crkJKg/company-logo_100_100/company-logo_100_100/0/1735593604612/atlassian_logo?e=2147483647&v=beta&t=4riZdTtd16Oeoew0_mSThLQak3uyYv2-ep73cztBjbo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4466826914",
+    "title": "Fullstack Staff Frontend Engineer",
+    "company": "Noon",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-16",
+    "link": "https://in.linkedin.com/jobs/view/fullstack-staff-frontend-engineer-at-noon-4466826914?position=7&pageNum=10&refId=Jx1FdKCk6TVh0F9%2FCcE4aA%3D%3D&trackingId=7ikyTXlU71yazIyHPrVaBQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHqfK1gJVvHPA/company-logo_100_100/B56Z1LOewRJgAQ-/0/1775083580851/noondesignapp_logo?e=2147483647&v=beta&t=U9JqAAKapgUTJeXS6I0bnNtxCkpYGY2Y-j1NyEk3Y_8",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4467741847",
@@ -1111,6 +1166,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4463876614",
+    "title": "Front End UI Engineer",
+    "company": "Ascendion",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-09",
+    "link": "https://in.linkedin.com/jobs/view/front-end-ui-engineer-at-ascendion-4463876614?position=7&pageNum=5&refId=9xg1ni8%2FsSgOgQOrZkYEvA%3D%3D&trackingId=uF9jCPq9CSvhPkX1Fdppdw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEjwUhLqLGaAQ/company-logo_100_100/B56Zc2XoO0HEAU-/0/1748963853609/ascendion_logo?e=2147483647&v=beta&t=bVB7guRmKDQeB5bYI0rWapTtIUvTw8kgOZYeAi2LBeQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4465063396",
+    "title": "Web Developer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-09",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-accenture-in-india-4465063396?position=8&pageNum=95&refId=dnzO5DQ%2B8Jin7y7sNyFybw%3D%3D&trackingId=JwsAXEyR2yVkd%2Fi9fFWNiQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4462296190",
     "title": "Full Stack Developer",
     "company": "AutoRABIT",
@@ -1560,6 +1637,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnoz2X-IxAuw/company-logo_100_100/company-logo_100_100/0/1719840778368/ntt_data_americas_logo?e=2147483647&v=beta&t=9lYr_fMUoCGiHovTPbfU6DBRyUAG-HtLUYziXPNmzcg",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4462621281",
+    "title": "Senior Software Engineer",
+    "company": "Epsilon",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-05",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-epsilon-4462621281?position=4&pageNum=92&refId=%2BElga%2BGMXG6YmFtEl%2Fnv4A%3D%3D&trackingId=DAJ3b7vNiirjxNHDP%2BWMUQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF3oH_cjmKIVA/company-logo_100_100/B56Z_TeUPDJ0AI-/0/1785959367818/epsilon_logo?e=2147483647&v=beta&t=EuhWgLGa2dcVrRnMN8EvxYWxOlPF-cVyFN0-cymZOoY",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4460795095",
@@ -2693,6 +2781,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
     "lat": 12.8461795,
     "lng": 77.6776437
+  },
+  {
+    "id": "urn:li:jobPosting:4458968447",
+    "title": "Java full stack engineer",
+    "company": "Zensar Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-28",
+    "link": "https://in.linkedin.com/jobs/view/java-full-stack-engineer-at-zensar-technologies-4458968447?position=5&pageNum=92&refId=%2BElga%2BGMXG6YmFtEl%2Fnv4A%3D%3D&trackingId=dFWfuAxpmeXoHtb8KAuUoQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFls229vaDjDg/company-logo_100_100/company-logo_100_100/0/1657181507521/zensar_logo?e=2147483647&v=beta&t=kugFIZKCnsTkWEQoJIw35rN_6OA92cyHTuCOOZd7bR4",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4458373589",
@@ -175155,5 +175254,85 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHjfONO-FlnMQ/company-logo_100_100/B4EZfEneHoHsAQ-/0/1751350371288/ntt_data_business_solutions_logo?e=2147483647&v=beta&t=WKqfBv9WO255B97ga_S7qqv0fQUiFt6GGWSV0gz-L9Y",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4469441195",
+    "title": "Senior User Interface Engineer",
+    "company": "ServiceTitan",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-user-interface-engineer-at-servicetitan-4469441195?position=8&pageNum=15&refId=VXJpQ8E%2B27sAtMSPX%2BIcYQ%3D%3D&trackingId=4GtZqOJjbzb4YCkZ%2BA7N2A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEZXBsypK75Fg/company-logo_100_100/company-logo_100_100/0/1660079842958/servicetitan_logo?e=2147483647&v=beta&t=ab2_U57-uhA0Zusq0pB-wql7NIsfZ0htp5J4t3krkv4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470908804",
+    "title": "React JS Python Developer",
+    "company": "TEKsystems Global Services in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-js-python-developer-at-teksystems-global-services-in-india-4470908804?position=3&pageNum=17&refId=P78ycfNrwKQ3d2Ux7UTJVA%3D%3D&trackingId=hCRv9htCw5Y98hrOqSWTsA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGeEWm35edQhA/company-logo_100_100/B4EZ5vWiVJIAAM-/0/1779984639623/teksystems_global_services_india_logo?e=2147483647&v=beta&t=O7_nWR4z5Aq9kmMxrxLIBk22tIIivFXs4H9u9Rkr9qk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468985759",
+    "title": "Software Engineer – Javascript / TypeScript | React | 3–6 Years | Backend Exposure",
+    "company": "CareerXperts Consulting",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-%E2%80%93-javascript-typescript-react-3%E2%80%936-years-backend-exposure-at-careerxperts-consulting-4468985759?position=5&pageNum=17&refId=P78ycfNrwKQ3d2Ux7UTJVA%3D%3D&trackingId=jUAH%2FcF72s5rCMtluT3t%2BQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE_3TwMUk1B5g/company-logo_100_100/B4DZ.J3scZK0AI-/0/1784724506765/careerxperts_consulting_logo?e=2147483647&v=beta&t=rvEcqn1P_5rdQTEx2uNgW78llxBQRowahekss-owm5A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4469609354",
+    "title": "Salesforce Commerce Cloud Front End PWA Developer",
+    "company": "PVH Corp.",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/salesforce-commerce-cloud-front-end-pwa-developer-at-pvh-corp-4469609354?position=1&pageNum=20&refId=RXmlyVPKjYWj6MuXW%2Bn3%2FA%3D%3D&trackingId=uvGwgnhyjzCZluLWfnb4hg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGRftUXZ47BFg/company-logo_100_100/company-logo_100_100/0/1630557474920/pvh_logo?e=2147483647&v=beta&t=PLIBjmo6durR-gbtYL3NgHtYZ7yaTST3P7IktcO3W38",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470957857",
+    "title": "Lead Engineer",
+    "company": "Collins Aerospace",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/lead-engineer-at-collins-aerospace-4470957857?position=9&pageNum=30&refId=qRdQMaTz0kTQRSrIP%2FHo%2BA%3D%3D&trackingId=OS6nicHV2XtZwQ0naD7yxQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGOO3rPemY70w/company-logo_100_100/company-logo_100_100/0/1687169228108/collins_aerospace_logo?e=2147483647&v=beta&t=tHZFv8wTT8DZAOm_t3ypnhWOaRkRE4BF84f6O_0mSG0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470938234",
+    "title": "Frontend Engineering & Enterprise Portal Development",
+    "company": "MUFG",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineering-enterprise-portal-development-at-mufg-4470938234?position=10&pageNum=60&refId=BmIKzxn%2F%2BqfmHWvgkUpGUA%3D%3D&trackingId=c0tYW%2Fm57ooDzMixMYpoKw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEyC1DyrmO5yA/company-logo_100_100/company-logo_100_100/0/1688117556427/mufg_logo?e=2147483647&v=beta&t=C-a3FJjn0IAnxtcloT1BTAV__Je45pcbBUDGhD9vi3I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470946892",
+    "title": "Senior Software Engineer",
+    "company": "Caterpillar Inc.",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-caterpillar-inc-4470946892?position=3&pageNum=75&refId=BRf5hXufXfcNo8XIrfSFDQ%3D%3D&trackingId=7YIvX9lyG8GHk8Fj5FAw6Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGezvfCH-inoA/company-logo_100_100/B4EZuz4cAhKgAU-/0/1768249475691/caterpillar_inc_logo?e=2147483647&v=beta&t=lWh93R_F-WvaRwOz6OwdZdT7vigzIsyVWpNqEXHfM7w",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470983454",
+    "title": "Full-Stack AI Developer (MERN stack)",
+    "company": "Enphase Energy",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-ai-developer-mern-stack-at-enphase-energy-4470983454?position=1&pageNum=80&refId=MCDskkZ0lnUvEyuJfnpyAQ%3D%3D&trackingId=12HhlZkpP2Rp3ZkE4E4gYQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHYn4O73pUrlg/company-logo_100_100/company-logo_100_100/0/1644856209518/enphase_energy_logo?e=2147483647&v=beta&t=FNA4BgJkS755mxn2qMMr2bpZuvZ4ZM-LDEG14fB1R74",
+    "lat": 0,
+    "lng": 0
   }
 ]
