@@ -110,6 +110,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4467371610",
+    "title": "Sr. SW Engineer - UI",
+    "company": "Nokia",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-21",
+    "link": "https://in.linkedin.com/jobs/view/sr-sw-engineer-ui-at-nokia-4467371610?position=8&pageNum=12&refId=Y1di4Jx4ePuG4%2FEbcpFTQQ%3D%3D&trackingId=HvLmNU5cMsnFDxPYtdDDnw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE_ff-lEcAC5w/company-logo_100_100/B4EZqby_U_HgAQ-/0/1763550426950/nokia_logo?e=2147483647&v=beta&t=qxtoTn57D4TyVa7Or6EcSCx-lBK1o3cVYD71ukfu5Q0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4466972789",
     "title": "Lead Engineer Software UI",
     "company": "Empower India",
@@ -175334,5 +175345,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQHYn4O73pUrlg/company-logo_100_100/company-logo_100_100/0/1644856209518/enphase_energy_logo?e=2147483647&v=beta&t=FNA4BgJkS755mxn2qMMr2bpZuvZ4ZM-LDEG14fB1R74",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4470675245",
+    "title": "Packaged/SaaS Application Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/packaged-saas-application-engineer-at-accenture-in-india-4470675245?position=10&pageNum=67&refId=sMxDjQ93%2FzOfFc3hI1BRhg%3D%3D&trackingId=rrIOAfHtP4hPQhRKioP2xA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4467855584",
+    "title": "Senior Fullstack AI Engineer",
+    "company": "Tracxn",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-fullstack-ai-engineer-at-tracxn-4467855584?position=3&pageNum=90&refId=f2Tc4sPfWKNbq9yGXjz4jg%3D%3D&trackingId=O%2Fa3vMYHvuYrf1psnrq3ZQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG8QTQUeybruQ/company-logo_100_100/company-logo_100_100/0/1652177251610/tracxn_logo?e=2147483647&v=beta&t=V5KIiO-6tp7PAz1-eAHCDfojybhiGaaVIO_Z_UG0amM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4469608181",
+    "title": "Mobile App Developer",
+    "company": "emagine",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/mobile-app-developer-at-emagine-4469608181?position=10&pageNum=32&refId=m3LnV2r7wZxlsUyGhFwo0A%3D%3D&trackingId=cSmIP0JcvtCYTfXgBkoHRw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGhrWV7ygFFcg/company-logo_100_100/B4DZecbP2NH4AQ-/0/1750676078500/emagine_logo?e=2147483647&v=beta&t=Ykr_h78E7GhQQHQfpxWZf1O3plKH3MzeCIR36f2HcEc",
+    "lat": 0,
+    "lng": 0
   }
 ]
