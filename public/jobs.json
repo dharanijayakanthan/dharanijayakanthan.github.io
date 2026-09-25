@@ -22,6 +22,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4470916359",
+    "title": "Senior Frontend Software Engineer – React & TypeScript",
+    "company": "HYR Global Source Inc",
+    "location": "Bangalore Urban, Karnataka, India",
+    "date": "2026-09-23",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-software-engineer-%E2%80%93-react-typescript-at-hyr-global-source-inc-4470916359?position=10&pageNum=15&refId=shAIPhzUt7kmQzNWuqNZ%2FQ%3D%3D&trackingId=45F82SGnIzTLckWiwA6S4A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF_l47ozNzpsw/company-logo_100_100/company-logo_100_100/0/1630572654861/hyr_global_source_inc_logo?e=2147483647&v=beta&t=rxHk7kwS1lB_fMqSp4IcIFHX-DjvWSwrz07etMHViuY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4469456098",
+    "title": "Web Developer",
+    "company": "Equiti Group",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-23",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-equiti-group-4469456098?position=9&pageNum=17&refId=5ASvQ7GXydSlVehBskMxng%3D%3D&trackingId=M1WOBoo%2BQUkjAvFFRWELWg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQErpg_xAC68Zw/company-logo_100_100/company-logo_100_100/0/1648550386411/equiti_logo?e=2147483647&v=beta&t=v4KQkjG4WWuQ8kB490stbKSYpyOqlpMaR643WUpYC88",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4470248648",
     "title": "Web Development Specialist",
     "company": "Sobha Ltd.",
@@ -680,6 +702,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHfmTZN1vFPkg/company-logo_100_100/company-logo_100_100/0/1631357551426?e=2147483647&v=beta&t=VYMq08G700-KrrPTYBrquClzGP8pUFZ6aWcmrzHHJ-4",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4468234627",
+    "title": "AI SDE 3 - Full Stack",
+    "company": "Hiver",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-16",
+    "link": "https://in.linkedin.com/jobs/view/ai-sde-3-full-stack-at-hiver-4468234627?position=10&pageNum=80&refId=SC6WedIqK3eloCQkm6jXNQ%3D%3D&trackingId=JMbVP61IUYYCo2G6Sg%2FRJQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGHqQMT0dV_Jw/company-logo_100_100/B56ZYfuzuWGsAQ-/0/1744289086924/hiverhq_logo?e=2147483647&v=beta&t=g8EhNyAtSgPK0BP_ZoA43oPV_5-kBj8o7FmTJ2iD5nI",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4467741847",
@@ -175856,6 +175889,56 @@
     "location": "Bengaluru East, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/full-stack-application-engineer-at-huntingcube-4471623980?position=1&pageNum=77&refId=vlHMXRvQVkjoabfU9xKp2w%3D%3D&trackingId=gSSVqTRkXzoSRLRuqoFb7g%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIxS_H-2dx8g/company-logo_100_100/B56Z9AUvhhKEAI-/0/1783490607442/huntingcubeai_logo?e=2147483647&v=beta&t=3UxmDQpazRzithZkjHcNISR71_MbyJuofCSauGGObFA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4471454960",
+    "title": "IN_Senior Associate_React.js+Python Developer_GCC_Advisory_Bangalore",
+    "company": "PwC India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/in-senior-associate-react-js%2Bpython-developer-gcc-advisory-bangalore-at-pwc-india-4471454960?position=9&pageNum=30&refId=KPa%2FlDq8nEuBuYhbtXB8rw%3D%3D&trackingId=pHjQqkl3mK%2FsWWr9ddxWAA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4471615918",
+    "title": "Principal UI Software Engineer",
+    "company": "EngRadar",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/principal-ui-software-engineer-at-engradar-4471615918?position=7&pageNum=25&refId=s12RoOhguUvC9O7OakvZuQ%3D%3D&trackingId=9JibRP6PhinbeK9WXTNonw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFQRKVu_1JBaA/company-logo_100_100/B4DZ8ONFFpKsAI-/0/1782649737797?e=2147483647&v=beta&t=f8QzxnTm1rMx8aaozTfxXsYYRGKzRs2oDOfSor9tfA4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470021198",
+    "title": "Senior Software Engineer, Frontend",
+    "company": "Official Roles",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-at-official-roles-4470021198?position=9&pageNum=25&refId=s12RoOhguUvC9O7OakvZuQ%3D%3D&trackingId=p%2F4bGBfK1kVYVQdvyl7jcg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHGCuOzDhcReA/company-logo_100_100/B4DaC.FqN_GsAI-/0/1789895550115?e=2147483647&v=beta&t=-yxoKRGWxEYwDvSovue7Mqk56YYzuSSbBjaVS_kJj-w",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4471687673",
+    "title": "Software Developer, Product",
+    "company": "Endpoint Clinical",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-developer-product-at-endpoint-clinical-4471687673?position=8&pageNum=87&refId=4EF8g%2FWtZ%2FCH9EB93Bx1hA%3D%3D&trackingId=%2Fsh1m7ZFqIrhIrIqbAxuAA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF-KWOgn2mjMQ/company-logo_100_100/company-logo_100_100/0/1738330093891/endpoint_464541_logo?e=2147483647&v=beta&t=AjlDAs2BjrZFgd8S5_sO8W-QU4xZYBvN4CdAcu_BUJE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470050100",
+    "title": "Full Stack Developer- ReactJS & NodeJS",
+    "company": "IQVIA",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-reactjs-nodejs-at-iqvia-4470050100?position=2&pageNum=92&refId=bvbIzp7vpMxuV6pBoP5OBQ%3D%3D&trackingId=lq7YosqzRYNXy5RzElEK7g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFW8oSPns4-Cw/company-logo_100_100/company-logo_100_100/0/1678802429367/iqvia_logo?e=2147483647&v=beta&t=QOXo3llXq86V8X_W17HYn3FC5VtElAP1K_rAxCkyhIs",
     "lat": 0,
     "lng": 0
   }
