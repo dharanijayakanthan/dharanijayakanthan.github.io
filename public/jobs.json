@@ -781,6 +781,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4468213346",
+    "title": "Sr. Cyber Security Engineer",
+    "company": "GE HealthCare",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-16",
+    "link": "https://in.linkedin.com/jobs/view/sr-cyber-security-engineer-at-ge-healthcare-4468213346?position=5&pageNum=92&refId=P8jKaQasmi4ers8mDSK8WA%3D%3D&trackingId=AOd0%2FH%2FyXhqbdBoMzC40Jw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG30MejU_UygQ/company-logo_100_100/B56ZlzFxy6I0AQ-/0/1758572519588/gehealthcare_logo?e=2147483647&v=beta&t=nY-wpTVABSqcsPg_WG65-jSQQsWCROwqEEKlxai4V6g",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4467741847",
     "title": "Software Engineer, Apps",
     "company": "Headout",
@@ -1670,6 +1681,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQG4WXPYWbj4Kg/company-logo_100_100/B56ZtaX2ZTHkAQ-/0/1766747761102?e=2147483647&v=beta&t=XCLBngmPMQuUDpDRQWTrToWBTbtDQen7nU4k31guJfQ",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4464665374",
+    "title": "Senior Software Engineer- Frontend Angular",
+    "company": "NeST Digital",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-08",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-angular-at-nest-digital-4464665374?position=1&pageNum=92&refId=A1VtEaY%2Bq4dwbZ85jisHPw%3D%3D&trackingId=XaKz9fSta09Sj648dt203w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHEbr5Y66QyEA/company-logo_100_100/company-logo_100_100/0/1731562068886/nest_digital_pvt_ltd_logo?e=2147483647&v=beta&t=pX0zZep2xE-t4Nszd3fi2iCPK3QQtFPsYDzVG1zpOgI",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4462289312",
@@ -176211,5 +176233,75 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGszzRSQFrV9Q/company-logo_100_100/B4EZkdwCnSIsAQ-/0/1757140758493/hirealpha_logo?e=2147483647&v=beta&t=aMCzv6fZifLJMnWs5gHYWKtydp5vPV9WWlWfMvyGssg",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4470189569",
+    "title": "Software Engineer II",
+    "company": "7-Eleven Global Solution Center – India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-7-eleven-global-solution-center-%E2%80%93-india-4470189569?position=9&pageNum=32&refId=g8TI6vZ2WfIRo4QTlBhTnA%3D%3D&trackingId=wcVbM34PBT8c3qMWsucRsA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEhKAsc0i9UgA/company-logo_100_100/company-logo_100_100/0/1719461284612/7_eleven_global_solution_center__india_logo?e=2147483647&v=beta&t=V2w6kkd3erig16KhHwBtw9Qd00H8UOeSYqeY_urX2-E",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470170539",
+    "title": "Software Development Engineer II",
+    "company": "JioStar",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-jiostar-4470170539?position=9&pageNum=35&refId=47o9%2FGO6%2FF2OAVtAaniHQQ%3D%3D&trackingId=WLONCQ6D6s%2Bpc6fn5qz6bA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEhEL0Nx5zgWA/company-logo_100_100/B4DZjhSbP4HYAQ-/0/1756126361005/jio_star_logo?e=2147483647&v=beta&t=c7rwhVolxx9qi2ZNlSjIJptrcUgIhuI_5a9c2HZCCSA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470092049",
+    "title": "Full Stack Engineer – Node.js, React.js, TypeScript & NoSQL",
+    "company": "Synechron",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-%E2%80%93-node-js-react-js-typescript-nosql-at-synechron-4470092049?position=9&pageNum=40&refId=htjlZGFWkpawjlv16Mbrhw%3D%3D&trackingId=ILSuOTRY53FhC2RWLprwcw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGU3XDmI-XtZg/company-logo_100_100/B4EZbozLqWHcAU-/0/1747662453848/synechron_logo?e=2147483647&v=beta&t=967JcOKqVUEfAxo-JLDXVLacACGsfj3Itpkbmqz1HrA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4472075867",
+    "title": "Software Engineer-Java+ Angular",
+    "company": "Netsmart",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-java%2B-angular-at-netsmart-4472075867?position=5&pageNum=60&refId=hGvpBEztR4AZVUCvFmfuKQ%3D%3D&trackingId=nJabjgp5AAa4g24sMracPA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGnhOv7XgOp3Q/company-logo_100_100/company-logo_100_100/0/1630557967414/netsmart_logo?e=2147483647&v=beta&t=zYdU09vyP7IWCAvnQefqgwMLTy8un8lWD9SlHE5eSNc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470195226",
+    "title": "Senior Engineer I, Software Development - Insight",
+    "company": "NETGEAR",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-engineer-i-software-development-insight-at-netgear-4470195226?position=8&pageNum=77&refId=2wX6dtaeXPcFeTK%2F06pShw%3D%3D&trackingId=eM2XhI9jOJpUApC6gRuCjA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE2U33Bqyu0wQ/company-logo_100_100/B56ZqTfOO6JUAU-/0/1763411027188/netgear_logo?e=2147483647&v=beta&t=DXFAraY0JGkcRqdmoYCQz62nv31TryaPplOgBts84hg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470194251",
+    "title": "Sr Engineer II, Software Development - Switch",
+    "company": "NETGEAR",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-engineer-ii-software-development-switch-at-netgear-4470194251?position=5&pageNum=90&refId=4pUwnxQkCSfrECw3peHoDw%3D%3D&trackingId=KQpA%2BGt%2FKU4kzBw8UN%2ByYg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE2U33Bqyu0wQ/company-logo_100_100/B56ZqTfOO6JUAU-/0/1763411027188/netgear_logo?e=2147483647&v=beta&t=DXFAraY0JGkcRqdmoYCQz62nv31TryaPplOgBts84hg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470321629",
+    "title": "Full Stack Developer (10 LPA) (3+ Years)",
+    "company": "Jumbo Consulting",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-10-lpa-3%2B-years-at-jumbo-consulting-4470321629?position=2&pageNum=85&refId=geK485lnbfL6Ly7MyGDyIw%3D%3D&trackingId=%2BQk6KdN%2BGXUoNh4eRnPJ7Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH44K55Gq_dpA/company-logo_100_100/B56Zvv_MaaHQAQ-/0/1769257879885/jumbooconsulting_logo?e=2147483647&v=beta&t=GH7I0LCn8zymFkgBuBIfwmG-Pp9dnJe8klRM2bO1a48",
+    "lat": 0,
+    "lng": 0
   }
 ]
