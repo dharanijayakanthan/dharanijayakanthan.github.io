@@ -1,5 +1,27 @@
 [
   {
+    "id": "urn:li:jobPosting:4469720219",
+    "title": "Principal UI Software Engineer",
+    "company": "Okta",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-24",
+    "link": "https://in.linkedin.com/jobs/view/principal-ui-software-engineer-at-okta-4469720219?position=1&pageNum=10&refId=FXJFa091uh8FVFTxGlS7tw%3D%3D&trackingId=KqMctuhQ231%2BScq2CpwAww%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEU2zmNRniylg/company-logo_100_100/B4EZ_SBqb8JEAI-/0/1785935079432/okta_inc__logo?e=2147483647&v=beta&t=cfsyoAwsZ3zWgGgji9LFunbniLtSHjbVpkY11B2tgrI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4469728554",
+    "title": "Senior Software Engineer - React Native",
+    "company": "upGrad",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-24",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-react-native-at-upgrad-4469728554?position=2&pageNum=40&refId=e1b4aV4eKAmb5AaFLYdq6w%3D%3D&trackingId=GG0Uvgbcqx2rKXAZfIAaAw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHeJ-2mFiqcmQ/company-logo_100_100/company-logo_100_100/0/1732599862731?e=2147483647&v=beta&t=mYl439jm90VLHHuttGPR3EFdZHM0Z02P9gusx0mwWrM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4459556630",
     "title": "Sr. Full Stack GenAI Developer",
     "company": "SKF Group",
@@ -42,6 +64,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQErpg_xAC68Zw/company-logo_100_100/company-logo_100_100/0/1648550386411/equiti_logo?e=2147483647&v=beta&t=v4KQkjG4WWuQ8kB490stbKSYpyOqlpMaR643WUpYC88",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4469436542",
+    "title": "Senior Developer - Fullstack",
+    "company": "Arctic Wolf",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-23",
+    "link": "https://in.linkedin.com/jobs/view/senior-developer-fullstack-at-arctic-wolf-4469436542?position=10&pageNum=82&refId=DO9GuxWxyeYpTTW24jHRFA%3D%3D&trackingId=uz6bCxJyYItR6st%2FMsWLcg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFfriUqdpr4fA/company-logo_100_100/B4EZ4toNjMJMAI-/0/1778881976782/arcticwolf_logo?e=2147483647&v=beta&t=G2JXlV4fjxtjIR3A4FNBerbK9aU1GZsu7DmDe1eFCuo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4469614474",
+    "title": "Software Engineer Lead Consultant",
+    "company": "Allstate India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-23",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-lead-consultant-at-allstate-india-4469614474?position=1&pageNum=40&refId=e1b4aV4eKAmb5AaFLYdq6w%3D%3D&trackingId=Gc%2BndazfS0Qnq5vGmB%2FQRg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFt7caN4REyvQ/company-logo_100_100/company-logo_100_100/0/1630642218519/allstateindia_logo?e=2147483647&v=beta&t=D9ICodu7TbYDD6wyDaY5lN8RLBmK6ZoZDPqyhMv7i-0",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4470248648",
@@ -900,6 +944,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQH0PyYfpFnVaw/company-logo_100_100/company-logo_100_100/0/1734343774050/switsdigital_logo?e=2147483647&v=beta&t=H-_U2g6BWpbUXJIKlum_kJQhXNAtsCkuhjfWjqZobTk",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4466536093",
+    "title": "Staff Software Engineer - Frontend",
+    "company": "Sarvam",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-15",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-frontend-at-sarvam-4466536093?position=1&pageNum=22&refId=pZ%2Bzy5zujoHeX9G49mlU2Q%3D%3D&trackingId=9hLasnb5wAuKA2aIYS9tzA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGjyPkXGTdDAA/company-logo_100_100/B56ZxL8VkkJoAU-/0/1770800634834/sarvam_ai_logo?e=2147483647&v=beta&t=ROksQQLwZ-MrdpFLnM1dHOdIj0tel7umXmvN5QyiFGQ",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4465412046",
@@ -4057,6 +4112,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHg1eg6HD_2gg/company-logo_100_100/B4DZVLPnSPHAAQ-/0/1740724140174/metantz_logo?e=2147483647&v=beta&t=YC2uPyCHWwhg1VDoL5mTh0P8YFI4keh_ftLBggbEQrs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4457103505",
+    "title": "Senior Full Stack Engineer",
+    "company": "MetAntz",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-08-24",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-at-metantz-4457103505?position=9&pageNum=87&refId=KMbcM49rpxpCihW3gHdsxQ%3D%3D&trackingId=WBQFDD5jOeN%2FR3z2fmfLcQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHg1eg6HD_2gg/company-logo_100_100/B4DZVLPnSPHAAQ-/0/1740724140174/metantz_logo?e=2147483647&v=beta&t=YC2uPyCHWwhg1VDoL5mTh0P8YFI4keh_ftLBggbEQrs",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4457876578",
@@ -175941,5 +176007,115 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQFW8oSPns4-Cw/company-logo_100_100/company-logo_100_100/0/1678802429367/iqvia_logo?e=2147483647&v=beta&t=QOXo3llXq86V8X_W17HYn3FC5VtElAP1K_rAxCkyhIs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4471871344",
+    "title": "Software Development Engineer II - Frontend",
+    "company": "Sigmoid",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-frontend-at-sigmoid-4471871344?position=10&pageNum=0&refId=9cyLZ8NroK87BXhtDh%2FCKg%3D%3D&trackingId=Elgcm34QvYatCEVz2aTJJQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQHCjinIyrml3g/company-logo_100_100/company-logo_100_100/0/1630608391617/sigmoid_analytics_logo?e=2147483647&v=beta&t=VE8kSj9dgCzrqoy9Yqsz35_3fBTohIR87PQt1MpLIB8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470088760",
+    "title": "Software Engineer (Frontend UI), Git Native",
+    "company": "Postman",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-frontend-ui-git-native-at-postman-4470088760?position=8&pageNum=5&refId=I1k%2BVaFoddC%2B83k1HNzFeQ%3D%3D&trackingId=0FJxii9H9aEwiEARQnxgsw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFf8sH83foEVg/company-logo_100_100/company-logo_100_100/0/1654794308958/postman_platform_logo?e=2147483647&v=beta&t=vhUFiD_84RWtJWzqMFME4YJ9Jgnne9fH6DlCHgLCIEA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470140631",
+    "title": "Staff Software Engineer (UI)",
+    "company": "Nextiva",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-ui-at-nextiva-4470140631?position=1&pageNum=7&refId=L%2FZImpZBrw5BdS9BS31%2BHw%3D%3D&trackingId=IuvIN9m%2FO8dIFDeC9W8r6w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFufumPcr_vhA/company-logo_100_100/company-logo_100_100/0/1709925527924/nextiva_logo?e=2147483647&v=beta&t=R2u2x20YG5HsNUSlI7mgAuu_0iF62JR_k7ig7IGDzSY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4471457633",
+    "title": "Frontend Developer",
+    "company": "WAISL Limited",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-waisl-limited-4471457633?position=2&pageNum=10&refId=FXJFa091uh8FVFTxGlS7tw%3D%3D&trackingId=S7DoLq9KUYBeG6XSzBbPRA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFMnFCzJ1ZHpw/company-logo_100_100/B56Zvqp4UZHcAQ-/0/1769168406445?e=2147483647&v=beta&t=fVjR5WWT6eshpBBjzTiI0HVaRWQWcOnlV9DKTTYAgeo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470145535",
+    "title": "Software Engineer - Frontend Developer_104039",
+    "company": "MyCareernet",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-frontend-developer-104039-at-mycareernet-4470145535?position=5&pageNum=12&refId=LrZh64y8Jy4GbMMmwzmElg%3D%3D&trackingId=TH9xFQD1j3RWEE3vpPwaGw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHvY_a1mzADSg/company-logo_100_100/B56ZuNCAyJKcAQ-/0/1767597674101/mycareernet_logo?e=2147483647&v=beta&t=GcueUhUgoPcaBa9mhnxYfvsjd-bQsCjKbS8gA4nJwq8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4471442857",
+    "title": "R&D Principal Technologist, Product Development",
+    "company": "AVEVA",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/r-d-principal-technologist-product-development-at-aveva-4471442857?position=2&pageNum=30&refId=95Enq3uyGZR9htm2K1TLtg%3D%3D&trackingId=1jeVupvRLJTs0sg8R6VYjQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHSsL70oP8UsA/company-logo_100_100/B4EZ8dffMaKkAQ-/0/1782906221547/aveva_logo?e=2147483647&v=beta&t=dMSlSektyO-sZDvtVFzbNNoqDcGreuBHkg8BT5aT2Mw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4471452518",
+    "title": "Senior Software Engineer - Integration-",
+    "company": "Bristlecone",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-integration-at-bristlecone-4471452518?position=2&pageNum=32&refId=V82hy7c2E%2BSUaYWmz7pcCw%3D%3D&trackingId=oHpK%2FN2CvH3mj3W0ODgSbw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFQApQTe8Dicg/company-logo_100_100/company-logo_100_100/0/1632245901852/bristlecone_logo?e=2147483647&v=beta&t=xXZdRZnQscuAkcvEjl9LppjoQlnrx8FMDNCz6U9jPZU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4471874343",
+    "title": "Software Engineer - Digital Twin & React Web Development",
+    "company": "Caterpillar Inc.",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-digital-twin-react-web-development-at-caterpillar-inc-4471874343?position=1&pageNum=40&refId=7oI74A%2FeTnj2t4jkphPJVw%3D%3D&trackingId=s2EZyh0ShjC1JbDPaVbKgQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGezvfCH-inoA/company-logo_100_100/B4EZuz4cAhKgAU-/0/1768249475691/caterpillar_inc_logo?e=2147483647&v=beta&t=lWh93R_F-WvaRwOz6OwdZdT7vigzIsyVWpNqEXHfM7w",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4471845355",
+    "title": "Software Engineer III Java fullstack AWS",
+    "company": "JPMorganChase",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-iii-java-fullstack-aws-at-jpmorganchase-4471845355?position=5&pageNum=40&refId=7oI74A%2FeTnj2t4jkphPJVw%3D%3D&trackingId=bR9%2B96bisWi%2FznX2oCMXPw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470080783",
+    "title": "React Native Developer",
+    "company": "Recro",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-native-developer-at-recro-4470080783?position=5&pageNum=52&refId=FOPscg4npoRKTvKAfnZTJA%3D%3D&trackingId=UKSt6ixqWM%2BdDboHIeiz%2FQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH7GYOGBCj8Qg/company-logo_100_100/company-logo_100_100/0/1728907260215/recro_io_logo?e=2147483647&v=beta&t=898rSyj182aC0vqi5cZqbWQQIDumt_WpercCJsH_-TY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4469687322",
+    "title": "Senior Software Engineer",
+    "company": "Thomson Reuters",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-thomson-reuters-4469687322?position=10&pageNum=85&refId=cyLuHVuVC1a39m14YCr9Xw%3D%3D&trackingId=POXPJ%2BLgZI4bWqgmwR1rJA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHtf0NHyUa92g/company-logo_100_100/company-logo_100_100/0/1719933220460/thomson_reuters_logo?e=2147483647&v=beta&t=ML9NnTk2lfPONL3Ft_HeSGyq0tQPb7SrfP_LSYjC6c0",
+    "lat": 0,
+    "lng": 0
   }
 ]
