@@ -22,6 +22,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4471403408",
+    "title": "Web Engineer Full stack Developer",
+    "company": "InfoVision Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-24",
+    "link": "https://in.linkedin.com/jobs/view/web-engineer-full-stack-developer-at-infovision-inc-4471403408?position=8&pageNum=92&refId=XVugmem57wT7kAipOlBR8g%3D%3D&trackingId=SKNLadfXXMxqk1w68BHVdw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGUsWvr5LQ4Og/company-logo_100_100/company-logo_100_100/0/1661759233767/infovision_logo?e=2147483647&v=beta&t=lDL__UrYG2O__TqMTGHh7xsLMYZ5dGeL6J4MYa5dpmk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4459556630",
     "title": "Sr. Full Stack GenAI Developer",
     "company": "SKF Group",
@@ -988,6 +999,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGjyPkXGTdDAA/company-logo_100_100/B56ZxL8VkkJoAU-/0/1770800634834/sarvam_ai_logo?e=2147483647&v=beta&t=ROksQQLwZ-MrdpFLnM1dHOdIj0tel7umXmvN5QyiFGQ",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4467468869",
+    "title": "SENIOR SOFTWARE ENGINEER - NextJS",
+    "company": "Happiest Minds Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-15",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-nextjs-at-happiest-minds-technologies-4467468869?position=8&pageNum=10&refId=vVQ%2Bs6EuhFAbmQmbiwePjw%3D%3D&trackingId=zJwLybeL7wFGuE7GHUEG3g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHrStoH8fGuxw/company-logo_100_100/B56ZwiMfPGHcAQ-/0/1770100227699/happiest_minds_technologies_logo?e=2147483647&v=beta&t=-auObn_ZxRe-m2VVRutsYcb0xcVM2r8vqzrPLt78JV0",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4465412046",
@@ -2242,6 +2264,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHozYKglpn6MA/company-logo_100_100/B56ZxIFRd4HYAU-/0/1770735868230/talento_hr_logo?e=2147483647&v=beta&t=yj4qlqbHn7qhFFLGkszbzyFFH5bd_JYtkGua5pQ7c3Q",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4463301601",
+    "title": "Full Stack Engineer (Angular + Python)",
+    "company": "Innover Digital",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-04",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-angular-%2B-python-at-innover-digital-4463301601?position=9&pageNum=92&refId=XVugmem57wT7kAipOlBR8g%3D%3D&trackingId=Mh8J7GAyfCdBzJ3Kn3Ri3g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHKjyR3NJjZMg/company-logo_100_100/B56ZfjooP_GoAQ-/0/1751870769002/innoverdigital_logo?e=2147483647&v=beta&t=VyONHENZNVOdiaIj9nqbw5rdrSqkbylK0E-Mq7susP8",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4462768846",
@@ -28290,6 +28323,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQE3CVOcLuBxYQ/company-logo_100_100/company-logo_100_100/0/1630583573410/mahindra_comviva_logo?e=2147483647&v=beta&t=uPwc1gYj0wbw7ovHPAPx7HqSxOe082zfq0llalzITT8",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4431770244",
+    "title": "Full Stack Developer",
+    "company": "Intellibee Inc",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-06-22",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-intellibee-inc-4431770244?position=7&pageNum=62&refId=BVTwaPr6aPmuyiojTcv5sw%3D%3D&trackingId=z%2Bokje1dNjxYrk68ZT52uA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHtNC_HCDq3rw/company-logo_100_100/company-logo_100_100/0/1630610606831/intellibee_inc_logo?e=2147483647&v=beta&t=YqctMAoGk6ww1fb93WvYPuUIgGB8gYgRnutsK8_adv8",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4431615233",
@@ -176303,5 +176347,75 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQH44K55Gq_dpA/company-logo_100_100/B56Zvv_MaaHQAQ-/0/1769257879885/jumbooconsulting_logo?e=2147483647&v=beta&t=GH7I0LCn8zymFkgBuBIfwmG-Pp9dnJe8klRM2bO1a48",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4470744671",
+    "title": "Software Development Engineer - Frontend",
+    "company": "Vegapay",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-frontend-at-vegapay-4470744671?position=1&pageNum=0&refId=8zptbjMvB9xkXz5NV2LxwQ%3D%3D&trackingId=mdBfQIy0PoP%2FkrRh%2Beqi1w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGln4GlWLTxlQ/company-logo_100_100/company-logo_100_100/0/1726037627334/vegapay_logo?e=2147483647&v=beta&t=CRjz0oxES21razOIzcsub8ff4NaCBMVWSyabgd3ocTA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470191895",
+    "title": "Staff Software Engineer - Front end",
+    "company": "Walmart Global Tech",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-front-end-at-walmart-global-tech-4470191895?position=10&pageNum=12&refId=7ndRzCd7h4wOydeUf14Ilw%3D%3D&trackingId=hkIpbZkptBXC0tJC0yNzvw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEjq-bcaW-GSg/company-logo_100_100/company-logo_100_100/0/1630657358931/walmartglobaltech_logo?e=2147483647&v=beta&t=aOtdTbxVDQBQsa-xyW2VUJjF-RmLDYOwyzoYhqf9ytg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470303168",
+    "title": "Software Engineer (Frontend Platform), Git Native",
+    "company": "Postman",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-frontend-platform-git-native-at-postman-4470303168?position=9&pageNum=27&refId=5X%2BYvW5qeRoP00wiZenzIA%3D%3D&trackingId=I1Dc%2FjT1vgSOAv4NEEKs%2Bg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFf8sH83foEVg/company-logo_100_100/company-logo_100_100/0/1654794308958/postman_platform_logo?e=2147483647&v=beta&t=vhUFiD_84RWtJWzqMFME4YJ9Jgnne9fH6DlCHgLCIEA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470188283",
+    "title": "Software Development Engineer- 2 (Fullstack Development)",
+    "company": "Papaya Global",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-2-fullstack-development-at-papaya-global-4470188283?position=10&pageNum=30&refId=46upBvJBrvJcoMTjSPVSdg%3D%3D&trackingId=9DqWFeY%2FYqLVZhsAlDn3ow%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGcdeKqSCbn6g/company-logo_100_100/company-logo_100_100/0/1695127511501/papaya_global_logo?e=2147483647&v=beta&t=fv1t-mL2DszmZM5zIx3y1qUp2q1LiFTTgnmDaWkhaPE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470744050",
+    "title": "Senior Software Engineer",
+    "company": "Docusign",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-docusign-4470744050?position=6&pageNum=62&refId=jW%2Bip7lf0GJL4Mrhn3TYnw%3D%3D&trackingId=2%2FSXFLWd4MnFkj7JqgMRNA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFJh4R0ibULEg/company-logo_100_100/company-logo_100_100/0/1712837162469/docusign_logo?e=2147483647&v=beta&t=Y-f3Qq3iOXvWBwbXRkBZlDyiYso6ADqLFZ_f5hsk1i8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4469780595",
+    "title": "Frontend Developer Intern - Onsite HSR Bangalore",
+    "company": "Labsmart",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-intern-onsite-hsr-bangalore-at-labsmart-4469780595?position=7&pageNum=92&refId=XVugmem57wT7kAipOlBR8g%3D%3D&trackingId=83RMGrcgW0MTG7CNqkF1Hw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHurKSg9dvy5g/company-logo_100_100/company-logo_100_100/0/1672817182165/labsmartlis_logo?e=2147483647&v=beta&t=bwE3VA_CpAORUvEBXmUilXoEpsY57wE7wfBNgpKGA0s",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470326632",
+    "title": "Senior Delivery AI Software Engineer",
+    "company": "BCG X",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-delivery-ai-software-engineer-at-bcg-x-4470326632?position=8&pageNum=62&refId=BVTwaPr6aPmuyiojTcv5sw%3D%3D&trackingId=k0i9LY4PvUgu7cHJYXMEkQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQG5QvGxuM1nwQ/company-logo_100_100/company-logo_100_100/0/1669842853621/bcg_x_logo?e=2147483647&v=beta&t=sE4HSmdip5CgpouGgpe_vo7rXlLZMG9eCD8vF2uLtBU",
+    "lat": 0,
+    "lng": 0
   }
 ]
