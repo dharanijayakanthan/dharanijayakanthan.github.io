@@ -55,6 +55,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4470196866",
+    "title": "(IND) STAFF, SOFTWARE ENGINEER",
+    "company": "Walmart Global Tech",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-25",
+    "link": "https://in.linkedin.com/jobs/view/ind-staff-software-engineer-at-walmart-global-tech-4470196866?position=8&pageNum=52&refId=cQR2%2BY6GSduClhkgXO7faQ%3D%3D&trackingId=83YPn3sT7D7P2tUpkbL%2FZg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEjq-bcaW-GSg/company-logo_100_100/company-logo_100_100/0/1630657358931/walmartglobaltech_logo?e=2147483647&v=beta&t=aOtdTbxVDQBQsa-xyW2VUJjF-RmLDYOwyzoYhqf9ytg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4469720219",
     "title": "Principal UI Software Engineer",
     "company": "Okta",
@@ -176744,5 +176755,15 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4470812063",
+    "title": "Job Opportunity on SAP FIORI Consultant/ 6 Yrs - 10 Yrs/ PAN India/ Full Time",
+    "company": "Headway Tek Inc",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/job-opportunity-on-sap-fiori-consultant-6-yrs-10-yrs-pan-india-full-time-at-headway-tek-inc-4470812063?position=4&pageNum=20&refId=i182Yx%2BKQaDSaffuJiZeUQ%3D%3D&trackingId=b%2BxhlEJT9DKrrcMsV1%2BMKQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHtB6fICOP6Bg/company-logo_100_100/company-logo_100_100/0/1630651992192/headway_tek_inc_logo?e=2147483647&v=beta&t=-EhYc5p88ygzPwRrjGArlD9Re8jttgMm-Hn9RHyIXgE",
+    "lat": 0,
+    "lng": 0
   }
 ]
