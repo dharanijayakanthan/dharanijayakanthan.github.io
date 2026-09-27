@@ -88,6 +88,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4471420322",
+    "title": "Senior Software Engineer - React Native [T500-29605]",
+    "company": "Ferguson India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-24",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-react-native-t500-29605-at-ferguson-india-4471420322?position=7&pageNum=37&refId=xyE7HwbQ83Gqii7qQWL4CQ%3D%3D&trackingId=EmV8Oy6YFLTep6fXAzjKlQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH0q7ZfQ3pnCw/company-logo_100_100/B56Z1oROMAGsAQ-/0/1775570838685/ferguson_gcc_logo?e=2147483647&v=beta&t=i1tsOXYcFhfrefsrEsBTPeIgAmWyFBCtDwvu9c_fUMA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4459556630",
     "title": "Sr. Full Stack GenAI Developer",
     "company": "SKF Group",
@@ -328,6 +339,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQFqsywUQl7okA/company-logo_100_100/company-logo_100_100/0/1650955890222/quest_global_logo?e=2147483647&v=beta&t=1iJwdF4wJntsh5TikN51Pj4Xl4TrY1duYOT8WP8ifFU",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4468147170",
+    "title": "MODULE LEAD - AngularJS",
+    "company": "Happiest Minds Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-21",
+    "link": "https://in.linkedin.com/jobs/view/module-lead-angularjs-at-happiest-minds-technologies-4468147170?position=4&pageNum=12&refId=jQOd0v4vQ%2BVUPQhFFHBKzw%3D%3D&trackingId=okUnJIN6ZtGOgqChpqFb8w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHrStoH8fGuxw/company-logo_100_100/B56ZwiMfPGHcAQ-/0/1770100227699/happiest_minds_technologies_logo?e=2147483647&v=beta&t=-auObn_ZxRe-m2VVRutsYcb0xcVM2r8vqzrPLt78JV0",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4466972789",
@@ -647,6 +669,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_100_100/B4EZk_EfNgHgAU-/0/1757699778309/cognizant_logo?e=2147483647&v=beta&t=pEIgD9-D_EFoL3rsreK0H2EZEcsXWdZSN64-dV7VrSU",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4466248663",
+    "title": "UI Developer for Agentic AI",
+    "company": "peopleHum",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-17",
+    "link": "https://in.linkedin.com/jobs/view/ui-developer-for-agentic-ai-at-peoplehum-4466248663?position=10&pageNum=22&refId=8%2Fir4EZ4Xk2es4bJxKAvQg%3D%3D&trackingId=Z%2B4XaRCPYQC5FT2QhZWrfg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEjr2YjNjPKog/company-logo_100_100/company-logo_100_100/0/1630668445030/peoplehum_logo?e=2147483647&v=beta&t=fK4Ypy0g-Wc_AATGth_WwJAODEYDBpgU-jzCQ8gcN3E",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4466231056",
@@ -176615,5 +176648,15 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEJGr76AXfMUA/company-logo_100_100/company-logo_100_100/0/1706196722213/endava_logo?e=2147483647&v=beta&t=vfI3UVVnLCO2XYCpZs86u1_HCKQifzru0N_evP2gvJE",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4472420465",
+    "title": ".NET Developer with Angular",
+    "company": "VySystems",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/net-developer-with-angular-at-vysystems-4472420465?position=7&pageNum=65&refId=3Hhu7KfHbDKwV4jIcN%2BRIg%3D%3D&trackingId=Rf1IafmuDRpebyBTX99R8w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEfVuDMvzm5cA/company-logo_100_100/B56ZwoSNEmHUAQ-/0/1770202387197/vysystems_logo?e=2147483647&v=beta&t=JFoYVAlWhzwALu4AMaXnI_NBKoptKQqUuGdlpmreSpQ",
+    "lat": 0,
+    "lng": 0
   }
 ]
