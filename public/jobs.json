@@ -56430,6 +56430,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4402368922",
+    "title": "React Native Hybrid Mobile Application Developers",
+    "company": "Vistas Ad Media Communications Pvt. Ltd.",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-03-23",
+    "link": "https://in.linkedin.com/jobs/view/react-native-hybrid-mobile-application-developers-at-vistas-ad-media-communications-pvt-ltd-4402368922?position=10&pageNum=92&refId=iCg3N6U20tjCR65wilaxmw%3D%3D&trackingId=KR0s8ktIo915NJJYn2BstQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFTkYgCAb2cyw/company-logo_100_100/company-logo_100_100/0/1631386581667?e=2147483647&v=beta&t=L8lKpOE3qgGlF-g9UgzQFnHqAnHcIp-9Oft7U9ZFmJE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4388757765",
     "title": "Software Engineer",
     "company": "Capgemini",
@@ -176818,5 +176829,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEEv89tazHk3g/company-logo_100_100/company-logo_100_100/0/1714831833204/hirojet_logo?e=2147483647&v=beta&t=pl3pktTkleRg0grrQc5K3hVLYTtBRosnMWmW3Idwm9U",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4471304810",
+    "title": "Front End Engineering",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/front-end-engineering-at-infosys-4471304810?position=1&pageNum=22&refId=%2BQwzqUAD3LcmtaZ4m8sTYQ%3D%3D&trackingId=sHFaOWu6zll9qzipd5y5EQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4471324015",
+    "title": "Sap UI5/Fiori Consultant",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sap-ui5-fiori-consultant-at-infosys-4471324015?position=2&pageNum=42&refId=wS%2FLad8%2BI63jVVDLF5IhHg%3D%3D&trackingId=RtaH0lNubrvq7U6JK3u6nQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4470816141",
+    "title": "Mobile Developer (React Native)",
+    "company": "Nextiva",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/mobile-developer-react-native-at-nextiva-4470816141?position=5&pageNum=75&refId=XkDY1r1EcOrDFJ%2BT7AberA%3D%3D&trackingId=HfeyJBUkw8s%2BOww6epu2bQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFufumPcr_vhA/company-logo_100_100/company-logo_100_100/0/1709925527924/nextiva_logo?e=2147483647&v=beta&t=R2u2x20YG5HsNUSlI7mgAuu_0iF62JR_k7ig7IGDzSY",
+    "lat": 0,
+    "lng": 0
   }
 ]
