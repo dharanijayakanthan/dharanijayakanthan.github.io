@@ -33,6 +33,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4472723524",
+    "title": "IN_Senior Associate_MERN Developer_GCC_Advisory_Bangalore",
+    "company": "PwC India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-28",
+    "link": "https://in.linkedin.com/jobs/view/in-senior-associate-mern-developer-gcc-advisory-bangalore-at-pwc-india-4472723524?position=1&pageNum=45&refId=lUmTKjNJJhNX2NRdNegEAg%3D%3D&trackingId=SAu2v6Y9ISvuP7sq5zJKoA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4472257703",
     "title": "Flutter Dev with Front End ,Angular , API integration, bloc experience.",
     "company": "GC Technologies Pvt Ltd",
@@ -177434,5 +177445,125 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEHg4Uvv5Y_7g/company-logo_100_100/company-logo_100_100/0/1713216016139/lancesoft_uae_logo?e=2147483647&v=beta&t=A0icJeFjoFCBE6D2gKUopRYRwvNj9eVulphaiiv6Kto",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4471911148",
+    "title": "Frontend Developer",
+    "company": "Ditto Insurance",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-ditto-insurance-4471911148?position=2&pageNum=2&refId=YW%2BLeJ7L%2F8E770v29Y4WGQ%3D%3D&trackingId=oG6mBsqAaG6F3WgkU%2BiG0A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHi66RvcQVJiw/company-logo_100_100/B56Z0Apl3yI0AU-/0/1773832396733/ditto_insurance_logo?e=2147483647&v=beta&t=H7lIyyArEAhJs1QSFxcDXjCC23J6CrTMeKSeYGswCMM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4471909247",
+    "title": "Shopify Developer",
+    "company": "SkillYT",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/shopify-developer-at-skillyt-4471909247?position=5&pageNum=20&refId=NRLvXOTMaTycaGXM974%2FVg%3D%3D&trackingId=wcg0kOvIX%2BBhcemavFpk0g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFC_eaRCcdJiQ/company-logo_100_100/B56ZeNKnYJHUAQ-/0/1750420060122/skillyt_logo?e=2147483647&v=beta&t=DcHIMUzxW1u2u7vZItp3__3ay80aybgAeZHSn5Dx9r8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4473295242",
+    "title": "Senior Software Engineer, Client Platform",
+    "company": "Postman",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-client-platform-at-postman-4473295242?position=3&pageNum=22&refId=6DQt3QfAKX1k5bn3J18Szw%3D%3D&trackingId=HcqQSq%2BVeuxKzc2Q%2B%2B8mVQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFf8sH83foEVg/company-logo_100_100/company-logo_100_100/0/1654794308958/postman_platform_logo?e=2147483647&v=beta&t=vhUFiD_84RWtJWzqMFME4YJ9Jgnne9fH6DlCHgLCIEA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4473264430",
+    "title": "Principal Software Engineer",
+    "company": "HealthEdge",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/principal-software-engineer-at-healthedge-4473264430?position=7&pageNum=25&refId=6yojpZm9qH%2Ft0UESBqF6Nw%3D%3D&trackingId=EUHy05mEYaaySzV%2B1sl4kw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHkdnObyvf-DQ/company-logo_100_100/company-logo_100_100/0/1688241072184/healthedge_logo?e=2147483647&v=beta&t=nWnPw0cn_8Qn9SPXxYaYKUNInEZr6BI3DTwuA4Gy1xs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4471901410",
+    "title": "DE-NCLC-PowerPlatform-Nintex-Developer",
+    "company": "EY",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/de-nclc-powerplatform-nintex-developer-at-ey-4471901410?position=9&pageNum=40&refId=qs%2B2h13B7SUUezAGnFVPLg%3D%3D&trackingId=Bk00AjMnzS2i%2BLN8I6yySw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4473239926",
+    "title": "Support Engineer",
+    "company": "TresVista",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/support-engineer-at-tresvista-4473239926?position=2&pageNum=50&refId=rb6ZAtMHh5SETDr%2BxMZWvw%3D%3D&trackingId=vqSNzp8bTFNj%2BWbcwpONNw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFTF0jCE51XUA/company-logo_100_100/B4DZwjItKcIoAQ-/0/1770116011846/tresvista_logo?e=2147483647&v=beta&t=4nIHlSiYAZj6HtwOtNkukUpAT8XiUjxBDJHjqfqtzjk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4473254690",
+    "title": "Senior Engineer Software - Python & React [T500-29801]",
+    "company": "Albertsons Companies India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-engineer-software-python-react-t500-29801-at-albertsons-companies-india-4473254690?position=2&pageNum=57&refId=HNmntc6lejq1uYSSANE3eQ%3D%3D&trackingId=a2Zemm9HTSeFVjrinE8fYg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEyBWPU29c96g/company-logo_100_100/B56Za2zTbsGUAQ-/0/1746823624863?e=2147483647&v=beta&t=gy5o8LNL-bS3QCbE3qLyfk6eSymTOQwf9_-XLhzxQdI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4471733408",
+    "title": "Sr Eng, Software",
+    "company": "Baxter International Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-eng-software-at-baxter-international-inc-4471733408?position=4&pageNum=60&refId=4Pqf8sXEreMNh3Ui1M%2FcbA%3D%3D&trackingId=Tjtz1vxUZgJ2aRnC1sCjlQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHdNB4ekluoIw/company-logo_100_100/B56Zi.rLWuHQAY-/0/1755545647131/baxter_healthcare_logo?e=2147483647&v=beta&t=59v3RGAPqjncnYzUpxoUgqSXdDP2Uu-vcBnE-wnac0E",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4471717765",
+    "title": "Senior Fullstack Engineer (Java + React.js)",
+    "company": "Okta",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-fullstack-engineer-java-%2B-react-js-at-okta-4471717765?position=3&pageNum=67&refId=b3aDCxx%2FtAuolE9lVDprmg%3D%3D&trackingId=nTWRCW%2F6TDQs%2F0H4ayURfQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEU2zmNRniylg/company-logo_100_100/B4EZ_SBqb8JEAI-/0/1785935079432/okta_inc__logo?e=2147483647&v=beta&t=cfsyoAwsZ3zWgGgji9LFunbniLtSHjbVpkY11B2tgrI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4471738371",
+    "title": "Senior Engineer Software [T500-25520]",
+    "company": "Albertsons Companies India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-engineer-software-t500-25520-at-albertsons-companies-india-4471738371?position=8&pageNum=75&refId=kQm3Q5DcSq%2BwnDXDqUFaKQ%3D%3D&trackingId=BFnP9%2FP6Wyki4C0qhHCdfQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEyBWPU29c96g/company-logo_100_100/B56Za2zTbsGUAQ-/0/1746823624863?e=2147483647&v=beta&t=gy5o8LNL-bS3QCbE3qLyfk6eSymTOQwf9_-XLhzxQdI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4473250632",
+    "title": "IN-Senior Associate _Full Stack Node JS__ GCC_ Advisory_ Bangalore",
+    "company": "PwC India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/in-senior-associate-full-stack-node-js-gcc-advisory-bangalore-at-pwc-india-4473250632?position=4&pageNum=85&refId=YdKd%2F4v5HpIHx4wrkulSVw%3D%3D&trackingId=1a9YtiX7xoTmsVOWOfHSIQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4473237919",
+    "title": "React Developer",
+    "company": "SWITS DIGITAL Private Limited",
+    "location": "Bangalore Urban, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-swits-digital-private-limited-4473237919?position=7&pageNum=85&refId=YdKd%2F4v5HpIHx4wrkulSVw%3D%3D&trackingId=8Q1oZwbkRFt5eE5JgRFoAw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH0PyYfpFnVaw/company-logo_100_100/company-logo_100_100/0/1734343774050/switsdigital_logo?e=2147483647&v=beta&t=H-_U2g6BWpbUXJIKlum_kJQhXNAtsCkuhjfWjqZobTk",
+    "lat": 0,
+    "lng": 0
   }
 ]
