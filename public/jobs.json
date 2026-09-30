@@ -22,6 +22,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4473220708",
+    "title": "Reactjs Developer",
+    "company": "Trigent Software - Professional Services",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-29",
+    "link": "https://in.linkedin.com/jobs/view/reactjs-developer-at-trigent-software-professional-services-4473220708?position=2&pageNum=15&refId=AvdENuwgAyqwsyu3zZ0pqw%3D%3D&trackingId=9ND%2FX04e0yDpBGHARSGJyw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEREsHenFUIIA/company-logo_100_100/B56ZsGZJ3.G4AU-/0/1765338816404/trigent_professional_services_logo?e=2147483647&v=beta&t=CY5QBiQJJ5O6Z7svhi-XUYX6U8mlZXBMym6EAf8pBl4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4473518081",
+    "title": "Lead, Tech (HC Dev)",
+    "company": "D. E. Shaw India Private Limited",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-29",
+    "link": "https://in.linkedin.com/jobs/view/lead-tech-hc-dev-at-d-e-shaw-india-private-limited-4473518081?position=5&pageNum=90&refId=fZ%2BacvNp2Ic766aK%2FF7BsA%3D%3D&trackingId=NKh81%2FlXio9QGNMMreX7RQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQHDSKxLL5iDGA/company-logo_100_100/company-logo_100_100/0/1630564112745/d_e_shaw_india_private_limited_logo?e=2147483647&v=beta&t=tKfRpYeAnO39JjkS8qcRlQgOeW_1MUJYw_iawoaeXis",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4472704619",
     "title": "Front End Dev with Mobile & Web, Angular, Flutter , API integration, bloc experience.",
     "company": "GC Technologies Pvt Ltd",
@@ -177808,5 +177830,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQE0t0j1N1BHlA/company-logo_100_100/company-logo_100_100/0/1630581947246/wissen_infotech_logo?e=2147483647&v=beta&t=YsOT5phxVFVel4XC_FFQMXXZWF4fJRN8r2pOescO6vs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4473911933",
+    "title": "TECHNICAL LEAD - ReactJS",
+    "company": "Happiest Minds Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/technical-lead-reactjs-at-happiest-minds-technologies-4473911933?position=3&pageNum=12&refId=B%2B7SUrjBWWGrcNmLXGYD%2BQ%3D%3D&trackingId=xofw%2BpDPNZaTTrSfaAW3Ng%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHrStoH8fGuxw/company-logo_100_100/B56ZwiMfPGHcAQ-/0/1770100227699/happiest_minds_technologies_logo?e=2147483647&v=beta&t=-auObn_ZxRe-m2VVRutsYcb0xcVM2r8vqzrPLt78JV0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4473957549",
+    "title": "Staff Engineer, Web",
+    "company": "Headout",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/staff-engineer-web-at-headout-4473957549?position=8&pageNum=17&refId=weaGC%2FrnHBlWplnAQgiMUw%3D%3D&trackingId=aWSwuudt50JnQab0jKILhg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF36N2orKYsLg/company-logo_100_100/B56ZozJFPlHIAQ-/0/1761794611427/headout_com_logo?e=2147483647&v=beta&t=ltF9EC25VBx_srSLXLhL-agwG2ryXw85V3cFzV16ofY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4473541800",
+    "title": "Software Developer",
+    "company": "IMI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-developer-at-imi-4473541800?position=9&pageNum=82&refId=q%2FAGEik9By6elmT6TXMuWQ%3D%3D&trackingId=d1oymTQofY31e%2F%2BfOPt5LQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE2-hq9H2ePtA/company-logo_100_100/company-logo_100_100/0/1709275327610/imi_logo?e=2147483647&v=beta&t=FuYfOHg9H8BndNE9nQVO8ZsuArBe_pCbzGtRsh5ynJM",
+    "lat": 0,
+    "lng": 0
   }
 ]
