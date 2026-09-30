@@ -55,6 +55,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4471302836",
+    "title": "Sap UI5/Fiori Consultant",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-09-28",
+    "link": "https://in.linkedin.com/jobs/view/sap-ui5-fiori-consultant-at-infosys-4471302836?position=8&pageNum=42&refId=4FwEK7zv7xo7UchAcYEYZA%3D%3D&trackingId=FouFFMMqcrCIjmMPzXsDfg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4472257703",
     "title": "Flutter Dev with Front End ,Angular , API integration, bloc experience.",
     "company": "GC Technologies Pvt Ltd",
@@ -177636,5 +177647,75 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&v=beta&t=HPSmWLOCvdPkWO1nRWwjjmCNpaCqww20rSJ4E54QtxQ",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4473724137",
+    "title": "Senior Frontend Developer",
+    "company": "SII Group India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-developer-at-sii-group-india-4473724137?position=9&pageNum=0&refId=XC0YQE3INbs1M296crz9wQ%3D%3D&trackingId=oYjHpDQHfde7q8VO9dbl0w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHRpZYE9BpZKw/company-logo_100_100/B56Z0ZmdZtKMAQ-/0/1774251010133/siiindia_logo?e=2147483647&v=beta&t=qv2KMUVwhaY3ZoySAlpynS5AFmSajJY7khMmHYG5tck",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4473723986",
+    "title": "Software Development Engineer 3",
+    "company": "Amadeus",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-3-at-amadeus-4473723986?position=1&pageNum=12&refId=O9sULbgG4FN47VZFW9%2FZbg%3D%3D&trackingId=MIPS9VjjNLlXQ0uBH4YwNA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG4fET5G1jx8w/company-logo_100_100/company-logo_100_100/0/1698053556150/amadeus_logo?e=2147483647&v=beta&t=9KQZUvxrvuBQU04wnuiW73aNaxlN6_8K2KMeIr3Tli4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4473757667",
+    "title": "Software Engineer II",
+    "company": "American Express",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-american-express-4473757667?position=9&pageNum=20&refId=4D%2BkFcHj%2BkFHTtRYAHlsog%3D%3D&trackingId=oV6%2FK2rLzJbO5q6x6ku1SQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGRhsociEn4gQ/company-logo_100_100/company-logo_100_100/0/1631367875582?e=2147483647&v=beta&t=bk_i8KnJwZyUrbBXvWK0NMb6W3nPq64rupEGTrKvxYU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4473730587",
+    "title": "Software Engineer - React Native",
+    "company": "Oolka",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-react-native-at-oolka-4473730587?position=10&pageNum=37&refId=UNH3%2FjZK1wU8LzDxn89Mkw%3D%3D&trackingId=owRpI5UhW6PRF70sArHBtg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG6bB5NmSM5pw/company-logo_100_100/company-logo_100_100/0/1720009738217/oolka_logo?e=2147483647&v=beta&t=VZ0JrRDR0RH459ob5dzYrwO-UedVbwHC9ilfsUxJJFc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4473297624",
+    "title": "UI Developer, AVP",
+    "company": "Deutsche Bank",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ui-developer-avp-at-deutsche-bank-4473297624?position=9&pageNum=7&refId=pSIqBEq%2FyGS6%2BZl1%2BvFJ5g%3D%3D&trackingId=gSIoejDwWidgWCCqI0Zr%2FA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHPxOQjSTf63Q/company-logo_100_100/company-logo_100_100/0/1733126326977?e=2147483647&v=beta&t=Sox1AP2RLBDINbiSLzHmDnuHDV-LTcQdBKVQ2b6mFVg",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4472148973",
+    "title": "Senior Software Engineer",
+    "company": "CSC",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-csc-4472148973?position=2&pageNum=40&refId=3nEDCTUMLVvjsV5oZdSnQA%3D%3D&trackingId=u%2BdghVdAQmXDjSKG9MxiuA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFA0oLyvJPbOQ/company-logo_100_100/company-logo_100_100/0/1704909737563/cscsince1899_logo?e=2147483647&v=beta&t=0QGQT2kDT5w58UZfE8vWJp3pgiaXk36-W7oaoqPjh0k",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4473748631",
+    "title": "Senior Software Engineer - Angular, Cloud",
+    "company": "Rockwell Automation",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-angular-cloud-at-rockwell-automation-4473748631?position=9&pageNum=12&refId=gl%2FQlr7MUMHKb64VfqD7WQ%3D%3D&trackingId=jURveapJvwuhw5B6vzLJHg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFRXUKwML_TTQ/company-logo_100_100/company-logo_100_100/0/1655148418582/rockwell_automation_logo?e=2147483647&v=beta&t=jwUtB-MX6EGs60EC4qJU_ZOeIYZRhgKYp8FhS6DvVRA",
+    "lat": 0,
+    "lng": 0
   }
 ]
