@@ -121,6 +121,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4472904180",
+    "title": "Senior Application Developer",
+    "company": "Gigabox",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-01",
+    "link": "https://in.linkedin.com/jobs/view/senior-application-developer-at-gigabox-4472904180?position=10&pageNum=27&refId=Aofc6rbvXlgoR%2BWnXfsHuQ%3D%3D&trackingId=tNmTlugZE11oqS32sLItMw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH1k8iwgSv42g/company-logo_100_100/B56ZrJk0rfK0AQ-/0/1764318465663/gigabox365_logo?e=2147483647&v=beta&t=6yqdhnPM3A80rS_sXikT0BnUtLdHDs9Ye2RRG3LiVDE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4474343221",
+    "title": "Lead Software Engineer",
+    "company": "Societe Generale Global Solution Centre",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-01",
+    "link": "https://in.linkedin.com/jobs/view/lead-software-engineer-at-societe-generale-global-solution-centre-4474343221?position=10&pageNum=30&refId=EX7r0HYeikeNowymJhgUTA%3D%3D&trackingId=DeazkvL1Dyl6pqeGel3LqQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQFwBvGQK2NyEA/company-logo_100_100/company-logo_100_100/0/1630620434106/societe_generale_global_solution_centre_logo?e=2147483647&v=beta&t=JLVeP7Wt4mveji2MHGGJKTK-7LZYVstKBki3yCG64XA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4472196167",
     "title": "Senior Software Engineer - Web/Mobile",
     "company": "The Cigna Group",
@@ -471,6 +493,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4473233538",
+    "title": "React Developer(Contentful CMS)",
+    "company": "NexionPro Services",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-29",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-contentful-cms-at-nexionpro-services-4473233538?position=10&pageNum=7&refId=TJzcVwTXuGcdTFhjGykafg%3D%3D&trackingId=bvauFt5c5NFQNrhr%2FC3GtQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEChmHSeWPgyA/company-logo_100_100/company-logo_100_100/0/1695299466394/nexionpro_sevices_llp_logo?e=2147483647&v=beta&t=v9KHYY0-95QofmMjeUWDA9D7ENmk4WDvEck5L6uYLVI",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4472704619",
