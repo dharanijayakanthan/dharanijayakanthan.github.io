@@ -11,6 +11,28 @@
     "lng": 77.6978119
   },
   {
+    "id": "urn:li:jobPosting:4476278770",
+    "title": "Frontend Engineer",
+    "company": "Quest Global",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-09",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-at-quest-global-4476278770?position=10&pageNum=7&refId=O2FrynvsxK%2BNVUoB4ZBElw%3D%3D&trackingId=7hcRkv0kwioBrpCNkdfskg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFqsywUQl7okA/company-logo_100_100/company-logo_100_100/0/1650955890222/quest_global_logo?e=2147483647&v=beta&t=1iJwdF4wJntsh5TikN51Pj4Xl4TrY1duYOT8WP8ifFU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4475220940",
+    "title": "Senior Software Engineer",
+    "company": "upGrad",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-09",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-upgrad-4475220940?position=9&pageNum=10&refId=SVeuwODumVySVzJtoZM%2Bdg%3D%3D&trackingId=pjFGs5c5f6fYXKY4h6CNjw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHeJ-2mFiqcmQ/company-logo_100_100/company-logo_100_100/0/1732599862731?e=2147483647&v=beta&t=mYl439jm90VLHHuttGPR3EFdZHM0Z02P9gusx0mwWrM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4475727993",
     "title": "GenAI Full Stack- Senior Associate",
     "company": "PwC Acceleration Center India",
@@ -361,6 +383,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
     "lat": 12.8461795,
     "lng": 77.6776437
+  },
+  {
+    "id": "urn:li:jobPosting:4474911100",
+    "title": "Web Developer",
+    "company": "Vymo",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-06",
+    "link": "https://in.linkedin.com/jobs/view/web-developer-at-vymo-4474911100?position=9&pageNum=7&refId=O2FrynvsxK%2BNVUoB4ZBElw%3D%3D&trackingId=lDSoapUfjl4mQ4XAghupGQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE76UOl11eClw/company-logo_100_100/company-logo_100_100/0/1656922087515/vymo_logo?e=2147483647&v=beta&t=uSVwMweIwzdyF_IxyvZpoq3o1M8JboGv0reMouZWqv8",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4474247415",
