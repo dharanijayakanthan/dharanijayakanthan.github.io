@@ -1551,6 +1551,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4470096326",
+    "title": "React Developer",
+    "company": "Antal International",
+    "location": "Greater Bengaluru Area",
+    "date": "2026-09-25",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-antal-international-4470096326?position=10&pageNum=2&refId=ZsymrQN4QlH%2BaTSyihPkrQ%3D%3D&trackingId=Ax1FcDhV0IebeNriea9%2FIw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHhwGkJoW6mEw/company-logo_100_100/company-logo_100_100/0/1666775032739/antal_international_logo?e=2147483647&v=beta&t=_SCO8O3DXj9RRhU6BHC-lu5KhQd9N5Fj4YH9mr0t-0M",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4469720219",
     "title": "Principal UI Software Engineer",
     "company": "Okta",
@@ -182093,5 +182104,15 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE1wyZ0gd_P_w/company-logo_100_100/B4DZmf03PuJMAY-/0/1759323061531/virtusa_logo?e=2147483647&v=beta&t=BX2oukfWW-ynMINuDRbCIlfgg5xRn0BoZf9Mk-TS1t4",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4475652129",
+    "title": "Frontend Engineer | React | TypeScript | Micro-Frontends | Remote India",
+    "company": "Remote_WFH_INDIA",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-react-typescript-micro-frontends-remote-india-at-remote-wfh-india-4475652129?position=9&pageNum=5&refId=swnXUSgVaHKT2Qsfqr2PqA%3D%3D&trackingId=zXkaAvqeR%2FrwAkYdKul4vg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEFoLc6MuTJRg/company-logo_100_100/B4DZ8FbNX4JcAI-/0/1782502447001?e=2147483647&v=beta&t=7H4CEYm4-iHzWk7UIp8uObyN78Olf53DaDIx3hKZD1A",
+    "lat": 0,
+    "lng": 0
   }
 ]
