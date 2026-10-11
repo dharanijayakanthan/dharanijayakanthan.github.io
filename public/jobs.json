@@ -77,6 +77,39 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4477637833",
+    "title": "Lead/Senior Software Developer - Frontend",
+    "company": "Wabtec Corporation",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-09",
+    "link": "https://in.linkedin.com/jobs/view/lead-senior-software-developer-frontend-at-wabtec-corporation-4477637833?position=9&pageNum=10&refId=irb7xyBleBA22oEzsrehcw%3D%3D&trackingId=8vOgnke%2FpakvKJmfb7S5MQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE-BMGfbyTJnw/company-logo_100_100/company-logo_100_100/0/1719767483469/wabtec_corporation_logo?e=2147483647&v=beta&t=g0fQPttrsSs4dlkxaepmssaE1H-lpJCvtfpJ4qxoDsQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4477669243",
+    "title": "Associate Web Developer Manager",
+    "company": "NAVEX",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-09",
+    "link": "https://in.linkedin.com/jobs/view/associate-web-developer-manager-at-navex-4477669243?position=8&pageNum=37&refId=2ChdIx%2B4FYGwZap6IRnmsA%3D%3D&trackingId=Y1s5xT73b9VpdfrMV1tyxA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF-FZY4NVAQHg/company-logo_100_100/B56Zz20O7CHkAQ-/0/1773667413979/navexinc_logo?e=2147483647&v=beta&t=9S1BsrZ3fOJsOXr5z9_9H-eSoiPqj0SMg0uTjIUGLdc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4474897392",
+    "title": "Frontend Engineer",
+    "company": "Zeno",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-09",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-at-zeno-4474897392?position=10&pageNum=7&refId=HzFYNbXrPBh%2B3HMQXjPLFw%3D%3D&trackingId=ERUY79ZjJFliBknP%2Bbp%2FBg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH6wRXc1G-Nmg/company-logo_100_100/B4DZehd1cvGkAY-/0/1750760643255/zenoearth_logo?e=2147483647&v=beta&t=zPLvFhL1cGjf0YSM0KVtCFCjGE1HjN3RZjaago30u4A",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4475727993",
     "title": "GenAI Full Stack- Senior Associate",
     "company": "PwC Acceleration Center India",
@@ -451,6 +484,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4474646675",
+    "title": "Technology analyst",
+    "company": "Infosys",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-10-06",
+    "link": "https://in.linkedin.com/jobs/view/technology-analyst-at-infosys-4474646675?position=10&pageNum=20&refId=OMFFglrVz7%2FkiJFHpxkCAw%3D%3D&trackingId=N3H6GOYkP%2BUSTDEFEQNB%2Bg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4474247415",
     "title": "Developer",
     "company": "Talento HR",
@@ -790,6 +834,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQG30MejU_UygQ/company-logo_100_100/B56ZlzFxy6I0AQ-/0/1758572519588/gehealthcare_logo?e=2147483647&v=beta&t=nY-wpTVABSqcsPg_WG65-jSQQsWCROwqEEKlxai4V6g",
     "lat": 12.9760519,
     "lng": 77.722082
+  },
+  {
+    "id": "urn:li:jobPosting:4474347209",
+    "title": "Specialist Software Engineer - Angular",
+    "company": "Societe Generale Global Solution Centre",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-01",
+    "link": "https://in.linkedin.com/jobs/view/specialist-software-engineer-angular-at-societe-generale-global-solution-centre-4474347209?position=10&pageNum=5&refId=jmZHRRxSFw2gdUe2vGP5ZA%3D%3D&trackingId=ZEtBBbFaaejTbPl9zpUG1A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQFwBvGQK2NyEA/company-logo_100_100/company-logo_100_100/0/1630620434106/societe_generale_global_solution_centre_logo?e=2147483647&v=beta&t=JLVeP7Wt4mveji2MHGGJKTK-7LZYVstKBki3yCG64XA",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4472196167",
@@ -1472,6 +1527,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4468299589",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-25",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4468299589?position=9&pageNum=22&refId=Lzt7zUT%2FLhgDoo8lj16IUg%3D%3D&trackingId=ZkbhuCzk00qyBtbpNcfscw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4468658332",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-25",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4468658332?position=10&pageNum=22&refId=Lzt7zUT%2FLhgDoo8lj16IUg%3D%3D&trackingId=sAaCsq%2BE7B1eh3IZbswhMQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4469720219",
@@ -182006,5 +182083,15 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE1wyZ0gd_P_w/company-logo_100_100/B4DZmf03PuJMAY-/0/1759323061531/virtusa_logo?e=2147483647&v=beta&t=BX2oukfWW-ynMINuDRbCIlfgg5xRn0BoZf9Mk-TS1t4",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4475281553",
+    "title": "Senior Software Engineer",
+    "company": "Virtusa",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-virtusa-4475281553?position=7&pageNum=37&refId=2ChdIx%2B4FYGwZap6IRnmsA%3D%3D&trackingId=6In3ohSCssntsfY9IPm9vw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE1wyZ0gd_P_w/company-logo_100_100/B4DZmf03PuJMAY-/0/1759323061531/virtusa_logo?e=2147483647&v=beta&t=BX2oukfWW-ynMINuDRbCIlfgg5xRn0BoZf9Mk-TS1t4",
+    "lat": 0,
+    "lng": 0
   }
 ]
