@@ -182177,5 +182177,55 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFc1GHoytorcg/company-logo_100_100/company-logo_100_100/0/1730389101281/atkinsrealis_logo?e=2147483647&v=beta&t=0pFFPbE95fUF100NHA7-IsQFSlZ_EJ1-6IctfFv8Kn8",
     "lat": 0,
     "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478317943",
+    "title": "Frontend Developer",
+    "company": "ICE",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-ice-4478317943?position=3&pageNum=0&refId=6UmzGKaGC1B5XrhNeqpeyg%3D%3D&trackingId=bn5%2FsOw1VXbV7lJXKZSosg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGyUyYm01gbSQ/company-logo_100_100/B4EZgUeOPSGwAQ-/0/1752690124069/icemarkets_logo?e=2147483647&v=beta&t=Yxhm-AGh0m4kQ3G09FDg5xWVeqPLrrmla0j_f6Smd4w",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478332617",
+    "title": "Frontend Engineer",
+    "company": "HuntingCube",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-at-huntingcube-4478332617?position=8&pageNum=0&refId=6UmzGKaGC1B5XrhNeqpeyg%3D%3D&trackingId=LyGVWguZ%2Fa4vgg%2F4izR91Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIxS_H-2dx8g/company-logo_100_100/B56Z9AUvhhKEAI-/0/1783490607442/huntingcubeai_logo?e=2147483647&v=beta&t=3UxmDQpazRzithZkjHcNISR71_MbyJuofCSauGGObFA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478341250",
+    "title": "Senior Software Engineer - Frontend",
+    "company": "HuntingCube",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-at-huntingcube-4478341250?position=7&pageNum=17&refId=7ItEfjjj7uCR4jsawuycag%3D%3D&trackingId=dRiUx%2BFkgW9jwBMmdZtxaA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIxS_H-2dx8g/company-logo_100_100/B56Z9AUvhhKEAI-/0/1783490607442/huntingcubeai_logo?e=2147483647&v=beta&t=3UxmDQpazRzithZkjHcNISR71_MbyJuofCSauGGObFA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4477259724",
+    "title": "React Native Developer",
+    "company": "BizConnect Events",
+    "location": "Bengaluru South, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-native-developer-at-bizconnect-events-4477259724?position=6&pageNum=32&refId=caiV6le3gMExDqYe2NsI2w%3D%3D&trackingId=qjTewAatxcZzA%2F3onKm9oA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFgACtA_uEU9w/company-logo_100_100/company-logo_100_100/0/1686813519198/bizconnect_pvt_ltd_logo?e=2147483647&v=beta&t=_miE-tuqZWvj_gLweMqY6csUqDmn9G1lbUYUMZQEIiQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478338447",
+    "title": "Senior Software Engineer",
+    "company": "ICE",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-ice-4478338447?position=6&pageNum=60&refId=E5etL9oyabXTKzWX8voBlA%3D%3D&trackingId=ERyEL2DKe%2FTF4I8KozaCwQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGyUyYm01gbSQ/company-logo_100_100/B4EZgUeOPSGwAQ-/0/1752690124069/icemarkets_logo?e=2147483647&v=beta&t=Yxhm-AGh0m4kQ3G09FDg5xWVeqPLrrmla0j_f6Smd4w",
+    "lat": 0,
+    "lng": 0
   }
 ]
