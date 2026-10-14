@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4477934203",
+    "title": "Senior ReactJS Developer",
+    "company": "PayHuddle",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-12",
+    "link": "https://in.linkedin.com/jobs/view/senior-reactjs-developer-at-payhuddle-4477934203?position=1&pageNum=10&refId=arunvSNcCUyEvQ4bK7%2BWCQ%3D%3D&trackingId=5TQ4QAfVZtwCOXNm0Dt%2FzA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEvstaA_wsCEA/company-logo_100_100/B56ZZHkOMhGQAQ-/0/1744957400405/payhuddle_logo?e=2147483647&v=beta&t=eSCEJJlxgMmq-v02ydj6cNBXSoe_HfrMTNh82dj44Pw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4478320314",
     "title": "Angular & Flutter Developer | REST API Integration | Flutter BLoC | Cross-Platform Applications",
     "company": "GC Technologies Pvt Ltd",
@@ -182533,5 +182544,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_100_100/company-logo_100_100/0/1722506756452/goldman_sachs_logo?e=2147483647&v=beta&t=TCfSgMKsWXJ1qUaxkF0G0-bzDKXRcinQTwZXiniLlAw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4478118632",
+    "title": "Frontend Developer",
+    "company": "Aadmi Consulting",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-aadmi-consulting-4478118632?position=1&pageNum=5&refId=s7Jnnjry5%2BsU6VDPWpQtJw%3D%3D&trackingId=L0qd14ImWW1Nd0L9NsWoCQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFa9jZKyXqJng/company-logo_100_100/company-logo_100_100/0/1674078437703/aadmi_consulting_logo?e=2147483647&v=beta&t=5awoo448JCDImJPPrTVueBE8NvqpiBGoUwG_PCtxsc4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4479087192",
+    "title": "Senior Frontend Engineer (Onsite 6 Days working - Bangalore)",
+    "company": "Uplers",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-onsite-6-days-working-bangalore-at-uplers-4479087192?position=5&pageNum=10&refId=arunvSNcCUyEvQ4bK7%2BWCQ%3D%3D&trackingId=qLuSzF06%2F%2BmkjxYa4tUQCA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQG6KMZp1zAiTA/company-logo_100_100/company-logo_100_100/0/1630605289074/weareuplers_logo?e=2147483647&v=beta&t=8ec1IPpKhoAr3aPORgJamp0Y2X8727Oqs_lSTjjrzgY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4479078036",
+    "title": "Senior UI Engineer",
+    "company": "Deutsche Bank",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-ui-engineer-at-deutsche-bank-4479078036?position=9&pageNum=10&refId=arunvSNcCUyEvQ4bK7%2BWCQ%3D%3D&trackingId=0Eh97Nh%2FofLgBADAg%2Bm88A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHPxOQjSTf63Q/company-logo_100_100/company-logo_100_100/0/1733126326977?e=2147483647&v=beta&t=Sox1AP2RLBDINbiSLzHmDnuHDV-LTcQdBKVQ2b6mFVg",
+    "lat": 0,
+    "lng": 0
   }
 ]
