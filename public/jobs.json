@@ -1,5 +1,27 @@
 [
   {
+    "id": "urn:li:jobPosting:4476483515",
+    "title": "Technical Specialist",
+    "company": "Dover India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-13",
+    "link": "https://in.linkedin.com/jobs/view/technical-specialist-at-dover-india-4476483515?position=3&pageNum=25&refId=dI%2FICjVEQbfo7ue7zXSibw%3D%3D&trackingId=qTp7ZEncFSM1zXqS5HjXLw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEbJEYupH00RQ/company-logo_100_100/company-logo_100_100/0/1630665637248/dover_solutions_india_logo?e=2147483647&v=beta&t=iKPTau4ZCGyPJ7-vEj0FcvJC4YiE0dooV_1Txdf68ns",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478792137",
+    "title": "MSO365 Developer SPFx with react & python",
+    "company": "Teamware Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-13",
+    "link": "https://in.linkedin.com/jobs/view/mso365-developer-spfx-with-react-python-at-teamware-solutions-4478792137?position=1&pageNum=30&refId=SsDCsf38uETmYG28AdUGMQ%3D%3D&trackingId=qO6TJv%2FPM%2BD78ChRxTwxfw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGTmsLAkTTGww/company-logo_100_100/company-logo_100_100/0/1722576449607/teamware_solutions_logo?e=2147483647&v=beta&t=QIDeTszOkwzAnnawMWT3qa9iPNzIuSXvAHSI6E-3FcA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4477934203",
     "title": "Senior ReactJS Developer",
     "company": "PayHuddle",
@@ -9,6 +31,39 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEvstaA_wsCEA/company-logo_100_100/B56ZZHkOMhGQAQ-/0/1744957400405/payhuddle_logo?e=2147483647&v=beta&t=eSCEJJlxgMmq-v02ydj6cNBXSoe_HfrMTNh82dj44Pw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4476032231",
+    "title": "Principal Software Engineer",
+    "company": "CAI Software, LLC",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-12",
+    "link": "https://in.linkedin.com/jobs/view/principal-software-engineer-at-cai-software-llc-4476032231?position=5&pageNum=30&refId=SsDCsf38uETmYG28AdUGMQ%3D%3D&trackingId=LijJxNWxeZ0I8ImJTXtKwA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFI6KkPU1pOVQ/company-logo_100_100/B56Z9rbclYJoAI-/0/1784213785130/caisoftware_logo?e=2147483647&v=beta&t=mEaJnjpqB5tfCl9y9DtoM_KCo1BDkcEywFfRo7x5p8w",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4477522195",
+    "title": "Senior SharePoint Developer",
+    "company": "WSA – Wonderful Sound for All",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-12",
+    "link": "https://in.linkedin.com/jobs/view/senior-sharepoint-developer-at-wsa-%E2%80%93-wonderful-sound-for-all-4477522195?position=3&pageNum=32&refId=V26odNEi8PKyY%2Bdie77Z9w%3D%3D&trackingId=WFvRi4FhbK7m0ll4EqZteQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHe5utBi52p9w/company-logo_100_100/company-logo_100_100/0/1630572931786?e=2147483647&v=beta&t=JCA5xov4AjnXBhCH63qXMIt9kQLnwXfhgf1spHq_0gE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4475679884",
+    "title": "React Native Developer",
+    "company": "VAYUZ Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-12",
+    "link": "https://in.linkedin.com/jobs/view/react-native-developer-at-vayuz-technologies-4475679884?position=4&pageNum=32&refId=V26odNEi8PKyY%2Bdie77Z9w%3D%3D&trackingId=29bsCeZ%2BflzNtFMJ%2Bv3WaA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEZZaTAw6wHnQ/company-logo_100_100/B56Zt.T8msGwAQ-/0/1767350717445/vayuz_technologies_logo?e=2147483647&v=beta&t=CPDP28O8Zt3E9gdkDJWU0c2HoraA6ejG2OtCdD6VSxA",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4478320314",
@@ -182584,5 +182639,85 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHq33akTF76eA/company-logo_100_100/company-logo_100_100/0/1679061166847/hm_logo?e=2147483647&v=beta&t=EJEWNoFmNEh77Ma_WEkty8xBK6yX37uTMl7HVNRiP0U",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4478453187",
+    "title": "Software Frontend Engineer II",
+    "company": "Blitz",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-frontend-engineer-ii-at-blitz-4478453187?position=9&pageNum=10&refId=dxMk5UyNKlWNzaoYsU8aBw%3D%3D&trackingId=ocnFxDgmeaWoaGE9vipSIQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE9uBac5N6Heg/company-logo_100_100/company-logo_100_100/0/1690788839334/grow_simplee_logo?e=2147483647&v=beta&t=HVKdvOTR926r7_fjYIB8oan02iUaqJMZugsEb6aeu2o",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478432672",
+    "title": "Senior Front End Developer - AEM",
+    "company": "Zensar Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-front-end-developer-aem-at-zensar-technologies-4478432672?position=8&pageNum=12&refId=tz0prpwXUBWyZXMBRsHcFA%3D%3D&trackingId=3pkiuUe6hgGHRB1fMm7aSg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFls229vaDjDg/company-logo_100_100/company-logo_100_100/0/1657181507521/zensar_logo?e=2147483647&v=beta&t=kugFIZKCnsTkWEQoJIw35rN_6OA92cyHTuCOOZd7bR4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4476644571",
+    "title": "Lead Spartacus UI Developer",
+    "company": "Siemens Healthineers",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/lead-spartacus-ui-developer-at-siemens-healthineers-4476644571?position=8&pageNum=17&refId=XnN%2B3xY7fISZ9LzQIi1ZyQ%3D%3D&trackingId=qdPI%2BwpH63GaMEvbsMivGg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE5hmEcQGYmLg/company-logo_100_100/company-logo_100_100/0/1635709402063/siemens_healthineers_logo?e=2147483647&v=beta&t=WzBCELa5qwxaNwIBJmDQ_TZZwSooZJPiv_BSin1QzGA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4479540858",
+    "title": "Software Engineer, Vice President",
+    "company": "NatWest Group",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-vice-president-at-natwest-group-4479540858?position=3&pageNum=20&refId=0rw%2Bdrx4etHlRrkRWBkasA%3D%3D&trackingId=qjf0U1DBLNpvxCOuV0xMSQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEA8k9x0NLXVw/company-logo_100_100/company-logo_100_100/0/1658409007559/natwest_group_logo?e=2147483647&v=beta&t=77U4pn7D2sdoWVtDxd-1OFNiFco375nnYIWapD6QRBA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4479550559",
+    "title": "Software Engineer, Associate Vice President",
+    "company": "NatWest Group",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-associate-vice-president-at-natwest-group-4479550559?position=5&pageNum=20&refId=0rw%2Bdrx4etHlRrkRWBkasA%3D%3D&trackingId=x2vhhmaUMqvl6tlfUONGiw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEA8k9x0NLXVw/company-logo_100_100/company-logo_100_100/0/1658409007559/natwest_group_logo?e=2147483647&v=beta&t=77U4pn7D2sdoWVtDxd-1OFNiFco375nnYIWapD6QRBA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4476699621",
+    "title": "Senior Software Development Engineer",
+    "company": "JioStar",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-development-engineer-at-jiostar-4476699621?position=8&pageNum=20&refId=0rw%2Bdrx4etHlRrkRWBkasA%3D%3D&trackingId=AK2s5GjDJLI1fSMd%2F1FkVw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEhEL0Nx5zgWA/company-logo_100_100/B4DZjhSbP4HYAQ-/0/1756126361005/jio_star_logo?e=2147483647&v=beta&t=c7rwhVolxx9qi2ZNlSjIJptrcUgIhuI_5a9c2HZCCSA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478460308",
+    "title": "Software Engineer (Frontend Platform), Native Git",
+    "company": "Postman",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-frontend-platform-native-git-at-postman-4478460308?position=8&pageNum=27&refId=qlGTctZuxkn55xw%2Fzdzi6A%3D%3D&trackingId=hsvygzo2%2BO%2F11f8xTpADwg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFf8sH83foEVg/company-logo_100_100/company-logo_100_100/0/1654794308958/postman_platform_logo?e=2147483647&v=beta&t=vhUFiD_84RWtJWzqMFME4YJ9Jgnne9fH6DlCHgLCIEA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478510580",
+    "title": "ServiceNow Developer",
+    "company": "Webologix Ltd/ INC",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/servicenow-developer-at-webologix-ltd-inc-4478510580?position=2&pageNum=32&refId=V26odNEi8PKyY%2Bdie77Z9w%3D%3D&trackingId=QFyUslqvb3Axjm7nlGAtNg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQHq7dnji3N96A/company-logo_100_100/company-logo_100_100/0/1630626269907/webologix_logo?e=2147483647&v=beta&t=L4aYC0e3mToNXVZNhWHY9ACR4fKFdPCxCALL3TQJ0TI",
+    "lat": 0,
+    "lng": 0
   }
 ]
