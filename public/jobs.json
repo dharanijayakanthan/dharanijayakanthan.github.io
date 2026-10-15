@@ -1,5 +1,16 @@
 [
   {
+    "id": "urn:li:jobPosting:4476645318",
+    "title": "Senior Software Engineer (React + Node)",
+    "company": "Tricog Health",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-14",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-react-%2B-node-at-tricog-health-4476645318?position=6&pageNum=32&refId=5Tf3D0VxXyufnFFfOj3q%2Bw%3D%3D&trackingId=ZlnrkWAng%2FSczysDciz8Hg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGymMKYF28uUQ/company-logo_100_100/company-logo_100_100/0/1664353312398/tricog_health_logo?e=2147483647&v=beta&t=81Bu2fm3o1qRSn03qTMWCCuJmWPlVnqBz2JH-_C_YQE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4476483515",
     "title": "Technical Specialist",
     "company": "Dover India",
@@ -20,6 +31,61 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGTmsLAkTTGww/company-logo_100_100/company-logo_100_100/0/1722576449607/teamware_solutions_logo?e=2147483647&v=beta&t=QIDeTszOkwzAnnawMWT3qa9iPNzIuSXvAHSI6E-3FcA",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4478787187",
+    "title": "Software Engineer",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-13",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4478787187?position=7&pageNum=30&refId=TiLnUHp28s8SeqcAQdR%2B2g%3D%3D&trackingId=n9I2hr5Q98bkRMTX%2FfN9Tg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4476078653",
+    "title": "Software Engineer - Full Stack",
+    "company": "Weir",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-13",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-full-stack-at-weir-4476078653?position=1&pageNum=65&refId=PaxNBPhQJC3WVAgxXqE0pA%3D%3D&trackingId=LE2iMAMMlC1JKFlKbQZY9Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG1LMqigmkplA/company-logo_100_100/B4EZ8Y90PpJkAM-/0/1782830286018/the_weir_group_logo?e=2147483647&v=beta&t=CexVbwUyqhU5u05Upao6y0RuQmh3Fdhtsr-6kDqetxA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478772909",
+    "title": "Software Applications",
+    "company": "HP",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-13",
+    "link": "https://in.linkedin.com/jobs/view/software-applications-at-hp-4478772909?position=5&pageNum=80&refId=aV9riIeVQJuOaz1XItZXVg%3D%3D&trackingId=fYDVt9%2BqpnS6lahpJeAa4A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEJUaQAv2kVcQ/company-logo_100_100/B56ZViAo6QHoAQ-/0/1741106089999/hp_logo?e=2147483647&v=beta&t=CkdW_qlJsnivIFSCyd5feJoXKhIdCpFl9I1hK55yfQU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478768664",
+    "title": "Full Stack Engineer",
+    "company": "BCITS PVT LTD",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-13",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-bcits-pvt-ltd-4478768664?position=3&pageNum=82&refId=uVJg8m%2FsEZb1VmyJPxZ5gQ%3D%3D&trackingId=93tQU%2B5dHnbSvjPmfiOKnA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFnsqFARTDKqg/company-logo_100_100/B56Z6XrP39GsAI-/0/1780661157595/bellary_computer_it_solutions_pvt_ltd_logo?e=2147483647&v=beta&t=B2hY8yyKDUgg5dzCzxMQ2oIrMegc0Bun11K4EVSEipU",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4477960915",
+    "title": "Senior Fullstack Developer",
+    "company": "Applied Systems India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-13",
+    "link": "https://in.linkedin.com/jobs/view/senior-fullstack-developer-at-applied-systems-india-4477960915?position=5&pageNum=85&refId=f%2FVExTnAcBMmOtiv68RV5A%3D%3D&trackingId=%2BbRD702WsBB8k8nlDgn6XA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHUmh-kQiOTkA/company-logo_100_100/company-logo_100_100/0/1694153133346/applied_systems_india_logo?e=2147483647&v=beta&t=vPbfmWw9q335hxfJeLB7szhqJvHMf8Cwi1Veihay1kY",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4477934203",
@@ -66,6 +132,61 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4477591178",
+    "title": "Software Development Engineer 3",
+    "company": "Amadeus",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-12",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-3-at-amadeus-4477591178?position=10&pageNum=30&refId=TiLnUHp28s8SeqcAQdR%2B2g%3D%3D&trackingId=vOZF2%2F1ugxL6OvX475WPvw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG4fET5G1jx8w/company-logo_100_100/company-logo_100_100/0/1698053556150/amadeus_logo?e=2147483647&v=beta&t=9KQZUvxrvuBQU04wnuiW73aNaxlN6_8K2KMeIr3Tli4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4477503678",
+    "title": "Appian Developer",
+    "company": "TECEZE",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-12",
+    "link": "https://in.linkedin.com/jobs/view/appian-developer-at-teceze-4477503678?position=10&pageNum=50&refId=Fd1SKik4GGFpLxXbtpDBOw%3D%3D&trackingId=SeucHR0kAWTRGo1kBaB%2BAw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH838W2H6SVQw/company-logo_100_100/B56aDQNXFYKoAI-/0/1790199559109/teceze_logo?e=2147483647&v=beta&t=vI_kkEdqjPOtw9qkdoUr7ZDTQ_E-VGwFqj6P5fd8qOE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4476028757",
+    "title": "Flutter developer",
+    "company": "Pocket FM",
+    "location": "Bangalore Urban, Karnataka, India",
+    "date": "2026-10-12",
+    "link": "https://in.linkedin.com/jobs/view/flutter-developer-at-pocket-fm-4476028757?position=1&pageNum=62&refId=NPqzzT%2FGNWCDwXP6GelNNA%3D%3D&trackingId=AQBKVjFBw6UvGeFwEghm%2Bg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQF1wQuOWtQlUQ/company-logo_100_100/B56aEMu.U4HUAI-/0/1791215003198/pocket_fm_logo?e=2147483647&v=beta&t=dDGkk14Bf5yeUWa_Dp_02JHvcYixVakV7iVuxlx6j2U",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478389503",
+    "title": "Senior Software Engineer - Fullstack [T500-30048]",
+    "company": "ANSR",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-12",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-fullstack-t500-30048-at-ansr-4478389503?position=6&pageNum=67&refId=qxe0l%2B6iJA5TutM9fjsexQ%3D%3D&trackingId=Zklllanou0j6X4W1%2F4SAGA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHZalBrJU_LQw/company-logo_100_100/company-logo_100_100/0/1649227147398/ansr_consulting_logo?e=2147483647&v=beta&t=LCLIgMmOTrxPjKx3guXdU82_NGDu83qgoytIBG6UeKw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478514363",
+    "title": "Senior Engineer Software [T500-30055]",
+    "company": "Albertsons Companies India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-12",
+    "link": "https://in.linkedin.com/jobs/view/senior-engineer-software-t500-30055-at-albertsons-companies-india-4478514363?position=10&pageNum=75&refId=eTg%2FxulebkxZzbKbxfmKkA%3D%3D&trackingId=J8prMLK4FecGVoWVYtvzTg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEyBWPU29c96g/company-logo_100_100/B56Za2zTbsGUAQ-/0/1746823624863?e=2147483647&v=beta&t=gy5o8LNL-bS3QCbE3qLyfk6eSymTOQwf9_-XLhzxQdI",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4478320314",
     "title": "Angular & Flutter Developer | REST API Integration | Flutter BLoC | Cross-Platform Applications",
     "company": "GC Technologies Pvt Ltd",
@@ -75,6 +196,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQESTCNj3MS4oQ/company-logo_100_100/B56ZfUnBcNH8AU-/0/1751618689602?e=2147483647&v=beta&t=l-n8zUpGdPgoUd0KFRSZlx2g8_WVHSVtENDiigL3qbM",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4475663543",
+    "title": "MODULE LEAD - C# .NET",
+    "company": "Happiest Minds Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-11",
+    "link": "https://in.linkedin.com/jobs/view/module-lead-c%23-net-at-happiest-minds-technologies-4475663543?position=8&pageNum=77&refId=%2Fgi3v9Cdu3shTKDwU9IAVQ%3D%3D&trackingId=TdxoiH8Y0yKXaNtngNA9GQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHrStoH8fGuxw/company-logo_100_100/B56ZwiMfPGHcAQ-/0/1770100227699/happiest_minds_technologies_logo?e=2147483647&v=beta&t=-auObn_ZxRe-m2VVRutsYcb0xcVM2r8vqzrPLt78JV0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4477503922",
+    "title": "Senior Full Stack Developer",
+    "company": "Confluencr - Global Influencer Marketing Agency",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-11",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-at-confluencr-global-influencer-marketing-agency-4477503922?position=2&pageNum=85&refId=f%2FVExTnAcBMmOtiv68RV5A%3D%3D&trackingId=4qXbBBycw70PSpJ8Lxesmg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdW9x582HqVw/company-logo_100_100/B56ZYPvVCDHoAY-/0/1744020788520/confluencr_global_influencer_marketing_agency_logo?e=2147483647&v=beta&t=jf9vG85YaFn1OUYB1oLSqqn69swKyeH5x9YTs8yJBAQ",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4475289311",
@@ -97,6 +240,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE1wyZ0gd_P_w/company-logo_100_100/B4DZmf03PuJMAY-/0/1759323061531/virtusa_logo?e=2147483647&v=beta&t=BX2oukfWW-ynMINuDRbCIlfgg5xRn0BoZf9Mk-TS1t4",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4448417805",
+    "title": "SAP Fiori UI5 Full Stack",
+    "company": "EY",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-10",
+    "link": "https://in.linkedin.com/jobs/view/sap-fiori-ui5-full-stack-at-ey-4448417805?position=10&pageNum=40&refId=pqqpiLFcMQcAmMNuZgCLvQ%3D%3D&trackingId=qxPdOflGVRovW6PZ1CeOKg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4475213551",
@@ -297,6 +451,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4477155165",
+    "title": "React JS & Node JS Developer",
+    "company": "Tata Consultancy Services",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-08",
+    "link": "https://in.linkedin.com/jobs/view/react-js-node-js-developer-at-tata-consultancy-services-4477155165?position=6&pageNum=42&refId=ewhKjq8pdQmGMqiVHBUFNA%3D%3D&trackingId=ZlZt8Ibr%2FZdbv3unoC9aHg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4475429604",
     "title": "Java Full Stack Developer – Spring, React/Angular, SQL & REST APIs",
     "company": "Synechron",
@@ -394,6 +559,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGZ5m5xn4mOKg/company-logo_100_100/company-logo_100_100/0/1695803710967/dhyati_logo?e=2147483647&v=beta&t=ky5XLkYkkg-e6CZdzhh6hj2gpRefFjtFNh6Dvb79l9E",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4474451445",
+    "title": "Sr. React.js Developer",
+    "company": "Euphoric Thought Technologies Pvt. Ltd.",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-07",
+    "link": "https://in.linkedin.com/jobs/view/sr-react-js-developer-at-euphoric-thought-technologies-pvt-ltd-4474451445?position=10&pageNum=5&refId=UAO4fUFfjPHWIDYtic4W%2Bw%3D%3D&trackingId=fIvf4zMgdQ2xss9yBpUxIw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFH4DAN-wr6pw/company-logo_100_100/company-logo_100_100/0/1674652070552/euphoric_thought_technologies_logo?e=2147483647&v=beta&t=-PuP67uWREBdZzsmKqGQbnCz8oY2X4d_24wQdFPCNxw",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4474015982",
@@ -1151,6 +1327,17 @@
     "date": "2026-09-30",
     "link": "https://in.linkedin.com/jobs/view/imi-103-software-engineer-full-stack-developer-next-js-developer-python-full-stack-developer-e-commerce-developer-at-marutee-4472300407?position=1&pageNum=42&refId=A6aJXIcTGqnTExptEk4Z0g%3D%3D&trackingId=1UaRmDtM83DQugpy9CD2Ng%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHs5jChLfcHEQ/company-logo_100_100/B56ZzgvzBYKUAQ-/0/1773297152496/marutee_logo?e=2147483647&v=beta&t=cdF0BeXJaaPM3fVczEzmw6uNtlMDYPHk4Nvwe02CJAA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4472639849",
+    "title": "Senior Software Engineer- Frontend Angular",
+    "company": "NeST Digital",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-09-30",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-angular-at-nest-digital-4472639849?position=6&pageNum=87&refId=wwdGB8rSZJkH6AGH4jVbfA%3D%3D&trackingId=ogQX9a3OJwm607YYYvgXgA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHEbr5Y66QyEA/company-logo_100_100/company-logo_100_100/0/1731562068886/nest_digital_pvt_ltd_logo?e=2147483647&v=beta&t=pX0zZep2xE-t4Nszd3fi2iCPK3QQtFPsYDzVG1zpOgI",
     "lat": 0,
     "lng": 0
   },
@@ -182719,5 +182906,135 @@
     "logo": "https://media.licdn.com/dms/image/v2/C510BAQHq7dnji3N96A/company-logo_100_100/company-logo_100_100/0/1630626269907/webologix_logo?e=2147483647&v=beta&t=L4aYC0e3mToNXVZNhWHY9ACR4fKFdPCxCALL3TQJ0TI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4479546236",
+    "title": "Senior Engineer- ReactJS Developer",
+    "company": "Vontier",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-engineer-reactjs-developer-at-vontier-4479546236?position=9&pageNum=2&refId=OGXQ5rRxuXsJIp5IXKhXrg%3D%3D&trackingId=zhmQH7pl4lEwZTNaLoQ%2BDA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQETMLUI1EeX5w/company-logo_100_100/B4EZoHTKoWIQAU-/0/1761059056515/vontier_logo?e=2147483647&v=beta&t=QCDLuFOcB6-ePkOPj_M0PeroRdExcn6g_eY6h2WRLlE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478831084",
+    "title": "Software Engineer II, Full Stack (Frontend Focused) (Bangalore, India)",
+    "company": "AiPrise",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-full-stack-frontend-focused-bangalore-india-at-aiprise-4478831084?position=7&pageNum=25&refId=988O%2BPDdMgTE%2BGSm8BS28A%3D%3D&trackingId=SndJpTfgKonnMRj3stXYLg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGRkm4lqbCNVQ/company-logo_100_100/company-logo_100_100/0/1687811669380/aiprise_inc_logo?e=2147483647&v=beta&t=7-ofvhdpN6NYzfDf3KkcmPGosTxWXFqqMbbRoZ7m_bc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4479775818",
+    "title": "Junior Software Engineer",
+    "company": "Cedric",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/junior-software-engineer-at-cedric-4479775818?position=3&pageNum=32&refId=5Tf3D0VxXyufnFFfOj3q%2Bw%3D%3D&trackingId=JlMDwXz2JJ2D3zpB2qebzA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFbakTEQxHCqw/company-logo_100_100/B4EZ_xw9iOHMAM-/0/1786467572122/meet_cedric_logo?e=2147483647&v=beta&t=Bj4Xp2mVJ7-s6couV4G08o8kNz0MSAmISXaHkHUzZHM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4476670541",
+    "title": "Consultant",
+    "company": "SCIENTIFIC GAMES",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/consultant-at-scientific-games-4476670541?position=7&pageNum=35&refId=JqgiG%2BdJ2byFlOnMtq9ixQ%3D%3D&trackingId=x8KR9UTpHIKwrOsRZcSBBA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEvVkPFwId5EA/company-logo_100_100/B4EZwp875fGoAQ-/0/1770230366173/scientific_games_lottery_logo?e=2147483647&v=beta&t=yly2QcuCZvix-VuJCOZIYqfNg4S2T5wTR4_kzkyIKXM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478858576",
+    "title": "Apprentice Associate III -",
+    "company": "Allstate India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/apprentice-associate-iii-at-allstate-india-4478858576?position=9&pageNum=35&refId=JqgiG%2BdJ2byFlOnMtq9ixQ%3D%3D&trackingId=g4CyzW884uOjDZpsvzkEhA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFt7caN4REyvQ/company-logo_100_100/company-logo_100_100/0/1630642218519/allstateindia_logo?e=2147483647&v=beta&t=D9ICodu7TbYDD6wyDaY5lN8RLBmK6ZoZDPqyhMv7i-0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478868465",
+    "title": "Full Stack Angular, Java Cloud Developer",
+    "company": "Rohde & Schwarz",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-angular-java-cloud-developer-at-rohde-schwarz-4478868465?position=10&pageNum=57&refId=oYFeBMV4OhNWGUnUII79qg%3D%3D&trackingId=P8hvMFnGZu43z%2BDYWCpiuQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFP99T4C5faIQ/company-logo_100_100/company-logo_100_100/0/1732000549233/rohde_schwarz_logo?e=2147483647&v=beta&t=DUxKTGMo0LoT4gkIc14rCRYt9siyrj2ywphF0UkexpQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478866412",
+    "title": "GenAI Full-stack Engineer - Software Engineer II",
+    "company": "Deloitte",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/genai-full-stack-engineer-software-engineer-ii-at-deloitte-4478866412?position=4&pageNum=62&refId=NPqzzT%2FGNWCDwXP6GelNNA%3D%3D&trackingId=8mR2ouTlpvGPFxqAs0HVRQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4476682195",
+    "title": "Senior Full Stack Engineer(Node.js+ React)",
+    "company": "Quantiphi",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-node-js%2B-react-at-quantiphi-4476682195?position=3&pageNum=65&refId=PaxNBPhQJC3WVAgxXqE0pA%3D%3D&trackingId=LFrI9lbg%2Bl758MCdrMPIEw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEL4G0L6vWaEg/company-logo_100_100/B4DZko5npbHsAQ-/0/1757327817992/quantiphi_logo?e=2147483647&v=beta&t=sB2r9qXMrbUmQ-W1Y8IO7TgP3gltFs-X_JYOhO1iZAA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4479502720",
+    "title": "Application Lead Developer - Java Full Stack",
+    "company": "State Street",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/application-lead-developer-java-full-stack-at-state-street-4479502720?position=10&pageNum=65&refId=PaxNBPhQJC3WVAgxXqE0pA%3D%3D&trackingId=9Q2m0CoFWVWk9uI4GWQF6w%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG2I4b6RVexFg/company-logo_100_100/company-logo_100_100/0/1695040265658/state_street_logo?e=2147483647&v=beta&t=Ub0oPMS_tj_W9kGjLa872fLM4oluGO4xV84-AjisJbo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4476662547",
+    "title": "Senior Software Engineer 1",
+    "company": "PowerSchool",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-1-at-powerschool-4476662547?position=2&pageNum=67&refId=qxe0l%2B6iJA5TutM9fjsexQ%3D%3D&trackingId=gY6JcuaKMpaZAzUJs1kYfA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGYyKTTb1JMgA/company-logo_100_100/B56Z30dCT1G0AU-/0/1777922746030/powerschool_group_llc_logo?e=2147483647&v=beta&t=R8-LzDM9rcB9eh63kblYNbQ5vJUh-b3C5EAG0EzAAnc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478861068",
+    "title": "Senior Engineer",
+    "company": "Anko GCC",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-engineer-at-anko-gcc-4478861068?position=10&pageNum=67&refId=qxe0l%2B6iJA5TutM9fjsexQ%3D%3D&trackingId=hQRTP75mgx1%2F2rxGk63lMg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH9l9mWuU_CeQ/company-logo_100_100/company-logo_100_100/0/1705568271415/anko_india_logo?e=2147483647&v=beta&t=HKK6NGSBXLeqhCGEmCJJEhaDy2vcvUTVSV2z1Tvg0z8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478460214",
+    "title": "Senior Full Stack Developer (.NET + Vue.js)",
+    "company": "emagine",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-net-%2B-vue-js-at-emagine-4478460214?position=9&pageNum=82&refId=uVJg8m%2FsEZb1VmyJPxZ5gQ%3D%3D&trackingId=0lAH0H50ANM7oYuCP0ZD2Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGhrWV7ygFFcg/company-logo_100_100/B4DZecbP2NH4AQ-/0/1750676078500/emagine_logo?e=2147483647&v=beta&t=Ykr_h78E7GhQQHQfpxWZf1O3plKH3MzeCIR36f2HcEc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4479801875",
+    "title": "JL4 Senior Software Engineer – Full Stack & Platform Engineering",
+    "company": "A.P. Moller - Maersk",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/jl4-senior-software-engineer-%E2%80%93-full-stack-platform-engineering-at-a-p-moller-maersk-4479801875?position=1&pageNum=87&refId=wwdGB8rSZJkH6AGH4jVbfA%3D%3D&trackingId=vxoQH0r7zrWW37J47tggCQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFxaOJ8VzplhA/company-logo_100_100/company-logo_100_100/0/1630463556967/maersk_group_logo?e=2147483647&v=beta&t=YrP30ynaVz8K1BQU2Ap7mlV4Hx_xpRFYBVrVAd03m5A",
+    "lat": 0,
+    "lng": 0
   }
 ]
