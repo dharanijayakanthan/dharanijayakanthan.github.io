@@ -88,6 +88,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4478786754",
+    "title": "SDE 2",
+    "company": "HuntingCube",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-10-13",
+    "link": "https://in.linkedin.com/jobs/view/sde-2-at-huntingcube-4478786754?position=1&pageNum=20&refId=rKrmcJNwsvLxtGJ9rHztYA%3D%3D&trackingId=PyOY0hKB4STJOtkvQLIbEg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIxS_H-2dx8g/company-logo_100_100/B56Z9AUvhhKEAI-/0/1783490607442/huntingcubeai_logo?e=2147483647&v=beta&t=3UxmDQpazRzithZkjHcNISR71_MbyJuofCSauGGObFA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4477934203",
     "title": "Senior ReactJS Developer",
     "company": "PayHuddle",
@@ -183046,5 +183057,35 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGi_WzrY6V0JQ/company-logo_100_100/B4DaBW4LupJEAI-/0/1788163964130/cruciferai_logo?e=2147483647&v=beta&t=JQPmBTWq-_AG3CEAf4nA_dl9kJxut-sK73Ru55JU4dU",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4479145710",
+    "title": "React Front-End Developer - AI & Analytics Platform",
+    "company": "ARC Advisory Group Inc.",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/react-front-end-developer-ai-analytics-platform-at-arc-advisory-group-inc-4479145710?position=3&pageNum=7&refId=XKSYt%2FRc%2F9Sx1RZ0BoAoOg%3D%3D&trackingId=AgndJVCL1QAg%2FsjW%2FgkmrA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEef148SfRP6Q/company-logo_100_100/B4EZW_Zx.qHcAQ-/0/1742672961746/arc_advisory_group_logo?e=2147483647&v=beta&t=yFMfIypntDDTzU6jxh5f9tjP2ObikbTk-RRFTwfsE1c",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4480129083",
+    "title": "Lead Software Engineer - Angular Developer, AWS",
+    "company": "Fidelity Investments",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/lead-software-engineer-angular-developer-aws-at-fidelity-investments-4480129083?position=10&pageNum=15&refId=ieXLaN9fuHiQv0357OqUCQ%3D%3D&trackingId=y3SQJasLBaw%2FK%2FFLXsOd9g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEuH501asNUIQ/company-logo_100_100/B4EZXtxo03G0AU-/0/1743450967859/fidelity_investments_logo?e=2147483647&v=beta&t=KyaswXYHURo34Y0GAgxyomTUHS2AT7gsD5nrw-IGG78",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4479830847",
+    "title": "Software Development Engineer, Web",
+    "company": "FOX Tech",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-web-at-fox-tech-4479830847?position=7&pageNum=17&refId=4AsVk2gi0Hdc1d3Av9sxFw%3D%3D&trackingId=QBwxAbHJ1z5Wy%2FvNxNOdZg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFjKfEQa1_fpQ/company-logo_100_100/company-logo_100_100/0/1630654245890/foxtechteam_logo?e=2147483647&v=beta&t=U0mKmMNEhsQsEUN0T-9qzcOqA3OqjbP40d2lv8bmHC0",
+    "lat": 0,
+    "lng": 0
   }
 ]
