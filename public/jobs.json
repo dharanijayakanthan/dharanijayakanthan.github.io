@@ -11,6 +11,39 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4477395218",
+    "title": "(IND) STAFF, SOFTWARE ENGINEER",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-16",
+    "link": "https://in.linkedin.com/jobs/view/ind-staff-software-engineer-at-walmart-global-tech-india-4477395218?position=1&pageNum=55&refId=avjTvUQKUpycvb7NC%2B5H6w%3D%3D&trackingId=pcYL3GfjOIgk5nr1uw8ESg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEC3n4yU_w6bQ/company-logo_100_100/company-logo_100_100/0/1630541053165/walmartglobaltechindia_logo?e=2147483647&v=beta&t=KB5uAZVI1HRhFi7_oz2n8i2VD4Sx9DcqRNE-fpD1_zY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4479331623",
+    "title": "Full Stack Engineer",
+    "company": "Tata Consultancy Services",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-16",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-tata-consultancy-services-4479331623?position=8&pageNum=70&refId=7NYgaYD3%2BtLO2XuzIvhq0A%3D%3D&trackingId=sjAH%2Bl0dp%2Fr0vihQPCS4Kw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4479329123",
+    "title": "Full Stack Engineer (Java + React)",
+    "company": "Recro",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-16",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-java-%2B-react-at-recro-4479329123?position=5&pageNum=77&refId=ptsR7YgtnCNdjx8sFSSm9w%3D%3D&trackingId=b6lnvbwhFf6SY%2FQ19z%2FU%2Fw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH7GYOGBCj8Qg/company-logo_100_100/company-logo_100_100/0/1728907260215/recro_io_logo?e=2147483647&v=beta&t=898rSyj182aC0vqi5cZqbWQQIDumt_WpercCJsH_-TY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4479799442",
     "title": "Consultant",
     "company": "Infinite Computer Solutions",
@@ -86,6 +119,39 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF_z81vlYiIDw/company-logo_100_100/company-logo_100_100/0/1630525777231?e=2147483647&v=beta&t=MGpcFqLMukIJwEI5oEzU85sPfUqh4rZweaBMhCBHfs0",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4477303835",
+    "title": "GenAI Full-Stack Developer",
+    "company": "BearingPoint",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-15",
+    "link": "https://in.linkedin.com/jobs/view/genai-full-stack-developer-at-bearingpoint-4477303835?position=2&pageNum=60&refId=zp8fLvRjo7LquP01h4l84A%3D%3D&trackingId=QsXC6jhZ9E5pJCFzVy8CVw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEh1Eh-6uugnA/company-logo_100_100/B4EZcWBwsvHAAU-/0/1748421250249/bearingpoint_logo?e=2147483647&v=beta&t=H42MZqGNY1Idd6qRMzeTOB1uf7Q6twsHVNIwAyBO-Hs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4479158115",
+    "title": "AI-Native Full Stack Engineer",
+    "company": "Apra Labs",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-15",
+    "link": "https://in.linkedin.com/jobs/view/ai-native-full-stack-engineer-at-apra-labs-4479158115?position=10&pageNum=65&refId=yxkXo4TgWawA88avAqfQLg%3D%3D&trackingId=xaJJ7WBFlaMEdGB494v%2FLw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEQCRJCQmwpww/company-logo_100_100/company-logo_100_100/0/1631301207958?e=2147483647&v=beta&t=0ilJ1hiOEgxNfY70GxppMv6Wna2viuGs8Nm1r7YoXng",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4477088726",
+    "title": "GCR Others - Service Delivery Transformation - Senior",
+    "company": "EY",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-15",
+    "link": "https://in.linkedin.com/jobs/view/gcr-others-service-delivery-transformation-senior-at-ey-4477088726?position=4&pageNum=67&refId=cFJqTFRqYgjKFovrKtBRPw%3D%3D&trackingId=F7rygs58NWFDm1rTwPC6PA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4476645318",
@@ -185,6 +251,28 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI",
     "lat": 12.9483819,
     "lng": 77.6892497
+  },
+  {
+    "id": "urn:li:jobPosting:4479509021",
+    "title": "Specialist Software Engineer - Java",
+    "company": "Societe Generale Global Solution Centre",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-14",
+    "link": "https://in.linkedin.com/jobs/view/specialist-software-engineer-java-at-societe-generale-global-solution-centre-4479509021?position=5&pageNum=40&refId=a5FqJYr7Qud0%2FNl6nIwMWQ%3D%3D&trackingId=3Dl6QclIEe%2FDohUu1fGNJQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQFwBvGQK2NyEA/company-logo_100_100/company-logo_100_100/0/1630620434106/societe_generale_global_solution_centre_logo?e=2147483647&v=beta&t=JLVeP7Wt4mveji2MHGGJKTK-7LZYVstKBki3yCG64XA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478402817",
+    "title": "Senior Software Engineer",
+    "company": "WeWork India",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-14",
+    "link": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-wework-india-4478402817?position=5&pageNum=57&refId=OGZq8Nwk0nfo6f8tJUGLxw%3D%3D&trackingId=K8LHswmfJ8t0SLmDn0BBaQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE--VpQb1JQ_g/company-logo_100_100/B4EZc0LdscH8AQ-/0/1748927111015?e=2147483647&v=beta&t=eeNkLSfkgE79ZJT1CZGTBPVaZbY3pxmLso71uRJASMY",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4476483515",
@@ -183628,5 +183716,15 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHEpsaNjNhGHQ/company-logo_100_100/B56ZtKvDrwK8AU-/0/1766485408958?e=2147483647&v=beta&t=2P9Ep5IYbVlUh_bx_kRvYa6S6pxw2xTosiXOaqIZ2gs",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4480803936",
+    "title": "Full Stack developer",
+    "company": "NetApp",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-netapp-4480803936?position=4&pageNum=57&refId=OGZq8Nwk0nfo6f8tJUGLxw%3D%3D&trackingId=kSSbtLW3qwmceQuQHesaYw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHBBBHJ60EHpQ/company-logo_100_100/B4EZ2x0ZwfJ0AQ-/0/1776804798059/netapp_logo?e=2147483647&v=beta&t=npLtq7DSM81VB_rppmxI4M5hEbEfmslWCkCOYG7Fy8c",
+    "lat": 0,
+    "lng": 0
   }
 ]
