@@ -44,6 +44,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4477722804",
+    "title": "SDE-2, Partner Engineering",
+    "company": "Zinier",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-16",
+    "link": "https://in.linkedin.com/jobs/view/sde-2-partner-engineering-at-zinier-4477722804?position=10&pageNum=35&refId=Q4AJEIZyQxSIsqIPX0Jkng%3D%3D&trackingId=j1h8zLXhewBEjhIUZ53mqQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHlDl-gu_XImw/company-logo_100_100/B4EZ5kdn0ZIgAI-/0/1779801947709/zinier_inc_logo?e=2147483647&v=beta&t=xZYW0VJlT19U1LnmMqW4HkDtpGv9cR__PNpvFjfo0x8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4479799442",
     "title": "Consultant",
     "company": "Infinite Computer Solutions",
@@ -183736,5 +183747,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFWwP6RKr_XuQ/company-logo_100_100/B4DaEw29.MKcAI-/0/1791821078659/talentrabbit_logo?e=2147483647&v=beta&t=ngGz7zS8JqjmSdC2LTeeVuwd08TAequ0SD0cIvPnlGk",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4479908933",
+    "title": "Creative Full Stack Developer",
+    "company": "Voice India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/creative-full-stack-developer-at-voice-india-4479908933?position=9&pageNum=32&refId=buwl0Z9hJY2LNs3JDSN3JA%3D%3D&trackingId=g54qkym%2BMTHYzeF%2BmaClHA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQETcGyLYIzDsA/company-logo_100_100/B56Z2eM4wnGsAQ-/0/1776475673430/voiceindia_ai_logo?e=2147483647&v=beta&t=6eiLEGjC5X4VBI6QBz_WYnKIuda0JC97bNPOslDQsFo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478219372",
+    "title": "FluidX: Fullstack Developer",
+    "company": "Festo",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/fluidx-fullstack-developer-at-festo-4478219372?position=4&pageNum=35&refId=Q4AJEIZyQxSIsqIPX0Jkng%3D%3D&trackingId=LA36l4RjEdXaroXXFxpLjw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFuq1K-ZRzkdA/company-logo_100_100/B4EZT1jNg2GYAU-/0/1739286436274/festo_logo?e=2147483647&v=beta&t=D4IRIFXYgwkp43ym_LT_fdpH2Jzjcaul-RsSihAF4vk",
+    "lat": 0,
+    "lng": 0
   }
 ]
