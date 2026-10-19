@@ -66,6 +66,28 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4480352474",
+    "title": "Senior Engineer (frontend)",
+    "company": "Sage",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-16",
+    "link": "https://in.linkedin.com/jobs/view/senior-engineer-frontend-at-sage-4480352474?position=2&pageNum=2&refId=cZTUE6Aq5x%2FUQOySYzBR6Q%3D%3D&trackingId=UDbINfLNjwwg4Zs9M3c2hw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxwtVdR8m7-Q/company-logo_100_100/company-logo_100_100/0/1709803905606?e=2147483647&v=beta&t=_fRVaVA6gxs2a4y8g_ou_XxPsSd7JSsuf-AiBLct9DE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4477370500",
+    "title": "React Developer",
+    "company": "Virtusa",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-16",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-virtusa-4477370500?position=1&pageNum=5&refId=%2Fgk9bJU4y8pei1%2FQCt6W3g%3D%3D&trackingId=d%2FuuBcDoDybJUtgAi9frrw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE1wyZ0gd_P_w/company-logo_100_100/B4DZmf03PuJMAY-/0/1759323061531/virtusa_logo?e=2147483647&v=beta&t=BX2oukfWW-ynMINuDRbCIlfgg5xRn0BoZf9Mk-TS1t4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4479799442",
     "title": "Consultant",
     "company": "Infinite Computer Solutions",
@@ -183820,5 +183842,55 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4",
     "lat": 12.9833194,
     "lng": 77.736776
+  },
+  {
+    "id": "urn:li:jobPosting:4479982019",
+    "title": "Frontend Developer",
+    "company": "EdgeVerve",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-edgeverve-4479982019?position=9&pageNum=0&refId=7IHwap14%2BrBxTgobFdjFGg%3D%3D&trackingId=Yv1GJ%2ByV1R6%2BukXvfYdYyg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGhDeuxmBCRzQ/company-logo_100_100/company-logo_100_100/0/1719811447166/edgeverve_logo?e=2147483647&v=beta&t=ZHmKbtoL1apOgUAaK_S5uN8nLEZmsyTGyOA0SncwEKM",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4478233928",
+    "title": "Frontend Developer",
+    "company": "TalentRabbit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-talentrabbit-4478233928?position=3&pageNum=2&refId=cZTUE6Aq5x%2FUQOySYzBR6Q%3D%3D&trackingId=x0RP67drqqks9Kl6%2FbacEw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFWwP6RKr_XuQ/company-logo_100_100/B4DaEw29.MKcAI-/0/1791821078659/talentrabbit_logo?e=2147483647&v=beta&t=ngGz7zS8JqjmSdC2LTeeVuwd08TAequ0SD0cIvPnlGk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4479972634",
+    "title": "Website Engineer",
+    "company": "Leena AI",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/website-engineer-at-leena-ai-4479972634?position=10&pageNum=12&refId=0OH%2BsGgQXAZ4%2BCqu8N5n4Q%3D%3D&trackingId=pRUEg6JSR7fdXAfB1BvjDw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGEUTuTgJCMDA/company-logo_100_100/company-logo_100_100/0/1630534607790/l_e_e_n_a_logo?e=2147483647&v=beta&t=o-V0Utt6PqEXhCumxgWpeCRHptMThEi_4KXUcWy5qr0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4480949972",
+    "title": "Staff Software Engineer - Frontend",
+    "company": "Procore Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-frontend-at-procore-technologies-4480949972?position=9&pageNum=25&refId=DROGuGrB6X1TXBEcNA5otQ%3D%3D&trackingId=tB%2B7da8T%2BtytrnOYX%2Bt%2FXA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGniocgaFzu6g/company-logo_100_100/company-logo_100_100/0/1737481196088/procore_technologies_logo?e=2147483647&v=beta&t=4OVlWJ3oXtVm56TIS0p8PvV7V1WXkExFpX3XNhYVVW4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4480944709",
+    "title": "SAP UI5 Module Lead",
+    "company": "Sopra Steria",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sap-ui5-module-lead-at-sopra-steria-4480944709?position=6&pageNum=27&refId=59iyI1S%2BnmMNRkx9AMsAFA%3D%3D&trackingId=kq3rrRWmygBkZnuzEeWnAw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF_0JqR2CRpJw/company-logo_100_100/company-logo_100_100/0/1688571543420/soprasteria_logo?e=2147483647&v=beta&t=-Z1iFS5Flfpz13u7tuuVv3PINIKOucA30K1D8j8kyX4",
+    "lat": 0,
+    "lng": 0
   }
 ]
