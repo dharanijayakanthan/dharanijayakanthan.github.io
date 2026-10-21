@@ -957,6 +957,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4475279772",
+    "title": "Lead Software Engineer",
+    "company": "Virtusa",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-10",
+    "link": "https://in.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4475279772?position=10&pageNum=5&refId=qRSzw9XufFlFGM8QxnMhHg%3D%3D&trackingId=%2FlaDNfAU%2Bb%2FHGENrrHC1Yg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE1wyZ0gd_P_w/company-logo_100_100/B4DZmf03PuJMAY-/0/1759323061531/virtusa_logo?e=2147483647&v=beta&t=BX2oukfWW-ynMINuDRbCIlfgg5xRn0BoZf9Mk-TS1t4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4475213551",
     "title": "Software Engineer - Python developer with Java script",
     "company": "HARMAN India",
@@ -2330,6 +2341,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFcGg7KRaS8Uw/company-logo_100_100/company-logo_100_100/0/1690905620357/elastic_co_logo?e=2147483647&v=beta&t=PEKmXoPWKv_Y43IBqnVTlM8GU-pXLoLRw_qIFgOflPI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4473284569",
+    "title": "Senior Engineer Frontend, Monetization",
+    "company": "Postman",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-09-29",
+    "link": "https://in.linkedin.com/jobs/view/senior-engineer-frontend-monetization-at-postman-4473284569?position=10&pageNum=2&refId=KxZvbP6i%2FGLj6ig5UHYRjQ%3D%3D&trackingId=bw6K22hKvENTNo6QahvbVQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFf8sH83foEVg/company-logo_100_100/company-logo_100_100/0/1654794308958/postman_platform_logo?e=2147483647&v=beta&t=vhUFiD_84RWtJWzqMFME4YJ9Jgnne9fH6DlCHgLCIEA",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4472704619",
@@ -184369,6 +184391,26 @@
     "location": "Bengaluru East, Karnataka, India",
     "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-senior-associate-at-pwc-acceleration-center-india-4478674530?position=1&pageNum=95&refId=F90NrvA4y1J5%2FS2GY%2FTdpQ%3D%3D&trackingId=4ch0b1Hqh4ZCf36QA35JQg%3D%3D",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQHuQqdWGsFM9Q/company-logo_100_100/B56ZaB.PV5HgAQ-/0/1745937299380/pwc_acs_in_india_logo?e=2147483647&v=beta&t=P9D-9QhC9uzOr1Kg4yRseC0uvYNXmxHvqWDvGrqTriY",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4480451738",
+    "title": "React Developer",
+    "company": "Pace Wisdom Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-pace-wisdom-solutions-4480451738?position=9&pageNum=5&refId=qRSzw9XufFlFGM8QxnMhHg%3D%3D&trackingId=DIb5Fwz539Zm%2F4N970tVLQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH9EEvseYpWQQ/company-logo_100_100/B56Zl7JIVQJ8AQ-/0/1758707617840/pace_wisdom_solutions_logo?e=2147483647&v=beta&t=0vLG4cXDEeWwIE4Zr6g2exGFO2UwLyzvGh3MJtN2wHo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4480757392",
+    "title": "React Developer",
+    "company": "Antal International",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-antal-international-4480757392?position=4&pageNum=7&refId=VTx75RFNBCW9xa%2FTYvYF0g%3D%3D&trackingId=ExeeDWIdGHU8ns2O%2BMpNqA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHhwGkJoW6mEw/company-logo_100_100/company-logo_100_100/0/1666775032739/antal_international_logo?e=2147483647&v=beta&t=_SCO8O3DXj9RRhU6BHC-lu5KhQd9N5Fj4YH9mr0t-0M",
     "lat": 0,
     "lng": 0
   }
