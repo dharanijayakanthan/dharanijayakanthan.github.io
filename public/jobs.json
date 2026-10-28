@@ -66,6 +66,17 @@
     "lng": 77.722082
   },
   {
+    "id": "urn:li:jobPosting:4483287968",
+    "title": "Javascript Developer",
+    "company": "InnoWave360",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-27",
+    "link": "https://in.linkedin.com/jobs/view/javascript-developer-at-innowave360-4483287968?position=9&pageNum=87&refId=99brm%2BNqmBCTzWHFtXoDyQ%3D%3D&trackingId=ipAf%2FGCbiOlfm8aRDY5EbQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQG0Mzef8wVd5g/company-logo_100_100/company-logo_100_100/0/1716294679216/innowave360_logo?e=2147483647&v=beta&t=W2avSuZb9GuCNp28ubH4FuUcGMwLkpwaHBluuMC04S8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4482984838",
     "title": "Full Stack Engineer",
     "company": "Driif",
@@ -187127,5 +187138,15 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4483882157",
+    "title": "Vue.js Developer",
+    "company": "Indium",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/vue-js-developer-at-indium-4483882157?position=7&pageNum=12&refId=FoXuUb4cDGNnTm7jvwc7CQ%3D%3D&trackingId=3oACP64OpHjmGxgrnBufaw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEC1hpWvKTsQg/company-logo_100_100/B56ZWDxlnNGQAQ-/0/1741672569705/indiumsoftware_logo?e=2147483647&v=beta&t=3td21skrwxuB1sqp75YsFoJlh7sgP8dcXHGKZVfAeUo",
+    "lat": 0,
+    "lng": 0
   }
 ]
