@@ -22,6 +22,61 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4482511146",
+    "title": "Application Developer-AWS Cloud FullStack",
+    "company": "IBM",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-28",
+    "link": "https://in.linkedin.com/jobs/view/application-developer-aws-cloud-fullstack-at-ibm-4482511146?position=10&pageNum=72&refId=1VuoFKvZOIf98mDh164WDg%3D%3D&trackingId=M1xNVKNkJgHpdrBgi3PLMA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&v=beta&t=HPSmWLOCvdPkWO1nRWwjjmCNpaCqww20rSJ4E54QtxQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4484461506",
+    "title": "staff Software Engineer",
+    "company": "Commonwealth Bank",
+    "location": "Bengaluru East, Karnataka, India",
+    "date": "2026-10-28",
+    "link": "https://in.linkedin.com/jobs/view/staff-software-engineer-at-commonwealth-bank-4484461506?position=2&pageNum=87&refId=SVntIhmhvVzx7j62u8qtcQ%3D%3D&trackingId=dmKaMnN0MymoF%2BmaK7zBig%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGLodxq_N-mcA/company-logo_100_100/company-logo_100_100/0/1692243810359/commonwealthbank_logo?e=2147483647&v=beta&t=RQNStTO8TBpVHM_QuBlbbkubgbYkNVYMD9A62xn8frQ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4484429192",
+    "title": "Cloud Developer II",
+    "company": "Honeywell Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-28",
+    "link": "https://in.linkedin.com/jobs/view/cloud-developer-ii-at-honeywell-technologies-4484429192?position=6&pageNum=90&refId=BSbsB02evR%2BUXQL1ihr8%2Fw%3D%3D&trackingId=926dHamvkGA5J9l5YhVy7Q%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE0raKQ0HHHXQ/company-logo_100_100/B4EZ8SY0aJH8AM-/0/1782719924150/honeywell_logo?e=2147483647&v=beta&t=akNGC3_0nFpYKyV4oDlMpAeGqlsqvk1AGJK5SfBiRfo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4484455518",
+    "title": "Java Application Developer",
+    "company": "Smarsh",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-28",
+    "link": "https://in.linkedin.com/jobs/view/java-application-developer-at-smarsh-4484455518?position=1&pageNum=92&refId=vkKELpSyhp%2FybYyWc6WmqA%3D%3D&trackingId=vllQUkq1lftzFRPgDyo4Mw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQE6_pEkx-Y4yg/company-logo_100_100/B56Zk0DU_1J8AQ-/0/1757514912078/smarsh_logo?e=2147483647&v=beta&t=_3xZOHKm6BzQ3qSq6f91b-HWUfK8KgDJ3EU7a7g6BLE",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4484274606",
+    "title": "Senior Full Stack Developer - Digital Experience & Automation (DEA)",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-28",
+    "link": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-digital-experience-automation-dea-at-hewlett-packard-enterprise-4484274606?position=8&pageNum=97&refId=WPoOaAB5FQEsnEbWG8yMaw%3D%3D&trackingId=wQBvhZSvY8MHu9KVGgK5Fw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG3eeRIFGMG9g/company-logo_100_100/B4EZdkxlEZH0AU-/0/1749742408362/hewlett_packard_enterprise_logo?e=2147483647&v=beta&t=ijFn20TK1upEkeiP1oWhqe152s87m6307NkiugLc8_E",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4484005362",
     "title": "Smart TV App Engineer / Smart TV App Specialist",
     "company": "Whale TV",
@@ -119,6 +174,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFT3XpBw27MZQ/company-logo_100_100/B56Znem7iXIYAQ-/0/1760376371839/sandisk_logo?e=2147483647&v=beta&t=9jSi5C_S8tJzrynYB43fIOkJ3YOofaMfZ5PbugS2SEI",
     "lat": 12.9441857,
     "lng": 77.6930568
+  },
+  {
+    "id": "urn:li:jobPosting:4484073044",
+    "title": "Full Stack Software Developer",
+    "company": "apna",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-27",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-software-developer-at-apna-4484073044?position=9&pageNum=52&refId=Nct4G%2FXrf1PCfQVCKJdQYA%3D%3D&trackingId=SkKZQPNcVI3PARQXPbR0ng%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEBv-quQCmNcg/company-logo_100_100/B4DaAUOHprHQAM-/0/1787045641033/apnahq_logo?e=2147483647&v=beta&t=DZIWyoBRI0HPXVOyLG9fPUPCQK2eEGM68Rh0SWD5aq8",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4482984838",
@@ -394,6 +460,39 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4481430186",
+    "title": "Full Stack Engineer",
+    "company": "Bhanzu",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-26",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-bhanzu-4481430186?position=9&pageNum=50&refId=pPjkbTxrB%2FjqkPpt4K564w%3D%3D&trackingId=g64NQzQ9%2FrKPpdTSdeCMMw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEpQGGcDCRvrA/company-logo_100_100/B4DZ8dyGoxK0AI-/0/1782911101859?e=2147483647&v=beta&t=1I44ff3nu8KH6FcUuPVVSPBUc2dr-uro3refBs_Nfyw",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4483535487",
+    "title": "Software Engineer",
+    "company": "Monty Mobile",
+    "location": "Bangalore Urban, Karnataka, India",
+    "date": "2026-10-26",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-monty-mobile-4483535487?position=9&pageNum=57&refId=kPqQcxzYXzb%2FjIh3WSG7zg%3D%3D&trackingId=sOQ1u4jhPZ%2FdyDB1UiY96g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHkF39Ca4F6eA/company-logo_100_100/B4DZd9E3ExHkAQ-/0/1750150116037/monty_mobile_logo?e=2147483647&v=beta&t=6Uq5oAX2eOrLZ3owgmiTFsudf64tE13iGoFgf7OhUjc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4481478244",
+    "title": "Application Developer-AWS Cloud FullStack",
+    "company": "IBM",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-26",
+    "link": "https://in.linkedin.com/jobs/view/application-developer-aws-cloud-fullstack-at-ibm-4481478244?position=9&pageNum=72&refId=1VuoFKvZOIf98mDh164WDg%3D%3D&trackingId=V9C3dYlAK11soloaBKVH3A%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&v=beta&t=HPSmWLOCvdPkWO1nRWwjjmCNpaCqww20rSJ4E54QtxQ",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4483370676",
@@ -1408,6 +1507,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4480182813",
+    "title": "Front - End Developer",
+    "company": "Surya Software Systems Private Limited",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-16",
+    "link": "https://in.linkedin.com/jobs/view/front-end-developer-at-surya-software-systems-private-limited-4480182813?position=9&pageNum=7&refId=kvXH55XGyavwuB1pEzfsMQ%3D%3D&trackingId=UDdbBna1k6aWeT2GBJXZqg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHaJTl7od-Kgw/company-logo_100_100/company-logo_100_100/0/1630567232698?e=2147483647&v=beta&t=7hDvPhAfFGK4yip1YDvk3inTc4gCE5MLu4uMRDoR1E8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4479799442",
     "title": "Consultant",
     "company": "Infinite Computer Solutions",
@@ -1549,6 +1659,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGRH3MOOhs0Ew/company-logo_100_100/B4EZ.3nuo7KsAI-/0/1785492073255/hclsoftware_logo?e=2147483647&v=beta&t=8C1Ydmj2QwvK3Rwb0OkN-GHEP-l_Ats1w5kqUGHwaZk",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4478820747",
+    "title": "Software Engineer II, Frontend (Bangalore, India)",
+    "company": "AiPrise",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-15",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-ii-frontend-bangalore-india-at-aiprise-4478820747?position=10&pageNum=7&refId=kvXH55XGyavwuB1pEzfsMQ%3D%3D&trackingId=6SvreixTuglCk48oytNtqQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQGRkm4lqbCNVQ/company-logo_100_100/company-logo_100_100/0/1687811669380/aiprise_inc_logo?e=2147483647&v=beta&t=7-ofvhdpN6NYzfDf3KkcmPGosTxWXFqqMbbRoZ7m_bc",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4476645318",
@@ -187339,5 +187460,45 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4484999855",
+    "title": "Software Engineer, Senior 1 (Front-End Developer)",
+    "company": "Progress Software",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-senior-1-front-end-developer-at-progress-software-4484999855?position=3&pageNum=5&refId=dLDWwQzMDfXyZ1Pnw2FA3Q%3D%3D&trackingId=tRbJC%2Bd8pxiK2KoOBd0nWg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGldm6803bfwQ/company-logo_100_100/company-logo_100_100/0/1719852274348/progress_software_logo?e=2147483647&v=beta&t=JC2M0-hY8R7uJbFdO1ZkRZyStzr9QyQKPIhI7-8R4c8",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4484962026",
+    "title": "Full Stack Engineer",
+    "company": "HuntingCube",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-huntingcube-4484962026?position=3&pageNum=77&refId=g%2FyoLaI2O91emjVEf4UqNA%3D%3D&trackingId=%2FLs%2BPIyisLlbGuLl4CPCLQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIxS_H-2dx8g/company-logo_100_100/B56Z9AUvhhKEAI-/0/1783490607442/huntingcubeai_logo?e=2147483647&v=beta&t=3UxmDQpazRzithZkjHcNISR71_MbyJuofCSauGGObFA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4484949441",
+    "title": "Fullstack Engineer",
+    "company": "HuntingCube",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/fullstack-engineer-at-huntingcube-4484949441?position=5&pageNum=95&refId=1qu3N2kP6xjEucufgQDqAA%3D%3D&trackingId=jqKa1Luv0iVLa97mUvzrwA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIxS_H-2dx8g/company-logo_100_100/B56Z9AUvhhKEAI-/0/1783490607442/huntingcubeai_logo?e=2147483647&v=beta&t=3UxmDQpazRzithZkjHcNISR71_MbyJuofCSauGGObFA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4484958224",
+    "title": "Software Development Engineer - II",
+    "company": "HuntingCube",
+    "location": "Bengaluru East, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-huntingcube-4484958224?position=7&pageNum=95&refId=1qu3N2kP6xjEucufgQDqAA%3D%3D&trackingId=KxvHm5WgM1m5JrsRqJKCKQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQFIxS_H-2dx8g/company-logo_100_100/B56Z9AUvhhKEAI-/0/1783490607442/huntingcubeai_logo?e=2147483647&v=beta&t=3UxmDQpazRzithZkjHcNISR71_MbyJuofCSauGGObFA",
+    "lat": 0,
+    "lng": 0
   }
 ]
