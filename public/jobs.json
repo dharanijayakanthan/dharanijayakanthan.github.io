@@ -374,6 +374,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4481082668",
+    "title": "TECHNICAL LEAD - Vue.JS",
+    "company": "Happiest Minds Technologies",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-25",
+    "link": "https://in.linkedin.com/jobs/view/technical-lead-vue-js-at-happiest-minds-technologies-4481082668?position=10&pageNum=37&refId=d5DUsXWCphIehriD2I9eng%3D%3D&trackingId=y6HVKPLDc%2FAaALfzXpiAhw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQHrStoH8fGuxw/company-logo_100_100/B56ZwiMfPGHcAQ-/0/1770100227699/happiest_minds_technologies_logo?e=2147483647&v=beta&t=-auObn_ZxRe-m2VVRutsYcb0xcVM2r8vqzrPLt78JV0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4482625733",
     "title": "Senior Full Stack Developer - Digital Media Company",
     "company": "Katapult",
@@ -187148,5 +187159,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQEC1hpWvKTsQg/company-logo_100_100/B56ZWDxlnNGQAQ-/0/1741672569705/indiumsoftware_logo?e=2147483647&v=beta&t=3td21skrwxuB1sqp75YsFoJlh7sgP8dcXHGKZVfAeUo",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4484754021",
+    "title": "Senior Frontend Engineer ID93613",
+    "company": "AgileEngine",
+    "location": "Bangalore North Rural, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-id93613-at-agileengine-4484754021?position=2&pageNum=0&refId=zSOGG2yOKa9ST8sHz5G7hA%3D%3D&trackingId=DYKRJ%2F72dMVBN7DumlkOkg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEV7XPrwqjYLg/company-logo_100_100/company-logo_100_100/0/1693840967446/agileengine_logo?e=2147483647&v=beta&t=0Xv_TEiqU0JPoq9Y_i_McYtdd28R60GXiofRm9KTzlo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4484722105",
+    "title": "Sr Software Engineer (Angular)",
+    "company": "Notified",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/sr-software-engineer-angular-at-notified-4484722105?position=1&pageNum=7&refId=UEYQtbDS%2FfKW%2FM%2BK%2B6VjWQ%3D%3D&trackingId=TOsMFE%2FoA%2FjPfh%2Fk2B2%2BpQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv_1sIYf5G5g/company-logo_100_100/company-logo_100_100/0/1719256851211/notified_logo?e=2147483647&v=beta&t=WiZUrFnTsyOM9LyppupkcBTk8lXdoVfPUG2fVMweVSk",
+    "lat": 0,
+    "lng": 0
   }
 ]
