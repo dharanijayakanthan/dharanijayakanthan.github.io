@@ -11,6 +11,17 @@
     "lng": 77.5946
   },
   {
+    "id": "urn:li:jobPosting:4483031697",
+    "title": "Frontend Developer",
+    "company": "JENOPTIK",
+    "location": "Bengaluru, Karnataka, India",
+    "date": "2026-10-29",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-jenoptik-4483031697?position=10&pageNum=2&refId=ZsueLdgxqsHSzqAqCi8epw%3D%3D&trackingId=lb%2BeAQlhnBqXz%2FHhVciLLQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEoPIsbhrJCFw/company-logo_100_100/company-logo_100_100/0/1630542222477/jenoptik_logo?e=2147483647&v=beta&t=OA3goOz4JZm1dkqNs7Wg9ujVxB1IAERZbAM43B2Swcs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
     "id": "urn:li:jobPosting:4482297803",
     "title": "Project Leader",
     "company": "Axtria - Ingenious Insights",
@@ -119,6 +130,17 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG3eeRIFGMG9g/company-logo_100_100/B4EZdkxlEZH0AU-/0/1749742408362/hewlett_packard_enterprise_logo?e=2147483647&v=beta&t=ijFn20TK1upEkeiP1oWhqe152s87m6307NkiugLc8_E",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4484139190",
+    "title": "Full Stack Engineer",
+    "company": "zenda",
+    "location": "Bangalore Urban, Karnataka, India",
+    "date": "2026-10-28",
+    "link": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-zenda-4484139190?position=9&pageNum=30&refId=HTh%2FAHvlAhm6d2ZH59OETg%3D%3D&trackingId=FA%2F3uUCvEbj%2BIfGvhhR84g%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQEYZuOHeCFhZg/company-logo_100_100/company-logo_100_100/0/1696950029107/zendaapp_logo?e=2147483647&v=beta&t=okh_j-1wI7zTt9tT9VdXT00j8U34DHW0YFxyyJizScg",
+    "lat": 0,
+    "lng": 0
   },
   {
     "id": "urn:li:jobPosting:4484005362",
@@ -187843,5 +187865,55 @@
     "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=2147483647&v=beta&t=OSF8M5LreT0Sf2F-JcNk6XMT0ArCuPfDmRR-knCC4HY",
     "lat": 12.9435244,
     "lng": 77.6986223
+  },
+  {
+    "id": "urn:li:jobPosting:4484851322",
+    "title": "Frontend Developer - AI-Centric | Next.js & Modern Tooling",
+    "company": "HYrEzy Tech Solutions",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-ai-centric-next-js-modern-tooling-at-hyrezy-tech-solutions-4484851322?position=10&pageNum=5&refId=fAjvrxpMipz49OS%2F6dZR4A%3D%3D&trackingId=wmRbjAxWl0ZsMxR2KgqYBA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGSBB7cXutjAQ/company-logo_100_100/company-logo_100_100/0/1738214390481?e=2147483647&v=beta&t=ezpTilBzfrL-PrViHNLbLJsnD_allTYnr25EEBSpkmA",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4483429199",
+    "title": "Lead Frontend Engineer",
+    "company": "Tekion Corp",
+    "location": "Greater Bengaluru Area",
+    "link": "https://in.linkedin.com/jobs/view/lead-frontend-engineer-at-tekion-corp-4483429199?position=10&pageNum=15&refId=Wi0SOR2N%2BMHNxZoKSQzSkg%3D%3D&trackingId=tKb9sS62gTM0pN10RjbWcA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQGB0W6_ixPclA/company-logo_100_100/company-logo_100_100/0/1630590775082/tekion_logo?e=2147483647&v=beta&t=XY66Fu4ks63_SAKL2j0geIX-h7xYaDwCe4sDv3f3Vlc",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4483436580",
+    "title": "DE-NCLC-Contentful Headless CMS senior -GDSN02",
+    "company": "EY",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/de-nclc-contentful-headless-cms-senior-gdsn02-at-ey-4483436580?position=10&pageNum=32&refId=AoOuWKKlGSUoYCnum7Q6WQ%3D%3D&trackingId=QpNGT0lLauvE0w%2BNjhqq%2Bw%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4484858917",
+    "title": "Intern -",
+    "company": "Allstate India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/intern-at-allstate-india-4484858917?position=1&pageNum=37&refId=eiKzpjKFQTKmGH4C8mll4w%3D%3D&trackingId=28xCiahEHqM8z7y5aQExVg%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQFt7caN4REyvQ/company-logo_100_100/company-logo_100_100/0/1630642218519/allstateindia_logo?e=2147483647&v=beta&t=D9ICodu7TbYDD6wyDaY5lN8RLBmK6ZoZDPqyhMv7i-0",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4485320880",
+    "title": "Custom Software Engineer",
+    "company": "Accenture in India",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4485320880?position=9&pageNum=45&refId=AFg2mSrGF9VjI9OSY1ozFA%3D%3D&trackingId=qoezlyZwAaF2m8%2BRPwjxUA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw",
+    "lat": 0,
+    "lng": 0
   }
 ]
