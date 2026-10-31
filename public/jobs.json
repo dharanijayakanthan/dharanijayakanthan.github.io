@@ -188519,5 +188519,15 @@
     "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFhO7AJbDCP8w/company-logo_100_100/B4EaCG6NZ_JQAI-/0/1788969801591/intuit_logo?e=2147483647&v=beta&t=f2CW1_zxrJ97H_Dhr7rp3eOZCv8S87Jtf8N3xyevDY0",
     "lat": 12.9227173,
     "lng": 77.682381
+  },
+  {
+    "id": "urn:li:jobPosting:4485909357",
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-4485909357?position=1&pageNum=27&refId=8C0xrK2aakOBFraZ%2BAfcJg%3D%3D&trackingId=uc4BUJgd839ozM2IT3ImXQ%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY",
+    "lat": 0,
+    "lng": 0
   }
 ]
