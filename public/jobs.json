@@ -188571,5 +188571,25 @@
     "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGnHQO5Kfn4iA/company-logo_100_100/company-logo_100_100/0/1631343581143?e=2147483647&v=beta&t=kSsYzydGMPTmv_bKjraJDGXAkyl2u0ZIKVh9yJVRUJo",
     "lat": 12.9716,
     "lng": 77.5946
+  },
+  {
+    "id": "urn:li:jobPosting:4484305609",
+    "title": "Frontend Developer",
+    "company": "TalentRabbit",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/frontend-developer-at-talentrabbit-4484305609?position=6&pageNum=2&refId=QWPJVeoBYO4e3E4rqRj%2B7Q%3D%3D&trackingId=YHwuA02l%2F7rF0JnBbmugCA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFWwP6RKr_XuQ/company-logo_100_100/B4DaEw29.MKcAI-/0/1791821078659/talentrabbit_logo?e=2147483647&v=beta&t=ngGz7zS8JqjmSdC2LTeeVuwd08TAequ0SD0cIvPnlGk",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "urn:li:jobPosting:4485427786",
+    "title": "React Developer",
+    "company": "Antal International",
+    "location": "Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/react-developer-at-antal-international-4485427786?position=8&pageNum=7&refId=1iX9eTgDM26B%2FR6rcODByg%3D%3D&trackingId=ljKxV8kuL%2FzLcaUs2SA%2BgA%3D%3D",
+    "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHhwGkJoW6mEw/company-logo_100_100/company-logo_100_100/0/1666775032739/antal_international_logo?e=2147483647&v=beta&t=_SCO8O3DXj9RRhU6BHC-lu5KhQd9N5Fj4YH9mr0t-0M",
+    "lat": 0,
+    "lng": 0
   }
 ]
